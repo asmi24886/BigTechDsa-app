@@ -1,0 +1,3184 @@
+{
+  "Two Pointers": {
+    "General": [
+      {
+        "name": "Valid Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "3Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove nth Node from End of List",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort Colors",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Words in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Word Abbreviation",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-word-abbreviation/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Palindrome II",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lowest Common Ancestor of a Binary Tree III",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Strobogrammatic Number",
+        "leetcodeUrl": "https://leetcode.com/problems/strobogrammatic-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Moves to Make Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Palindrome Using Same Digits",
+        "leetcodeUrl": "https://leetcode.com/problems/next-palindrome-using-same-digits/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Subarrays With Fixed Bounds",
+        "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Lexicographically Largest String From Box II",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Get the Maximum Score",
+        "leetcodeUrl": "https://leetcode.com/problems/get-the-maximum-score/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Create Maximum Number",
+        "leetcodeUrl": "https://leetcode.com/problems/create-maximum-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Append Characters to String to Make Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Squares of a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse String",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Intersection of Two Linked Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition Labels",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Element",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "String Compression",
+        "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate Array",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Duplicates from Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Fast and Slow Pointers": {
+    "General": [
+      {
+        "name": "Happy Number",
+        "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Linked List Cycle",
+        "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Middle of the Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Circular Array Loop",
+        "leetcodeUrl": "https://leetcode.com/problems/circular-array-loop/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find The Duplicate Number",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Linked List Cycle III",
+        "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Linked List Cycle IV",
+        "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Twin Sum of a Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Split a Circular Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/split-a-circular-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Sliding Window": {
+    "General": [
+      {
+        "name": "Repeated DNA Sequences",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sliding Window Maximum",
+        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Window Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-window-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Repeating Character Replacement",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Window Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Substring without Repeating Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Size Subarray Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fruit Into Baskets",
+        "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frequency of the Most Frequent Element",
+        "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Average Subarray I",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Diet Plan Performance",
+        "leetcodeUrl": "https://leetcode.com/problems/diet-plan-performance/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subarrays with K Different Integers",
+        "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Subarrays With Score Less Than K",
+        "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Substrings With K-Frequency Characters II",
+        "leetcodeUrl": "https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Substring with Concatenation of All Words",
+        "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Subarrays With Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Permutation in String",
+        "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Intervals": {
+    "General": [
+      {
+        "name": "Merge Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert Interval",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Interval List Intersections",
+        "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Employee Free Time",
+        "leetcodeUrl": "https://leetcode.com/problems/employee-free-time/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Task Scheduler",
+        "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Rooms II",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Covered Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Days Without Meetings",
+        "leetcodeUrl": "https://leetcode.com/problems/count-days-without-meetings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Car Pooling",
+        "leetcodeUrl": "https://leetcode.com/problems/car-pooling/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Data Stream as Disjoint Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Interval to Include Each Query",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "In-Place Manipulation of a Linked List": {
+    "General": [
+      {
+        "name": "Reverse Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Nodes in k-Group",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Linked List II",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reorder List",
+        "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Swapping Nodes in a Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Nodes In Even Length Groups",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Swap Nodes in Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Split Linked List in Parts",
+        "leetcodeUrl": "https://leetcode.com/problems/split-linked-list-in-parts/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Linked List Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete N Nodes After M Nodes of a Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Duplicates from Sorted List",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert into a Sorted Circular Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Odd Even Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate List",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Two Heaps": {
+    "General": [
+      {
+        "name": "Maximize Capital",
+        "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Median from a Data Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sliding Window Median",
+        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-median/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Schedule Tasks on Minimum Machines",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Rooms III",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-iii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Connect Sticks",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Happy String",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-happy-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Average Pass Ratio",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-average-pass-ratio/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "The Number of the Smallest Unoccupied Chair",
+        "leetcodeUrl": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Number After Digit Swaps by Parity",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Right Interval",
+        "leetcodeUrl": "https://leetcode.com/problems/find-right-interval/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Construct Target Array with Multiple Sums",
+        "leetcodeUrl": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "K-way Merge": {
+    "General": [
+      {
+        "name": "Merge Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest Number in M Sorted Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K Pairs with Smallest Sums",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge K Sorted Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest Element in a Sorted Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "K-th Smallest Prime Fraction",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-prime-fraction/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Super Ugly Number",
+        "leetcodeUrl": "https://leetcode.com/problems/super-ugly-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Top K Elements": {
+    "General": [
+      {
+        "name": "Kth Largest Element in a Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reorganize String",
+        "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "K Closest Points to Origin",
+        "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Top K Frequent Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Largest Element in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximal Score After Applying K Operations",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-score-after-applying-k-operations/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Kth Largest Integer in the Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Third Maximum Number",
+        "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Subsequence of Length K with the Largest Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Hire K Workers",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Smallest Range Covering Elements from K Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Performance of a Team",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-performance-of-a-team/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "K Maximum Sum Combinations From Two Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/k-maximum-sum-combinations-from-two-arrays/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "K Empty Slots",
+        "leetcodeUrl": "https://leetcode.com/problems/k-empty-slots/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the K-Sum of an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-k-sum-of-an-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Product After K Increments",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-product-after-k-increments/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Least Number of Unique Integers after K Removals",
+        "leetcodeUrl": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Final Array State After K Multiplication Operations I",
+        "leetcodeUrl": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Modified Binary Search": {
+    "General": [
+      {
+        "name": "Binary Search",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in Rotated Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First Bad Version",
+        "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K Closest Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Element in a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Split Array Largest Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "The K Weakest Rows in a Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Value at a Given Index in a Bounded Array",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in Rotated Sorted Array II",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Pairs Whose Sum is Less than Target",
+        "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Minimum in Rotated Sorted Array II",
+        "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Running Time of N Computers",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-running-time-of-n-computers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimize Max Distance to Gas Station",
+        "leetcodeUrl": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Divide Chocolate",
+        "leetcodeUrl": "https://leetcode.com/problems/divide-chocolate/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Split Array Into Two Arrays to Minimize Sum Difference",
+        "leetcodeUrl": "https://leetcode.com/problems/split-array-into-two-arrays-to-minimize-sum-difference/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Flowers in Full Bloom",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-flowers-in-full-bloom/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Koko Eating Bananas",
+        "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search Insert Position",
+        "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Peak Element",
+        "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find First and Last Position of Element in Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Subsets": {
+    "General": [
+      {
+        "name": "Subsets",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Permutations",
+        "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Letter Combinations of a Phone Number",
+        "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Generate Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K-Sum Subsets",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Letter Case Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/letter-case-permutation/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Letter Tile Possibilities",
+        "leetcodeUrl": "https://leetcode.com/problems/letter-tile-possibilities/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subsets II",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Greedy Techniques": {
+    "General": [
+      {
+        "name": "Jump Game I",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Boats to Save People",
+        "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Gas Stations",
+        "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two City Scheduling",
+        "leetcodeUrl": "https://leetcode.com/problems/two-city-scheduling/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Refueling Stops",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Palindromic Number",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-palindromic-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jump Game II",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Steps to Reduce a Binary Number to One",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-binary-number-to-one/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rearranging Fruits",
+        "leetcodeUrl": "https://leetcode.com/problems/rearranging-fruits/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Swap",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-swap/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Can Place Flowers",
+        "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Odd Number in String",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Assign Cookies",
+        "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Candy",
+        "leetcodeUrl": "https://leetcode.com/problems/candy/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Replacements to Sort the Array",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Text Justification",
+        "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock II",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Wildcard Matching",
+        "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove K Digits",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Number",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Backtracking": {
+    "General": [
+      {
+        "name": "N-Queens II",
+        "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Search",
+        "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Robber III",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Restore IP Addresses",
+        "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flood Fill",
+        "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Moves to Spread Stones Over Grid",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sudoku Solver",
+        "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Matchsticks to Square",
+        "leetcodeUrl": "https://leetcode.com/problems/matchsticks-to-square/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Watch",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Optimal Account Balancing",
+        "leetcodeUrl": "https://leetcode.com/problems/optimal-account-balancing/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Split a String Into the Max Number of Unique Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "All Paths From Source to Target",
+        "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Invalid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique Paths III",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths-iii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "N-Queens",
+        "leetcodeUrl": "https://leetcode.com/problems/n-queens-B657KNjDpLJ/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combinations",
+        "leetcodeUrl": "https://leetcode.com/problems/combinations/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Ladder II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-ladder-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Dynamic Programming": {
+    "General": [
+      {
+        "name": "0/1 Knapsack",
+        "leetcodeUrl": "https://leetcode.com/problems/0-1-knapsack/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Coin Change",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "N-th Tribonacci Number",
+        "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition Equal Subset Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Counting Bits",
+        "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "01 Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Robber II",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Product Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combination Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Break",
+        "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindromic Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Common Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Break II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-break-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Decode Ways",
+        "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count the Number of Good Subsequences",
+        "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-good-subsequences/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Climbing Stairs",
+        "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Cameras",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Ways to Form a Target String Given a Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-form-target-string-given-a-dictionary/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pascal’s Triangle",
+        "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Triangle",
+        "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frog Jump",
+        "leetcodeUrl": "https://leetcode.com/problems/frog-jump/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Cherry Pickup",
+        "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Regular Expression Matching",
+        "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Dungeon Game",
+        "leetcodeUrl": "https://leetcode.com/problems/dungeon-game/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Burst Balloons",
+        "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Common Supersequence",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Interleaving String",
+        "leetcodeUrl": "https://leetcode.com/problems/interleaving-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximal Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Increasing Path in a Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Min Cost Climbing Stairs",
+        "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Longest Increasing Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Distinct Subsequences",
+        "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Cheapest Flights Within K Stops",
+        "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock III",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximal Square",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-square/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "The Number of Good Subsets",
+        "leetcodeUrl": "https://leetcode.com/problems/the-number-of-good-subsets/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Cyclic Sort": {
+    "General": [
+      {
+        "name": "Missing Number",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First Missing Positive",
+        "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Corrupt Pair",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-corrupt-pair/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the First K Missing Positive Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-first-k-missing-positive-numbers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort Array By Parity II",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Cyclic Sort",
+        "leetcodeUrl": "https://leetcode.com/problems/cyclic-sort/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Topological Sort": {
+    "General": [
+      {
+        "name": "Compilation Order",
+        "leetcodeUrl": "https://leetcode.com/problems/compilation-order/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Alien Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/alien-dictionary/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Verifying an Alien Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Course Schedule II",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Course Schedule",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Possible Recipes from Given Supplies",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Build a Matrix with Conditions",
+        "leetcodeUrl": "https://leetcode.com/problems/build-a-matrix-with-conditions/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Path With Different Adjacent Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Parallel Courses III",
+        "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-iii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Parallel Courses",
+        "leetcodeUrl": "https://leetcode.com/problems/parallel-courses/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort Items by Groups Respecting Dependencies",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Sort and Search": {
+    "General": [
+      {
+        "name": "Sum of Mutated Array Closest to Target",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Contains Duplicate II",
+        "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K-th Smallest Pair Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Number of Integers to Choose from a Range I",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Distance Value Between Two Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Target Indices After Sorting Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Russian Doll Envelopes",
+        "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Operations to Make All Array Elements Equal",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Subsequence With Limited Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Range Sum of Sorted Subarray Sums",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Magnetic Force Between Two Balls",
+        "leetcodeUrl": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Space Wasted from Packaging",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-space-wasted-from-packaging/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum Less Than K",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-less-than-k/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Triangle Number",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Pairs in Two Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/count-pairs-in-two-arrays/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Put Marbles in Bags",
+        "leetcodeUrl": "https://leetcode.com/problems/put-marbles-in-bags/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "H-Index",
+        "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Matrices": {
+    "General": [
+      {
+        "name": "Set Matrix Zeros",
+        "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate Image",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Spiral Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Where Will the Ball Fall",
+        "leetcodeUrl": "https://leetcode.com/problems/where-will-the-ball-fall/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Island Perimeter",
+        "leetcodeUrl": "https://leetcode.com/problems/island-perimeter/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Convert 1D Array Into 2D Array",
+        "leetcodeUrl": "https://leetcode.com/problems/convert-1d-array-into-2d-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Spiral Matrix II",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flip Columns For Maximum Number of Equal Rows",
+        "leetcodeUrl": "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Spaces Cleaning Robot Cleaned",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Transpose Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Negative Numbers in a Sorted Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Time Takes to Reach Destination Without Drowning",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Smallest Rectangle Enclosing Black Pixels",
+        "leetcodeUrl": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimize Maximum Value in a Grid",
+        "leetcodeUrl": "https://leetcode.com/problems/minimize-maximum-value-in-a-grid/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest Number in Multiplication Table",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Swim in Rising Water",
+        "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Meeting Point",
+        "leetcodeUrl": "https://leetcode.com/problems/best-meeting-point/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Game of Life",
+        "leetcodeUrl": "https://leetcode.com/problems/game-of-life/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Stacks": {
+    "General": [
+      {
+        "name": "Basic Calculator",
+        "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove All Adjacent Duplicates In String",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Remove to Make Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Exclusive Time of Functions",
+        "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flatten Nested List Iterator",
+        "leetcodeUrl": "https://leetcode.com/problems/flatten-nested-list-iterator/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Queue Using Stacks",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Decode String",
+        "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Daily Temperatures",
+        "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum String Length After Removing Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Valid Subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-valid-subarrays/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Visible People in a Queue",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Parsing A Boolean Expression",
+        "leetcodeUrl": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Duplicate Letters",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Element IV",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-iv/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Graphs": {
+    "General": [
+      {
+        "name": "Network Delay Time",
+        "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Paths in Maze That Lead to Same Room",
+        "leetcodeUrl": "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Clone Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/clone-graph/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Graph Valid Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/graph-valid-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bus Routes",
+        "leetcodeUrl": "https://leetcode.com/problems/bus-routes/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reconstruct Itinerary",
+        "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lucky Numbers in a Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/lucky-numbers-in-a-matrix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Path with Maximum Probability",
+        "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-probability/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "leetcodeUrl": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Tree Diameter",
+        "leetcodeUrl": "https://leetcode.com/problems/tree-diameter/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Town Judge",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Center of Star Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/find-center-of-star-graph/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Cycle in a Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-cycle-in-a-graph/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Cycle in a Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-cycle-in-a-graph/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Path Visiting All Nodes",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Area of Island",
+        "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Tree Depth-First Search": {
+    "General": [
+      {
+        "name": "Flatten Binary Tree to Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Diameter of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Serialize and Deserialize Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Invert Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Maximum Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Convert Sorted Array to Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Build Binary Tree from Preorder and Inorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/build-binary-tree-from-preorder-and-inorder-traversal/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Right Side View",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lowest Common Ancestor of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Validate Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Nested List Weight Sum II",
+        "leetcodeUrl": "https://leetcode.com/problems/nested-list-weight-sum-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Inorder Successor in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Height of Binary Tree After Subtree Removal Queries",
+        "leetcodeUrl": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Depth of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest Element in a BST",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete Nodes And Return Forest",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-and-return-forest/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Distances in a Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances-in-a-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Recover a Tree From Preorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Preorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Tree Breadth-First Search": {
+    "General": [
+      {
+        "name": "Level Order Traversal of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Zigzag Level Order Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Populating Next Right Pointers in Each Node",
+        "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Vertical Order Traversal of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Symmetric Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Ladder",
+        "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Connect All Siblings of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/connect-all-siblings-of-a-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum IV - Input is a BST",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Minimum Diameter After Merging Two Trees",
+        "leetcodeUrl": "https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Closest Node to Path in Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/closest-node-to-path-in-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frog Position After T Seconds",
+        "leetcodeUrl": "https://leetcode.com/problems/frog-position-after-t-seconds/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Average of Levels in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Open the Lock",
+        "leetcodeUrl": "https://leetcode.com/problems/open-the-lock/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Trie": {
+    "General": [
+      {
+        "name": "Implement Trie",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search Suggestions System",
+        "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Replace Words",
+        "leetcodeUrl": "https://leetcode.com/problems/replace-words/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Add and Search Words Data Structure",
+        "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Search II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Top K Frequent Words",
+        "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lexicographical Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/lexicographical-numbers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Common Prefix",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Index Pairs of a String",
+        "leetcodeUrl": "https://leetcode.com/problems/index-pairs-of-a-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "K-th Smallest in Lexicographical Order",
+        "leetcodeUrl": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-pairs/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Common Suffix Queries",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Map Sum Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/map-sum-pairs/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check If a Word is a Prefix of Any Word in a Sentence",
+        "leetcodeUrl": "https://leetcode.com/problems/check-if-a-word-is-a-prefix-of-any-word-in-a-sentence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Word With All Prefixes",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-word-with-all-prefixes/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Hash Maps": {
+    "General": [
+      {
+        "name": "Design HashMap",
+        "leetcodeUrl": "https://leetcode.com/problems/design-hashmap/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fraction to Recurring Decimal",
+        "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Logger Rate Limiter",
+        "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Element I",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Isomorphic Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Duplicate File in System",
+        "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-file-in-system/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Continuous Subarray Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique Number of Occurrences",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "High Five",
+        "leetcodeUrl": "https://leetcode.com/problems/high-five/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bulls and Cows",
+        "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Wonderful Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-wonderful-substrings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Distinct Islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Custom Sort String",
+        "leetcodeUrl": "https://leetcode.com/problems/custom-sort-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Total Appeal of a String",
+        "leetcodeUrl": "https://leetcode.com/problems/total-appeal-of-a-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Dot Product of Two Sparse Vectors",
+        "leetcodeUrl": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Happy Prefix",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-happy-prefix/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Longest Self-Contained Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/find-longest-self-contained-substring/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Intersection of Two Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Pattern",
+        "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Sudoku",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Roman to Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Contiguous Array",
+        "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jewels and Stones",
+        "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Knowing What to Track": {
+    "General": [
+      {
+        "name": "Palindrome Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-permutation/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Anagram",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Tic-Tac-Toe",
+        "leetcodeUrl": "https://leetcode.com/problems/design-tic-tac-toe/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Group Anagrams",
+        "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Frequency Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-stack/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First Unique Character in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Anagrams in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Palindrome by Concatenating Two-Letter Words",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Ransom Note",
+        "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Pushes to Type Word II",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rank Teams by Votes",
+        "leetcodeUrl": "https://leetcode.com/problems/rank-teams-by-votes/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pairs of Songs With Total Durations Divisible by 60",
+        "leetcodeUrl": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Anagrams",
+        "leetcodeUrl": "https://leetcode.com/problems/count-anagrams/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Divide Array Into Increasing Sequences",
+        "leetcodeUrl": "https://leetcode.com/problems/divide-array-into-increasing-sequences/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Consecutive Ones",
+        "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count and Say",
+        "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Union Find": {
+    "General": [
+      {
+        "name": "Redundant Connection",
+        "leetcodeUrl": "https://leetcode.com/problems/redundant-connection/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Most Stones Removed with Same Row or Column",
+        "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Consecutive Sequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Last Day Where You Can Still Cross",
+        "leetcodeUrl": "https://leetcode.com/problems/last-day-where-you-can-still-cross/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Regions Cut by Slashes",
+        "leetcodeUrl": "https://leetcode.com/problems/regions-cut-by-slashes/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Accounts Merge",
+        "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimize Malware Spread",
+        "leetcodeUrl": "https://leetcode.com/problems/minimize-malware-spread/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Evaluate Division",
+        "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find if Path Exists in Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "The Skyline Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Similar String Groups",
+        "leetcodeUrl": "https://leetcode.com/problems/similar-string-groups/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Optimize Water Distribution in a Village",
+        "leetcodeUrl": "https://leetcode.com/problems/optimize-water-distribution-in-a-village/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Islands II",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Custom Data Structures": {
+    "General": [
+      {
+        "name": "Snapshot Array",
+        "leetcodeUrl": "https://leetcode.com/problems/snapshot-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Time-Based Key-Value Store",
+        "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement LRU Cache",
+        "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert Delete GetRandom O(1)",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Min Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Range Module",
+        "leetcodeUrl": "https://leetcode.com/problems/range-module/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Word Distance II",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "LFU Cache",
+        "leetcodeUrl": "https://leetcode.com/problems/lfu-cache/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Moving Average from Data Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/moving-average-from-data-stream/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum III - Data structure design",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-iii-data-structure-design/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Range Sum Query - Immutable",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design HashSet",
+        "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/max-stack/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Stream of Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/stream-of-characters/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "All O`one Data Structures",
+        "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Finding MK Average",
+        "leetcodeUrl": "https://leetcode.com/problems/finding-mk-average/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Bitwise Manipulation": {
+    "General": [
+      {
+        "name": "Find the Difference",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Complement of Base 10 Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flipping an Image",
+        "leetcodeUrl": "https://leetcode.com/problems/flipping-an-image/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Number",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Number II",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Encode and Decode Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/encode-and-decode-strings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Bits",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Longest Substring Having Vowels in Even Counts",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-longest-substring-having-vowels-in-even-counts/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Subarray With Maximum Bitwise AND",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Triplets That Can Form Two Arrays of Equal XOR",
+        "leetcodeUrl": "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of All Subset XOR Totals",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find The K-th Lucky Number",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-k-th-lucky-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of K Consecutive Bit Flips",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum One Bit Operations to Make Integers Zero",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Triples with Bitwise AND Equal To Zero",
+        "leetcodeUrl": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Power of Two",
+        "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Math and Geometry": {
+    "General": [
+      {
+        "name": "Minimum Area Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-area-rectangle/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Area Rectangle With Point Constraints I",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Lines to Cover Points",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimize Manhattan Distances",
+        "leetcodeUrl": "https://leetcode.com/problems/minimize-manhattan-distances/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Convex Polygon",
+        "leetcodeUrl": "https://leetcode.com/problems/convex-polygon/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check If It Is a Straight Line",
+        "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cuts to Divide a Circle",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Square",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-square/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rectangle Overlap",
+        "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Time Visiting All Points",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rectangle Area",
+        "leetcodeUrl": "https://leetcode.com/problems/rectangle-area/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Queries on Number of Points Inside a Circle",
+        "leetcodeUrl": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Points on a Line",
+        "leetcodeUrl": "https://leetcode.com/problems/max-points-on-a-line/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Number of Visible Points",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-visible-points/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Detonate the Maximum Bombs",
+        "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Self Crossing",
+        "leetcodeUrl": "https://leetcode.com/problems/self-crossing/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Erect the Fence",
+        "leetcodeUrl": "https://leetcode.com/problems/erect-the-fence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Nth Magical Number",
+        "leetcodeUrl": "https://leetcode.com/problems/nth-magical-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Perfect Squares",
+        "leetcodeUrl": "https://leetcode.com/problems/perfect-squares/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome Number",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fibonacci Number",
+        "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Integer to English Words",
+        "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Two Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Plus One",
+        "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Challenge Yourself": {
+    "General": [
+      {
+        "name": "Challenge Yourself: Introduction",
+        "leetcodeUrl": "https://leetcode.com/problems/challenge-yourself-introduction/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Bridge",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-bridge/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Connected Components in an Undirected Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Median of Two Sorted Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pacific Atlantic Water Flow",
+        "leetcodeUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Contains Duplicate",
+        "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Minimum in Rotated Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Non-overlapping Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Rooms",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Rectangle in Histogram",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subtree of Another Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort List",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of 1 Bits",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Container with Most Water",
+        "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Evaluate Reverse Polish Notation",
+        "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "4Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Loud and Rich",
+        "leetcodeUrl": "https://leetcode.com/problems/loud-and-rich/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Product of Array Except Self",
+        "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Increasing Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Two Integers",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Majority Element",
+        "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Palindromic Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Permutations II",
+        "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Provinces",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Linked List Cycle II",
+        "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Flips to Make the Binary String Alternate",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-flips-to-make-the-binary-string-alternate/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lemonade Change",
+        "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Robber",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Numbers Disappeared in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Duplicates in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Same Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design In-Memory File System",
+        "leetcodeUrl": "https://leetcode.com/problems/design-in-memory-file-system/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design File System",
+        "leetcodeUrl": "https://leetcode.com/problems/design-file-system/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Asteroid Collision",
+        "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotting Oranges",
+        "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Binary",
+        "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Multiply Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lowest Common Ancestor of a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge Two Sorted Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Balanced Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Profit in Job Scheduling",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Height Trees",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-height-trees/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "String to Integer (atoi)",
+        "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Trapping Rain Water",
+        "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+        "source": "https://www.educative.io/courses/grokking-coding-interview",
+        "leetcodeId": ""
+      }
+    ]
+  }
+}

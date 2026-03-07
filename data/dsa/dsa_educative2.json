@@ -1,0 +1,268 @@
+{
+  "0/1 Knapsack": {
+    "General": [
+      {
+        "name": "Target Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subset Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count of Subset Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/count-subsets-with-sum-k/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Refueling Stops",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Equal Sum Subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Square Submatrices",
+        "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Unbounded Knapsack": {
+    "General": [
+      {
+        "name": "Maximum Ribbon Cut",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rod Cutting",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Coin Change",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Coin Change II",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Recursive Numbers": {
+    "General": [
+      {
+        "name": "Fibonacci Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Staircase Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number Factors",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Ways to Score in a Game",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique Paths to Goal",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Nth Tribonacci Number",
+        "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "The Catalan Numbers",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Thief Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Jumps to Reach the End",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Jumps With Fee",
+        "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Matrix Chain Multiplication",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Longest Common Substring": {
+    "General": [
+      {
+        "name": "Longest Common Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Common Supersequence",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Deletions and Insertions",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Edit Distance Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Repeating Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Distinct Subsequence Pattern Matching",
+        "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Interleaving Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/interleaving-string/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Break II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-break-ii/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Increasing Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Deletions to Make a Sequence Sorted",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Sum Increasing Subsequence",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Bitonic Subsequence",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Alternating Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-turbulent-subarray/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Building Bridges",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Palindromic Subsequence": {
+    "General": [
+      {
+        "name": "Longest Palindromic Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Deletions in a String to make it a Palindrome",
+        "leetcodeUrl": "",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Palindromic Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count of Palindromic Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindromic Partitioning",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+        "source": "https://www.educative.io/courses/grokking-dynamic-programming-interview",
+        "leetcodeId": ""
+      }
+    ]
+  }
+}

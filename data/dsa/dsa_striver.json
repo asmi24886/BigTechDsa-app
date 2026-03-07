@@ -1,0 +1,2672 @@
+{
+  "Learn Important Sorting Techniques": {
+    "Sorting-I": [
+      {
+        "name": "Selection Sort",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bubble Sort",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insertion Sorting",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Sorting-II": [
+      {
+        "name": "Merge Sorting",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Recursive Bubble Sort",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Recursive Insertion Sort",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Quick Sorting",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Solve Problems on Arrays [Easy -> Medium -> Hard]": {
+    "Easy": [
+      {
+        "name": "Largest Element",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Second Largest Element",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if the Array is Sorted II",
+        "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove duplicates from Sorted array",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Left Rotate Array by One",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Left Rotate Array by K Places",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Move Zeros to End",
+        "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Linear Search",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Union of two sorted arrays",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find missing number",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Consecutive Ones",
+        "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the number that appears once, and other numbers twice.",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest subarray with given sum K(positives)",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-sum-k/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest subarray with sum K",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-sum-k/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Medium": [
+      {
+        "name": "Two Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort an array of 0's 1's and 2's",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Majority Element-I",
+        "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kadane's Algorithm, maximum subarray sum",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Print subarray with maximum subarray sum (extended version of above problem)",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Stock Buy and Sell",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rearrange array elements by sign",
+        "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Leaders in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/leaders-in-an-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Consecutive Sequence in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Set Matrix Zeroes",
+        "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate matrix by 90 degrees",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Print the matrix in spiral manner",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count subarrays with given sum",
+        "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Hard": [
+      {
+        "name": "Pascal's Triangle I",
+        "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Majority Element-II",
+        "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "3 Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "4 Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Subarray with Sum 0",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-subarray-with-0-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count subarrays with given xor K",
+        "leetcodeUrl": "https://leetcode.com/problems/count-number-of-subarrays-with-given-xor-k/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge Overlapping Subintervals",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge two sorted arrays without extra space",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the repeating and missing number",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-repeating-and-missing-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Inversions",
+        "leetcodeUrl": "https://leetcode.com/problems/count-inversions/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Product Subarray in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Binary Search [1D, 2D Arrays, Search Space]": {
+    "BS on 1D Arrays": [
+      {
+        "name": "Search X in sorted array",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lower Bound",
+        "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Upper Bound",
+        "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search insert position",
+        "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Floor and Ceil in Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First and last occurrence",
+        "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Occurrences in a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in rotated sorted array-I",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in rotated sorted array-II",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find minimum in Rotated Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find out how many times the array is rotated",
+        "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single element in a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find peak element",
+        "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "BS on Answers": [
+      {
+        "name": "Find square root of a number",
+        "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Nth root of a number",
+        "leetcodeUrl": "https://leetcode.com/problems/nth-root-of-a-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Koko eating bananas",
+        "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum days to make M bouquets",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the smallest divisor",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Capacity to Ship Packages Within D Days",
+        "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Missing Positive Number",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Aggressive Cows",
+        "leetcodeUrl": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Book Allocation Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Split array - largest sum",
+        "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Painter's Partition",
+        "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimize Max Distance to Gas Station",
+        "leetcodeUrl": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Median of 2 sorted arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth element of 2 sorted arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-element-of-two-sorted-arrays/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "BS on 2D Arrays": [
+      {
+        "name": "Find row with maximum 1's",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-row-with-maximum-number-of-1s/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in a 2D matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in 2D matrix - II",
+        "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Peak Element - II",
+        "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Matrix Median",
+        "leetcodeUrl": "https://leetcode.com/problems/matrix-median/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Strings [Basic and Medium]": {
+    "Basic and Easy String Problems": [
+      {
+        "name": "Remove Outermost Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse words in a given string / Palindrome Check",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Odd Number in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Common Prefix",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Isomorphic String",
+        "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate String",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if two strings are anagram of each other",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Medium String Problems": [
+      {
+        "name": "Sort Characters by Frequency",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Nesting Depth of the Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Roman to Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "String to Integer (atoi)",
+        "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Number of Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/count-number-of-substrings/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Palindromic Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Beauty of All Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse every word in a string",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]": {
+    "Learn 1D LinkedList": [
+      {
+        "name": "Introduction to Singly LinkedList",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insertion at the head of Linked List",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Deletion of the head of LL",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the length of the Linked List",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in Linked List",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Learn Doubly LinkedList": [
+      {
+        "name": "Introduction to Doubly LL",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert node before head in Doubly Linked List",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete head of Doubly Linked List",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse a Doubly Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Medium Problems of LL": [
+      {
+        "name": "Middle of a LinkedList [TortoiseHare Method]",
+        "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse a LinkedList [Iterative]",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse a LL",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Detect a loop in LL",
+        "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the starting point in LL",
+        "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Length of loop in LL",
+        "leetcodeUrl": "https://leetcode.com/problems/length-of-loop/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if LL is palindrome or not",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Segregate odd and even nodes in Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Nth node from the back of the LL",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete the middle node in LL",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort LL",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort a Linked List of 0's 1's and 2's",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-ll-of-0s-1s-and-2s/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the intersection point of Y LL",
+        "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add one to a number represented by LL",
+        "leetcodeUrl": "https://leetcode.com/problems/plus-one-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add two numbers in Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Medium Problems of DLL": [
+      {
+        "name": "Delete all occurrences of a key in DLL",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Pairs with Given Sum in Doubly Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/find-pairs-with-given-sum-in-dll/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove duplicated from sorted DLL",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-dll/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Hard Problems of LL": [
+      {
+        "name": "Reverse LL in group of given size K",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate a LL",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flattening of LL",
+        "leetcodeUrl": "https://leetcode.com/problems/flatten-a-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Clone a LL with random and next pointer",
+        "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Recursion [PatternWise]": {
+    "Get a Strong Hold": [
+      {
+        "name": "Recursive Implementation of atoi()",
+        "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pow(x, n)",
+        "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Good Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort a stack using recursion",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-a-stack-using-recursion/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse a Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-a-stack/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Subsequences Pattern": [
+      {
+        "name": "Generate Binary Strings Without Consecutive 1s",
+        "leetcodeUrl": "https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Generate Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Power Set",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Learn All Patterns of Subsequences (Theory)",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count all subsequences with sum K",
+        "leetcodeUrl": "https://leetcode.com/problems/count-subsets-with-sum-k/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if there exists a subsequence with sum K",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combination Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combination Sum II",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subsets I",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subsets II",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combination Sum III",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Letter Combinations of a Phone Number",
+        "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome partitioning",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Search",
+        "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "N Queen",
+        "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rat in a Maze",
+        "leetcodeUrl": "https://leetcode.com/problems/rat-in-a-maze/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Break",
+        "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "M Coloring Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/m-coloring-problem/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sudoku Solver",
+        "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Expression Add Operators",
+        "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Bit Manipulation [Concepts & Problems]": {
+    "Learn Bit Manipulation": [
+      {
+        "name": "Introduction to Bits and Tricks",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if the i-th bit is Set or Not",
+        "leetcodeUrl": "https://leetcode.com/problems/check-ith-bit/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if a Number is Odd or Not",
+        "leetcodeUrl": "https://leetcode.com/problems/check-number-odd/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if a Number is Power of 2 or Not",
+        "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count the Number of Set Bits",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Set/Unset the rightmost unset bit",
+        "leetcodeUrl": "https://leetcode.com/problems/set-rightmost-unset-bit/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Swap Two Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/swap-two-numbers/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Divide two numbers without multiplication and division",
+        "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Interview Problems": [
+      {
+        "name": "Minimum Bit Flips to Convert Number",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Number - I",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Power Set Bit Manipulation",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "XOR of numbers in a given range",
+        "leetcodeUrl": "https://leetcode.com/problems/xor-of-numbers-in-a-given-range/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Number - III",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Advanced Maths": [
+      {
+        "name": "Print Prime Factors of a Number",
+        "leetcodeUrl": "https://leetcode.com/problems/prime-factors/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Divisors of a Number",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count primes in range L to R",
+        "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Prime factorisation of a Number",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pow(x,n)",
+        "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]": {
+    "Learning": [
+      {
+        "name": "Implement Stack using Arrays",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Queue using Arrays",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Stack using Queue",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Queue using Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement stack using Linkedlist",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement queue using Linkedlist",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Balanced Paranthesis",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Min Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Prefix, Infix, PostFix Conversion Problems": [
+      {
+        "name": "Infix to Postfix Conversion",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Prefix to Infix Conversion",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Prefix to Postfix Conversion",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Postfix to Prefix Conversion",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Postfix to Infix Conversion",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Infix to Prefix Conversion",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Element",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Element - 2",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Smaller Element",
+        "leetcodeUrl": "https://leetcode.com/problems/next-smaller-element/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Greater Elements to the Right",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Trapping Rainwater",
+        "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Subarray Minimums",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Asteroid Collision",
+        "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Subarray Ranges",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove K Digits",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest rectangle in a histogram",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Rectangles",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Implementation Problems": [
+      {
+        "name": "Sliding Window Maximum",
+        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Stock span problem",
+        "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Celebrity Problem",
+        "leetcodeUrl": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "LRU Cache",
+        "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "LFU Cache",
+        "leetcodeUrl": "https://leetcode.com/problems/lfu-cache/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Sliding Window & Two Pointer Combined Problems": {
+    "Medium Problems": [
+      {
+        "name": "Longest Substring Without Repeating Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Consecutive Ones III",
+        "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fruit Into Baskets",
+        "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Repeating Character Replacement",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Subarrays With Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count number of Nice subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Substrings Containing All Three Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Points You Can Obtain from Cards",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Hard Problems": [
+      {
+        "name": "Longest Substring With At Most K Distinct Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subarrays with K Different Integers",
+        "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Window Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Window Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-window-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Heaps [Learning, Medium, Hard Problems]": {
+    "Learning": [
+      {
+        "name": "Heaps (Theory Video)",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Min Heap",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if an array represents a min heap",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Convert Min Heap to Max Heap",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Medium Problems": [
+      {
+        "name": "K-th Largest element in an array",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth smallest element in an array [use priority queue]",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort K sorted array",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-a-k-sorted-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge K sorted Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Replace Elements by Their Rank",
+        "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Task Scheduler",
+        "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Hand of Straights",
+        "leetcodeUrl": "https://leetcode.com/problems/hand-of-straights/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Hard Problems": [
+      {
+        "name": "Design Twitter",
+        "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Connect Sticks",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth largest element in a stream of running integers",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Sum Combination",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Median from Data Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Top K Frequent Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Greedy Algorithms [Easy, Medium/Hard]": {
+    "Easy Problems": [
+      {
+        "name": "Assign Cookies",
+        "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fractional Knapsack",
+        "leetcodeUrl": "https://leetcode.com/problems/fractional-knapsack/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum coins",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lemonade Change",
+        "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Paranthesis Checker",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "N meetings in one room",
+        "leetcodeUrl": "https://leetcode.com/problems/n-meetings-in-one-room/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jump Game - I",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jump Game II",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum number of platforms required for a railway",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-platforms/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Job sequencing Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/job-sequencing-problem/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Candy",
+        "leetcodeUrl": "https://leetcode.com/problems/candy/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Job First",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-job-first/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert Interval",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Non-overlapping Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Binary Trees [Traversals, Medium and Hard Problems]": {
+    "Traversals": [
+      {
+        "name": "Introduction to Trees",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Introduction",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Representation in Java",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pre, Post, Inorder in one traversal",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Preorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Inorder Traversal of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Postorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Level Order Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Iterative Preorder Traversal of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Iterative Inorder Traversal of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Post-order Traversal of Binary Tree using 2 stack",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Post-order Traversal of Binary Tree using 1 stack",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Medium Problems": [
+      {
+        "name": "Maximum Depth in BT",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check for balanced binary tree",
+        "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Diameter of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum path sum",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if two trees are identical or not",
+        "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Zig Zag or Spiral Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Boundary Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/boundary-of-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Vertical Order Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Top View of BT",
+        "leetcodeUrl": "https://leetcode.com/problems/top-view-of-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bottom view of BT",
+        "leetcodeUrl": "https://leetcode.com/problems/bottom-view-of-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Right/Left View of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Symmetric Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Hard Problems": [
+      {
+        "name": "Print root to leaf path in BT",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "LCA in BT",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Width of BT",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Children Sum Property in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/children-sum-property/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Print all nodes at a distance of K in BT",
+        "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum time taken to burn the BT from a given Node",
+        "leetcodeUrl": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count total nodes in a complete BT",
+        "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Requirements needed to construct a unique BT",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Construct a BT from Preorder and Inorder",
+        "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Construct the Binary Tree from Postorder and Inorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Serialize and De-serialize BT",
+        "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Morris Preorder Traversal of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Morris Inorder Traversal of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flatten Binary Tree to Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Binary Search Trees [Concept and Problems]": {
+    "Concepts": [
+      {
+        "name": "Introduction to BST",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Min/Max in BST",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Practice Problems": [
+      {
+        "name": "Floor and Ceil in a BST",
+        "leetcodeUrl": "https://leetcode.com/problems/floor-in-bst/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Floor in a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/floor-in-bst/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert a given node in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete a node in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest and Largest element in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if a tree is a BST or not",
+        "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "LCA in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Construct a BST from a preorder traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Inorder Successor/Predecessor in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge 2 BST's",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum In BST | Check if there exists a pair with Sum K",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Correct BST with two nodes swapped",
+        "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest BST in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Graphs [Concepts & Problems]": {
+    "Learning": [
+      {
+        "name": "Introduction to Graph",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Graph Representation | C++",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Graph Representation | Java",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Connected Components",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Traversal Techniques",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "DFS",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of provinces",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Connected Components Problem in Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotten Oranges",
+        "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flood fill algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Cycle Detection in Undirected Graph (bfs)",
+        "leetcodeUrl": "https://leetcode.com/problems/cycle-detection-undirected/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Detect a cycle in an undirected graph",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Distance of nearest cell having one",
+        "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Surrounded Regions",
+        "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of enclaves",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word ladder I",
+        "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word ladder II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-ladder-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bipartite Graph (DFS)",
+        "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Cycle Detection in Directed Graph (DFS)",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Topo Sort and Problems": [
+      {
+        "name": "Topo Sort",
+        "leetcodeUrl": "https://leetcode.com/problems/topological-sort/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Topological sort or Kahn's algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/topological-sort/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Detect a cycle in a directed graph",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Course Schedule I",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Course Schedule II",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find eventual safe states",
+        "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Alien Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/alien-dictionary/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Shortest Path Algorithms and Problems": [
+      {
+        "name": "Shortest path in undirected graph with unit weights",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-path-undirected/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest path in DAG",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-dag/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Djisktra's Algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/dijkstra-algorithm/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Why priority Queue is used in Djisktra's Algorithm",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Distance in a Binary Maze",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Path with minimum effort",
+        "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Cheapest flight within K stops",
+        "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Network Delay Time",
+        "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of ways to arrive at destination",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum multiplications to reach end",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-multiplications-to-reach-end/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bellman Ford Algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/bellman-ford/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Floyd warshall algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/floyd-warshall/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the city with the smallest number of neighbors",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "MST theory",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Prim's Algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/prims-algorithm/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Disjoint Set",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the MST weight",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of operations to make network connected",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Most stones removed with same row or column",
+        "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Accounts merge",
+        "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of islands II",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Making a large island",
+        "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Swim in Rising Water",
+        "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Other Algorithms": [
+      {
+        "name": "Bridges in graph",
+        "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Articulation point in graph",
+        "leetcodeUrl": "https://leetcode.com/problems/articulation-point/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kosaraju's algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Dynamic Programming [Patterns and Problems]": {
+    "Introduction to DP": [
+      {
+        "name": "Introduction to DP",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "1D DP": [
+      {
+        "name": "Climbing stairs",
+        "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frog Jump",
+        "leetcodeUrl": "https://leetcode.com/problems/frog-jump/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frog jump with K distances",
+        "leetcodeUrl": "https://leetcode.com/problems/frog-jump/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum sum of non adjacent elements",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House robber",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Ninja's training",
+        "leetcodeUrl": "https://leetcode.com/problems/ninjas-training/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Grid Unique Paths : DP on Grids (DP8)",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique paths II",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum path sum in Grid (DP 10)",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Triangle",
+        "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Falling Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Ninja and his Friends",
+        "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "DP on Subsequences": [
+      {
+        "name": "Subset sum equal to target (DP- 14)",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition equal subset sum",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition a set into two subsets with minimum absolute sum difference",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count subsets with sum K",
+        "leetcodeUrl": "https://leetcode.com/problems/count-subsets-with-sum-k/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count partitions with given difference",
+        "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Assign Cookies",
+        "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Coins (DP - 20)",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Target sum",
+        "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Coin Change 2 (DP - 22)",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change-2/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unbounded knapsack",
+        "leetcodeUrl": "https://leetcode.com/problems/unbounded-knapsack/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rod Cutting Problem | (DP - 24)",
+        "leetcodeUrl": "https://leetcode.com/problems/rod-cutting/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "DP on Strings": [
+      {
+        "name": "Longest common subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Print Longest Common Subsequence | (DP - 26)",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest common substring",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest palindromic subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum insertions to make string palindrome | DP-29",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum insertions or deletions to convert string A to B",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest common supersequence",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Distinct subsequences",
+        "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Edit distance",
+        "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Wildcard matching",
+        "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "DP on Stocks": [
+      {
+        "name": "Best time to buy and sell stock",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best time to buy and sell stock II",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best time to buy and sell stock III",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best time to buy and sell stock IV",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock with Cooldown",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best time to buy and sell stock with transaction fees",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "DP on LIS": [
+      {
+        "name": "Longest Increasing Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Print Longest Increasing Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Increasing Subsequence |(DP-43)",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Divisible Subset",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-divisible-subset/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest String Chain",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Bitonic Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-bitonic-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Longest Increasing Subsequences",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "MCM DP | Partition DP": [
+      {
+        "name": "Matrix chain multiplication",
+        "leetcodeUrl": "https://leetcode.com/problems/matrix-chain-multiplication/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+        "leetcodeUrl": "https://leetcode.com/problems/matrix-chain-multiplication/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum cost to cut the stick",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Burst balloons",
+        "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Different Ways to Evaluate a Boolean Expression",
+        "leetcodeUrl": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome partitioning II",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition Array for Maximum Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "DP on Squares": [
+      {
+        "name": "Maximum Rectangle Area with all 1's|(DP-55)",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Square Submatrices with All Ones|(DP-56)",
+        "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Tries": {
+    "Theory": [
+      {
+        "name": "Trie Implementation and Operations",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ],
+    "Problems": [
+      {
+        "name": "Trie Implementation and Advanced Operations",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Word with All Prefixes",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of distinct substrings in a string",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-substrings/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bit PreRequisites for TRIE Problems",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum XOR of two numbers in an array",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Xor with an element from an array",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Strings": {
+    "Hard Problems": [
+      {
+        "name": "Minimum number of bracket reversals to make an expression balanced",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count and say",
+        "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Hashing In Strings | Theory",
+        "leetcodeUrl": "",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rabin Karp Algorithm",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Z function",
+        "leetcodeUrl": "https://leetcode.com/problems/z-function/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "KMP Algorithm or LPS array",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-strstr/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest happy prefix",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-happy-prefix/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Palindromic Subsequences",
+        "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+        "source": "https://takeuforward.org/strivers-a2z-dsa-course",
+        "leetcodeId": ""
+      }
+    ]
+  }
+}

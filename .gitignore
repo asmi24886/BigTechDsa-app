@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+
+# Vite / React
+web/dist/
+web/node_modules/
+web/.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+*.html
+!web/index.html
+data/dsa/source_*.json
+scripts/update_urls.js
+/tmp/

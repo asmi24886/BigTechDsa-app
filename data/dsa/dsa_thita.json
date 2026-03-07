@@ -1,0 +1,2566 @@
+{
+  "Two Pointer Patterns": {
+    "Two Pointers - Converging (Sorted Array Target Sum)": [
+      {
+        "name": "Container With Most Water",
+        "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "3Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "3Sum Closest",
+        "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "4Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum II - Input Array Is Sorted",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Intersection of Two Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Boats to Save People",
+        "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Squares of a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "3Sum Smaller",
+        "leetcodeUrl": "https://leetcode.com/problems/3sum-smaller/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Two Pointers - Fast & Slow (Cycle Detection)": [
+      {
+        "name": "Linked List Cycle",
+        "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Happy Number",
+        "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Duplicate Number",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Is Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Two Pointers - Fixed Separation (Nth Node from End)": [
+      {
+        "name": "Remove Nth Node From End of List",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Middle of the Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete the Middle Node of a Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Two Pointers - In-place Array Modification": [
+      {
+        "name": "Remove Duplicates from Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Element",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort Colors",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Duplicates from Sorted Array II",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Move Zeroes",
+        "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "String Compression",
+        "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort Array By Parity",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Move Pieces to Obtain a String",
+        "leetcodeUrl": "https://leetcode.com/problems/move-pieces-to-obtain-a-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Separate Black and White Balls",
+        "leetcodeUrl": "https://leetcode.com/problems/separate-black-and-white-balls/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Two Pointers - String Comparison with Backspaces": [
+      {
+        "name": "Backspace String Compare",
+        "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Crawler Log Folder",
+        "leetcodeUrl": "https://leetcode.com/problems/crawler-log-folder/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Two Pointers - Expanding From Center (Palindromes)": [
+      {
+        "name": "Longest Palindromic Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindromic Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Two Pointers - String Reversal": [
+      {
+        "name": "Reverse Words in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse String",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Vowels of a String",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse String II",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-string-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Sliding Window Patterns": {
+    "Sliding Window - Fixed Size (Subarray Calculation)": [
+      {
+        "name": "Moving Average from Data Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/moving-average-from-data-stream/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Average Subarray I",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Calculate Compressed Mean",
+        "leetcodeUrl": "https://leetcode.com/problems/calculate-compressed-mean/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Power of K-Size Subarrays I",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find X-Sum of All K-Long Subarrays I",
+        "leetcodeUrl": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Sliding Window - Variable Size (Condition-Based)": [
+      {
+        "name": "Longest Substring Without Repeating Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Window Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Size Subarray Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Contains Duplicate II",
+        "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Repeating Character Replacement",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subarray Product Less Than K",
+        "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fruit Into Baskets",
+        "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Consecutive Ones III",
+        "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Subarray of 1's After Deleting One Element",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Operations to Reduce X to Zero",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frequency of the Most Frequent Element",
+        "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Sum of Distinct Subarrays With Length K",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Take K of Each Character From Left and Right",
+        "leetcodeUrl": "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Continuous Subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/continuous-subarrays/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Beauty of an Array After Applying Operation",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Longest Special Substring That Occurs Thrice I",
+        "leetcodeUrl": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Good Subarray Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-good-subarray-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Frequency of an Element After Performing Operations I",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Frequency of an Element After Performing Operations II",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Sliding Window - Monotonic Queue for Max/Min": [
+      {
+        "name": "Sliding Window Maximum",
+        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Subarray with Sum at Least K",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jump Game VI",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game-vi/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Sliding Window - Character Frequency Matching": [
+      {
+        "name": "Find All Anagrams in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Permutation in String",
+        "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Tree Traversal Patterns (DFS & BFS)": {
+    "Tree BFS - Level Order Traversal": [
+      {
+        "name": "Binary Tree Level Order Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Zigzag Level Order Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Right Side View",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Largest Value in Each Tree Row",
+        "leetcodeUrl": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Level Sum of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Tree DFS - Recursive Preorder Traversal": [
+      {
+        "name": "Same Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Symmetric Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flatten Binary Tree to Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Invert Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Smallest String Starting From Leaf",
+        "leetcodeUrl": "https://leetcode.com/problems/smallest-string-starting-from-leaf/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Tree DFS - Recursive Inorder Traversal": [
+      {
+        "name": "Binary Tree Inorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Validate Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Search Tree Iterator",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest Element in a BST",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Mode in Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Absolute Difference in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Tree DFS - Recursive Postorder Traversal": [
+      {
+        "name": "Maximum Depth of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Balanced Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Maximum Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Postorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Robber III",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Leaves of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/find-leaves-of-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Diameter of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "All Nodes Distance K in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete Nodes And Return Forest",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-and-return-forest/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Height of Binary Tree After Subtree Removal Queries",
+        "leetcodeUrl": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Tree - Lowest Common Ancestor (LCA) Finding": [
+      {
+        "name": "Lowest Common Ancestor of a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lowest Common Ancestor of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Tree - Serialization and Deserialization": [
+      {
+        "name": "Serialize and Deserialize Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subtree of Another Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Duplicate Subtrees",
+        "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-subtrees/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Graph Traversal Patterns (DFS & BFS)": {
+    "Graph DFS - Connected Components / Island Counting": [
+      {
+        "name": "Surrounded Regions",
+        "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pacific Atlantic Water Flow",
+        "leetcodeUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Provinces",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Area of Island",
+        "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Flood Fill",
+        "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Keys and Rooms",
+        "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Enclaves",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Closed Islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Sub Islands",
+        "leetcodeUrl": "https://leetcode.com/problems/count-sub-islands/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Detonate the Maximum Bombs",
+        "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph BFS - Connected Components / Island Counting": [
+      {
+        "name": "01 Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotting Oranges",
+        "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Path in Binary Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph DFS - Cycle Detection (Directed Graph)": [
+      {
+        "name": "Course Schedule",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Course Schedule II",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Eventual Safe States",
+        "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "All Paths from Source Lead to Destination",
+        "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph BFS - Topological Sort (Kahn's Algorithm)": [
+      {
+        "name": "Course Schedule",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Course Schedule II",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Alien Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/alien-dictionary/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Height Trees",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-height-trees/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sequence Reconstruction",
+        "leetcodeUrl": "https://leetcode.com/problems/sequence-reconstruction/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Parallel Courses",
+        "leetcodeUrl": "https://leetcode.com/problems/parallel-courses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Color Value in a Directed Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Parallel Courses III",
+        "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Possible Recipes from Given Supplies",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Build a Matrix With Conditions",
+        "leetcodeUrl": "https://leetcode.com/problems/build-a-matrix-with-conditions/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph - Deep Copy / Cloning": [
+      {
+        "name": "Clone Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/clone-graph/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Copy List with Random Pointer",
+        "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Clone N-ary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/clone-n-ary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph - Shortest Path (Dijkstra's Algorithm)": [
+      {
+        "name": "Network Delay Time",
+        "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Swim in Rising Water",
+        "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Path with Maximum Probability",
+        "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-probability/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Path With Minimum Effort",
+        "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Ways to Arrive at Destination",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Second Minimum Time to Reach Destination",
+        "leetcodeUrl": "https://leetcode.com/problems/second-minimum-time-to-reach-destination/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Weighted Subgraph With the Required Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Obstacle Removal to Reach Corner",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Time to Visit a Cell In a Grid",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Safest Path in a Grid",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph - Shortest Path (Bellman-Ford / BFS+K)": [
+      {
+        "name": "Cheapest Flights Within K Stops",
+        "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Path with Alternating Colors",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-alternating-colors/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph - Union-Find (Disjoint Set Union - DSU)": [
+      {
+        "name": "Number of Islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Graph Valid Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/graph-valid-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Islands II",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Connected Components in an Undirected Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Provinces",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Redundant Connection",
+        "leetcodeUrl": "https://leetcode.com/problems/redundant-connection/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Accounts Merge",
+        "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sentence Similarity II",
+        "leetcodeUrl": "https://leetcode.com/problems/sentence-similarity-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Most Stones Removed with Same Row or Column",
+        "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest Component Size by Common Factor",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-component-size-by-common-factor/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Regions Cut By Slashes",
+        "leetcodeUrl": "https://leetcode.com/problems/regions-cut-by-slashes/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "The Earliest Moment When Everyone Become Friends",
+        "leetcodeUrl": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph - Bridges & Articulation Points (Tarjan low-link)": [
+      {
+        "name": "Critical Connections in a Network",
+        "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph - Minimum Spanning Tree (Kruskal / Prim / DSU + heap)": [
+      {
+        "name": "Connecting Cities With Minimum Cost",
+        "leetcodeUrl": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Min Cost to Connect All Points",
+        "leetcodeUrl": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Optimize Water Distribution in a Village",
+        "leetcodeUrl": "https://leetcode.com/problems/optimize-water-distribution-in-a-village/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Graph - Bidirectional BFS (BFS optimization for known source & target)": [
+      {
+        "name": "Word Ladder II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-ladder-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Bus Routes",
+        "leetcodeUrl": "https://leetcode.com/problems/bus-routes/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Dynamic Programming (DP) Patterns": {
+    "DP - 1D Array (Fibonacci Style)": [
+      {
+        "name": "Climbing Stairs",
+        "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Decode Ways",
+        "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Robber",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Robber II",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "House Robber III",
+        "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fibonacci Number",
+        "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete and Earn",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-and-earn/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Min Cost Climbing Stairs",
+        "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - 1D Array (Kadane's Algorithm for Max/Min Subarray)": [
+      {
+        "name": "Maximum Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Sum Circular Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Absolute Sum of Any Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Product Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - 1D Array (Coin Change / Unbounded Knapsack Style)": [
+      {
+        "name": "Coin Change",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combination Sum IV",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iv/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Coin Change II",
+        "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - 1D Array (0/1 Knapsack Subset Sum Style)": [
+      {
+        "name": "Partition Equal Subset Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Target Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - 1D Array (Word Break Style)": [
+      {
+        "name": "Word Break",
+        "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Break II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-break-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - 2D Array (Longest Common Subsequence - LCS)": [
+      {
+        "name": "Longest Common Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Common Supersequence",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Insertion Steps to Make a String Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - 2D Array (Edit Distance / Levenshtein Distance)": [
+      {
+        "name": "Edit Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete Operation for Two Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum ASCII Delete Sum for Two Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - 2D Array (Unique Paths on Grid)": [
+      {
+        "name": "Unique Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique Paths II",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Triangle",
+        "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximal Square",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-square/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Falling Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-falling-path-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Square Submatrices with All Ones",
+        "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - Interval DP": [
+      {
+        "name": "Burst Balloons",
+        "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Boxes",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-boxes/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - Catalan Numbers": [
+      {
+        "name": "Unique Binary Search Trees II",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique Binary Search Trees",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Different Ways to Add Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - Longest Increasing Subsequence (LIS)": [
+      {
+        "name": "Longest Increasing Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Russian Doll Envelopes",
+        "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Removals to Make Mountain Array",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Increasing Subsequence II",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "DP - Stock problems": [
+      {
+        "name": "Best Time to Buy and Sell Stock",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock II",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock III",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock IV",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock with Cooldown",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Heap (Priority Queue) Patterns": {
+    "Heap - Top K Elements (Selection/Frequency)": [
+      {
+        "name": "Kth Largest Element in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Top K Frequent Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sort Characters By Frequency",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Relative Ranks",
+        "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Largest Element in a Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "K Closest Points to Origin",
+        "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Last Stone Weight",
+        "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Take Gifts From the Richest Pile",
+        "leetcodeUrl": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Heap - Two Heaps for Median Finding": [
+      {
+        "name": "Find Median from Data Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Finding MK Average",
+        "leetcodeUrl": "https://leetcode.com/problems/finding-mk-average/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Heap - K-way Merge": [
+      {
+        "name": "Merge k Sorted Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K Pairs with Smallest Sums",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest Element in a Sorted Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Smallest Range Covering Elements from K Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Heap - Scheduling / Minimum Cost (Greedy with Priority Queue)": [
+      {
+        "name": "Meeting Rooms II",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reorganize String",
+        "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Hire K Workers",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Furthest Building You Can Reach",
+        "leetcodeUrl": "https://leetcode.com/problems/furthest-building-you-can-reach/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Average Pass Ratio",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-average-pass-ratio/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single-Threaded CPU",
+        "leetcodeUrl": "https://leetcode.com/problems/single-threaded-cpu/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "The Number of the Smallest Unoccupied Chair",
+        "leetcodeUrl": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Rooms III",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Backtracking Patterns": {
+    "Backtracking - Subsets (Include/Exclude)": [
+      {
+        "name": "Letter Combinations of a Phone Number",
+        "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combinations",
+        "leetcodeUrl": "https://leetcode.com/problems/combinations/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subsets",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subsets II",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Backtracking - Permutations": [
+      {
+        "name": "Next Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Permutations",
+        "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Permutation Sequence",
+        "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Backtracking - Combination Sum": [
+      {
+        "name": "Combination Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combination Sum II",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Backtracking - Parentheses Generation": [
+      {
+        "name": "Generate Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Invalid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Backtracking - Word Search / Path Finding in Grid": [
+      {
+        "name": "Word Search",
+        "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Search II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check if Word Can Be Placed In Crossword",
+        "leetcodeUrl": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Backtracking - N-Queens / Constraint Satisfaction": [
+      {
+        "name": "Sudoku Solver",
+        "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "N-Queens",
+        "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Backtracking - Palindrome Partitioning": [
+      {
+        "name": "Palindrome Partitioning",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome Partitioning II",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Pseudo-Palindromic Paths in a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Greedy Patterns": {
+    "Greedy - Interval Merging/Scheduling": [
+      {
+        "name": "Merge Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert Interval",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Employee Free Time",
+        "leetcodeUrl": "https://leetcode.com/problems/employee-free-time/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Interval List Intersections",
+        "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Divide Intervals Into Minimum Number of Groups",
+        "leetcodeUrl": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Greedy - Jump Game Reachability/Minimization": [
+      {
+        "name": "Jump Game II",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jump Game",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Greedy - Buy/Sell Stock": [
+      {
+        "name": "Best Time to Buy and Sell Stock",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock II",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Greedy - Gas Station Circuit": [
+      {
+        "name": "Gas Station",
+        "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Greedy - Task Scheduling (Frequency Based)": [
+      {
+        "name": "Task Scheduler",
+        "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reorganize String",
+        "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Distant Barcodes",
+        "leetcodeUrl": "https://leetcode.com/problems/distant-barcodes/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Greedy - Sorting Based": [
+      {
+        "name": "Assign Cookies",
+        "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Candy",
+        "leetcodeUrl": "https://leetcode.com/problems/candy/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Queue Reconstruction by Height",
+        "leetcodeUrl": "https://leetcode.com/problems/queue-reconstruction-by-height/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two City Scheduling",
+        "leetcodeUrl": "https://leetcode.com/problems/two-city-scheduling/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Binary Search Patterns": {
+    "Binary Search - On Sorted Array/List": [
+      {
+        "name": "Search Insert Position",
+        "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sqrt(x)",
+        "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search a 2D Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First Bad Version",
+        "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Guess Number Higher or Lower",
+        "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Element in a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Search",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Missing Positive Number",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Binary Search - Find Min/Max in Rotated Sorted Array": [
+      {
+        "name": "Search in Rotated Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in Rotated Sorted Array II",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Minimum in Rotated Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Peak Element",
+        "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Peak Index in a Mountain Array",
+        "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find in Mountain Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-in-mountain-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Binary Search - On Answer / Condition Function": [
+      {
+        "name": "Split Array Largest Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimize Max Distance to Gas Station",
+        "leetcodeUrl": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Koko Eating Bananas",
+        "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Capacity To Ship Packages Within D Days",
+        "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Days to Make m Bouquets",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Limit of Balls in a Bag",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimized Maximum of Products Distributed to Any Store",
+        "leetcodeUrl": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Candies Allocated to K Children",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Binary Search - Find First/Last Occurrence": [
+      {
+        "name": "Find First and Last Position of Element in Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K Closest Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Binary Search - Median and Kth of Two Sorted Arrays": [
+      {
+        "name": "Median of Two Sorted Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K-th Smallest Pair Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Kth Smallest Element in a Sorted Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Stack Patterns": {
+    "Stack - Valid Parentheses Matching": [
+      {
+        "name": "Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Add to Make Parentheses Valid",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Remove to Make Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Swaps to Make the String Balanced",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Stack - Monotonic Stack": [
+      {
+        "name": "Remove K Digits",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Element I",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Element II",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Daily Temperatures",
+        "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Online Stock Span",
+        "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Subarray Minimums",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Width Ramp",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-width-ramp/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Final Prices With a Special Discount in a Shop",
+        "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Most Competitive Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-most-competitive-subsequence/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Stack - Expression Evaluation (RPN/Infix)": [
+      {
+        "name": "Evaluate Reverse Polish Notation",
+        "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Basic Calculator",
+        "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Basic Calculator II",
+        "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Basic Calculator III",
+        "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Stack - Simulation / Backtracking Helper": [
+      {
+        "name": "Simplify Path",
+        "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Decode String",
+        "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Asteroid Collision",
+        "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Stack - Min Stack Design": [
+      {
+        "name": "Min Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Frequency Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-stack/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Online Stock Span",
+        "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Stack - Largest Rectangle in Histogram": [
+      {
+        "name": "Largest Rectangle in Histogram",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximal Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Bit Manipulation Patterns": {
+    "Bitwise XOR - Finding Single/Missing Number": [
+      {
+        "name": "Single Number",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Number II",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Missing Number",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Difference",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Bitwise AND - Counting Set Bits (Hamming Weight)": [
+      {
+        "name": "Number of 1 Bits",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Power of Two",
+        "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Bitwise DP - Counting Bits Optimization": [
+      {
+        "name": "Counting Bits",
+        "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Parallel Courses",
+        "leetcodeUrl": "https://leetcode.com/problems/parallel-courses/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Bitwise Operations - Power of Two/Four Check": [
+      {
+        "name": "Power of Two",
+        "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Power of Four",
+        "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Linked List Manipulation Patterns": {
+    "Linked List - In-place Reversal": [
+      {
+        "name": "Remove Duplicates from Sorted List",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Linked List II",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reverse Nodes in k-Group",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Duplicates from Sorted List II",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Linked List - Merging Two Sorted Lists": [
+      {
+        "name": "Merge Two Sorted Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Merge k Sorted Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Linked List - Addition of Numbers": [
+      {
+        "name": "Add Two Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Plus One Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/plus-one-linked-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Linked List - Intersection Detection": [
+      {
+        "name": "Intersection of Two Linked Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Index Sum of Two Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-index-sum-of-two-lists/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Linked List - Reordering / Partitioning": [
+      {
+        "name": "Swap Nodes in Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate List",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition List",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reorder List",
+        "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Odd Even Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Array/Matrix Manipulation Patterns": {
+    "Array/Matrix - In-place Rotation": [
+      {
+        "name": "Rotate Image",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate Array",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Transpose Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Array/Matrix - Spiral Traversal": [
+      {
+        "name": "Spiral Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Spiral Matrix II",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Spiral Matrix III",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-iii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Spiral Matrix IV",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-iv/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Array/Matrix - Set Matrix Zeroes (In-place Marking)": [
+      {
+        "name": "Set Matrix Zeroes",
+        "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Game of Life",
+        "leetcodeUrl": "https://leetcode.com/problems/game-of-life/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Diagonal Traverse",
+        "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Array - Product Except Self (Prefix/Suffix Products)": [
+      {
+        "name": "Product of Array Except Self",
+        "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Mountain in Array",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-mountain-in-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Array - Plus One (Handling Carry)": [
+      {
+        "name": "Plus One",
+        "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Multiply Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add to Array-Form of Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Binary",
+        "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Array - Merge Sorted Array (In-place from End)": [
+      {
+        "name": "Merge Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Squares of a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "Array - Cyclic Sort": [
+      {
+        "name": "First Missing Positive",
+        "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Missing Number",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Duplicate Number",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Duplicates in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Numbers Disappeared in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "String Manipulation Patterns": {
+    "String - Palindrome Check (Two Pointers / Reverse)": [
+      {
+        "name": "Palindrome Number",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Palindrome II",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "String - Anagram Check (Frequency Count/Sort)": [
+      {
+        "name": "Group Anagrams",
+        "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Anagram",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "String - Roman to Integer Conversion/ String to Integer (atoi)": [
+      {
+        "name": "Roman to Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Integer to Roman",
+        "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "String to Integer (atoi)",
+        "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "String - Multiply Strings/Add Strings (Manual Simulation)": [
+      {
+        "name": "Multiply Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Binary",
+        "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "String Matching - Naive / KMP / Rabin-Karp": [
+      {
+        "name": "Find the Index of the First Occurrence in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Repeated String Match",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate String",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Beautiful Indices in the Given Array II",
+        "leetcodeUrl": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ],
+    "String - Repeated Substring Pattern Detection": [
+      {
+        "name": "Repeated Substring Pattern",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Index of the First Occurrence in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Repeated String Match",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Design Patterns": {
+    "Tries": [
+      {
+        "name": "Implement Trie (Prefix Tree)",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Add and Search Words Data Structure",
+        "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Word in Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Replace Words",
+        "leetcodeUrl": "https://leetcode.com/problems/replace-words/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Squares",
+        "leetcodeUrl": "https://leetcode.com/problems/word-squares/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Search Autocomplete System",
+        "leetcodeUrl": "https://leetcode.com/problems/design-search-autocomplete-system/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Prefix and Suffix Search",
+        "leetcodeUrl": "https://leetcode.com/problems/prefix-and-suffix-search/",
+        "source": "https://thita.ai/dsa-patterns-sheet",
+        "leetcodeId": ""
+      }
+    ]
+  }
+}
