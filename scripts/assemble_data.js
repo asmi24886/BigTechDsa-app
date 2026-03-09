@@ -304,7 +304,6 @@ const CANONICAL_SUBCATEGORY = {
     "Line Sweep": "Line Sweep",
 
     // --- DP subs ---
-    "General DP": "General DP",
     "Fibonacci DP": "1D Array (Fibonacci Style)",
     "DP - 1D Array (Fibonacci Style)": "1D Array (Fibonacci Style)",
     "1-D DP": "1D Array (Fibonacci Style)",
@@ -316,8 +315,10 @@ const CANONICAL_SUBCATEGORY = {
     "LIS (Longest Increasing Subsequence)": "Longest Increasing Subsequence (LIS)",
     "DP - Longest Increasing Subsequence (LIS)": "Longest Increasing Subsequence (LIS)",
     "Longest Increasing Subsequence DP": "Longest Increasing Subsequence (LIS)",
-    "MCM & Partition DP": "Interval DP",
-    "DP - Interval DP": "Interval DP",
+    "MCM & Partition DP": "Interval / Partition DP",
+    "DP - Interval DP": "Interval / Partition DP",
+    "MCM DP | Partition DP": "Interval / Partition DP",
+    "Interval DP": "Interval / Partition DP",
     "0/1 Knapsack": "0/1 Knapsack (Subset Sum Style)",
     "Knapsack DP": "0/1 Knapsack (Subset Sum Style)",
     "DP - 1D Array (0/1 Knapsack Subset Sum Style)": "0/1 Knapsack (Subset Sum Style)",
@@ -327,6 +328,7 @@ const CANONICAL_SUBCATEGORY = {
     "Grid DP": "2D Array (Grid Unique Paths)",
     "2D (Grid) DP": "2D Array (Grid Unique Paths)",
     "DP - 2D Array (Unique Paths on Grid)": "2D Array (Grid Unique Paths)",
+    "DP on Squares": "2D Array (Grid Unique Paths)",
     "String DP": "String DP (Edit Distance / Word Break)",
     "DP - 2D Array (Edit Distance / Levenshtein Distance)": "String DP (Edit Distance / Word Break)",
     "DP - 1D Array (Word Break Style)": "String DP (Edit Distance / Word Break)",
@@ -340,6 +342,15 @@ const CANONICAL_SUBCATEGORY = {
     "Digit DP": "Digit DP",
     "Probability DP": "Probability DP",
     "DP - Catalan Numbers": "Catalan Numbers",
+    // Striver DP subcategories
+    "Introduction to DP": "1D Array (Fibonacci Style)",
+    "1D DP": "1D Array (Fibonacci Style)",
+    "DP on Subsequences": "0/1 Knapsack (Subset Sum Style)",
+    "DP on Strings": "String DP (Edit Distance / Word Break)",
+    "DP on Stocks": "Stock Problems (State Machine)",
+    "DP on LIS": "Longest Increasing Subsequence (LIS)",
+    // Educative 2 "General" subcategory - map to proper names
+    "General": "General DP",
 
     // --- Backtracking subs ---
     "Combinations": "Combination Sum",
@@ -416,6 +427,119 @@ const CANONICAL_SUBCATEGORY = {
 };
 
 // ============================================================
+// DP PROBLEM-LEVEL RECLASSIFICATION
+// Maps specific problem slugs (from leetcodeUrl) or exact names
+// (for non-LC problems) to their correct DP subcategory.
+// This handles problems originally lumped into "General DP" or "General".
+// ============================================================
+const DP_PROBLEM_RECLASSIFY = {
+    // --- 1D Array (Fibonacci Style) ---
+    'n-th-tribonacci-number': '1D Array (Fibonacci Style)',
+    'paint-house': '1D Array (Fibonacci Style)',
+    'paint-fence': '1D Array (Fibonacci Style)',
+    'filling-bookcase-shelves': '1D Array (Fibonacci Style)',
+    'check-if-there-is-a-valid-partition-for-the-array': '1D Array (Fibonacci Style)',
+    'minimum-cost-for-tickets': '1D Array (Fibonacci Style)',
+    'solving-questions-with-brainpower': '1D Array (Fibonacci Style)',
+    'count-ways-to-build-good-strings': '1D Array (Fibonacci Style)',
+    'knight-dialer': '1D Array (Fibonacci Style)',
+    '2-keys-keyboard': '1D Array (Fibonacci Style)',
+    'integer-break': '1D Array (Fibonacci Style)',
+    'ugly-number-ii': '1D Array (Fibonacci Style)',
+    'count-vowels-permutation': '1D Array (Fibonacci Style)',
+    'flip-string-to-monotone-increasing': '1D Array (Fibonacci Style)',
+    'paint-house-ii': '1D Array (Fibonacci Style)',
+    'student-attendance-record-ii': '1D Array (Fibonacci Style)',
+    'count-strictly-increasing-subarrays': '1D Array (Fibonacci Style)',
+    'k-inverse-pairs-array': '1D Array (Fibonacci Style)',
+    '4-keys-keyboard': '1D Array (Fibonacci Style)',
+    'number-of-ways-to-divide-a-long-corridor': '1D Array (Fibonacci Style)',
+    'count-all-valid-pickup-and-delivery-options': '1D Array (Fibonacci Style)',
+    'number-of-ways-to-rearrange-sticks-with-k-sticks-visible': '1D Array (Fibonacci Style)',
+    'number-of-ways-to-stay-in-the-same-place-after-some-steps': '1D Array (Fibonacci Style)',
+    // Educative 2 non-LC reclassify
+    'Number Factors': '1D Array (Fibonacci Style)',
+    'Count Ways to Score in a Game': '1D Array (Fibonacci Style)',
+
+    // --- 2D Array (Grid Unique Paths) ---
+    'maximum-number-of-points-with-cost': '2D Array (Grid Unique Paths)',
+    'knight-probability-in-chessboard': '2D Array (Grid Unique Paths)',
+    'out-of-boundary-paths': '2D Array (Grid Unique Paths)',
+    'minimum-falling-path-sum-ii': '2D Array (Grid Unique Paths)',
+    'dungeon-game': '2D Array (Grid Unique Paths)',
+
+    // --- Interval / Partition DP ---
+    'stone-game': 'Interval / Partition DP',
+    'stone-game-ii': 'Interval / Partition DP',
+    'stone-game-iii': 'Interval / Partition DP',
+    'maximum-value-of-k-coins-from-piles': 'Interval / Partition DP',
+    'minimum-difficulty-of-a-job-schedule': 'Interval / Partition DP',
+    'encode-string-with-shortest-length': 'Interval / Partition DP',
+    'freedom-trail': 'Interval / Partition DP',
+    'maximize-score-after-n-operations': 'Interval / Partition DP',
+    'Matrix Chain Multiplication': 'Interval / Partition DP',
+
+    // --- Longest Increasing Subsequence (LIS) ---
+    'best-team-with-no-conflicts': 'Longest Increasing Subsequence (LIS)',
+    'find-the-longest-valid-obstacle-course-at-each-position': 'Longest Increasing Subsequence (LIS)',
+    'count-number-of-teams': 'Longest Increasing Subsequence (LIS)',
+    'longest-ideal-subsequence': 'Longest Increasing Subsequence (LIS)',
+    'arithmetic-slices-ii-subsequence': 'Longest Increasing Subsequence (LIS)',
+    'maximum-alternating-subsequence-sum': 'Longest Increasing Subsequence (LIS)',
+    'Minimum Deletions to Make a Sequence Sorted': 'Longest Increasing Subsequence (LIS)',
+    'Maximum Sum Increasing Subsequence': 'Longest Increasing Subsequence (LIS)',
+    'Longest Bitonic Subsequence': 'Longest Increasing Subsequence (LIS)',
+    'Building Bridges': 'Longest Increasing Subsequence (LIS)',
+
+    // --- Longest Common Subsequence (LCS) ---
+    'uncrossed-lines': 'Longest Common Subsequence (LCS)',
+    'longest-repeating-subsequence': 'Longest Common Subsequence (LCS)',
+
+    // --- String DP (Edit Distance / Word Break) ---
+    'stickers-to-spell-word': 'String DP (Edit Distance / Word Break)',
+    'concatenated-words': 'String DP (Edit Distance / Word Break)',
+    'number-of-ways-to-form-a-target-string-given-a-dictionary': 'String DP (Edit Distance / Word Break)',
+    'number-of-ways-to-form-target-string-given-a-dictionary': 'String DP (Edit Distance / Word Break)',
+    'string-compression-ii': 'String DP (Edit Distance / Word Break)',
+    'sentence-screen-fitting': 'String DP (Edit Distance / Word Break)',
+    'Minimum Deletions in a String to make it a Palindrome': 'String DP (Edit Distance / Word Break)',
+
+    // --- 0/1 Knapsack (Subset Sum Style) ---
+    '0-1-knapsack': '0/1 Knapsack (Subset Sum Style)',
+    'profitable-schemes': '0/1 Knapsack (Subset Sum Style)',
+    'painting-the-walls': '0/1 Knapsack (Subset Sum Style)',
+    'split-array-with-same-average': '0/1 Knapsack (Subset Sum Style)',
+    'the-number-of-good-subsets': '0/1 Knapsack (Subset Sum Style)',
+    'count-the-number-of-good-subsequences': '0/1 Knapsack (Subset Sum Style)',
+
+    // --- Unbounded Knapsack (Coin Change Style) ---
+    'Maximum Ribbon Cut': 'Unbounded Knapsack (Coin Change Style)',
+    'Rod Cutting': 'Unbounded Knapsack (Coin Change Style)',
+
+    // --- Probability DP ---
+    'soup-servings': 'Probability DP',
+    'new-21-game': 'Probability DP',
+
+    // --- Bitmask DP ---
+    'minimum-number-of-work-sessions-to-finish-the-tasks': 'Bitmask DP',
+    'fair-distribution-of-cookies': 'Bitmask DP',
+    'optimal-account-balancing': 'Bitmask DP',
+
+    // --- Tree / Graph DP ---
+    'longest-increasing-path-in-a-matrix': 'Tree / Graph DP',
+
+    // --- Stock Problems (State Machine) ---
+    'maximum-profit-in-job-scheduling': 'Stock Problems (State Machine)',
+
+    // --- Catalan Numbers ---
+    'handshakes-that-dont-cross': 'Catalan Numbers',
+    'The Catalan Numbers': 'Catalan Numbers',
+
+    // --- Kadane's Algorithm ---
+    'maximum-sum-of-3-non-overlapping-subarrays': "Kadane's Algorithm (Max/Min Subarray)",
+};
+
+// ============================================================
 // MERGE LOGIC
 // ============================================================
 const mergedData = {};
@@ -479,6 +603,63 @@ sourceFiles.forEach(file => {
         }
     }
 });
+
+// ============================================================
+// POST-PROCESS: Reclassify problems across ALL categories
+// Uses DP_PROBLEM_RECLASSIFY for DP and PROBLEM_RECLASSIFY for all.
+// ============================================================
+const PROBLEM_RECLASSIFY = require('./reclassify_map.js');
+
+function getSlug(p) {
+    if (p.leetcodeUrl && p.leetcodeUrl.includes('leetcode.com/problems/')) {
+        const match = p.leetcodeUrl.match(/leetcode\.com\/problems\/([^\/\?]+)/);
+        if (match) return match[1].toLowerCase();
+    }
+    return null;
+}
+
+function getUniqueKey(p) {
+    const slug = getSlug(p);
+    if (slug) return slug;
+    return p.name.toLowerCase().replace(/[^a-z0-9]/g, '');
+}
+
+let totalReclassified = 0;
+for (const cat in mergedData) {
+    const lookupMap = cat === 'Dynamic Programming'
+        ? { ...PROBLEM_RECLASSIFY, ...DP_PROBLEM_RECLASSIFY }
+        : PROBLEM_RECLASSIFY;
+
+    for (const sub in mergedData[cat]) {
+        const toRemove = [];
+        for (let i = 0; i < mergedData[cat][sub].length; i++) {
+            const p = mergedData[cat][sub][i];
+            let newSub = null;
+            const slug = getSlug(p);
+            if (slug) newSub = lookupMap[slug];
+            if (!newSub) newSub = lookupMap[p.name];
+
+            if (newSub && newSub !== sub) {
+                if (!mergedData[cat][newSub]) mergedData[cat][newSub] = [];
+                mergedData[cat][newSub].push(p);
+                toRemove.push(i);
+                totalReclassified++;
+                const uniqueKey = getUniqueKey(p);
+                if (globalProblemMap[uniqueKey]) {
+                    globalProblemMap[uniqueKey].subcategory = newSub;
+                }
+            }
+        }
+        for (let i = toRemove.length - 1; i >= 0; i--) {
+            mergedData[cat][sub].splice(toRemove[i], 1);
+        }
+        if (mergedData[cat][sub].length === 0) {
+            delete mergedData[cat][sub];
+        }
+    }
+}
+console.log('Reclassified ' + totalReclassified + ' problems into specific subcategories.');
+
 
 // Sort categories and subcategories for cleaner output
 const sortedMerged = {};

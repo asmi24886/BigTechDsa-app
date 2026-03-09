@@ -98,7 +98,7 @@ body {
   gap: 0.75rem;
   flex-wrap: wrap;
   justify-content: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .stat-chip {
@@ -113,11 +113,94 @@ body {
   font-weight: 500;
   color: var(--text-secondary);
   transition: var(--transition);
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+}
+
+.stat-chip:hover {
+  background: var(--bg-hover);
+  border-color: var(--border-active);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.stat-chip.source-chip:hover {
+  border-color: var(--chip-color, var(--border-active));
+  box-shadow: 0 4px 16px color-mix(in srgb, var(--chip-color, var(--tc-400)) 25%, transparent);
+}
+
+.stat-chip.active {
+  border-color: var(--chip-border, var(--tc-500));
+  background: var(--chip-bg, var(--bg-tertiary));
+  box-shadow: 0 0 12px color-mix(in srgb, var(--chip-color, var(--tc-400)) 20%, transparent);
+}
+
+.stat-chip.total-chip.active {
+  border-color: var(--tc-500);
+  background: var(--bg-tertiary);
+}
+
+.chip-check {
+  font-size: 0.65rem;
+  margin-left: 0.15rem;
+  color: var(--chip-color, var(--tc-400));
+  font-weight: 700;
 }
 
 .stat-chip .count {
   font-weight: 700;
   color: var(--tc-400);
+}
+
+/* ── Source Filter Hint ── */
+.source-filter-hint {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  background: rgba(212, 113, 58, 0.06);
+  border: 1px solid rgba(212, 113, 58, 0.15);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  animation: fadeSlideIn 0.25s ease-out;
+}
+
+.source-filter-hint strong {
+  color: var(--tc-400);
+}
+
+.clear-filter-btn {
+  padding: 0.25rem 0.65rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  font-size: 0.72rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.clear-filter-btn:hover {
+  background: var(--bg-hover);
+  border-color: var(--tc-500);
+  color: var(--text-primary);
+}
+
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* ── Filter Bar ── */
