@@ -168,6 +168,15 @@ const CANONICAL_CATEGORY = {
     "Recursive Numbers": "Dynamic Programming",
     "Longest Common Substring": "Dynamic Programming",
     "Palindromic Subsequence": "Dynamic Programming",
+
+    // --- AlgoExpert categories ---
+    "Linked Lists": "Linked List",
+    "Binary Trees": "Trees",
+    "Binary Search Trees": "Trees",
+    "Searching (Graphs/BFS/DFS)": "Graphs",
+    "Sorting": "Arrays & Hashing",
+    "Famous Algorithms": "Graphs",
+    "Dynamic Programming": "Dynamic Programming",
 };
 
 // ============================================================
@@ -546,7 +555,7 @@ const mergedData = {};
 const globalProblemMap = {};
 
 // Process order matters: Thita first (best subcategories), then Striver, then Algomaster, then NeetCode
-const sourceFiles = ['dsa_thita.json', 'dsa_striver.json', 'dsa_algomaster.json', 'dsa_neetcode.json', 'dsa_educative1.json', 'dsa_educative2.json'];
+const sourceFiles = ['dsa_thita.json', 'dsa_striver.json', 'dsa_algomaster.json', 'dsa_algoexpert.json', 'dsa_neetcode.json', 'dsa_educative1.json', 'dsa_educative2.json'];
 
 sourceFiles.forEach(file => {
     const filePath = path.join(dataDir, file);

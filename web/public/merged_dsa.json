@@ -12,7 +12,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Rotate Array",
@@ -25,7 +26,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Transpose Matrix",
@@ -36,7 +38,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Spiral Matrix",
@@ -46,10 +49,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Spiral Matrix II",
@@ -60,7 +65,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Spiral Matrix III",
@@ -93,7 +99,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Game of Life",
@@ -104,16 +111,19 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Diagonal Traverse",
         "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
         "leetcodeId": "",
         "sources": [
-          "https://thita.ai/dsa-patterns-sheet"
+          "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Valid Word Square",
@@ -223,19 +233,23 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Mountain in Array",
         "leetcodeUrl": "https://leetcode.com/problems/longest-mountain-in-array/",
         "leetcodeId": "",
         "sources": [
-          "https://thita.ai/dsa-patterns-sheet"
+          "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Pivot Index",
@@ -244,7 +258,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Range Sum Query 2D Immutable",
@@ -253,7 +268,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Range Sum Query 2D - Mutable",
@@ -272,7 +288,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Good Ways to Split a String",
@@ -281,7 +298,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Score After Splitting a String",
@@ -290,7 +308,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Count Vowel Strings in Ranges",
@@ -317,7 +336,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Sub-arrays With Odd Sum",
@@ -335,7 +355,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Ways to Split Array",
@@ -344,7 +365,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shifting Letters II",
@@ -353,7 +375,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Penalty for a Shop",
@@ -362,7 +385,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Brightest Position on Street",
@@ -380,7 +404,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Longest subarray with given sum K(positives)",
@@ -389,7 +414,8 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Print subarray with maximum subarray sum (extended version of above problem)",
@@ -407,9 +433,11 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Operations to Make All Array Elements Equal",
@@ -458,7 +486,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Multiply Strings",
@@ -469,7 +498,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Add to Array-Form of Integer",
@@ -479,7 +509,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Add Binary",
@@ -490,7 +521,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Palindrome Number",
@@ -502,7 +534,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Valid Palindrome",
@@ -511,10 +544,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Valid Palindrome II",
@@ -525,7 +560,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Roman to Integer",
@@ -537,7 +573,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Integer to Roman",
@@ -547,7 +584,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "String to Integer (atoi)",
@@ -558,7 +596,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Add Strings",
@@ -568,7 +607,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Increasing Triplet Subsequence",
@@ -577,7 +617,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Split Array into Consecutive Subsequences",
@@ -626,6 +667,36 @@
         "difficulty": "Medium"
       },
       {
+        "name": "Monotonic Array",
+        "leetcodeUrl": "https://leetcode.com/problems/monotonic-array/",
+        "leetcodeId": "896",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Find All Numbers Disappeared in Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-array/",
+        "leetcodeId": "448",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Unknown",
+        "recommended": true
+      },
+      {
+        "name": "Shortest Unsorted Continuous Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
+        "leetcodeId": "581",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Unknown",
+        "recommended": true
+      },
+      {
         "name": "Score of a String",
         "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
         "leetcodeId": "",
@@ -660,7 +731,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Length of Last Word",
@@ -726,15 +798,6 @@
         "difficulty": "Medium"
       },
       {
-        "name": "One Edit Distance",
-        "leetcodeUrl": "https://leetcode.com/problems/one-edit-distance/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Reverse Words in a String II",
         "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string-ii/",
         "leetcodeId": "",
@@ -769,7 +832,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Longest Strictly Increasing or Strictly Decreasing Subarray",
@@ -792,15 +856,6 @@
       {
         "name": "Special Array I",
         "leetcodeUrl": "https://leetcode.com/problems/special-array-i/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Monotonic Array",
-        "leetcodeUrl": "https://leetcode.com/problems/monotonic-array/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -932,7 +987,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Number of Ships in a Rectangle",
@@ -1049,7 +1105,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Maximum Nesting Depth of the Parentheses",
@@ -1068,6 +1125,16 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "One Edit Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/one-edit-distance/",
+        "leetcodeId": "161",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       },
@@ -1098,10 +1165,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Valid Anagram",
@@ -1113,7 +1182,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Find Anagram Mappings",
@@ -1141,7 +1211,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Sort Array by Increasing Frequency",
@@ -1160,7 +1231,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Number of Good Pairs",
@@ -1181,7 +1253,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Sentence Similarity",
@@ -1321,16 +1394,6 @@
         "difficulty": "Easy"
       },
       {
-        "name": "First Unique Character in a String",
-        "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy"
-      },
-      {
         "name": "Find Common Characters",
         "leetcodeUrl": "https://leetcode.com/problems/find-common-characters/",
         "leetcodeId": "",
@@ -1455,10 +1518,12 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Majority Element-I",
@@ -1467,10 +1532,12 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Isomorphic String",
@@ -1482,7 +1549,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Count Number of Substrings",
@@ -1501,6 +1569,17 @@
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
         "difficulty": "Medium"
+      },
+      {
+        "name": "First Unique Character in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+        "leetcodeId": "387",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy"
       },
       {
         "name": "Fraction to Recurring Decimal",
@@ -1679,7 +1758,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Majority Element-II",
@@ -1736,7 +1816,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Strings": [
@@ -1748,7 +1829,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Guess the Word",
@@ -1758,6 +1840,18 @@
           "https://algomaster.io/practice/dsa-patterns"
         ],
         "difficulty": "Hard"
+      },
+      {
+        "name": "Restore IP Addresses",
+        "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses/",
+        "leetcodeId": "93",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "recommended": true
       }
     ],
     "Design / Encodings": [
@@ -1770,7 +1864,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Encode and Decode TinyURL",
@@ -1780,7 +1875,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Design Compressed String Iterator",
@@ -1827,7 +1923,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Encode and Decode Strings",
@@ -1837,7 +1934,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Design Parking System",
@@ -1910,7 +2008,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Apply Substitutions",
@@ -1932,7 +2031,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Subarray Sums Divisible by K",
@@ -1953,7 +2053,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Contiguous Array",
@@ -1964,7 +2065,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       }
     ],
     "Hash Set: Lookups/Uniqueness": [
@@ -1977,7 +2079,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Duplicate Substring",
@@ -1996,7 +2099,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Counting Elements",
@@ -2060,7 +2164,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Longest Consecutive Sequence in an Array",
@@ -2069,10 +2174,12 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Number of Integers to Choose from a Range I",
@@ -2093,7 +2200,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Gap",
@@ -2102,17 +2210,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Sort an Array",
-        "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Relative Sort Array",
@@ -2180,7 +2279,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Height Checker",
@@ -2346,6 +2446,19 @@
         "difficulty": "Hard"
       }
     ],
+    "Sorting": [
+      {
+        "name": "Sort an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+        "leetcodeId": "912",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      }
+    ],
     "Cyclic Sort": [
       {
         "name": "First Missing Positive",
@@ -2357,7 +2470,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Find All Duplicates in an Array",
@@ -2436,7 +2550,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Shortest Palindrome",
@@ -2469,7 +2584,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Find Beautiful Indices in the Given Array II",
@@ -2487,7 +2603,8 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "String Matching in an Array",
@@ -2535,6 +2652,18 @@
         ],
         "difficulty": "Hard"
       }
+    ],
+    "Coordinate Geometry": [
+      {
+        "name": "Minimum Area Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-area-rectangle/",
+        "leetcodeId": "939",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      }
     ]
   },
   "Two Pointers": {
@@ -2549,7 +2678,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "3Sum",
@@ -2559,10 +2689,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "3Sum Closest",
@@ -2571,7 +2703,8 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "4Sum",
@@ -2580,10 +2713,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Two Sum II - Input Array Is Sorted",
@@ -2594,7 +2729,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Intersection of Two Arrays",
@@ -2616,7 +2752,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Squares of a Sorted Array",
@@ -2624,10 +2761,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "3Sum Smaller",
@@ -2654,7 +2793,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Strobogrammatic Number",
@@ -2732,7 +2872,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Happy Number",
@@ -2744,7 +2885,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Find the Duplicate Number",
@@ -2752,10 +2894,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Is Subsequence",
@@ -2764,9 +2908,11 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Circular Array Loop",
@@ -2796,10 +2942,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Middle of the Linked List",
@@ -2812,7 +2960,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Delete the Middle Node of a Linked List",
@@ -2837,7 +2986,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Remove Element",
@@ -2848,7 +2998,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Sort Colors",
@@ -2858,10 +3009,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Remove Duplicates from Sorted Array II",
@@ -2871,7 +3024,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Move Zeroes",
@@ -2881,9 +3035,11 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "String Compression",
@@ -2891,10 +3047,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sort Array By Parity",
@@ -2904,7 +3062,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Move Pieces to Obtain a String",
@@ -3071,7 +3230,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Crawler Log Folder",
@@ -3092,11 +3252,13 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Palindromic Substrings",
@@ -3139,9 +3301,11 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Reverse String",
@@ -3205,7 +3369,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Calculate Compressed Mean",
@@ -3243,7 +3408,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Maximum Points You Can Obtain from Cards",
@@ -3271,7 +3437,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold",
@@ -3280,7 +3447,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Grumpy Bookstore Owner",
@@ -3289,7 +3457,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find K-Length Substrings With No Repeated Characters",
@@ -3355,10 +3524,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Window Substring",
@@ -3368,10 +3539,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Size Subarray Sum",
@@ -3383,7 +3556,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Contains Duplicate II",
@@ -3395,7 +3569,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Longest Repeating Character Replacement",
@@ -3408,7 +3583,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Subarray Product Less Than K",
@@ -3430,7 +3606,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Max Consecutive Ones III",
@@ -3442,7 +3619,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
@@ -3453,7 +3631,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Subarray of 1's After Deleting One Element",
@@ -3472,7 +3651,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Frequency of the Most Frequent Element",
@@ -3483,7 +3663,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Sum of Distinct Subarrays With Length K",
@@ -3494,7 +3675,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Take K of Each Character From Left and Right",
@@ -3579,7 +3761,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Count number of Nice subarrays",
@@ -3589,7 +3772,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Substrings Containing All Three Characters",
@@ -3610,7 +3794,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Window Subsequence",
@@ -3704,10 +3889,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Shortest Subarray with Sum at Least K",
@@ -3750,7 +3937,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Permutation in String",
@@ -3762,7 +3950,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Substring With At Most K Distinct Characters",
@@ -3786,10 +3975,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Longest Valid Parentheses",
@@ -3798,9 +3989,11 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Add to Make Parentheses Valid",
@@ -3833,7 +4026,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Removing Stars From a String",
@@ -3891,10 +4085,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Next Greater Element I",
@@ -3904,10 +4100,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Next Greater Element II",
@@ -3917,7 +4115,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Daily Temperatures",
@@ -3926,10 +4125,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Online Stock Span",
@@ -3941,7 +4142,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sum of Subarray Minimums",
@@ -3952,7 +4154,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Width Ramp",
@@ -3990,7 +4193,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Next Smaller Element",
@@ -4008,10 +4212,12 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Sum of Subarray Ranges",
@@ -4040,7 +4246,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Visible People in a Queue",
@@ -4051,7 +4258,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Find Permutation",
@@ -4089,10 +4297,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Basic Calculator",
@@ -4102,7 +4312,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Basic Calculator II",
@@ -4113,7 +4324,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Basic Calculator III",
@@ -4133,7 +4345,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Remove All Adjacent Duplicates In String II",
@@ -4224,9 +4437,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Decode String",
@@ -4238,7 +4453,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Asteroid Collision",
@@ -4247,10 +4463,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       }
     ],
     "Min Stack Design": [
@@ -4262,10 +4480,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Frequency Stack",
@@ -4277,7 +4497,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "LRU Cache",
@@ -4286,10 +4507,12 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "LFU Cache",
@@ -4300,7 +4523,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Max Stack",
@@ -4322,10 +4546,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Maximal Rectangle",
@@ -4336,7 +4562,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "General Stack/Queue": [
@@ -4432,7 +4659,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Implement Queue using Stack",
@@ -4440,10 +4668,12 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Implement stack using Linkedlist",
@@ -4496,7 +4726,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Sqrt(x)",
@@ -4507,7 +4738,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Search a 2D Matrix",
@@ -4517,9 +4749,11 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "First Bad Version",
@@ -4551,7 +4785,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Binary Search",
@@ -4560,10 +4795,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Kth Missing Positive Number",
@@ -4583,7 +4820,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Arranging Coins",
@@ -4592,7 +4830,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Valid Perfect Square",
@@ -4665,7 +4904,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "House Robber IV",
@@ -4776,10 +5016,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Search in Rotated Sorted Array II",
@@ -4791,7 +5033,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Minimum in Rotated Sorted Array",
@@ -4804,7 +5047,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Peak Element",
@@ -4817,7 +5061,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Peak Index in a Mountain Array",
@@ -4826,7 +5071,8 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find in Mountain Array",
@@ -4846,7 +5092,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "On Answer / Condition Function": [
@@ -4860,7 +5107,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimize Max Distance to Gas Station",
@@ -4884,7 +5132,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Capacity To Ship Packages Within D Days",
@@ -4895,7 +5144,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Number of Days to Make m Bouquets",
@@ -4905,7 +5155,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Limit of Balls in a Bag",
@@ -4977,7 +5228,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find K Closest Elements",
@@ -5003,7 +5255,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Find K-th Smallest Pair Distance",
@@ -5034,7 +5287,8 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Aggressive Cows",
@@ -5044,7 +5298,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Kth element of 2 sorted arrays",
@@ -5073,7 +5328,8 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Peak Element - II",
@@ -5093,6 +5349,17 @@
         ],
         "difficulty": "Medium"
       }
+    ],
+    "Binary Search": [
+      {
+        "name": "Find First and Last Position of Element",
+        "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element/",
+        "leetcodeId": "34",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Unknown"
+      }
     ]
   },
   "Linked List": {
@@ -5103,10 +5370,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Reverse Linked List II",
@@ -5115,10 +5384,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Reverse Linked List",
@@ -5128,10 +5399,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Reverse Nodes in k-Group",
@@ -5144,7 +5417,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Palindrome Linked List",
@@ -5154,10 +5428,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Remove Duplicates from Sorted List II",
@@ -5206,10 +5482,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Merge in Between Linked Lists",
@@ -5245,7 +5523,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sort LL",
@@ -5257,7 +5536,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Flattening of LL",
@@ -5278,10 +5558,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Plus One Linked List",
@@ -5307,7 +5589,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Minimum Index Sum of Two Lists",
@@ -5327,10 +5610,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Rotate List",
@@ -5340,10 +5625,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Partition List",
@@ -5354,7 +5641,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Reorder List",
@@ -5362,10 +5650,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Odd Even Linked List",
@@ -5374,9 +5664,11 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sort a Linked List of 0's 1's and 2's",
@@ -5414,7 +5706,8 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find the length of the Linked List",
@@ -5578,7 +5871,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Design Linked List",
@@ -5586,9 +5880,11 @@
         "leetcodeId": "",
         "sources": [
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Design Circular Queue",
@@ -5608,9 +5904,11 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Length of loop in LL",
@@ -5636,7 +5934,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Binary Tree Zigzag Level Order Traversal",
@@ -5649,7 +5948,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Binary Tree Right Side View",
@@ -5662,7 +5962,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Largest Value in Each Tree Row",
@@ -5690,7 +5991,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Binary Tree Vertical Order Traversal",
@@ -5702,16 +6004,6 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Populating Next Right Pointers In Each Node",
-        "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Vertical Order Traversal",
         "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
         "leetcodeId": "",
@@ -5719,7 +6011,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Top View of BT",
@@ -5748,7 +6041,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum time taken to burn the BT from a given Node",
@@ -5802,7 +6096,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Bottom Left Tree Value",
@@ -5811,7 +6106,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Even Odd Tree",
@@ -5820,7 +6116,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Connect All Siblings of a Binary Tree",
@@ -5847,7 +6144,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       }
     ],
     "DFS - Preorder Traversal": [
@@ -5862,7 +6160,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Symmetric Tree",
@@ -5872,10 +6171,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Construct Binary Tree from Preorder and Inorder Traversal",
@@ -5887,7 +6188,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Flatten Binary Tree to Linked List",
@@ -5897,9 +6199,11 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Invert Binary Tree",
@@ -5908,10 +6212,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Binary Tree Paths",
@@ -5971,16 +6277,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Merge Two Binary Trees",
-        "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Leaf-Similar Trees",
@@ -5989,7 +6287,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Find Root of N-Ary Tree",
@@ -6026,7 +6325,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Count Good Nodes In Binary Tree",
@@ -6035,7 +6335,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Flip Equivalent Binary Trees",
@@ -6044,7 +6345,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Operations On Tree",
@@ -6053,7 +6355,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Validate Binary Tree Nodes",
@@ -6063,6 +6366,17 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
+      },
+      {
+        "name": "Merge Two Binary Trees",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+        "leetcodeId": "617",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy",
+        "recommended": true
       }
     ],
     "DFS - Inorder Traversal": [
@@ -6074,9 +6388,11 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Validate Binary Search Tree",
@@ -6086,10 +6402,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Binary Search Tree Iterator",
@@ -6101,7 +6419,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Kth Smallest Element in a BST",
@@ -6111,10 +6430,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Mode in Binary Search Tree",
@@ -6133,7 +6454,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       }
     ],
     "DFS - Postorder Traversal": [
@@ -6147,7 +6469,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Balanced Binary Tree",
@@ -6156,10 +6479,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Binary Tree Maximum Path Sum",
@@ -6169,10 +6494,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Binary Tree Postorder Traversal",
@@ -6184,7 +6511,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "House Robber III",
@@ -6196,7 +6524,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Leaves of Binary Tree",
@@ -6216,10 +6545,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "All Nodes Distance K in Binary Tree",
@@ -6228,9 +6559,11 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://algomaster.io/practice/dsa-patterns"
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Delete Nodes And Return Forest",
@@ -6302,7 +6635,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Lowest Common Ancestor of a Binary Tree",
@@ -6312,10 +6646,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Difference Between Node and Ancestor",
@@ -6343,7 +6679,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Closest Node to Path in Tree",
@@ -6367,7 +6704,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Subtree of Another Tree",
@@ -6378,7 +6716,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Find Duplicate Subtrees",
@@ -6389,7 +6728,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Serialize and Deserialize N-ary Tree",
@@ -6427,7 +6767,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Encode N-ary Tree to Binary Tree",
@@ -6457,10 +6798,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Design Add and Search Words Data Structure",
@@ -6472,7 +6815,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Word in Dictionary",
@@ -6679,7 +7023,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Check If a Word is a Prefix of Any Word in a Sentence",
@@ -6744,10 +7089,12 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Preorder, Inorder, and Postorder Traversal in one Traversal",
@@ -6769,7 +7116,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Minimum Distance Between BST Nodes",
@@ -6789,7 +7137,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "My Calendar I",
@@ -6827,16 +7176,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Closest Binary Search Tree Value",
-        "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Verify Preorder Sequence in Binary Search Tree",
@@ -6934,9 +7275,11 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Delete a node in BST",
@@ -6946,7 +7289,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Construct a BST from a preorder traversal",
@@ -6963,9 +7307,11 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Two Sum In BST | Check if there exists a pair with Sum K",
@@ -6975,7 +7321,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Correct BST with two nodes swapped",
@@ -6983,9 +7330,11 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Largest BST in Binary Tree",
@@ -7005,7 +7354,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Path Sum",
@@ -7014,7 +7364,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Sum Root to Leaf Numbers",
@@ -7023,7 +7374,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Binary Tree Longest Consecutive Sequence",
@@ -7059,9 +7411,66 @@
         "leetcodeUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
+      }
+    ],
+    "Binary Trees": [
+      {
+        "name": "Path Sum II",
+        "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii/",
+        "leetcodeId": "113",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Medium",
+        "recommended": true
+      },
+      {
+        "name": "Populating Next Right Pointers in Each Node",
+        "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "leetcodeId": "116",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "recommended": true
+      }
+    ],
+    "Binary Search Trees": [
+      {
+        "name": "Closest Binary Search Tree Value",
+        "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value/",
+        "leetcodeId": "270",
+        "sources": [
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Construct BST from Preorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/construct-bst-from-preorder-traversal/",
+        "leetcodeId": "1008",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Unknown",
+        "recommended": true
+      },
+      {
+        "name": "Convert Sorted Array to BST",
+        "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-bst/",
+        "leetcodeId": "108",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Unknown"
       }
     ],
     "Properties & Structural DP": [
@@ -7119,7 +7528,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Distribute Coins in Binary Tree",
@@ -7161,10 +7571,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Top K Frequent Elements",
@@ -7177,7 +7589,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sort Characters By Frequency",
@@ -7189,7 +7602,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Relative Ranks",
@@ -7223,7 +7637,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Last Stone Weight",
@@ -7231,9 +7646,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Take Gifts From the Richest Pile",
@@ -7254,7 +7671,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "High Five",
@@ -7314,10 +7732,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Finding MK Average",
@@ -7338,7 +7758,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Sliding Window Median",
@@ -7348,7 +7769,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "K-way Merge": [
@@ -7360,10 +7782,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Find K Pairs with Smallest Sums",
@@ -7375,7 +7799,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Kth Smallest Element in a Sorted Matrix",
@@ -7387,7 +7812,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Smallest Range Covering Elements from K Lists",
@@ -7399,7 +7825,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Sort K sorted array",
@@ -7454,10 +7881,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Reorganize String",
@@ -7469,7 +7898,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Cost to Hire K Workers",
@@ -7481,7 +7911,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Furthest Building You Can Reach",
@@ -7492,7 +7923,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Average Pass Ratio",
@@ -7513,7 +7945,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "The Number of the Smallest Unoccupied Chair",
@@ -7564,7 +7997,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Cost to Connect Sticks",
@@ -7622,7 +8056,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Performance of a Team",
@@ -7717,7 +8152,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Range Sum of Sorted Subarray Sums",
@@ -7806,7 +8242,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Islands",
@@ -7816,10 +8253,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Pacific Atlantic Water Flow",
@@ -7831,7 +8270,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Provinces",
@@ -7844,7 +8284,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Max Area of Island",
@@ -7852,10 +8293,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Flood Fill",
@@ -7876,7 +8319,8 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Enclaves",
@@ -7885,9 +8329,11 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Closed Islands",
@@ -7907,7 +8353,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Detonate the Maximum Bombs",
@@ -7918,7 +8365,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Time Needed to Inform All Employees",
@@ -7928,7 +8376,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "All Paths From Source to Target",
@@ -7938,7 +8387,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Employee Importance",
@@ -7975,7 +8425,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Reorder Routes to Make All Paths Lead to The City Zero",
@@ -8149,7 +8600,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Nested List Weight Sum",
@@ -8185,7 +8637,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       }
     ],
     "BFS - Connected Components / Island Counting": [
@@ -8199,7 +8652,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Rotting Oranges",
@@ -8209,10 +8663,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shortest Path in Binary Matrix",
@@ -8223,7 +8679,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Open the Lock",
@@ -8234,7 +8691,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shortest Path in a Grid with Obstacles Elimination",
@@ -8255,7 +8713,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Snakes And Ladders",
@@ -8264,7 +8723,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shortest Bridge",
@@ -8274,7 +8734,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "As Far from Land as Possible",
@@ -8283,7 +8744,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shortest Distance After Road Addition Queries I",
@@ -8367,10 +8829,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Course Schedule II",
@@ -8380,10 +8844,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Eventual Safe States",
@@ -8395,7 +8861,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "All Paths from Source Lead to Destination",
@@ -8428,7 +8895,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Height Trees",
@@ -8440,7 +8908,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sequence Reconstruction",
@@ -8460,7 +8929,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Largest Color Value in a Directed Graph",
@@ -8470,7 +8940,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Parallel Courses III",
@@ -8523,7 +8994,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Course Schedule IV",
@@ -8532,7 +9004,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Topo Sort",
@@ -8559,7 +9032,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Employees to Be Invited to a Meeting",
@@ -8600,7 +9074,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
@@ -8611,7 +9086,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Copy List with Random Pointer",
@@ -8623,7 +9099,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Clone N-ary Tree",
@@ -8633,7 +9110,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       }
     ],
     "Shortest Path (Dijkstra's Algorithm)": [
@@ -8645,10 +9123,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Swim in Rising Water",
@@ -8661,7 +9141,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Path with Maximum Probability",
@@ -8685,7 +9166,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Ways to Arrive at Destination",
@@ -8707,7 +9189,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Weighted Subgraph With the Required Paths",
@@ -8726,7 +9209,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Time to Visit a Cell In a Grid",
@@ -8746,7 +9230,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shortest path in undirected graph with unit weights",
@@ -8833,7 +9318,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shortest Path with Alternating Colors",
@@ -8843,7 +9329,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum multiplications to reach end",
@@ -8883,7 +9370,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Islands II",
@@ -8906,7 +9394,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Redundant Connection",
@@ -8918,7 +9407,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Accounts Merge",
@@ -8931,7 +9421,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sentence Similarity II",
@@ -8971,7 +9462,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "The Earliest Moment When Everyone Become Friends",
@@ -8981,7 +9473,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimize Malware Spread",
@@ -8991,7 +9484,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Evaluate Division",
@@ -9001,7 +9495,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Disjoint Set",
@@ -9019,7 +9514,8 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Making a large island",
@@ -9030,7 +9526,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Count the Number of Complete Components",
@@ -9105,7 +9602,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
@@ -9115,7 +9613,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Minimum Spanning Tree (Kruskal / Prim)": [
@@ -9135,9 +9634,11 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Optimize Water Distribution in a Village",
@@ -9147,7 +9648,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "MST theory",
@@ -9187,7 +9689,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Bus Routes",
@@ -9199,7 +9702,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Other Algorithms": [
@@ -9232,7 +9736,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Cracking the Safe",
@@ -9265,6 +9770,17 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard"
+      }
+    ],
+    "Famous Algorithms": [
+      {
+        "name": "Number of Connected Components",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-connected-components/",
+        "leetcodeId": "323",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Unknown"
       }
     ],
     "General Graph Traversal": [
@@ -9341,9 +9857,11 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Divide Nodes Into the Maximum Number of Groups",
@@ -9366,11 +9884,13 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Decode Ways",
@@ -9382,7 +9902,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "House Robber",
@@ -9392,11 +9913,13 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "House Robber II",
@@ -9409,7 +9932,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Fibonacci Number",
@@ -9417,10 +9941,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Delete and Earn",
@@ -9430,7 +9956,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Min Cost Climbing Stairs",
@@ -9443,7 +9970,8 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Introduction to DP",
@@ -9462,7 +9990,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Ninja's training",
@@ -9481,7 +10010,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Length of Longest Fibonacci Subsequence",
@@ -9501,7 +10031,8 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Paint House",
@@ -9510,7 +10041,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Paint Fence",
@@ -9519,7 +10051,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "4 Keys Keyboard",
@@ -9555,7 +10088,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Integer Break",
@@ -9564,7 +10098,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Solving Questions With Brainpower",
@@ -9591,7 +10126,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Knight Dialer",
@@ -9600,7 +10136,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Count Strictly Increasing Subarrays",
@@ -9654,7 +10191,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Number of Ways to Rearrange Sticks With K Sticks Visible",
@@ -9729,10 +10267,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Maximum Sum Circular Subarray",
@@ -9743,7 +10283,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Absolute Sum of Any Subarray",
@@ -9753,7 +10294,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Product Subarray",
@@ -9766,7 +10308,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Best Sightseeing Pair",
@@ -9776,7 +10319,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Subarray Min Product",
@@ -9806,11 +10350,13 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Combination Sum IV",
@@ -9820,7 +10366,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Coin Change II",
@@ -9829,10 +10376,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Perfect Squares",
@@ -9843,7 +10392,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Ribbon Cut",
@@ -9873,11 +10423,13 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Target Sum",
@@ -9890,7 +10442,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Partition a set into two subsets with minimum absolute sum difference",
@@ -9937,7 +10490,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Ones and Zeroes",
@@ -9946,7 +10500,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Dice Rolls with Target Sum",
@@ -9955,7 +10510,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Profitable Schemes",
@@ -9964,7 +10520,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Painting the Walls",
@@ -10021,10 +10578,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Word Break II",
@@ -10036,7 +10595,8 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Edit Distance",
@@ -10046,10 +10606,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Delete Operation for Two Strings",
@@ -10060,7 +10622,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum ASCII Delete Sum for Two Strings",
@@ -10090,7 +10653,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Distinct subsequences",
@@ -10103,7 +10667,8 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Wildcard matching",
@@ -10114,7 +10679,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Interleaving String",
@@ -10122,11 +10688,13 @@
         "leetcodeId": "",
         "sources": [
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Valid Palindrome III",
@@ -10145,7 +10713,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Stickers to Spell Word",
@@ -10220,11 +10789,13 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shortest Common Supersequence",
@@ -10237,7 +10808,8 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Insertion Steps to Make a String Palindrome",
@@ -10247,7 +10819,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Uncrossed Lines",
@@ -10256,7 +10829,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Repeating Subsequence",
@@ -10276,11 +10850,13 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Unique Paths II",
@@ -10292,7 +10868,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Path Sum",
@@ -10305,7 +10882,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Triangle",
@@ -10318,7 +10896,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximal Square",
@@ -10326,10 +10905,12 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Falling Path Sum",
@@ -10339,7 +10920,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Count Square Submatrices with All Ones",
@@ -10349,10 +10931,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Cherry Pickup",
@@ -10363,7 +10947,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Maximum Number of Points with Cost",
@@ -10373,7 +10958,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Knight Probability in Chessboard",
@@ -10409,7 +10995,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Interval / Partition DP": [
@@ -10424,7 +11011,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Remove Boxes",
@@ -10452,7 +11040,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Different Ways to Evaluate a Boolean Expression",
@@ -10473,7 +11062,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Stone Game III",
@@ -10509,7 +11099,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Stone Game II",
@@ -10518,7 +11109,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Value of K Coins from Piles",
@@ -10536,7 +11128,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Freedom Trail",
@@ -10567,7 +11160,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Unique Binary Search Trees",
@@ -10575,9 +11169,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Different Ways to Add Parentheses",
@@ -10587,7 +11183,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Handshakes That Don't Cross",
@@ -10617,11 +11214,13 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Russian Doll Envelopes",
@@ -10633,7 +11232,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Number of Removals to Make Mountain Array",
@@ -10643,7 +11243,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Longest Increasing Subsequence II",
@@ -10662,7 +11263,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest String Chain",
@@ -10670,9 +11272,11 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Longest Bitonic Subsequence",
@@ -10693,7 +11297,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Number of Music Playlists",
@@ -10711,7 +11316,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Find the Longest Valid Obstacle Course at Each Position",
@@ -10807,7 +11413,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Best Time to Buy and Sell Stock II",
@@ -10820,7 +11427,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Best Time to Buy and Sell Stock III",
@@ -10832,7 +11440,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Best Time to Buy and Sell Stock IV",
@@ -10840,9 +11449,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
-          "https://takeuforward.org/strivers-a2z-dsa-course"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Best Time to Buy and Sell Stock with Cooldown",
@@ -10854,7 +11465,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Best time to buy and sell stock with transaction fees",
@@ -10874,7 +11486,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Tree / Graph DP": [
@@ -10886,7 +11499,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Sum of Distances in Tree",
@@ -10906,7 +11520,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Bitmask DP": [
@@ -10918,7 +11533,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Number of Work Sessions to Finish the Tasks",
@@ -11010,10 +11626,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Combinations",
@@ -11024,7 +11642,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Subsets",
@@ -11034,10 +11653,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Subsets II",
@@ -11049,7 +11670,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sum of All Subsets XOR Total",
@@ -11068,7 +11690,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "The Number of Beautiful Subsets",
@@ -11105,7 +11728,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Unique Binary String",
@@ -11114,7 +11738,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Length of a Concatenated String With Unique Characters",
@@ -11164,7 +11789,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Permutations",
@@ -11173,10 +11799,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Permutation Sequence",
@@ -11185,7 +11813,8 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Permutations II",
@@ -11195,7 +11824,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Letter Tile Possibilities",
@@ -11205,7 +11835,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "The k-th Lexicographical String of All Happy Strings of Length n",
@@ -11247,7 +11878,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Combination Sum II",
@@ -11259,7 +11891,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Factor Combinations",
@@ -11289,10 +11922,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Remove Invalid Parentheses",
@@ -11302,7 +11937,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Word Search / Path Finding in Grid": [
@@ -11316,7 +11952,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Word Search II",
@@ -11325,10 +11962,12 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Check if Word Can Be Placed In Crossword",
@@ -11355,7 +11994,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "N-Queens / Constraint Satisfaction": [
@@ -11366,9 +12006,11 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "N-Queens",
@@ -11378,9 +12020,11 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Construct the Lexicographically Largest Valid Sequence",
@@ -11399,7 +12043,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Minimum Moves to Spread Stones Over Grid",
@@ -11431,7 +12076,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Palindrome Partitioning II",
@@ -11441,9 +12087,11 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Pseudo-Palindromic Paths in a Binary Tree",
@@ -11456,23 +12104,14 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Restore IP Addresses",
-        "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Splitting a String Into Descending Consecutive Values",
         "leetcodeUrl": "https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Split a String Into the Max Number of Unique Substrings",
@@ -11552,7 +12191,8 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Rat in a Maze",
@@ -11593,10 +12233,12 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Insert Interval",
@@ -11609,7 +12251,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Employee Free Time",
@@ -11620,7 +12263,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Interval List Intersections",
@@ -11631,7 +12275,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Divide Intervals Into Minimum Number of Groups",
@@ -11641,7 +12286,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Number of Arrows to Burst Balloons",
@@ -11651,7 +12297,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Number of Events That Can Be Attended",
@@ -11660,7 +12307,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Missing Ranges",
@@ -11697,7 +12345,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Remove Covered Intervals",
@@ -11707,7 +12356,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Check if Grid can be Cut into Sections",
@@ -11726,7 +12376,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Data Stream as Disjoint Intervals",
@@ -11736,7 +12387,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "N meetings in one room",
@@ -11766,7 +12418,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Length of Pair Chain",
@@ -11775,7 +12428,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Partition Labels",
@@ -11785,7 +12439,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       }
     ],
     "Jump Game Reachability/Minimization": [
@@ -11801,7 +12456,8 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Jump Game",
@@ -11813,7 +12469,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Jump Game VII",
@@ -11833,7 +12490,8 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       }
     ],
     "Gas Station Circuit": [
@@ -11847,7 +12505,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       }
     ],
     "Task Scheduling (Frequency Based)": [
@@ -11862,7 +12521,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Distant Barcodes",
@@ -11899,7 +12559,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Deletions to Make Character Frequencies Unique",
@@ -11908,7 +12569,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Construct String With Repeat Limit",
@@ -11931,7 +12593,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Candy",
@@ -11941,19 +12604,23 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Queue Reconstruction by Height",
         "leetcodeUrl": "https://leetcode.com/problems/queue-reconstruction-by-height/",
         "leetcodeId": "",
         "sources": [
-          "https://thita.ai/dsa-patterns-sheet"
+          "https://thita.ai/dsa-patterns-sheet",
+          "https://www.algoexpert.io/questions"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Two City Scheduling",
@@ -11964,7 +12631,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Fractional Knapsack",
@@ -12091,7 +12759,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Apply Operations to Maximize Score",
@@ -12184,7 +12853,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Number of Changes to Make Binary String Beautiful",
@@ -12284,7 +12954,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximum Matrix Sum",
@@ -12321,7 +12992,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Maximal Score After Applying K Operations",
@@ -12388,7 +13060,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Valid Paranthesis Checker",
@@ -12398,7 +13071,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
@@ -12451,7 +13125,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Single Number II",
@@ -12461,7 +13136,8 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Missing Number",
@@ -12473,7 +13149,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Find the Difference",
@@ -12495,7 +13172,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Bitwise AND of Numbers Range",
@@ -12505,7 +13183,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Sum of Two Integers",
@@ -12516,7 +13195,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Bitwise XOR of All Pairings",
@@ -12591,7 +13271,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Shuffle the Array",
@@ -12706,7 +13387,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Power of Two",
@@ -12718,7 +13400,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Introduction to Bits and Tricks",
@@ -12796,7 +13479,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       }
     ],
     "Power of Two/Four Check": [
@@ -12864,7 +13548,8 @@
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       }
     ],
     "Advanced Maths": [
@@ -12885,7 +13570,8 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       }
     ]
   },
@@ -12898,7 +13584,8 @@
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Ugly Number",
@@ -12907,7 +13594,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Prime Subtraction Operation",
@@ -12936,7 +13624,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Excel Sheet Column Title",
@@ -12945,7 +13634,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Greatest Common Divisor of Strings",
@@ -12954,7 +13644,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Insert Greatest Common Divisors in Linked List",
@@ -13062,7 +13753,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Find Missing Observations",
@@ -13080,7 +13772,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Operations to Make a Uni-Value Grid",
@@ -13117,7 +13810,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Count Total Number of Colored Cells",
@@ -13195,7 +13889,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Minimum Area Rectangle II",
@@ -13212,10 +13907,12 @@
         "leetcodeId": "",
         "sources": [
           "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "recommended": true
       },
       {
         "name": "Detect Squares",
@@ -13224,7 +13921,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Wildest Vertical Area Between Two Points Containing No Points",
@@ -13253,15 +13951,6 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard"
-      },
-      {
-        "name": "Minimum Area Rectangle",
-        "leetcodeUrl": "https://leetcode.com/problems/minimum-area-rectangle/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Maximum Area Rectangle With Point Constraints I",
@@ -13306,7 +13995,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Rectangle Overlap",
@@ -13315,7 +14005,8 @@
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Minimum Time Visiting All Points",
@@ -13380,7 +14071,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Image Smoother",
@@ -13389,7 +14081,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "recommended": true
       },
       {
         "name": "Largest Local Values in a Matrix",
@@ -13445,7 +14138,8 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Walking Robot Simulation",
@@ -13497,7 +14191,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Snapshot Array",
@@ -13518,7 +14213,8 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Design a Food Rating System",
@@ -13528,7 +14224,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "recommended": true
       },
       {
         "name": "Range Module",

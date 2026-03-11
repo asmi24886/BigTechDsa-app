@@ -8,6 +8,7 @@ interface Problem {
   sources: string[]
   difficulty: string
   alternatePatterns?: string[]
+  recommended?: boolean
 }
 
 type MergedData = Record<string, Record<string, Problem[]>>
@@ -25,6 +26,7 @@ const SOURCE_NAME: Record<string, string> = {
   'https://neetcode.io': 'NeetCode',
   'https://thita.io': 'Thita',
   'https://algomaster.io': 'Algomaster',
+  'https://www.algoexpert.io/questions': 'AlgoExpert',
   'https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z': 'Striver',
   'https://www.educative.io/courses/grokking-coding-interview': 'Educative',
   'https://www.educative.io/courses/grokking-dynamic-programming-interview': 'Educative DP',
@@ -42,6 +44,7 @@ const SOURCE_DEFS: SourceDef[] = [
   { key: 'neetcode', label: 'NeetCode', matcher: s => s.includes('neetcode'), color: '#f59e0b' },
   { key: 'thita', label: 'Thita', matcher: s => s.includes('thita'), color: '#10b981' },
   { key: 'algomaster', label: 'AlgoMaster', matcher: s => s.includes('algomaster'), color: '#3b82f6' },
+  { key: 'algoexpert', label: 'AlgoExpert', matcher: s => s.includes('algoexpert'), color: '#ef4444' },
   { key: 'educative', label: 'Educative', matcher: s => s.includes('educative') || s.includes('grokking'), color: '#ec4899' },
   { key: 'striver', label: 'TUF (Striver)', matcher: s => s.includes('takeuforward'), color: '#8b5cf6' },
 ]
@@ -54,6 +57,7 @@ function App() {
   const [catFilter, setCatFilter] = useState<string>('All')
   const [search, setSearch] = useState('')
   const [sourceFilter, setSourceFilter] = useState<Set<string>>(new Set())
+  const [picksFilter, setPicksFilter] = useState(false)
 
   useEffect(() => {
     fetch('/merged_dsa.json')
@@ -101,12 +105,13 @@ function App() {
         for (const p of data[cat][sub]) {
           if (diffFilter !== 'All' && p.difficulty !== diffFilter) continue
           if (q && !p.name.toLowerCase().includes(q)) continue
+          if (picksFilter && !p.recommended) continue
           result.push(p)
         }
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search])
+  }, [data, diffFilter, catFilter, search, picksFilter])
 
   /* ── Stats from base-filtered (for source chip counts) ── */
   const baseStats = useMemo(() => {
@@ -171,6 +176,11 @@ function App() {
           })
         }
 
+        // Picks filter
+        if (picksFilter) {
+          problems = problems.filter(p => p.recommended)
+        }
+
         // Search filter
         if (q) {
           problems = problems.filter(p => p.name.toLowerCase().includes(q))
@@ -190,7 +200,7 @@ function App() {
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search, sourceFilter])
+  }, [data, diffFilter, catFilter, search, sourceFilter, picksFilter])
 
   /* ── Filtered count ── */
   const filteredCount = useMemo(() => {
@@ -246,13 +256,14 @@ function App() {
             }
             if (!matchesAll) continue
           }
+          if (picksFilter && !p.recommended) continue
           catTotal++
         }
       }
       counts[cat] = catTotal
     }
     return counts
-  }, [data, diffFilter, search, sourceFilter])
+  }, [data, diffFilter, search, sourceFilter, picksFilter])
 
   /* ── Categories List ── */
   const categoriesList = useMemo(() => {
@@ -298,7 +309,7 @@ function App() {
     setOpenSubs(new Set())
   }
 
-  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All'
+  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All' || picksFilter
 
   if (!data || !globalStats || !filteredData || !filteredStats || !baseStats) {
     return (
@@ -314,7 +325,7 @@ function App() {
       <header className="header">
         <h1>Big Tech DSA</h1>
         <p>
-          {hasActiveFilters ? `${filteredCount} of ${globalStats.total}` : globalStats.total} problems from 5 curated sources <br />
+          {hasActiveFilters ? `${filteredCount} of ${globalStats.total}` : globalStats.total} problems from 6 curated sources <br />
           <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>(Problems updated every 6 months)</span>
         </p>
       </header>
@@ -387,6 +398,15 @@ function App() {
             )
           })}
         </div>
+
+        {/* BigTechDsa Picks Toggle */}
+        <button
+          className={`filter-btn picks ${picksFilter ? 'active' : ''}`}
+          onClick={() => setPicksFilter(f => !f)}
+          title={picksFilter ? 'Showing curated picks — click to show all' : 'Show only BigTechDsa curated picks (399)'}
+        >
+          ★ BigTechDsa Picks {picksFilter && '✓'}
+        </button>
       </div>
 
       {/* Search */}
@@ -470,10 +490,12 @@ function App() {
                                         rel="noopener noreferrer"
                                         title={p.name}
                                       >
+                                        {p.recommended && <span className="pick-star" title="BigTechDsa Pick">★ </span>}
                                         {p.name}
                                       </a>
                                     ) : (
                                       <span className="problem-name no-link" title={p.name}>
+                                        {p.recommended && <span className="pick-star" title="BigTechDsa Pick">★ </span>}
                                         {p.name}
                                       </span>
                                     )}
@@ -492,9 +514,10 @@ function App() {
                                     const shortName = s.includes('neetcode') ? 'NC' :
                                       s.includes('thita') ? 'TH' :
                                         s.includes('algomaster') ? 'AM' :
-                                          s.includes('takeuforward') ? 'TU' :
-                                            s.includes('grokking-dynamic-programming') ? 'EDP' :
-                                              s.includes('educative') ? 'ED' : 'SRC';
+                                          s.includes('algoexpert') ? 'AE' :
+                                            s.includes('takeuforward') ? 'TU' :
+                                              s.includes('grokking-dynamic-programming') ? 'EDP' :
+                                                s.includes('educative') ? 'ED' : 'SRC';
                                     return (
                                       <a
                                         key={j}
@@ -529,7 +552,7 @@ function App() {
           <strong>Disclaimer:</strong> This project is a personal study tool and an aggregation
           of Data Structures and Algorithms problems that are freely available online. It does not contain
           paywalled or premium content, nor is it an act of piracy or theft. All rights and original
-          materials belong to their respective platforms (LeetCode, NeetCode, Striver/TUF, AlgoMaster, Thita, Educative).
+          materials belong to their respective platforms (LeetCode, NeetCode, Striver/TUF, AlgoMaster, AlgoExpert, Thita, Educative).
         </p>
       </footer>
     </>
