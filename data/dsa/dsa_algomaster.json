@@ -1,9 +1,27 @@
 {
   "Arrays": {
-    "Simulation / General Array": [
+    "Arrays": [
+      {
+        "name": "Max Consecutive Ones",
+        "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Third Maximum Number",
+        "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Move Zeroes",
         "leetcodeUrl": "https://leetcode.com/problems/move-zeroes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shuffle the Array",
+        "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -14,14 +32,50 @@
         "leetcodeId": ""
       },
       {
+        "name": "Remove Duplicates from Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Element",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-element",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Best Time to Buy and Sell Stock",
         "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
       {
+        "name": "Missing Ranges",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-ranges",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Majority Element II",
+        "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Rotate Array",
         "leetcodeUrl": "https://leetcode.com/problems/rotate-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Product of Array Except Self",
+        "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Duplicates from Sorted Array II",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -44,24 +98,14 @@
         "leetcodeId": ""
       },
       {
+        "name": "Next Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/next-permutation",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "First Missing Positive",
         "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Hash Set: Lookups/Uniqueness": [
-      {
-        "name": "Remove Duplicates from Sorted Array",
-        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Prefix Sums": [
-      {
-        "name": "Product of Array Except Self",
-        "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -69,6 +113,18 @@
   },
   "Strings": {
     "Strings": [
+      {
+        "name": "Reverse String",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Length of Last Word",
+        "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Is Subsequence",
         "leetcodeUrl": "https://leetcode.com/problems/is-subsequence",
@@ -82,8 +138,44 @@
         "leetcodeId": ""
       },
       {
+        "name": "Valid Palindrome II",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Anagram",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-anagram",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate String",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Longest Common Prefix",
         "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Index of the First Occurrence in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "One Edit Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/one-edit-distance",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -94,8 +186,32 @@
         "leetcodeId": ""
       },
       {
+        "name": "Count and Say",
+        "leetcodeUrl": "https://leetcode.com/problems/count-and-say",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Reverse Words in a String",
         "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Determine if Two Strings Are Close",
+        "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Bold Tag in String",
+        "leetcodeUrl": "https://leetcode.com/problems/add-bold-tag-in-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Text Justification",
+        "leetcodeUrl": "https://leetcode.com/problems/text-justification",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -108,10 +224,28 @@
     ]
   },
   "Bit Manipulation": {
-    "Bitwise Operations": [
+    "Bit Manipulation": [
       {
         "name": "Single Number",
         "leetcodeUrl": "https://leetcode.com/problems/single-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Missing Number",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Set Mismatch",
+        "leetcodeUrl": "https://leetcode.com/problems/set-mismatch",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Power of Two",
+        "leetcodeUrl": "https://leetcode.com/problems/power-of-two",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -128,6 +262,12 @@
         "leetcodeId": ""
       },
       {
+        "name": "Hamming Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/hamming-distance",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Reverse Bits",
         "leetcodeUrl": "https://leetcode.com/problems/reverse-bits",
         "source": "https://algomaster.io/practice/dsa-patterns",
@@ -136,6 +276,12 @@
       {
         "name": "Bitwise AND of Numbers Range",
         "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Single Number II",
+        "leetcodeUrl": "https://leetcode.com/problems/single-number-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -154,7 +300,7 @@
     ]
   },
   "Hash Tables": {
-    "Design / Encodings": [
+    "Hash Tables": [
       {
         "name": "Design HashMap",
         "leetcodeUrl": "https://leetcode.com/problems/design-hashmap",
@@ -162,13 +308,29 @@
         "leetcodeId": ""
       },
       {
-        "name": "Encode and Decode TinyURL",
-        "leetcodeUrl": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+        "name": "Contains Duplicate",
+        "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Simulation / General Array": [
+      },
+      {
+        "name": "Word Pattern",
+        "leetcodeUrl": "https://leetcode.com/problems/word-pattern",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First Unique Character in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find All Numbers Disappeared in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Maximum Number of Balloons",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons",
@@ -182,14 +344,50 @@
         "leetcodeId": ""
       },
       {
+        "name": "Isomorphic Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Ransom Note",
         "leetcodeUrl": "https://leetcode.com/problems/ransom-note",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
       {
+        "name": "Contains Duplicate II",
+        "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Intersection of Two Arrays II",
+        "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Group Anagrams",
+        "leetcodeUrl": "https://leetcode.com/problems/group-anagrams",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Encode and Decode TinyURL",
+        "leetcodeUrl": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Reorganize String",
         "leetcodeUrl": "https://leetcode.com/problems/reorganize-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Consecutive Sequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -210,47 +408,65 @@
         "leetcodeUrl": "https://leetcode.com/problems/number-of-good-ways-to-split-a-string",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Hash Map: Frequency/Counters": [
+      },
       {
-        "name": "Isomorphic Strings",
-        "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings",
+        "name": "Group Shifted Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/group-shifted-strings",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
       {
-        "name": "Group Anagrams",
-        "leetcodeUrl": "https://leetcode.com/problems/group-anagrams",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Hash Set: Lookups/Uniqueness": [
-      {
-        "name": "Contains Duplicate II",
-        "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      },
-      {
-        "name": "Longest Consecutive Sequence",
-        "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "name": "Minimum Deletions to Make Character Frequencies Unique",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Two Pointers": {
-    "Same Direction Pointers": [
+    "Two Pointers": [
       {
         "name": "Merge Sorted Array",
         "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Opposite Ends (Meeting in the Middle)": [
+      },
+      {
+        "name": "Merge Strings Alternately",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Squares of a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Backspace String Compare",
+        "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Word Abbreviation",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-word-abbreviation",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Binary Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/count-binary-substrings",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Two Sum II - Input Array Is Sorted",
         "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
@@ -270,8 +486,38 @@
         "leetcodeId": ""
       },
       {
+        "name": "4Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/4Sum",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "String Compression",
+        "leetcodeUrl": "https://leetcode.com/problems/string-compression",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Boats to Save People",
+        "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Palindromic Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Trapping Rain Water",
         "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Subarrays With Fixed Bounds",
+        "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -280,8 +526,32 @@
   "Prefix Sum": {
     "Prefix Sum": [
       {
+        "name": "Running Sum of 1d Array",
+        "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Range Sum Query - Immutable",
         "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Pivot Index",
+        "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Population Year",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-population-year",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Range Addition",
+        "leetcodeUrl": "https://leetcode.com/problems/range-addition",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -308,25 +578,35 @@
         "leetcodeUrl": "https://leetcode.com/problems/contiguous-array",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Range Sum Query 2D - Immutable",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Increment Submatrices by One",
+        "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Matrix Block Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/matrix-block-sum",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Sliding Window - Fixed Size": {
-    "General Sliding Window": [
+    "Sliding Window - Fixed Size": [
       {
         "name": "Maximum Average Subarray I",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
-      {
-        "name": "Maximum Sum of Distinct Subarrays With Length K",
-        "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Fixed Size Window": [
       {
         "name": "Find All Anagrams in a String",
         "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
@@ -340,6 +620,18 @@
         "leetcodeId": ""
       },
       {
+        "name": "Maximum Number of Vowels in a Substring of Given Length",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Sum of Distinct Subarrays With Length K",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Substring with Concatenation of All Words",
         "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
         "source": "https://algomaster.io/practice/dsa-patterns",
@@ -348,7 +640,7 @@
     ]
   },
   "Sliding Window - Dynamic Size": {
-    "Variable Size Window": [
+    "Sliding Window - Dynamic Size": [
       {
         "name": "Longest Substring Without Repeating Characters",
         "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
@@ -374,8 +666,68 @@
         "leetcodeId": ""
       },
       {
+        "name": "Count Number of Nice Subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Fruit Into Baskets",
+        "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Points You Can Obtain from Cards",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subarray Product Less Than K",
+        "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frequency of the Most Frequent Element",
+        "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Substring with At Most Two Distinct Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Substring with At Most K Distinct Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Substring with At Least K Repeating Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Minimum Window Substring",
         "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Window Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-window-subsequence",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subarrays with K Different Integers",
+        "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -396,8 +748,26 @@
         "leetcodeId": ""
       },
       {
+        "name": "Maximum Subarray Sum with One Deletion",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Absolute Sum of Any Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Maximum Product Subarray",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Turbulent Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-turbulent-subarray",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -410,10 +780,28 @@
     ]
   },
   "Matrix (2D Array)": {
-    "Matrix Traversal & Math": [
+    "Matrix (2D Array)": [
+      {
+        "name": "Transpose Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Spiral Matrix",
         "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Spiral Matrix II",
+        "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Diagonal Traverse",
+        "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -430,23 +818,27 @@
         "leetcodeId": ""
       },
       {
-        "name": "Game of Life",
-        "leetcodeUrl": "https://leetcode.com/problems/game-of-life",
+        "name": "Candy Crush",
+        "leetcodeUrl": "https://leetcode.com/problems/candy-crush",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Hash Set: Lookups/Uniqueness": [
+      },
       {
         "name": "Valid Sudoku",
         "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Game of Life",
+        "leetcodeUrl": "https://leetcode.com/problems/game-of-life",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Linked List": {
-    "Fast & Slow Pointers": [
+    "Linked List": [
       {
         "name": "Intersection of Two Linked Lists",
         "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists",
@@ -454,16 +846,26 @@
         "leetcodeId": ""
       },
       {
-        "name": "Remove Nth Node From End of List",
-        "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+        "name": "Remove Duplicates from Sorted List",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "General Linked List": [
+      },
       {
         "name": "Design Linked List",
         "leetcodeUrl": "https://leetcode.com/problems/design-linked-list",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete the Middle Node of a Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Nth Node From End of List",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -474,24 +876,56 @@
         "leetcodeId": ""
       },
       {
-        "name": "Rotate List",
-        "leetcodeUrl": "https://leetcode.com/problems/rotate-list",
+        "name": "Odd Even Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "In-place Reversal": [
+      },
       {
         "name": "Swap Nodes in Pairs",
         "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Design / Specialized Lists (Doubly/Random)": [
+      },
       {
         "name": "Copy List with Random Pointer",
         "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition List",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-list",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Rotate List",
+        "leetcodeUrl": "https://leetcode.com/problems/rotate-list",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Reorder List",
+        "leetcodeUrl": "https://leetcode.com/problems/reorder-list",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Two Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Add Two Numbers II",
+        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete Node in a Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -500,18 +934,16 @@
         "leetcodeUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Merging/Math Lists": [
+      },
       {
-        "name": "Partition List",
-        "leetcodeUrl": "https://leetcode.com/problems/partition-list",
+        "name": "Insert into a Sorted Circular Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
       {
-        "name": "Add Two Numbers",
-        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers",
+        "name": "Merge In Between Linked Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -568,10 +1000,16 @@
     ]
   },
   "Stacks": {
-    "Parsing & Expression Evaluation": [
+    "Stacks": [
       {
         "name": "Valid Parentheses",
         "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Baseball Game",
+        "leetcodeUrl": "https://leetcode.com/problems/baseball-game",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -582,8 +1020,68 @@
         "leetcodeId": ""
       },
       {
+        "name": "Maximum Nesting Depth of the Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Min Stack",
         "leetcodeUrl": "https://leetcode.com/problems/min-stack",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Asteroid Collision",
+        "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Car Fleet",
+        "leetcodeUrl": "https://leetcode.com/problems/car-fleet",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Parenthesis String",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Validate Stack Sequences",
+        "leetcodeUrl": "https://leetcode.com/problems/validate-stack-sequences",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Remove to Make Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Duplicate Letters",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Removing Stars From a String",
+        "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Simplify Path",
+        "leetcodeUrl": "https://leetcode.com/problems/simplify-path",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Exclusive Time of Functions",
+        "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -600,22 +1098,14 @@
         "leetcodeId": ""
       },
       {
-        "name": "Longest Valid Parentheses",
-        "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "General Stack/Queue": [
-      {
-        "name": "Remove Duplicate Letters",
-        "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters",
+        "name": "Basic Calculator",
+        "leetcodeUrl": "https://leetcode.com/problems/basic-calculator",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
       {
-        "name": "Removing Stars From a String",
-        "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string",
+        "name": "Longest Valid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -626,6 +1116,18 @@
       {
         "name": "Next Greater Element I",
         "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Final Prices With a Special Discount in a Shop",
+        "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Element II",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -642,16 +1144,56 @@
         "leetcodeId": ""
       },
       {
-        "name": "Largest Rectangle in Histogram",
-        "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+        "name": "Buildings With an Ocean View",
+        "leetcodeUrl": "https://leetcode.com/problems/buildings-with-an-ocean-view",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "General Stack/Queue": [
+      },
       {
         "name": "132 Pattern",
         "leetcodeUrl": "https://leetcode.com/problems/132-pattern",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove K Digits",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Width Ramp",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-width-ramp",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Chunks To Make Sorted",
+        "leetcodeUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Subarray Minimums",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Subarray Ranges",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-ranges",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Unsorted Continuous Subarray",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Next Greater Node In Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/next-greater-node-in-linked-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -660,11 +1202,23 @@
         "leetcodeUrl": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Largest Rectangle in Histogram",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Create Maximum Number",
+        "leetcodeUrl": "https://leetcode.com/problems/create-maximum-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Queues": {
-    "General Stack/Queue": [
+    "Queues": [
       {
         "name": "Number of Recent Calls",
         "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls",
@@ -678,15 +1232,63 @@
         "leetcodeId": ""
       },
       {
+        "name": "Moving Average from Data Stream",
+        "leetcodeUrl": "https://leetcode.com/problems/moving-average-from-data-stream",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Reveal Cards In Increasing Order",
         "leetcodeUrl": "https://leetcode.com/problems/reveal-cards-in-increasing-order",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First Unique Number",
+        "leetcodeUrl": "https://leetcode.com/problems/first-unique-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of People Aware of a Secret",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Winner of the Circular Game",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Monotonic Queue": {
-    "General Stack/Queue": [
+    "Monotonic Queue": [
+      {
+        "name": "Jump Game VI",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game-vi",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Continuous Subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/continuous-subarrays",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Most Competitive Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-most-competitive-subsequence",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Partitions With Max-Min Difference at Most K",
+        "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
         "leetcodeUrl": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
@@ -694,8 +1296,8 @@
         "leetcodeId": ""
       },
       {
-        "name": "Jump Game VI",
-        "leetcodeUrl": "https://leetcode.com/problems/jump-game-vi",
+        "name": "Sliding Window Maximum",
+        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -704,12 +1306,16 @@
         "leetcodeUrl": "https://leetcode.com/problems/max-value-of-equation",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Design / Deque": [
+      },
       {
-        "name": "Sliding Window Maximum",
-        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum",
+        "name": "Constrained Subsequence Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/constrained-subsequence-sum",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Subarray with Sum at Least K",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -734,11 +1340,17 @@
         "leetcodeUrl": "https://leetcode.com/problems/maximum-gap",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Contains Duplicate III",
+        "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Recursion": {
-    "State Exploration Backtracking": [
+    "Recursion": [
       {
         "name": "Merge Two Sorted Lists",
         "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists",
@@ -756,11 +1368,29 @@
         "leetcodeUrl": "https://leetcode.com/problems/decode-string",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Special Binary String",
+        "leetcodeUrl": "https://leetcode.com/problems/special-binary-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Integer to English Words",
+        "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Divide and Conquer": {
     "Divide and Conquer": [
+      {
+        "name": "Longest Nice Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-nice-substring",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Convert Sorted List to Binary Search Tree",
         "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
@@ -784,6 +1414,12 @@
   "Merge Sort": {
     "Merge Sort": [
       {
+        "name": "Sort an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-an-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Sort List",
         "leetcodeUrl": "https://leetcode.com/problems/sort-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
@@ -792,6 +1428,12 @@
       {
         "name": "Reverse Pairs",
         "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count of Range Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/count-of-range-sum",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -810,14 +1452,50 @@
         "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Find the Kth Largest Integer in the Array",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Binary Search": {
-    "Binary Search on Arrays (Lower/Upper Bound)": [
+    "Binary Search": [
+      {
+        "name": "Binary Search",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-search",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "First Bad Version",
+        "leetcodeUrl": "https://leetcode.com/problems/first-bad-version",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Perfect Square",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Search Insert Position",
         "leetcodeUrl": "https://leetcode.com/problems/search-insert-position",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Guess Number Higher or Lower",
+        "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Smallest Letter Greater Than Target",
+        "leetcodeUrl": "https://leetcode.com/problems/find-smallest-letter-greater-than-target",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -828,16 +1506,56 @@
         "leetcodeId": ""
       },
       {
+        "name": "Search in Rotated Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search in Rotated Sorted Array II",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Find Peak Element",
         "leetcodeUrl": "https://leetcode.com/problems/find-peak-element",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Binary Search on Rotated Arrays": [
+      },
       {
-        "name": "Search in Rotated Sorted Array",
-        "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "name": "Random Pick with Weight",
+        "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K Closest Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Heaters",
+        "leetcodeUrl": "https://leetcode.com/problems/heaters",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Koko Eating Bananas",
+        "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Capacity To Ship Packages Within D Days",
+        "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Number of Days to Make m Bouquets",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -846,12 +1564,22 @@
         "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Standard Binary Search": [
+      },
       {
-        "name": "Random Pick with Weight",
-        "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight",
+        "name": "Search a 2D Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Search a 2D Matrix II",
+        "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Magnetic Force Between Two Balls",
+        "leetcodeUrl": "https://leetcode.com/problems/magnetic-force-between-two-balls",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -860,59 +1588,59 @@
         "leetcodeUrl": "https://leetcode.com/problems/find-in-mountain-array",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Binary Search on Answers (Min-Max/Max-Min)": [
+      },
       {
-        "name": "Koko Eating Bananas",
-        "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas",
+        "name": "Split Array Largest Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Binary Search on Matrices": [
-      {
-        "name": "Search a 2D Matrix",
-        "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Binary Search on Multiple Arrays": [
+      },
       {
         "name": "Median of Two Sorted Arrays",
         "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find K-th Smallest Pair Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Backtracking": {
-    "Parentheses Generation": [
+    "Backtracking": [
       {
         "name": "Generate Parentheses",
         "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Permutations": [
+      },
       {
         "name": "Permutations",
         "leetcodeUrl": "https://leetcode.com/problems/permutations",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Subsets": [
+      },
+      {
+        "name": "Permutations II",
+        "leetcodeUrl": "https://leetcode.com/problems/permutations-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Subsets",
         "leetcodeUrl": "https://leetcode.com/problems/subsets",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Combinations": [
+      },
+      {
+        "name": "Subsets II",
+        "leetcodeUrl": "https://leetcode.com/problems/subsets-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Combination Sum",
         "leetcodeUrl": "https://leetcode.com/problems/combination-sum",
@@ -926,31 +1654,75 @@
         "leetcodeId": ""
       },
       {
+        "name": "Combination Sum III",
+        "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Combinations",
+        "leetcodeUrl": "https://leetcode.com/problems/combinations",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Letter Combinations of a Phone Number",
         "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Partitioning Backtracking": [
+      },
+      {
+        "name": "Restore IP Addresses",
+        "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Palindrome Partitioning",
         "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Grid / Branching Backtracking": [
+      },
+      {
+        "name": "Unique Paths III",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths-iii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Invalid Parentheses",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "N-Queens",
         "leetcodeUrl": "https://leetcode.com/problems/n-queens",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sudoku Solver",
+        "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Tree Traversal - Level Order": {
-    "Tree BFS / Level Order Traversal": [
+    "Tree Traversal - Level Order": [
+      {
+        "name": "Maximum Depth of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Average of Levels in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Binary Tree Level Order Traversal",
         "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal",
@@ -970,26 +1742,108 @@
         "leetcodeId": ""
       },
       {
+        "name": "Binary Tree Vertical Order Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Populating Next Right Pointers in Each Node",
+        "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Populating Next Right Pointers in Each Node II",
         "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Tree DFS / General": [
+      },
       {
         "name": "Maximum Width of Binary Tree",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Check Completeness of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Tree Traversal - Pre Order": {
-    "Tree Traversals (DFS)": [
+    "Tree Traversal - Pre Order": [
       {
         "name": "Binary Tree Preorder Traversal",
         "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Same Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/same-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Symmetric Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum of Left Leaves",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Subtree of Another Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Binary Tree Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Convert Sorted Array to Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Complete Tree Nodes",
+        "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Path Sum II",
+        "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Path Sum III",
+        "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Univalue Path",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-univalue-path",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Difference Between Node and Ancestor",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1004,61 +1858,7 @@
         "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Tree Properties & Structural DP": [
-      {
-        "name": "Same Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/same-tree",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
       },
-      {
-        "name": "Symmetric Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Tree DFS / General": [
-      {
-        "name": "Binary Tree Paths",
-        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      },
-      {
-        "name": "Count Complete Tree Nodes",
-        "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "BST Properties": [
-      {
-        "name": "Convert Sorted Array to Binary Search Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Tree Path Problems": [
-      {
-        "name": "Path Sum III",
-        "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Lowest Common Ancestor (LCA)": [
-      {
-        "name": "Maximum Difference Between Node and Ancestor",
-        "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Tree Construction & Serialization": [
       {
         "name": "Serialize and Deserialize Binary Tree",
         "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
@@ -1068,15 +1868,13 @@
     ]
   },
   "Tree Traversal - In Order": {
-    "Tree Traversals (DFS)": [
+    "Tree Traversal - In Order": [
       {
         "name": "Binary Tree Inorder Traversal",
         "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "BST Properties": [
+      },
       {
         "name": "Minimum Distance Between BST Nodes",
         "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-bst-nodes",
@@ -1106,11 +1904,17 @@
         "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Balance a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Tree Traversal - Post-Order": {
-    "Tree Traversals (DFS)": [
+    "Tree Traversal - Post-Order": [
       {
         "name": "Binary Tree Postorder Traversal",
         "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal",
@@ -1118,16 +1922,14 @@
         "leetcodeId": ""
       },
       {
-        "name": "Flatten Binary Tree to Linked List",
-        "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Tree Properties & Structural DP": [
-      {
         "name": "Invert Binary Tree",
         "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Balanced Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1138,16 +1940,38 @@
         "leetcodeId": ""
       },
       {
+        "name": "Count Good Nodes in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Sum Root to Leaf Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete Nodes And Return Forest",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-and-return-forest",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lowest Common Ancestor of a Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Find Duplicate Subtrees",
         "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-subtrees",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Tree DFS / General": [
+      },
       {
-        "name": "Delete Nodes And Return Forest",
-        "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-and-return-forest",
+        "name": "Flatten Binary Tree to Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1156,17 +1980,19 @@
         "leetcodeUrl": "https://leetcode.com/problems/distribute-coins-in-binary-tree",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Lowest Common Ancestor (LCA)": [
+      },
       {
-        "name": "Lowest Common Ancestor of a Binary Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "name": "Boundary of Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/boundary-of-binary-tree",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Tree Path Problems": [
+      },
+      {
+        "name": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "leetcodeUrl": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Binary Tree Maximum Path Sum",
         "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
@@ -1178,8 +2004,86 @@
   "BST / Ordered Set": {
     "BST / Ordered Set": [
       {
+        "name": "Search in a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Closest Binary Search Tree Value",
+        "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Sum IV - Input is a BST",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Range Sum of BST",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-bst",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Inorder Successor in BST",
+        "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Inorder Successor in BST II",
+        "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Insert into a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete Node in a BST",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Trim a Binary Search Tree",
         "leetcodeUrl": "https://leetcode.com/problems/trim-a-binary-search-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Lowest Common Ancestor of a Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Largest BST Subtree",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-bst-subtree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Recover Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Construct Binary Search Tree from Preorder Traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1230,8 +2134,32 @@
         "leetcodeId": ""
       },
       {
+        "name": "Replace Words",
+        "leetcodeUrl": "https://leetcode.com/problems/replace-words",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Maximum XOR of Two Numbers in an Array",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Sub-Folders from the Filesystem",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Length of the Longest Common Prefix",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Words Within Two Edits of Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1240,11 +2168,47 @@
         "leetcodeUrl": "https://leetcode.com/problems/word-search-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Stream of Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/stream-of-characters",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Concatenated Words",
+        "leetcodeUrl": "https://leetcode.com/problems/concatenated-words",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Squares",
+        "leetcodeUrl": "https://leetcode.com/problems/word-squares",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Palindrome Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-pairs",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Heaps": {
-    "General Priority Queue": [
+    "Heaps": [
+      {
+        "name": "Last Stone Weight",
+        "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Connect Sticks",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-connect-sticks",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Furthest Building You Can Reach",
         "leetcodeUrl": "https://leetcode.com/problems/furthest-building-you-can-reach",
@@ -1256,19 +2220,29 @@
         "leetcodeUrl": "https://leetcode.com/problems/single-threaded-cpu",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Scheduling / Greedy with Heap": [
+      },
       {
         "name": "Process Tasks Using Servers",
         "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Happy String",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-happy-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Performance of a Team",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-performance-of-a-team",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Two Heaps": {
-    "Two Heaps / Stream Median": [
+    "Two Heaps": [
       {
         "name": "Find Median from Data Stream",
         "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream",
@@ -1314,6 +2288,42 @@
   "Intervals": {
     "Intervals": [
       {
+        "name": "Summary Ranges",
+        "leetcodeUrl": "https://leetcode.com/problems/summary-ranges",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Rooms",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Rooms II",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Scheduler",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-scheduler",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Interval List Intersections",
+        "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Car Pooling",
+        "leetcodeUrl": "https://leetcode.com/problems/car-pooling",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Merge Intervals",
         "leetcodeUrl": "https://leetcode.com/problems/merge-intervals",
         "source": "https://algomaster.io/practice/dsa-patterns",
@@ -1322,6 +2332,18 @@
       {
         "name": "Insert Interval",
         "leetcodeUrl": "https://leetcode.com/problems/insert-interval",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Covered Intervals",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition Labels",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-labels",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1340,6 +2362,18 @@
       {
         "name": "Non-overlapping Intervals",
         "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Two Best Non-Overlapping Events",
+        "leetcodeUrl": "https://leetcode.com/problems/two-best-non-overlapping-events",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Meeting Rooms III",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-iii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -1376,6 +2410,42 @@
   "Data Structure Design": {
     "Data Structure Design": [
       {
+        "name": "Logger Rate Limiter",
+        "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Queue using Stacks",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Implement Stack using Queues",
+        "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Circular Queue",
+        "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Circular Deque",
+        "leetcodeUrl": "https://leetcode.com/problems/design-circular-deque",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Hit Counter",
+        "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Design Browser History",
         "leetcodeUrl": "https://leetcode.com/problems/design-browser-history",
         "source": "https://algomaster.io/practice/dsa-patterns",
@@ -1384,6 +2454,12 @@
       {
         "name": "Time Based Key-Value Store",
         "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Encode and Decode Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/encode-and-decode-strings",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1418,18 +2494,90 @@
         "leetcodeId": ""
       },
       {
+        "name": "LFU Cache",
+        "leetcodeUrl": "https://leetcode.com/problems/lfu-cache",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Max Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/max-stack",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Maximum Frequency Stack",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-stack",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "All O`one Data Structure",
+        "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Range Module",
+        "leetcodeUrl": "https://leetcode.com/problems/range-module",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design Search Autocomplete System",
+        "leetcodeUrl": "https://leetcode.com/problems/design-search-autocomplete-system",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design In-Memory File System",
+        "leetcodeUrl": "https://leetcode.com/problems/design-in-memory-file-system",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Design a Text Editor",
+        "leetcodeUrl": "https://leetcode.com/problems/design-a-text-editor",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Greedy": {
-    "Array & Value Distribution Greedy": [
+    "Greedy": [
+      {
+        "name": "Assign Cookies",
+        "leetcodeUrl": "https://leetcode.com/problems/assign-cookies",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Apple Redistribution into Boxes",
+        "leetcodeUrl": "https://leetcode.com/problems/apple-redistribution-into-boxes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jump Game",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Jump Game II",
         "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Jump Game VII",
+        "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Add to Make Parentheses Valid",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1440,22 +2588,44 @@
         "leetcodeId": ""
       },
       {
-        "name": "Candy",
-        "leetcodeUrl": "https://leetcode.com/problems/candy",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "General Greedy": [
-      {
-        "name": "Minimum Add to Make Parentheses Valid",
-        "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+        "name": "Task Scheduler",
+        "leetcodeUrl": "https://leetcode.com/problems/task-scheduler",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
       {
-        "name": "Task Scheduler",
-        "leetcodeUrl": "https://leetcode.com/problems/task-scheduler",
+        "name": "Maximum Swap",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-swap",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Queue Reconstruction by Height",
+        "leetcodeUrl": "https://leetcode.com/problems/queue-reconstruction-by-height",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Score From Removing Substrings",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Avoid Flood in The City",
+        "leetcodeUrl": "https://leetcode.com/problems/avoid-flood-in-the-city",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Matrix Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-matrix-sum",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Most Profit Assigning Work",
+        "leetcodeUrl": "https://leetcode.com/problems/most-profit-assigning-work",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1466,8 +2636,20 @@
         "leetcodeId": ""
       },
       {
+        "name": "Candy",
+        "leetcodeUrl": "https://leetcode.com/problems/candy",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Minimum Number of Refueling Stops",
         "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Set Intersection Size At Least Two",
+        "leetcodeUrl": "https://leetcode.com/problems/set-intersection-size-at-least-two",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -1476,8 +2658,26 @@
   "Depth First Search (DFS)": {
     "Depth First Search (DFS)": [
       {
+        "name": "Flood Fill",
+        "leetcodeUrl": "https://leetcode.com/problems/flood-fill",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Number of Islands",
         "leetcodeUrl": "https://leetcode.com/problems/number-of-islands",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Distinct Islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Search",
+        "leetcodeUrl": "https://leetcode.com/problems/word-search",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1530,8 +2730,26 @@
         "leetcodeId": ""
       },
       {
+        "name": "Number of Enclaves",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Making A Large Island",
         "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Critical Connections in a Network",
+        "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Path With Different Adjacent Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -1558,6 +2776,42 @@
         "leetcodeId": ""
       },
       {
+        "name": "Snakes and Ladders",
+        "leetcodeUrl": "https://leetcode.com/problems/snakes-and-ladders",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Genetic Mutation",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-genetic-mutation",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Walls and Gates",
+        "leetcodeUrl": "https://leetcode.com/problems/walls-and-gates",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Knight Moves",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-knight-moves",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Path in Binary Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Path With Maximum Minimum Value",
+        "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Shortest Path in a Grid with Obstacles Elimination",
         "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
         "source": "https://algomaster.io/practice/dsa-patterns",
@@ -1574,6 +2828,12 @@
         "leetcodeUrl": "https://leetcode.com/problems/word-ladder",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Obstacle Removal to Reach Corner",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
@@ -1582,6 +2842,18 @@
       {
         "name": "Course Schedule II",
         "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Course Schedule IV",
+        "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iv",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Parallel Courses",
+        "leetcodeUrl": "https://leetcode.com/problems/parallel-courses",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1598,8 +2870,20 @@
         "leetcodeId": ""
       },
       {
+        "name": "Find All Possible Recipes from Given Supplies",
+        "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Sort Items by Groups Respecting Dependencies",
         "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Alien Dictionary",
+        "leetcodeUrl": "https://leetcode.com/problems/alien-dictionary",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -1607,6 +2891,12 @@
   },
   "Union Find": {
     "Union Find": [
+      {
+        "name": "Number of Connected Components in an Undirected Graph",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Number of Provinces",
         "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces",
@@ -1620,8 +2910,26 @@
         "leetcodeId": ""
       },
       {
+        "name": "Graph Valid Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/graph-valid-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Accounts Merge",
         "leetcodeUrl": "https://leetcode.com/problems/accounts-merge",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Evaluate Division",
+        "leetcodeUrl": "https://leetcode.com/problems/evaluate-division",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Most Stones Removed with Same Row or Column",
+        "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1630,14 +2938,44 @@
         "leetcodeUrl": "https://leetcode.com/problems/minimize-malware-spread",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Number of Islands II",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-islands-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "Minimum Spanning Tree": {
-    "Tree DFS / General": [
+    "Minimum Spanning Tree": [
       {
         "name": "Min Cost to Connect All Points",
         "leetcodeUrl": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Connecting Cities With Minimum Cost",
+        "leetcodeUrl": "https://leetcode.com/problems/connecting-cities-with-minimum-cost",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Optimize Water Distribution in a Village",
+        "leetcodeUrl": "https://leetcode.com/problems/optimize-water-distribution-in-a-village",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximize Spanning Tree Stability with Upgrades",
+        "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -1670,8 +3008,44 @@
         "leetcodeId": ""
       },
       {
+        "name": "The Maze II",
+        "leetcodeUrl": "https://leetcode.com/problems/the-maze-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Convert String I",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost Path with Edge Reversals",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find Minimum Time to Reach Last Room I",
+        "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Swim in Rising Water",
         "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Weighted Subgraph With the Required Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -1690,11 +3064,23 @@
         "leetcodeUrl": "https://leetcode.com/problems/cracking-the-safe",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Valid Arrangement of Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-arrangement-of-pairs",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
   "1-D DP": {
-    "Fibonacci DP": [
+    "1-D DP": [
+      {
+        "name": "Fibonacci Number",
+        "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Climbing Stairs",
         "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs",
@@ -1718,10 +3104,40 @@
         "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Maximum Length of Pair Chain",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-pair-chain",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Delete and Earn",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-and-earn",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Integer Break",
+        "leetcodeUrl": "https://leetcode.com/problems/integer-break",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Greatest Sum Divisible by Three",
+        "leetcodeUrl": "https://leetcode.com/problems/greatest-sum-divisible-by-three",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Ways to Paint N × 3 Grid",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
-  "Knapsack DP": {
+  "0/1 Knapsack": {
     "0/1 Knapsack": [
       {
         "name": "Partition Equal Subset Sum",
@@ -1740,19 +3156,29 @@
         "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Ones and Zeroes",
+        "leetcodeUrl": "https://leetcode.com/problems/ones-and-zeroes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Profitable Schemes",
+        "leetcodeUrl": "https://leetcode.com/problems/profitable-schemes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
-  "Unbounded Knapsack DP": {
-    "General DP": [
+  "Unbounded Knapsack": {
+    "Unbounded Knapsack": [
       {
         "name": "Coin Change",
         "leetcodeUrl": "https://leetcode.com/problems/coin-change",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Unbounded Knapsack": [
+      },
       {
         "name": "Coin Change II",
         "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii",
@@ -1764,11 +3190,17 @@
         "leetcodeUrl": "https://leetcode.com/problems/perfect-squares",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost For Tickets",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-for-tickets",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
       }
     ]
   },
-  "Longest Increasing Subsequence DP": {
-    "LIS (Longest Increasing Subsequence)": [
+  "Longest Increasing Subsequence (LIS)": {
+    "Longest Increasing Subsequence (LIS)": [
       {
         "name": "Longest Increasing Subsequence",
         "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence",
@@ -1782,6 +3214,18 @@
         "leetcodeId": ""
       },
       {
+        "name": "Longest String Chain",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Arithmetic Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Russian Doll Envelopes",
         "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes",
         "source": "https://algomaster.io/practice/dsa-patterns",
@@ -1789,8 +3233,20 @@
       }
     ]
   },
-  "2D (Grid) DP": {
-    "Grid DP": [
+  "2D Grid DP": {
+    "2D Grid DP": [
+      {
+        "name": "Pascal's Triangle",
+        "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Unique Paths",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-paths",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Unique Paths II",
         "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii",
@@ -1810,13 +3266,11 @@
         "leetcodeId": ""
       },
       {
-        "name": "Cherry Pickup",
-        "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup",
+        "name": "Maximal Square",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-square",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "General DP": [
+      },
       {
         "name": "Count Square Submatrices with All Ones",
         "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
@@ -1830,8 +3284,50 @@
         "leetcodeId": ""
       },
       {
+        "name": "Paint House",
+        "leetcodeUrl": "https://leetcode.com/problems/paint-house",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Falling Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-falling-path-sum",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Maximum Profit in Job Scheduling",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Burst Balloons",
+        "leetcodeUrl": "https://leetcode.com/problems/burst-balloons",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Remove Boxes",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-boxes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Maximal Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Cherry Pickup",
+        "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Dungeon Game",
+        "leetcodeUrl": "https://leetcode.com/problems/dungeon-game",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1840,30 +3336,68 @@
         "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "MCM & Partition DP": [
+      },
       {
-        "name": "Burst Balloons",
-        "leetcodeUrl": "https://leetcode.com/problems/burst-balloons",
+        "name": "Painting a Grid With Three Different Colors",
+        "leetcodeUrl": "https://leetcode.com/problems/painting-a-grid-with-three-different-colors",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost Path with Teleportations",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-teleportations",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Frog Jump",
+        "leetcodeUrl": "https://leetcode.com/problems/frog-jump",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Optimal Account Balancing",
+        "leetcodeUrl": "https://leetcode.com/problems/optimal-account-balancing",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Difficulty of a Job Schedule",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Cost to Cut a Stick",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "String DP": {
-    "LCS (Longest Common Subsequence)": [
+    "String DP": [
       {
         "name": "Longest Common Subsequence",
         "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "String DP": [
+      },
+      {
+        "name": "Longest Palindromic Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Edit Distance",
         "leetcodeUrl": "https://leetcode.com/problems/edit-distance",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Decode Ways",
+        "leetcodeUrl": "https://leetcode.com/problems/decode-ways",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1880,8 +3414,26 @@
         "leetcodeId": ""
       },
       {
+        "name": "Minimum Deletions to Make String Balanced",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Word Break II",
+        "leetcodeUrl": "https://leetcode.com/problems/word-break-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Wildcard Matching",
         "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Regular Expression Matching",
+        "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1896,38 +3448,38 @@
         "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "General DP": [
+      },
       {
-        "name": "Longest Palindromic Subsequence",
-        "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence",
+        "name": "Strange Printer",
+        "leetcodeUrl": "https://leetcode.com/problems/strange-printer",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Fibonacci DP": [
+      },
       {
-        "name": "Decode Ways",
-        "leetcodeUrl": "https://leetcode.com/problems/decode-ways",
+        "name": "Shortest Common Supersequence",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Tree / Graph DP": {
-    "Fibonacci DP": [
+    "Tree / Graph DP": [
       {
         "name": "House Robber III",
         "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Tree DP": [
+      },
       {
         "name": "Unique Binary Search Trees II",
         "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Ways to Arrive at Destination",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -1943,18 +3495,22 @@
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
-    ],
-    "General DP": [
-      {
-        "name": "Number of Ways to Arrive at Destination",
-        "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
     ]
   },
   "Bitmask DP": {
-    "General DP": [
+    "Bitmask DP": [
+      {
+        "name": "Campus Bikes II",
+        "leetcodeUrl": "https://leetcode.com/problems/campus-bikes-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Partition to K Equal Sum Subsets",
+        "leetcodeUrl": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Minimum Number of Work Sessions to Finish the Tasks",
         "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks",
@@ -1966,9 +3522,7 @@
         "leetcodeUrl": "https://leetcode.com/problems/fair-distribution-of-cookies",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ],
-    "Bitmask DP": [
+      },
       {
         "name": "Shortest Path Visiting All Nodes",
         "leetcodeUrl": "https://leetcode.com/problems/shortest-path-visiting-all-nodes",
@@ -2000,7 +3554,7 @@
     ]
   },
   "Probability DP": {
-    "General DP": [
+    "Probability DP": [
       {
         "name": "Knight Probability in Chessboard",
         "leetcodeUrl": "https://leetcode.com/problems/knight-probability-in-chessboard",
@@ -2022,10 +3576,16 @@
     ]
   },
   "State Machine DP": {
-    "State Machine & Stock DP": [
+    "State Machine DP": [
       {
         "name": "Best Time to Buy and Sell Stock with Cooldown",
         "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -2034,48 +3594,56 @@
         "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ]
-  },
-  "String Matching": {
-    "String Matching": [
-      {
-        "name": "Repeated String Match",
-        "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
       },
       {
-        "name": "Shortest Palindrome",
-        "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ]
-  },
-  "Binary Indexed Tree / Segment Tree": {
-    "Segment Tree / BIT": [
-      {
-        "name": "Range Sum Query - Mutable",
-        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-mutable",
-        "source": "https://algomaster.io/practice/dsa-patterns",
-        "leetcodeId": ""
-      }
-    ],
-    "Tree DFS / General": [
-      {
-        "name": "Count of Smaller Numbers After Self",
-        "leetcodeUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+        "name": "Best Time to Buy and Sell Stock IV",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
     ]
   },
   "Maths / Geometry": {
-    "Math / Geometry / General Bit Manipulation": [
+    "Maths / Geometry": [
       {
         "name": "Palindrome Number",
         "leetcodeUrl": "https://leetcode.com/problems/palindrome-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Plus One",
+        "leetcodeUrl": "https://leetcode.com/problems/plus-one",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Roman to Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Excel Sheet Column Title",
+        "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Greatest Common Divisor of Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Ugly Number",
+        "leetcodeUrl": "https://leetcode.com/problems/ugly-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Ugly Number II",
+        "leetcodeUrl": "https://leetcode.com/problems/ugly-number-ii",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -2086,8 +3654,50 @@
         "leetcodeId": ""
       },
       {
+        "name": "Multiply Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/multiply-strings",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Find the Duplicate Number",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Good Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count Primes",
+        "leetcodeUrl": "https://leetcode.com/problems/count-primes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Factorial Trailing Zeroes",
+        "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Valid Triangle Number",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
         "name": "Valid Square",
         "leetcodeUrl": "https://leetcode.com/problems/valid-square",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Minimum Area Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-area-rectangle",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       },
@@ -2103,11 +3713,89 @@
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
-    ],
-    "Number Theory / Math": [
+    ]
+  },
+  "String Matching": {
+    "String Matching": [
       {
-        "name": "Factorial Trailing Zeroes",
-        "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes",
+        "name": "Repeated Substring Pattern",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Repeated String Match",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Distinct Substrings in a String",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Happy Prefix",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-happy-prefix",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Shortest Palindrome",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Duplicate Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-duplicate-substring",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      }
+    ]
+  },
+  "Binary Indexed Tree / Segment Tree": {
+    "Binary Indexed Tree / Segment Tree": [
+      {
+        "name": "Range Sum Query - Mutable",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-mutable",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Range Sum Query 2D - Mutable",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-mutable",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Count of Smaller Numbers After Self",
+        "leetcodeUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Falling Squares",
+        "leetcodeUrl": "https://leetcode.com/problems/falling-squares",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Block Placement Queries",
+        "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Longest Balanced Subarray II",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Number of Pairs Satisfying Inequality",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }
@@ -2115,6 +3803,12 @@
   },
   "Line Sweep": {
     "Line Sweep": [
+      {
+        "name": "Employee Free Time",
+        "leetcodeUrl": "https://leetcode.com/problems/employee-free-time",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
       {
         "name": "Minimum Interval to Include Each Query",
         "leetcodeUrl": "https://leetcode.com/problems/minimum-interval-to-include-each-query",
@@ -2126,14 +3820,16 @@
         "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
-      }
-    ]
-  },
-  "Suffix Array": {
-    "Hash Set: Lookups/Uniqueness": [
+      },
       {
-        "name": "Longest Duplicate Substring",
-        "leetcodeUrl": "https://leetcode.com/problems/longest-duplicate-substring",
+        "name": "Rectangle Area II",
+        "leetcodeUrl": "https://leetcode.com/problems/rectangle-area-ii",
+        "source": "https://algomaster.io/practice/dsa-patterns",
+        "leetcodeId": ""
+      },
+      {
+        "name": "Perfect Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle",
         "source": "https://algomaster.io/practice/dsa-patterns",
         "leetcodeId": ""
       }

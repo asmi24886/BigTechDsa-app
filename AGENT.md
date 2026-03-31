@@ -17,7 +17,7 @@ A spec-driven project to build a premium, terracotta-themed web application for 
 | Educative (Grokking Interview) | educative1.html | parse_educative.js | 511 |
 | Striver A2Z | striver.html | parse_striver.js | 423 (363 w/ LC URLs) |
 | Thita | thita.html | parse_thita.js | 372 |
-| Algomaster | algomaster.html | parse_algomaster.js | 300 |
+| Algomaster | algomaster.html | parse_algomaster.js | 600 |
 | AlgoExpert | algoexpert.html | parse_algoexpert.js | 143 (LC-mapped, 44 AE-unique skipped) |
 | Educative (Grokking DP) | educative2.html | parse_educative.js | 41 |
 
@@ -36,7 +36,7 @@ cs-topics-organizer/
 │   └── enrich_data.js          # Adds difficulty (800+ slug mappings + educative HTML extraction)
 ├── data/dsa/
 │   ├── dsa_*.json              # Per-source extracted data
-│   └── merged_dsa.json         # ← FINAL OUTPUT: 1,354 unique problems, 399 recommended
+│   └── merged_dsa.json         # ← FINAL OUTPUT: 1,407 unique problems, 500 recommended
 ├── *.html                      # Source HTML files
 └── package.json                # cheerio dependency
 ```
@@ -65,8 +65,8 @@ Each `parse_*.js` script extracts problems from HTML using Cheerio, outputting p
 ### Step 4: Curate (`mark_recommended.js`)
 - Adds `recommended: true` to 500 hand-curated problems ("BigTechDsa Picks")
 - Selection based on FAANG interview frequency, pattern teaching value, multi-source overlap
-- Distribution: Easy 86, Medium 249, Hard 61, Unknown 3
-- All 15 categories covered (range: 6/9 Design to 64/160 DP)
+- Distribution: Easy 102, Medium 311, Hard 84, Unknown 3
+- All 15 categories covered (range: 4/16 Design to 82/170 DP)
 
 ## Final Dataset (merged_dsa.json)
 
@@ -89,24 +89,25 @@ Each `parse_*.js` script extracts problems from HTML using Cheerio, outputting p
 ```
 
 **Stats:**
-- **1,354** unique problems
-- **1,283** (94.8%) with LeetCode URLs
-- **1,276** (94.2%) with difficulty assigned
-- **564** (41.7%) appear in multiple sources
-- Difficulty: Easy 276 (20.4%), Medium 743 (54.9%), Hard 257 (19.0%), Unknown 78 (5.8%)
-- 78 unknowns are Striver theory/intro topics with no LC equivalent
-- **399** (29.5%) recommended problems
+- **1,407** unique problems
+- **1,336** (95.0%) with LeetCode URLs
+- **1,330** (94.5%) with difficulty assigned
+- **655** (46.6%) appear in multiple sources
+- Difficulty: Easy 286 (20.3%), Medium 778 (55.3%), Hard 266 (18.9%), Unknown 76 (5.4%)
+- 76 unknowns are Striver theory/intro topics with no LC equivalent
+- **500** (35.5%) recommended problems
 
 ## 15 Canonical Categories
-Arrays & Hashing (267), Two Pointers (62), Sliding Window (58), Stack & Queue (68), Binary Search (60), Linked List (50), Trees (155), Heap / Priority Queue (62), Graphs (154), Dynamic Programming (160), Backtracking (55), Greedy (87), Bit Manipulation (45), Math & Geometry (62), Design (9)
+Arrays & Hashing (275), Two Pointers (61), Sliding Window (61), Stack & Queue (75), Binary Search (62), Linked List (49), Trees (167), Heap / Priority Queue (58), Graphs (162), Dynamic Programming (170), Backtracking (55), Greedy (87), Bit Manipulation (46), Math & Geometry (63), Design (16)
 
 ## Runbook for Agents
 1. **Adding a new source**: Create `parse_<source>.js`, add category mappings to `CANONICAL_CATEGORY` in `assemble_data.js`, add filename to `sourceFiles` array.
 2. **Adding Sub-category mappings**: Add to `CANONICAL_SUBCATEGORY` (search → replace) + `RECLASSIFY_RULES` for finer splits.
 3. **Updating curated picks**: Edit `RECOMMENDED_SLUGS` set in `mark_recommended.js`, run script.
 4. **Adding difficulties**: Add slug→difficulty entries to the appropriate batch in `enrich_data.js`.
-5. **Full pipeline**: `node scripts/parse_*.js` → `node scripts/assemble_data.js` → `node scripts/enrich_data.js` → `node scripts/mark_recommended.js` → `node scripts/copy_to_web.js`
-6. **UI work**: Ensure any changes adhere to the "Terracotta" design tokens.
+5. **Full pipeline**: `node scripts/parse_*.js` → `node scripts/assemble_data.js` → `node scripts/enrich_data.js` → `node scripts/mark_recommended.js`.
+6. **Update UI**: Copy `data/dsa/merged_dsa.json` to `web/public/merged_dsa.json` so the React application serves the latest data.
+7. **UI work**: Ensure any changes adhere to the "Terracotta" design tokens.
 
 ## Current Progress
 - [x] Directory structure & data architecture

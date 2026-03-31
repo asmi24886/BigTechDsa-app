@@ -8,7 +8,7 @@ interface Problem {
   sources: string[]
   difficulty: string
   alternatePatterns?: string[]
-  recommended?: boolean
+  recommendedTier?: "250" | "450" | "600"
 }
 
 type MergedData = Record<string, Record<string, Problem[]>>
@@ -57,10 +57,12 @@ function App() {
   const [catFilter, setCatFilter] = useState<string>('All')
   const [search, setSearch] = useState('')
   const [sourceFilter, setSourceFilter] = useState<Set<string>>(new Set())
-  const [picksFilter, setPicksFilter] = useState(false)
+  const [picksTier, setPicksTier] = useState<'Off' | '250' | '450' | '600'>('Off')
 
   useEffect(() => {
-    fetch('/merged_dsa.json')
+    // Adding a timestamp parameter to bust aggressive browser HTTP caching 
+    // so the new 3-tier structure loads immediately
+    fetch(`/merged_dsa.json?v=${new Date().getTime()}`)
       .then(r => r.json())
       .then(d => setData(d))
   }, [])
@@ -105,13 +107,17 @@ function App() {
         for (const p of data[cat][sub]) {
           if (diffFilter !== 'All' && p.difficulty !== diffFilter) continue
           if (q && !p.name.toLowerCase().includes(q)) continue
-          if (picksFilter && !p.recommended) continue
+          
+          if (picksTier === '250' && p.recommendedTier !== '250') continue
+          if (picksTier === '450' && (p.recommendedTier !== '250' && p.recommendedTier !== '450')) continue
+          if (picksTier === '600' && !p.recommendedTier) continue
+          
           result.push(p)
         }
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search, picksFilter])
+  }, [data, diffFilter, catFilter, search, picksTier])
 
   /* ── Stats from base-filtered (for source chip counts) ── */
   const baseStats = useMemo(() => {
@@ -177,8 +183,12 @@ function App() {
         }
 
         // Picks filter
-        if (picksFilter) {
-          problems = problems.filter(p => p.recommended)
+        if (picksTier === '250') {
+          problems = problems.filter(p => p.recommendedTier === '250')
+        } else if (picksTier === '450') {
+          problems = problems.filter(p => p.recommendedTier === '250' || p.recommendedTier === '450')
+        } else if (picksTier === '600') {
+          problems = problems.filter(p => p.recommendedTier)
         }
 
         // Search filter
@@ -200,7 +210,7 @@ function App() {
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search, sourceFilter, picksFilter])
+  }, [data, diffFilter, catFilter, search, sourceFilter, picksTier])
 
   /* ── Filtered count ── */
   const filteredCount = useMemo(() => {
@@ -256,14 +266,16 @@ function App() {
             }
             if (!matchesAll) continue
           }
-          if (picksFilter && !p.recommended) continue
+          if (picksTier === '250' && p.recommendedTier !== '250') continue
+          if (picksTier === '450' && (p.recommendedTier !== '250' && p.recommendedTier !== '450')) continue
+          if (picksTier === '600' && !p.recommendedTier) continue
           catTotal++
         }
       }
       counts[cat] = catTotal
     }
     return counts
-  }, [data, diffFilter, search, sourceFilter, picksFilter])
+  }, [data, diffFilter, search, sourceFilter, picksTier])
 
   /* ── Categories List ── */
   const categoriesList = useMemo(() => {
@@ -309,7 +321,7 @@ function App() {
     setOpenSubs(new Set())
   }
 
-  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All' || picksFilter
+  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All' || picksTier !== 'Off'
 
   if (!data || !globalStats || !filteredData || !filteredStats || !baseStats) {
     return (
@@ -399,14 +411,21 @@ function App() {
           })}
         </div>
 
-        {/* BigTechDsa Picks Toggle */}
-        <button
-          className={`filter-btn picks ${picksFilter ? 'active' : ''}`}
-          onClick={() => setPicksFilter(f => !f)}
-          title={picksFilter ? 'Showing curated picks — click to show all' : 'Show only BigTechDsa curated picks (399)'}
-        >
-          ★ BigTechDsa Picks {picksFilter && '✓'}
-        </button>
+        {/* BigTechDsa Picks Tier Controls */}
+        <div className="picks-controls" style={{ display: 'flex', gap: '0.2rem', alignItems: 'center' }}>
+          <span style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-muted)', marginLeft: '0.5rem', marginRight: '0.2rem' }}>Curated Tiers:</span>
+          {(['Off', '250', '450', '600'] as const).map(tier => (
+            <button
+              key={tier}
+              className={`filter-btn picks ${picksTier === tier ? 'active' : ''}`}
+              onClick={() => setPicksTier(tier)}
+              title={tier === 'Off' ? 'Show all problems' : `Show BigTechDsa top ${tier} problems`}
+              style={{ padding: '0.4rem 0.6rem', fontSize: '0.85rem' }}
+            >
+              {tier === 'Off' ? 'Off' : `★ ${tier}`}
+            </button>
+          ))}
+        </div>
       </div>
 
       {/* Search */}
@@ -490,12 +509,12 @@ function App() {
                                         rel="noopener noreferrer"
                                         title={p.name}
                                       >
-                                        {p.recommended && <span className="pick-star" title="BigTechDsa Pick">★ </span>}
+                                        {p.recommendedTier && <span className={`pick-star t${p.recommendedTier}`} title={`BigTechDsa Top ${p.recommendedTier}`}>★ </span>}
                                         {p.name}
                                       </a>
                                     ) : (
                                       <span className="problem-name no-link" title={p.name}>
-                                        {p.recommended && <span className="pick-star" title="BigTechDsa Pick">★ </span>}
+                                        {p.recommendedTier && <span className={`pick-star t${p.recommendedTier}`} title={`BigTechDsa Top ${p.recommendedTier}`}>★ </span>}
                                         {p.name}
                                       </span>
                                     )}

@@ -25,6 +25,7 @@ const CANONICAL_CATEGORY = {
     "Recursion": "Arrays & Hashing",
     "Divide and Conquer": "Arrays & Hashing",
     "Merge Sort": "Arrays & Hashing",
+    "QuickSort / QuickSelect": "Arrays & Hashing",
     // Striver categories -> Arrays
     "Solve Problems on Arrays [Easy -> Medium -> Hard]": "Arrays & Hashing",
     "Strings [Basic and Medium]": "Arrays & Hashing",
@@ -40,6 +41,7 @@ const CANONICAL_CATEGORY = {
     "Sliding Window": "Sliding Window",
     "Sliding Window Patterns": "Sliding Window",
     "Sliding Window - Fixed Size": "Sliding Window",
+    "Sliding Window - Dynamic Size": "Sliding Window",
     "Monotonic Queue": "Sliding Window",
     "Sliding Window & Two Pointer Combined Problems": "Sliding Window",
 
@@ -59,6 +61,7 @@ const CANONICAL_CATEGORY = {
     // --- Linked List ---
     "Linked List": "Linked List",
     "Linked List Manipulation Patterns": "Linked List",
+    "LinkedList In-place Reversal": "Linked List",
     "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]": "Linked List",
 
     // --- Trees ---
@@ -110,6 +113,10 @@ const CANONICAL_CATEGORY = {
     "Unbounded Knapsack DP": "Dynamic Programming",
     "Longest Increasing Subsequence DP": "Dynamic Programming",
     "2D (Grid) DP": "Dynamic Programming",
+    "2D Grid DP": "Dynamic Programming",
+    "0/1 Knapsack": "Dynamic Programming",
+    "Unbounded Knapsack": "Dynamic Programming",
+    "Longest Increasing Subsequence (LIS)": "Dynamic Programming",
     "String DP": "Dynamic Programming",
     "Tree / Graph DP": "Dynamic Programming",
     "Bitmask DP": "Dynamic Programming",
@@ -203,6 +210,7 @@ const CANONICAL_SUBCATEGORY = {
     // --- Sliding Window subs ---
     "Variable Size Window": "Variable Size (Condition-Based)",
     "Sliding Window - Variable Size (Condition-Based)": "Variable Size (Condition-Based)",
+    "Sliding Window - Dynamic Size": "Variable Size (Condition-Based)",
     "Fixed Size Window": "Fixed Size (Subarray Calculation)",
     "Sliding Window - Fixed Size (Subarray Calculation)": "Fixed Size (Subarray Calculation)",
     "Sliding Window - Fixed Size": "Fixed Size (Subarray Calculation)",
@@ -242,6 +250,7 @@ const CANONICAL_SUBCATEGORY = {
     // --- Linked List subs ---
     "In-place Reversal": "In-place Reversal",
     "Linked List - In-place Reversal": "In-place Reversal",
+    "LinkedList In-place Reversal": "In-place Reversal",
     "Merging/Math Lists": "Merging Two Sorted Lists",
     "Linked List - Merging Two Sorted Lists": "Merging Two Sorted Lists",
     "Design / Specialized Lists (Doubly/Random)": "Design / Specialized Lists",
@@ -336,6 +345,7 @@ const CANONICAL_SUBCATEGORY = {
     "DP - 1D Array (Coin Change / Unbounded Knapsack Style)": "Unbounded Knapsack (Coin Change Style)",
     "Grid DP": "2D Array (Grid Unique Paths)",
     "2D (Grid) DP": "2D Array (Grid Unique Paths)",
+    "2D Grid DP": "2D Array (Grid Unique Paths)",
     "DP - 2D Array (Unique Paths on Grid)": "2D Array (Grid Unique Paths)",
     "DP on Squares": "2D Array (Grid Unique Paths)",
     "String DP": "String DP (Edit Distance / Word Break)",
@@ -412,6 +422,7 @@ const CANONICAL_SUBCATEGORY = {
     "Simulation / General Array": "Simulation / General Array",
     "Data Structure Design": "Design / Encodings",
     "Bucket Sort": "Sorting & Intervals",
+    "QuickSort / QuickSelect": "Sorting & Intervals",
     "Recursion": "Simulation / General Array",
     "Divide and Conquer": "Simulation / General Array",
     "Merge Sort": "Sorting & Intervals",

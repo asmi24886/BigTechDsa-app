@@ -310,9 +310,14 @@ body {
 }
 
 .pick-star {
-  color: #eab308;
-  font-size: 0.7rem;
+  color: var(--warning); 
+  margin-right: 0.3rem; 
+  font-size: 1.1rem;
 }
+
+.pick-star.t250 { color: #facc15; } /* Bright Gold */
+.pick-star.t450 { color: #f87171; } /* Sunset Red */
+.pick-star.t600 { color: #a78bfa; } /* Soft Purple */
 
 /* ── Search ── */
 .search-box {
