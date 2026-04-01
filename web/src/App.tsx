@@ -8,7 +8,7 @@ interface Problem {
   sources: string[]
   difficulty: string
   alternatePatterns?: string[]
-  recommendedTier?: "250" | "450" | "600"
+  isBigTechDsa?: boolean
 }
 
 type MergedData = Record<string, Record<string, Problem[]>>
@@ -57,7 +57,7 @@ function App() {
   const [catFilter, setCatFilter] = useState<string>('All')
   const [search, setSearch] = useState('')
   const [sourceFilter, setSourceFilter] = useState<Set<string>>(new Set())
-  const [picksTier, setPicksTier] = useState<'Off' | '250' | '450' | '600'>('Off')
+  const [showCurated, setShowCurated] = useState(false)
 
   useEffect(() => {
     // Adding a timestamp parameter to bust aggressive browser HTTP caching 
@@ -108,16 +108,14 @@ function App() {
           if (diffFilter !== 'All' && p.difficulty !== diffFilter) continue
           if (q && !p.name.toLowerCase().includes(q)) continue
           
-          if (picksTier === '250' && p.recommendedTier !== '250') continue
-          if (picksTier === '450' && (p.recommendedTier !== '250' && p.recommendedTier !== '450')) continue
-          if (picksTier === '600' && !p.recommendedTier) continue
+          if (showCurated && !p.isBigTechDsa) continue
           
           result.push(p)
         }
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search, picksTier])
+  }, [data, diffFilter, catFilter, search, showCurated])
 
   /* ── Stats from base-filtered (for source chip counts) ── */
   const baseStats = useMemo(() => {
@@ -182,13 +180,9 @@ function App() {
           })
         }
 
-        // Picks filter
-        if (picksTier === '250') {
-          problems = problems.filter(p => p.recommendedTier === '250')
-        } else if (picksTier === '450') {
-          problems = problems.filter(p => p.recommendedTier === '250' || p.recommendedTier === '450')
-        } else if (picksTier === '600') {
-          problems = problems.filter(p => p.recommendedTier)
+        // Curated filter
+        if (showCurated) {
+          problems = problems.filter(p => p.isBigTechDsa)
         }
 
         // Search filter
@@ -210,7 +204,7 @@ function App() {
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search, sourceFilter, picksTier])
+  }, [data, diffFilter, catFilter, search, sourceFilter, showCurated])
 
   /* ── Filtered count ── */
   const filteredCount = useMemo(() => {
@@ -266,16 +260,14 @@ function App() {
             }
             if (!matchesAll) continue
           }
-          if (picksTier === '250' && p.recommendedTier !== '250') continue
-          if (picksTier === '450' && (p.recommendedTier !== '250' && p.recommendedTier !== '450')) continue
-          if (picksTier === '600' && !p.recommendedTier) continue
+          if (showCurated && !p.isBigTechDsa) continue
           catTotal++
         }
       }
       counts[cat] = catTotal
     }
     return counts
-  }, [data, diffFilter, search, sourceFilter, picksTier])
+  }, [data, diffFilter, search, sourceFilter, showCurated])
 
   /* ── Categories List ── */
   const categoriesList = useMemo(() => {
@@ -321,7 +313,7 @@ function App() {
     setOpenSubs(new Set())
   }
 
-  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All' || picksTier !== 'Off'
+  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All' || showCurated
 
   if (!data || !globalStats || !filteredData || !filteredStats || !baseStats) {
     return (
@@ -411,21 +403,15 @@ function App() {
           })}
         </div>
 
-        {/* BigTechDsa Picks Tier Controls */}
-        <div className="picks-controls" style={{ display: 'flex', gap: '0.2rem', alignItems: 'center' }}>
-          <span style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-muted)', marginLeft: '0.5rem', marginRight: '0.2rem' }}>Curated Tiers:</span>
-          {(['Off', '250', '450', '600'] as const).map(tier => (
-            <button
-              key={tier}
-              className={`filter-btn picks ${picksTier === tier ? 'active' : ''}`}
-              onClick={() => setPicksTier(tier)}
-              title={tier === 'Off' ? 'Show all problems' : `Show BigTechDsa top ${tier} problems`}
-              style={{ padding: '0.4rem 0.6rem', fontSize: '0.85rem' }}
-            >
-              {tier === 'Off' ? 'Off' : `★ ${tier}`}
-            </button>
-          ))}
-        </div>
+        {/* BigTechDsa Curated Toggle */}
+        <button
+          className={`filter-btn picks ${showCurated ? 'active' : ''}`}
+          onClick={() => setShowCurated(prev => !prev)}
+          title={showCurated ? 'Show all problems' : 'Show only the curated BigTechDsa 456 problems'}
+          style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', marginLeft: '0.5rem' }}
+        >
+          ★ BigTechDsa 456
+        </button>
       </div>
 
       {/* Search */}
@@ -509,12 +495,12 @@ function App() {
                                         rel="noopener noreferrer"
                                         title={p.name}
                                       >
-                                        {p.recommendedTier && <span className={`pick-star t${p.recommendedTier}`} title={`BigTechDsa Top ${p.recommendedTier}`}>★ </span>}
+                                        {p.isBigTechDsa && <span className="pick-star" title="BigTechDsa Curated">★ </span>}
                                         {p.name}
                                       </a>
                                     ) : (
                                       <span className="problem-name no-link" title={p.name}>
-                                        {p.recommendedTier && <span className={`pick-star t${p.recommendedTier}`} title={`BigTechDsa Top ${p.recommendedTier}`}>★ </span>}
+                                        {p.isBigTechDsa && <span className="pick-star" title="BigTechDsa Curated">★ </span>}
                                         {p.name}
                                       </span>
                                     )}

@@ -1,0 +1,1407 @@
+7|Easy|Dynamic Programming|1D Array (Fibonacci Style)|Climbing Stairs|climbing-stairs|TH,TU,AM,AE,NC,ED,EDP
+7|Medium|Dynamic Programming|1D Array (Fibonacci Style)|House Robber|house-robber|TH,TU,AM,AE,NC,ED,EDP
+7|Medium|Dynamic Programming|Unbounded Knapsack (Coin Change Style)|Coin Change|coin-change|TH,TU,AM,AE,NC,ED,EDP
+7|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Partition Equal Subset Sum|partition-equal-subset-sum|TH,TU,AM,AE,NC,ED,EDP
+7|Medium|Dynamic Programming|Longest Common Subsequence (LCS)|Longest Common Subsequence|longest-common-subsequence|TH,TU,AM,AE,NC,ED,EDP
+7|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Unique Paths|unique-paths|TH,TU,AM,AE,NC,ED,EDP
+7|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Longest Increasing Subsequence|longest-increasing-subsequence|TH,TU,AM,AE,NC,ED,EDP
+7|Medium|Two Pointers|Expanding From Center (Palindromes)|Longest Palindromic Substring|longest-palindromic-substring|TH,TU,AM,AE,NC,ED,EDP
+6|Medium|Arrays & Hashing|Matrix Traversal & Math|Spiral Matrix|spiral-matrix|TH,TU,AM,AE,NC,ED
+6|Medium|Backtracking|Subsets (Include/Exclude)|Letter Combinations of a Phone Number|letter-combinations-of-a-phone-number|TH,TU,AM,AE,NC,ED
+6|Medium|Backtracking|Subsets (Include/Exclude)|Subsets|subsets|TH,TU,AM,AE,NC,ED
+6|Medium|Backtracking|Parentheses Generation|Generate Parentheses|generate-parentheses|TH,TU,AM,AE,NC,ED
+6|Easy|Binary Search|On Sorted Array/List|Binary Search|binary-search|TH,TU,AM,AE,NC,ED
+6|Medium|Binary Search|Find Min/Max in Rotated Sorted Array|Search in Rotated Sorted Array|search-in-rotated-sorted-array|TH,TU,AM,AE,NC,ED
+6|Easy|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Maximum Subarray|maximum-subarray|TH,TU,AM,AE,NC,ED
+6|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Word Break|word-break|TH,TU,AM,AE,NC,ED
+6|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Edit Distance|edit-distance|TH,TU,AM,AE,NC,EDP
+6|Hard|Dynamic Programming|Longest Common Subsequence (LCS)|Shortest Common Supersequence|shortest-common-supersequence|TH,TU,AM,NC,ED,EDP
+6|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Count Square Submatrices with All Ones|count-square-submatrices-with-all-ones|TH,TU,AM,AE,NC,EDP
+6|Medium|Graphs|DFS - Connected Components / Island Counting|Number of Islands|number-of-islands|TH,TU,AM,AE,NC,ED
+6|Medium|Graphs|BFS - Connected Components / Island Counting|Rotting Oranges|rotting-oranges|TH,TU,AM,AE,NC,ED
+6|Medium|Graphs|Cycle Detection (Directed Graph)|Course Schedule II|course-schedule-ii|TH,TU,AM,AE,NC,ED
+6|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Network Delay Time|network-delay-time|TH,TU,AM,AE,NC,ED
+6|Medium|Greedy|Interval Merging/Scheduling|Merge Intervals|merge-intervals|TH,TU,AM,AE,NC,ED
+6|Medium|Greedy|Jump Game Reachability/Minimization|Jump Game II|jump-game-ii|TH,TU,AM,NC,ED,EDP
+6|Hard|Greedy|Sorting Based|Candy|candy|TH,TU,AM,AE,NC,ED
+6|Medium|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Kth Largest Element in an Array|kth-largest-element-in-an-array|TH,TU,AM,AE,NC,ED
+6|Hard|Heap / Priority Queue|Two Heaps for Median Finding|Find Median from Data Stream|find-median-from-data-stream|TH,TU,AM,AE,NC,ED
+6|Hard|Heap / Priority Queue|K-way Merge|Merge k Sorted Lists|merge-k-sorted-lists|TH,TU,AM,AE,NC,ED
+6|Easy|Linked List|In-place Reversal|Reverse Linked List|reverse-linked-list|TH,TU,AM,AE,NC,ED
+6|Easy|Linked List|In-place Reversal|Palindrome Linked List|palindrome-linked-list|TH,TU,AM,AE,NC,ED
+6|Medium|Linked List|Addition of Numbers|Add Two Numbers|add-two-numbers|TH,TU,AM,AE,NC,ED
+6|Medium|Linked List|Reordering / Partitioning|Rotate List|rotate-list|TH,TU,AM,AE,NC,ED
+6|Medium|Sliding Window|Variable Size (Condition-Based)|Longest Substring Without Repeating Characters|longest-substring-without-repeating-characters|TH,TU,AM,AE,NC,ED
+6|Hard|Sliding Window|Variable Size (Condition-Based)|Minimum Window Substring|minimum-window-substring|TH,TU,AM,AE,NC,ED
+6|Hard|Sliding Window|Monotonic Queue for Max/Min|Sliding Window Maximum|sliding-window-maximum|TH,TU,AM,AE,NC,ED
+6|Easy|Stack & Queue|Valid Parentheses Matching|Valid Parentheses|valid-parentheses|TH,TU,AM,AE,NC,ED
+6|Medium|Stack & Queue|Monotonic Stack|Remove K Digits|remove-k-digits|TH,TU,AM,AE,NC,ED
+6|Easy|Stack & Queue|Monotonic Stack|Next Greater Element I|next-greater-element-i|TH,TU,AM,AE,NC,ED
+6|Medium|Stack & Queue|Simulation / Backtracking Helper|Asteroid Collision|asteroid-collision|TH,TU,AM,AE,NC,ED
+6|Medium|Stack & Queue|Min Stack Design|Min Stack|min-stack|TH,TU,AM,AE,NC,ED
+6|Hard|Stack & Queue|Largest Rectangle in Histogram|Largest Rectangle in Histogram|largest-rectangle-in-histogram|TH,TU,AM,AE,NC,ED
+6|Easy|Trees|DFS - Preorder Traversal|Symmetric Tree|symmetric-tree|TH,TU,AM,AE,NC,ED
+6|Medium|Trees|DFS - Inorder Traversal|Validate Binary Search Tree|validate-binary-search-tree|TH,TU,AM,AE,NC,ED
+6|Medium|Trees|DFS - Inorder Traversal|Kth Smallest Element in a BST|kth-smallest-element-in-a-bst|TH,TU,AM,AE,NC,ED
+6|Easy|Trees|DFS - Postorder Traversal|Balanced Binary Tree|balanced-binary-tree|TH,TU,AM,AE,NC,ED
+6|Hard|Trees|DFS - Postorder Traversal|Binary Tree Maximum Path Sum|binary-tree-maximum-path-sum|TH,TU,AM,AE,NC,ED
+6|Easy|Trees|DFS - Postorder Traversal|Diameter of Binary Tree|diameter-of-binary-tree|TH,TU,AM,AE,NC,ED
+6|Medium|Trees|Lowest Common Ancestor (LCA)|Lowest Common Ancestor of a Binary Tree|lowest-common-ancestor-of-a-binary-tree|TH,TU,AM,AE,NC,ED
+6|Medium|Trees|Tries|Implement Trie (Prefix Tree)|implement-trie-prefix-tree|TH,TU,AM,AE,NC,ED
+6|Medium|Two Pointers|Converging (Sorted Array Target Sum)|3Sum|3sum|TH,TU,AM,AE,NC,ED
+6|Medium|Two Pointers|Converging (Sorted Array Target Sum)|4Sum|4sum|TH,TU,AM,AE,NC,ED
+6|Medium|Two Pointers|Fixed Separation (Nth Node from End)|Remove Nth Node From End of List|remove-nth-node-from-end-of-list|TH,TU,AM,AE,NC,ED
+6|Medium|Two Pointers|In-place Array Modification|Sort Colors|sort-colors|TH,TU,AM,AE,NC,ED
+5|Medium|Arrays & Hashing|Matrix Traversal & Math|Rotate Image|rotate-image|TH,TU,AM,NC,ED
+5|Medium|Arrays & Hashing|Matrix Traversal & Math|Rotate Array|rotate-array|TH,TU,AM,NC,ED
+5|Medium|Arrays & Hashing|Matrix Traversal & Math|Set Matrix Zeroes|set-matrix-zeroes|TH,TU,AM,NC,ED
+5|Medium|Arrays & Hashing|Prefix Sums|Product of Array Except Self|product-of-array-except-self|TH,AM,AE,NC,ED
+5|Easy|Arrays & Hashing|Simulation / General Array|Valid Palindrome|valid-palindrome|TH,AM,AE,NC,ED
+5|Easy|Arrays & Hashing|Simulation / General Array|Roman to Integer|roman-to-integer|TH,TU,AM,NC,ED
+5|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Group Anagrams|group-anagrams|TH,AM,AE,NC,ED
+5|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Valid Anagram|valid-anagram|TH,TU,AM,NC,ED
+5|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Two Sum|two-sum|TU,AM,AE,NC,ED
+5|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Majority Element-I|majority-element|TU,AM,AE,NC,ED
+5|Easy|Arrays & Hashing|Sorting & Intervals|Merge Sorted Array|merge-sorted-array|TH,TU,AM,NC,ED
+5|Medium|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Longest Consecutive Sequence in an Array|longest-consecutive-sequence|TU,AM,AE,NC,ED
+5|Medium|Backtracking|Subsets (Include/Exclude)|Subsets II|subsets-ii|TH,TU,AM,NC,ED
+5|Medium|Backtracking|Permutations|Next Permutation|next-permutation|TH,TU,AM,NC,ED
+5|Medium|Backtracking|Permutations|Permutations|permutations|TH,AM,AE,NC,ED
+5|Medium|Backtracking|Combination Sum|Combination Sum|combination-sum|TH,TU,AM,NC,ED
+5|Medium|Backtracking|Word Search / Path Finding in Grid|Word Search|word-search|TH,TU,AM,NC,ED
+5|Hard|Backtracking|Word Search / Path Finding in Grid|Word Search II|word-search-ii|TH,AM,AE,NC,ED
+5|Hard|Backtracking|N-Queens / Constraint Satisfaction|Sudoku Solver|sudoku-solver|TH,TU,AM,AE,ED
+5|Hard|Backtracking|N-Queens / Constraint Satisfaction|N-Queens|n-queens|TH,TU,AM,AE,NC
+5|Hard|Backtracking|Palindrome Partitioning|Palindrome Partitioning II|palindrome-partitioning-ii|TH,TU,AM,AE,EDP
+5|Easy|Binary Search|On Sorted Array/List|Search Insert Position|search-insert-position|TH,TU,AM,NC,ED
+5|Medium|Binary Search|On Sorted Array/List|Search a 2D Matrix|search-a-2d-matrix|TH,TU,AM,AE,NC
+5|Medium|Binary Search|Find Min/Max in Rotated Sorted Array|Search in Rotated Sorted Array II|search-in-rotated-sorted-array-ii|TH,TU,AM,NC,ED
+5|Medium|Binary Search|Find Min/Max in Rotated Sorted Array|Find Minimum in Rotated Sorted Array|find-minimum-in-rotated-sorted-array|TH,TU,AM,NC,ED
+5|Medium|Binary Search|Find Min/Max in Rotated Sorted Array|Find Peak Element|find-peak-element|TH,TU,AM,NC,ED
+5|Hard|Binary Search|On Answer / Condition Function|Split Array Largest Sum|split-array-largest-sum|TH,TU,AM,NC,ED
+5|Medium|Binary Search|On Answer / Condition Function|Koko Eating Bananas|koko-eating-bananas|TH,TU,AM,NC,ED
+5|Medium|Binary Search|Find First/Last Occurrence|Find First and Last Position of Element in Sorted Array|find-first-and-last-position-of-element-in-sorted-array|TH,TU,AM,NC,ED
+5|Hard|Binary Search|Median and Kth of Two Sorted Arrays|Median of Two Sorted Arrays|median-of-two-sorted-arrays|TH,TU,AM,NC,ED
+5|Easy|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Single Number|single-number|TH,TU,AM,NC,ED
+5|Easy|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Missing Number|missing-number|TH,TU,AM,NC,ED
+5|Easy|Bit Manipulation|Counting Set Bits (Hamming Weight)|Number of 1 Bits|number-of-1-bits|TH,TU,AM,NC,ED
+5|Easy|Bit Manipulation|Counting Set Bits (Hamming Weight)|Power of Two|power-of-two|TH,TU,AM,NC,ED
+5|Medium|Dynamic Programming|1D Array (Fibonacci Style)|House Robber II|house-robber-ii|TH,TU,AM,NC,ED
+5|Easy|Dynamic Programming|1D Array (Fibonacci Style)|Fibonacci Number|fibonacci-number|TH,AM,AE,ED,EDP
+5|Easy|Dynamic Programming|1D Array (Fibonacci Style)|Min Cost Climbing Stairs|min-cost-climbing-stairs|TH,AM,NC,ED,EDP
+5|Medium|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Maximum Product Subarray|maximum-product-subarray|TH,TU,AM,NC,ED
+5|Medium|Dynamic Programming|Unbounded Knapsack (Coin Change Style)|Coin Change II|coin-change-ii|TH,AM,AE,NC,EDP
+5|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Target Sum|target-sum|TH,TU,AM,NC,EDP
+5|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Word Break II|word-break-ii|TH,AM,NC,ED,EDP
+5|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Distinct subsequences|distinct-subsequences|TU,AM,NC,ED,EDP
+5|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Interleaving String|interleaving-string|AM,AE,NC,ED,EDP
+5|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Minimum Path Sum|minimum-path-sum|TH,TU,AM,NC,ED
+5|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Triangle|triangle|TH,TU,AM,NC,ED
+5|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Maximal Square|maximal-square|TH,AM,AE,NC,ED
+5|Hard|Dynamic Programming|Interval / Partition DP|Burst Balloons|burst-balloons|TH,TU,AM,NC,ED
+5|Easy|Dynamic Programming|Stock Problems (State Machine)|Best Time to Buy and Sell Stock|best-time-to-buy-and-sell-stock|TH,TU,AM,NC,ED
+5|Medium|Dynamic Programming|Stock Problems (State Machine)|Best Time to Buy and Sell Stock II|best-time-to-buy-and-sell-stock-ii|TH,TU,AM,NC,ED
+5|Medium|Graphs|DFS - Connected Components / Island Counting|Number of Provinces|number-of-provinces|TH,TU,AM,NC,ED
+5|Easy|Graphs|DFS - Connected Components / Island Counting|Flood Fill|flood-fill|TH,TU,AM,NC,ED
+5|Medium|Graphs|DFS - Connected Components / Island Counting|Number of Enclaves|number-of-enclaves|TH,TU,AM,AE,NC
+5|Medium|Graphs|Cycle Detection (Directed Graph)|Course Schedule|course-schedule|TH,TU,AE,NC,ED
+5|Hard|Graphs|Topological Sort (Kahn's Algorithm)|Alien Dictionary|alien-dictionary|TH,TU,AM,NC,ED
+5|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|Swim in Rising Water|swim-in-rising-water|TH,TU,AM,NC,ED
+5|Medium|Graphs|Shortest Path (Bellman-Ford / BFS+K)|Cheapest Flights Within K Stops|cheapest-flights-within-k-stops|TH,TU,AM,NC,ED
+5|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Number of Islands II|number-of-islands-ii|TH,TU,AM,NC,ED
+5|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Accounts Merge|accounts-merge|TH,TU,AM,NC,ED
+5|Medium|Greedy|Interval Merging/Scheduling|Insert Interval|insert-interval|TH,TU,AM,NC,ED
+5|Medium|Greedy|Jump Game Reachability/Minimization|Jump Game|jump-game|TH,TU,AM,NC,ED
+5|Medium|Greedy|Task Scheduling (Frequency Based)|Task Scheduler|task-scheduler|TH,TU,AM,NC,ED
+5|Easy|Greedy|Sorting Based|Assign Cookies|assign-cookies|TH,TU,AM,NC,ED
+5|Medium|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Top K Frequent Elements|top-k-frequent-elements|TH,TU,AM,NC,ED
+5|Easy|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Kth Largest Element in a Stream|kth-largest-element-in-a-stream|TH,TU,AM,NC,ED
+5|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Meeting Rooms II|meeting-rooms-ii|TH,AM,AE,NC,ED
+5|Easy|Linked List|In-place Reversal|Remove Duplicates from Sorted List|remove-duplicates-from-sorted-list|TH,AM,AE,NC,ED
+5|Medium|Linked List|In-place Reversal|Reverse Linked List II|reverse-linked-list-ii|TH,AM,AE,NC,ED
+5|Hard|Linked List|In-place Reversal|Reverse Nodes in k-Group|reverse-nodes-in-k-group|TH,TU,AM,NC,ED
+5|Easy|Linked List|Merging Two Sorted Lists|Merge Two Sorted Lists|merge-two-sorted-lists|TH,AM,AE,NC,ED
+5|Easy|Linked List|Intersection Detection|Intersection of Two Linked Lists|intersection-of-two-linked-lists|TH,TU,AM,NC,ED
+5|Medium|Linked List|Reordering / Partitioning|Swap Nodes in Pairs|swap-nodes-in-pairs|TH,AM,AE,NC,ED
+5|Medium|Linked List|Reordering / Partitioning|Reorder List|reorder-list|TH,AM,AE,NC,ED
+5|Medium|Linked List|Reordering / Partitioning|Odd Even Linked List|odd-even-linked-list|TH,TU,AM,AE,ED
+5|Medium|Sliding Window|Variable Size (Condition-Based)|Longest Repeating Character Replacement|longest-repeating-character-replacement|TH,TU,AM,NC,ED
+5|Medium|Sliding Window|Variable Size (Condition-Based)|Fruit Into Baskets|fruit-into-baskets|TH,TU,AM,NC,ED
+5|Medium|Stack & Queue|Monotonic Stack|Daily Temperatures|daily-temperatures|TH,AM,AE,NC,ED
+5|Hard|Stack & Queue|Monotonic Stack|Trapping Rainwater|trapping-rain-water|TU,AM,AE,NC,ED
+5|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Evaluate Reverse Polish Notation|evaluate-reverse-polish-notation|TH,AM,AE,NC,ED
+5|Medium|Stack & Queue|Min Stack Design|LRU Cache|lru-cache|TU,AM,AE,NC,ED
+5|Easy|Stack & Queue|General Stack/Queue|Implement Queue using Stack|implement-queue-using-stacks|TU,AM,AE,NC,ED
+5|Medium|Trees|BFS - Level Order Traversal|Binary Tree Level Order Traversal|binary-tree-level-order-traversal|TH,TU,AM,NC,ED
+5|Medium|Trees|BFS - Level Order Traversal|Binary Tree Zigzag Level Order Traversal|binary-tree-zigzag-level-order-traversal|TH,TU,AM,NC,ED
+5|Medium|Trees|BFS - Level Order Traversal|Binary Tree Right Side View|binary-tree-right-side-view|TH,TU,AM,NC,ED
+5|Easy|Trees|DFS - Preorder Traversal|Same Tree|same-tree|TH,TU,AM,NC,ED
+5|Medium|Trees|DFS - Preorder Traversal|Flatten Binary Tree to Linked List|flatten-binary-tree-to-linked-list|TH,TU,AM,AE,ED
+5|Easy|Trees|DFS - Preorder Traversal|Invert Binary Tree|invert-binary-tree|TH,AM,AE,NC,ED
+5|Easy|Trees|DFS - Inorder Traversal|Binary Tree Inorder Traversal|binary-tree-inorder-traversal|TH,TU,AM,AE,NC
+5|Easy|Trees|Lowest Common Ancestor (LCA)|Lowest Common Ancestor of a Binary Search Tree|lowest-common-ancestor-of-a-binary-search-tree|TH,TU,AM,NC,ED
+5|Hard|Trees|Serialization & Deserialization|Serialize and Deserialize Binary Tree|serialize-and-deserialize-binary-tree|TH,TU,AM,NC,ED
+5|Easy|Trees|Traversals|Preorder Traversal|binary-tree-preorder-traversal|TU,AM,AE,NC,ED
+5|Easy|Two Pointers|Converging (Sorted Array Target Sum)|Squares of a Sorted Array|squares-of-a-sorted-array|TH,AM,AE,NC,ED
+5|Medium|Two Pointers|Fast & Slow (Cycle Detection)|Find the Duplicate Number|find-the-duplicate-number|TH,AM,AE,NC,ED
+5|Easy|Two Pointers|Fixed Separation (Nth Node from End)|Middle of the Linked List|middle-of-the-linked-list|TH,TU,AM,NC,ED
+5|Easy|Two Pointers|In-place Array Modification|Remove Duplicates from Sorted Array|remove-duplicates-from-sorted-array|TH,TU,AM,NC,ED
+5|Easy|Two Pointers|In-place Array Modification|Move Zeroes|move-zeroes|TH,TU,AM,AE,NC
+5|Medium|Two Pointers|In-place Array Modification|String Compression|string-compression|TH,AM,AE,NC,ED
+5|Medium|Two Pointers|Expanding From Center (Palindromes)|Palindromic Substrings|palindromic-substrings|TH,TU,NC,ED,EDP
+5|Medium|Two Pointers|String Reversal|Reverse Words in a String|reverse-words-in-a-string|TH,TU,AM,AE,ED
+4|Easy|Arrays & Hashing|Matrix Traversal & Math|Transpose Matrix|transpose-matrix|TH,AM,NC,ED
+4|Medium|Arrays & Hashing|Matrix Traversal & Math|Spiral Matrix II|spiral-matrix-ii|TH,AM,NC,ED
+4|Medium|Arrays & Hashing|Prefix Sums|Count subarrays with given sum|subarray-sum-equals-k|TU,AM,AE,NC
+4|Easy|Arrays & Hashing|Simulation / General Array|Plus One|plus-one|TH,AM,NC,ED
+4|Medium|Arrays & Hashing|Simulation / General Array|Multiply Strings|multiply-strings|TH,AM,NC,ED
+4|Easy|Arrays & Hashing|Simulation / General Array|Palindrome Number|palindrome-number|TH,AM,NC,ED
+4|Easy|Arrays & Hashing|Simulation / General Array|Valid Palindrome II|valid-palindrome-ii|TH,AM,NC,ED
+4|Easy|Arrays & Hashing|Simulation / General Array|Maximum Consecutive Ones|max-consecutive-ones|TU,AM,NC,ED
+4|Easy|Arrays & Hashing|Simulation / General Array|Longest Common Prefix|longest-common-prefix|TU,AM,NC,ED
+4|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|First Unique Character in a String|first-unique-character-in-a-string|AM,AE,NC,ED
+4|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Isomorphic String|isomorphic-strings|TU,AM,NC,ED
+4|Easy|Arrays & Hashing|Hard|Pascal's Triangle I|pascals-triangle|TU,AM,NC,ED
+4|Medium|Arrays & Hashing|Sorting & Intervals|Sort an Array|sort-an-array|AM,AE,NC,ED
+4|Hard|Arrays & Hashing|Cyclic Sort|First Missing Positive|first-missing-positive|TH,AM,NC,ED
+4|Easy|Arrays & Hashing|Cyclic Sort|Find All Numbers Disappeared in an Array|find-all-numbers-disappeared-in-an-array|TH,AM,NC,ED
+4|Hard|Arrays & Hashing|String Matching (KMP / Z-Function)|Shortest Palindrome|shortest-palindrome|TH,TU,AM,NC
+4|Medium|Backtracking|Subsets (Include/Exclude)|Combinations|combinations|TH,AM,NC,ED
+4|Medium|Backtracking|Combination Sum|Combination Sum II|combination-sum-ii|TH,TU,AM,NC
+4|Medium|Backtracking|Palindrome Partitioning|Palindrome Partitioning|palindrome-partitioning|TH,TU,AM,NC
+4|Medium|Backtracking|Backtracking|Restore IP Addresses|restore-ip-addresses|AM,AE,NC,ED
+4|Medium|Binary Search|On Sorted Array/List|Single Element in a Sorted Array|single-element-in-a-sorted-array|TH,TU,NC,ED
+4|Medium|Binary Search|On Answer / Condition Function|Capacity To Ship Packages Within D Days|capacity-to-ship-packages-within-d-days|TH,TU,AM,NC
+4|Medium|Binary Search|Find First/Last Occurrence|Find K Closest Elements|find-k-closest-elements|TH,AM,NC,ED
+4|Hard|Binary Search|Median and Kth of Two Sorted Arrays|Find K-th Smallest Pair Distance|find-k-th-smallest-pair-distance|TH,AM,NC,ED
+4|Easy|Bit Manipulation|Counting Bits Optimization|Counting Bits|counting-bits|TH,AM,NC,ED
+4|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Decode Ways|decode-ways|TH,AM,NC,ED
+4|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Longest palindromic subsequence|longest-palindromic-subsequence|TU,AM,NC,EDP
+4|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Unique Paths II|unique-paths-ii|TH,TU,AM,NC
+4|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Russian Doll Envelopes|russian-doll-envelopes|TH,AM,NC,ED
+4|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Longest String Chain|longest-string-chain|TU,AM,AE,NC
+4|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Number of Longest Increasing Subsequences|number-of-longest-increasing-subsequence|TU,AM,NC,ED
+4|Hard|Dynamic Programming|Stock Problems (State Machine)|Best Time to Buy and Sell Stock III|best-time-to-buy-and-sell-stock-iii|TH,TU,AM,ED
+4|Hard|Dynamic Programming|Stock Problems (State Machine)|Best Time to Buy and Sell Stock IV|best-time-to-buy-and-sell-stock-iv|TH,TU,AM,AE
+4|Medium|Dynamic Programming|Stock Problems (State Machine)|Best Time to Buy and Sell Stock with Cooldown|best-time-to-buy-and-sell-stock-with-cooldown|TH,TU,AM,NC
+4|Medium|Graphs|DFS - Connected Components / Island Counting|Surrounded Regions|surrounded-regions|TH,TU,AM,NC
+4|Medium|Graphs|DFS - Connected Components / Island Counting|Pacific Atlantic Water Flow|pacific-atlantic-water-flow|TH,AM,NC,ED
+4|Medium|Graphs|DFS - Connected Components / Island Counting|Max Area of Island|max-area-of-island|TH,AE,NC,ED
+4|Medium|Graphs|BFS - Connected Components / Island Counting|01 Matrix|01-matrix|TH,TU,AM,ED
+4|Medium|Graphs|BFS - Connected Components / Island Counting|Shortest Path in Binary Matrix|shortest-path-in-binary-matrix|TH,TU,AM,NC
+4|Hard|Graphs|BFS - Connected Components / Island Counting|Word ladder I|word-ladder|TU,AM,NC,ED
+4|Medium|Graphs|Cycle Detection (Directed Graph)|Find Eventual Safe States|find-eventual-safe-states|TH,TU,AM,NC
+4|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Minimum Height Trees|minimum-height-trees|TH,AM,NC,ED
+4|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Parallel Courses|parallel-courses|TH,AM,NC,ED
+4|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Find All Possible Recipes from Given Supplies|find-all-possible-recipes-from-given-supplies|TH,AM,NC,ED
+4|Medium|Graphs|Deep Copy / Cloning|Clone Graph|clone-graph|TH,AM,NC,ED
+4|Medium|Graphs|Deep Copy / Cloning|Copy List with Random Pointer|copy-list-with-random-pointer|TH,TU,AM,NC
+4|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Path with Maximum Probability|path-with-maximum-probability|TH,AM,NC,ED
+4|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Path With Minimum Effort|path-with-minimum-effort|TH,TU,AM,NC
+4|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Number of Ways to Arrive at Destination|number-of-ways-to-arrive-at-destination|TH,TU,AM,NC
+4|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Graph Valid Tree|graph-valid-tree|TH,AM,NC,ED
+4|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Number of Connected Components in an Undirected Graph|number-of-connected-components-in-an-undirected-graph|TH,AM,NC,ED
+4|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Redundant Connection|redundant-connection|TH,AM,NC,ED
+4|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Most Stones Removed with Same Row or Column|most-stones-removed-with-same-row-or-column|TH,TU,AM,ED
+4|Medium|Graphs|Minimum Spanning Tree (Kruskal / Prim)|Min Cost to Connect All Points|min-cost-to-connect-all-points|TH,AM,AE,NC
+4|Hard|Graphs|Bidirectional BFS|Bus Routes|bus-routes|TH,AM,NC,ED
+4|Medium|Graphs|Bipartite Graph|Bipartite Graph (DFS)|is-graph-bipartite|TU,AM,AE,NC
+4|Hard|Greedy|Interval Merging/Scheduling|Employee Free Time|employee-free-time|TH,AM,NC,ED
+4|Medium|Greedy|Interval Merging/Scheduling|Interval List Intersections|interval-list-intersections|TH,AM,NC,ED
+4|Medium|Greedy|Interval Merging/Scheduling|Non-overlapping Intervals|non-overlapping-intervals|TU,AM,NC,ED
+4|Medium|Greedy|Gas Station Circuit|Gas Station|gas-station|TH,AM,NC,ED
+4|Medium|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Sort Characters By Frequency|sort-characters-by-frequency|TH,TU,AM,NC
+4|Medium|Heap / Priority Queue|Top K Elements (Selection/Frequency)|K Closest Points to Origin|k-closest-points-to-origin|TH,AM,NC,ED
+4|Easy|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Last Stone Weight|last-stone-weight|TH,AM,AE,NC
+4|Medium|Heap / Priority Queue|K-way Merge|Find K Pairs with Smallest Sums|find-k-pairs-with-smallest-sums|TH,TU,AM,ED
+4|Medium|Heap / Priority Queue|K-way Merge|Kth Smallest Element in a Sorted Matrix|kth-smallest-element-in-a-sorted-matrix|TH,TU,AM,ED
+4|Hard|Heap / Priority Queue|K-way Merge|Smallest Range Covering Elements from K Lists|smallest-range-covering-elements-from-k-lists|TH,AM,NC,ED
+4|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Reorganize String|reorganize-string|TH,AM,NC,ED
+4|Hard|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Minimum Cost to Hire K Workers|minimum-cost-to-hire-k-workers|TH,AM,NC,ED
+4|Hard|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Meeting Rooms III|meeting-rooms-iii|TH,AM,NC,ED
+4|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Minimum Cost to Connect Sticks|minimum-cost-to-connect-sticks|TU,AM,NC,ED
+4|Medium|Linked List|Merging Two Sorted Lists|Sort LL|sort-list|TU,AM,NC,ED
+4|Medium|Linked List|Fast & Slow (Cycle Detection)|Find the starting point in LL|linked-list-cycle-ii|TU,AM,AE,ED
+4|Hard|Math & Geometry|Coordinate Geometry|Max Points on a Line|max-points-on-a-line|AM,AE,NC,ED
+4|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Moving Average from Data Stream|moving-average-from-data-stream|TH,AM,NC,ED
+4|Medium|Sliding Window|Variable Size (Condition-Based)|Minimum Size Subarray Sum|minimum-size-subarray-sum|TH,AM,NC,ED
+4|Easy|Sliding Window|Variable Size (Condition-Based)|Contains Duplicate II|contains-duplicate-ii|TH,AM,NC,ED
+4|Medium|Sliding Window|Variable Size (Condition-Based)|Max Consecutive Ones III|max-consecutive-ones-iii|TH,TU,AM,NC
+4|Medium|Sliding Window|Variable Size (Condition-Based)|Frequency of the Most Frequent Element|frequency-of-the-most-frequent-element|TH,AM,NC,ED
+4|Hard|Sliding Window|Variable Size (Condition-Based)|Subarrays with K Different Integers|subarrays-with-k-different-integers|TU,AM,NC,ED
+4|Medium|Sliding Window|Character Frequency Matching|Find All Anagrams in a String|find-all-anagrams-in-a-string|TH,AM,NC,ED
+4|Medium|Sliding Window|Character Frequency Matching|Permutation in String|permutation-in-string|TH,AM,NC,ED
+4|Hard|Stack & Queue|Valid Parentheses Matching|Longest Valid Parentheses|longest-valid-parentheses|TH,AM,AE,ED
+4|Medium|Stack & Queue|Valid Parentheses Matching|Minimum Add to Make Parentheses Valid|minimum-add-to-make-parentheses-valid|TH,TU,AM,NC
+4|Medium|Stack & Queue|Valid Parentheses Matching|Minimum Remove to Make Valid Parentheses|minimum-remove-to-make-valid-parentheses|TH,AM,NC,ED
+4|Medium|Stack & Queue|Monotonic Stack|Online Stock Span|online-stock-span|TH,TU,AM,NC
+4|Medium|Stack & Queue|Monotonic Stack|Sum of Subarray Minimums|sum-of-subarray-minimums|TH,TU,AM,NC
+4|Medium|Stack & Queue|Simulation / Backtracking Helper|Simplify Path|simplify-path|TH,AM,AE,NC
+4|Medium|Stack & Queue|Simulation / Backtracking Helper|Decode String|decode-string|TH,AM,NC,ED
+4|Hard|Stack & Queue|Min Stack Design|Maximum Frequency Stack|maximum-frequency-stack|TH,AM,NC,ED
+4|Hard|Stack & Queue|Min Stack Design|LFU Cache|lfu-cache|TU,AM,NC,ED
+4|Hard|Stack & Queue|Largest Rectangle in Histogram|Maximal Rectangle|maximal-rectangle|TH,TU,AM,ED
+4|Medium|Trees|BFS - Level Order Traversal|Populating Next Right Pointers in Each Node|populating-next-right-pointers-in-each-node|AM,AE,NC,ED
+4|Medium|Trees|DFS - Preorder Traversal|Construct Binary Tree from Preorder and Inorder Traversal|construct-binary-tree-from-preorder-and-inorder-traversal|TH,TU,AM,NC
+4|Easy|Trees|DFS - Preorder Traversal|Binary Tree Paths|binary-tree-paths|TH,TU,AM,ED
+4|Medium|Trees|DFS - Inorder Traversal|Binary Search Tree Iterator|binary-search-tree-iterator|TH,TU,AM,NC
+4|Easy|Trees|DFS - Postorder Traversal|Maximum Depth of Binary Tree|maximum-depth-of-binary-tree|TH,TU,NC,ED
+4|Easy|Trees|DFS - Postorder Traversal|Binary Tree Postorder Traversal|binary-tree-postorder-traversal|TH,TU,AM,NC
+4|Medium|Trees|DFS - Postorder Traversal|House Robber III|house-robber-iii|TH,AM,NC,ED
+4|Medium|Trees|DFS - Postorder Traversal|All Nodes Distance K in Binary Tree|all-nodes-distance-k-in-binary-tree|TH,TU,AM,AE
+4|Medium|Trees|DFS - Postorder Traversal|Delete Nodes And Return Forest|delete-nodes-and-return-forest|TH,AM,NC,ED
+4|Easy|Trees|Serialization & Deserialization|Subtree of Another Tree|subtree-of-another-tree|TH,AM,NC,ED
+4|Medium|Trees|Tries|Design Add and Search Words Data Structure|design-add-and-search-words-data-structure|TH,AM,NC,ED
+4|Medium|Trees|BST Properties|Insert a given node in BST|insert-into-a-binary-search-tree|TU,AM,AE,NC
+4|Medium|Trees|BST Properties|Inorder Successor/Predecessor in BST|inorder-successor-in-bst|TU,AM,AE,ED
+4|Medium|Trees|BST Properties|Correct BST with two nodes swapped|recover-binary-search-tree|TU,AM,AE,NC
+4|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Container With Most Water|container-with-most-water|TH,AM,NC,ED
+4|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Boats to Save People|boats-to-save-people|TH,AM,NC,ED
+4|Easy|Two Pointers|Fast & Slow (Cycle Detection)|Linked List Cycle|linked-list-cycle|TH,TU,NC,ED
+4|Easy|Two Pointers|Fast & Slow (Cycle Detection)|Happy Number|happy-number|TH,AM,NC,ED
+4|Easy|Two Pointers|Fast & Slow (Cycle Detection)|Is Subsequence|is-subsequence|TH,AM,AE,NC
+4|Easy|Two Pointers|In-place Array Modification|Remove Element|remove-element|TH,AM,NC,ED
+4|Easy|Two Pointers|String Reversal|Reverse String|reverse-string|TH,AM,NC,ED
+3|Medium|Arrays & Hashing|Matrix Traversal & Math|Game of Life|game-of-life|TH,AM,ED
+3|Medium|Arrays & Hashing|Matrix Traversal & Math|Diagonal Traverse|diagonal-traverse|TH,AM,AE
+3|Medium|Arrays & Hashing|Matrix Traversal & Math|Valid Sudoku|valid-sudoku|AM,NC,ED
+3|Easy|Arrays & Hashing|Simulation / General Array|Add Binary|add-binary|TH,NC,ED
+3|Medium|Arrays & Hashing|Simulation / General Array|String to Integer (atoi)|string-to-integer-atoi|TH,TU,ED
+3|Easy|Arrays & Hashing|Simulation / General Array|Largest Odd Number in a String|largest-odd-number-in-string|TU,NC,ED
+3|Easy|Arrays & Hashing|Simulation / General Array|Maximum Nesting Depth of the Parentheses|maximum-nesting-depth-of-the-parentheses|TU,AM,NC
+3|Medium|Arrays & Hashing|Simulation / General Array|Count and say|count-and-say|TU,AM,ED
+3|Medium|Arrays & Hashing|Simulation / General Array|One Edit Distance|one-edit-distance|AM,AE,NC
+3|Hard|Arrays & Hashing|Simulation / General Array|Text Justification|text-justification|AM,NC,ED
+3|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Design HashMap|design-hashmap|AM,NC,ED
+3|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Contains Duplicate|contains-duplicate|AM,NC,ED
+3|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Word Pattern|word-pattern|AM,NC,ED
+3|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Ransom Note|ransom-note|AM,NC,ED
+3|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Longest Palindrome|longest-palindrome|AM,NC,ED
+3|Medium|Arrays & Hashing|Hard|Majority Element-II|majority-element-ii|TU,AM,NC
+3|Hard|Arrays & Hashing|Hard|Reverse Pairs|reverse-pairs|TU,AM,ED
+3|Easy|Arrays & Hashing|Prefix Sum|Range Sum Query - Immutable|range-sum-query-immutable|AM,NC,ED
+3|Medium|Arrays & Hashing|Prefix Sum|Continuous Subarray Sum|continuous-subarray-sum|AM,NC,ED
+3|Medium|Arrays & Hashing|Prefix Sum|Contiguous Array|contiguous-array|AM,NC,ED
+3|Medium|Arrays & Hashing|Cyclic Sort|Find All Duplicates in an Array|find-all-duplicates-in-an-array|TH,NC,ED
+3|Easy|Arrays & Hashing|String Matching (KMP / Z-Function)|Find the Index of the First Occurrence in a String|find-the-index-of-the-first-occurrence-in-a-string|TH,AM,NC
+3|Medium|Arrays & Hashing|String Matching (KMP / Z-Function)|Repeated String Match|repeated-string-match|TH,TU,AM
+3|Easy|Arrays & Hashing|String Matching (KMP / Z-Function)|Rotate String|rotate-string|TH,TU,AM
+3|Hard|Arrays & Hashing|String Matching (KMP / Z-Function)|Longest happy prefix|longest-happy-prefix|TU,AM,ED
+3|Medium|Arrays & Hashing|Top K Elements (Selection/Frequency)|Find the Kth Largest Integer in the Array|find-the-kth-largest-integer-in-the-array|AM,NC,ED
+3|Hard|Arrays & Hashing|Number Theory / Math|Integer to English Words|integer-to-english-words|AM,NC,ED
+3|Hard|Backtracking|Parentheses Generation|Remove Invalid Parentheses|remove-invalid-parentheses|TH,AM,ED
+3|Medium|Backtracking|Get a Strong Hold|Pow(x, n)|powx-n|TU,AM,NC
+3|Medium|Backtracking|Backtracking|Permutations II|permutations-ii|AM,NC,ED
+3|Easy|Binary Search|On Sorted Array/List|Sqrt(x)|sqrtx|TH,TU,NC
+3|Easy|Binary Search|On Sorted Array/List|First Bad Version|first-bad-version|TH,AM,ED
+3|Easy|Binary Search|On Sorted Array/List|Guess Number Higher or Lower|guess-number-higher-or-lower|TH,AM,NC
+3|Hard|Binary Search|Find Min/Max in Rotated Sorted Array|Find in Mountain Array|find-in-mountain-array|TH,AM,NC
+3|Hard|Binary Search|On Answer / Condition Function|Minimize Max Distance to Gas Station|minimize-max-distance-to-gas-station|TH,TU,ED
+3|Medium|Binary Search|On Answer / Condition Function|Minimum Number of Days to Make m Bouquets|minimum-number-of-days-to-make-m-bouquets|TH,TU,AM
+3|Medium|Binary Search|BS on Answers|Aggressive Cows|magnetic-force-between-two-balls|TU,AM,ED
+3|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Single Number II|single-number-ii|TH,AM,ED
+3|Easy|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Find the Difference|find-the-difference|TH,NC,ED
+3|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Single Number - III|single-number-iii|TU,AM,NC
+3|Medium|Bit Manipulation|Advanced Maths|Count primes in range L to R|count-primes|TU,AM,NC
+3|Easy|Bit Manipulation|Bit Manipulation|Reverse Bits|reverse-bits|AM,NC,ED
+3|Medium|Bit Manipulation|Bit Manipulation|Sum of Two Integers|sum-of-two-integers|AM,NC,ED
+3|Easy|Design|Design / Encodings|Logger Rate Limiter|logger-rate-limiter|AM,NC,ED
+3|Medium|Design|Design / Encodings|Time Based Key-Value Store|time-based-key-value-store|AM,NC,ED
+3|Medium|Design|Design / Encodings|Encode and Decode Strings|encode-and-decode-strings|AM,NC,ED
+3|Medium|Design|Design / Encodings|Insert Delete GetRandom O(1)|insert-delete-getrandom-o1|AM,NC,ED
+3|Hard|Design|Design / Encodings|Design In-Memory File System|design-in-memory-file-system|AM,NC,ED
+3|Hard|Design|Min Stack Design|Max Stack|max-stack|AM,NC,ED
+3|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Delete and Earn|delete-and-earn|TH,AM,NC
+3|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Frog Jump|frog-jump|TU,AM,ED
+3|Easy|Dynamic Programming|1D Array (Fibonacci Style)|N-th Tribonacci Number|n-th-tribonacci-number|NC,ED,EDP
+3|Medium|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Maximum Sum Circular Subarray|maximum-sum-circular-subarray|TH,AM,NC
+3|Medium|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Maximum Absolute Sum of Any Subarray|maximum-absolute-sum-of-any-subarray|TH,AM,NC
+3|Medium|Dynamic Programming|Unbounded Knapsack (Coin Change Style)|Perfect Squares|perfect-squares|AM,NC,ED
+3|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Delete Operation for Two Strings|delete-operation-for-two-strings|TH,TU,EDP
+3|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Wildcard matching|wildcard-matching|TU,AM,ED
+3|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Regular Expression Matching|regular-expression-matching|AM,NC,ED
+3|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Minimum Falling Path Sum|minimum-falling-path-sum|TH,AM,NC
+3|Hard|Dynamic Programming|2D Array (Grid Unique Paths)|Cherry Pickup|cherry-pickup|AM,NC,ED
+3|Hard|Dynamic Programming|Interval / Partition DP|Minimum cost to cut the stick|minimum-cost-to-cut-a-stick|TU,AM,NC
+3|Hard|Dynamic Programming|Interval / Partition DP|Different Ways to Evaluate a Boolean Expression|parsing-a-boolean-expression|TU,NC,ED
+3|Medium|Dynamic Programming|Catalan Numbers|Unique Binary Search Trees II|unique-binary-search-trees-ii|TH,AM,NC
+3|Medium|Dynamic Programming|Catalan Numbers|Unique Binary Search Trees|unique-binary-search-trees|TH,AE,NC
+3|Hard|Dynamic Programming|Stock Problems (State Machine)|Maximum Profit in Job Scheduling|maximum-profit-in-job-scheduling|AM,NC,ED
+3|Hard|Dynamic Programming|Tree / Graph DP|Longest Increasing Path in a Matrix|longest-increasing-path-in-a-matrix|AM,NC,ED
+3|Hard|Dynamic Programming|Bitmask DP|Optimal Account Balancing|optimal-account-balancing|AM,NC,ED
+3|Medium|Dynamic Programming|General Greedy|Longest Turbulent Subarray|longest-turbulent-subarray|AM,NC,EDP
+3|Medium|Graphs|DFS - Connected Components / Island Counting|Detonate the Maximum Bombs|detonate-the-maximum-bombs|TH,NC,ED
+3|Medium|Graphs|DFS - Connected Components / Island Counting|Number of Distinct Islands|number-of-distinct-islands|AM,NC,ED
+3|Medium|Graphs|BFS - Connected Components / Island Counting|Open the Lock|open-the-lock|AM,NC,ED
+3|Hard|Graphs|Topological Sort (Kahn's Algorithm)|Parallel Courses III|parallel-courses-iii|TH,NC,ED
+3|Hard|Graphs|Topological Sort (Kahn's Algorithm)|Build a Matrix With Conditions|build-a-matrix-with-conditions|TH,NC,ED
+3|Medium|Graphs|Deep Copy / Cloning|Find the City With the Smallest Number of Neighbors at a Threshold Distance|find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance|TH,TU,NC
+3|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|Minimum Obstacle Removal to Reach Corner|minimum-obstacle-removal-to-reach-corner|TH,AM,NC
+3|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|Minimum Cost to Make at Least One Valid Path in a Grid|minimum-cost-to-make-at-least-one-valid-path-in-a-grid|AM,NC,ED
+3|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Regions Cut By Slashes|regions-cut-by-slashes|TH,NC,ED
+3|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Evaluate Division|evaluate-division|AM,NC,ED
+3|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Making a large island|making-a-large-island|TU,AM,NC
+3|Hard|Graphs|Bridges & Articulation Points (Tarjan)|Critical Connections in a Network|critical-connections-in-a-network|TH,TU,AM
+3|Hard|Graphs|Bridges & Articulation Points (Tarjan)|Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree|TH,AM,NC
+3|Hard|Graphs|Minimum Spanning Tree (Kruskal / Prim)|Optimize Water Distribution in a Village|optimize-water-distribution-in-a-village|TH,AM,ED
+3|Hard|Graphs|Bidirectional BFS|Word Ladder II|word-ladder-ii|TH,TU,ED
+3|Hard|Graphs|Eulerian Path / Circuit|Reconstruct Itinerary|reconstruct-itinerary|AM,NC,ED
+3|Hard|Graphs|Line Sweep|Minimum Interval to Include Each Query|minimum-interval-to-include-each-query|AM,NC,ED
+3|Easy|Greedy|Interval Merging/Scheduling|Meeting Rooms|meeting-rooms|AM,NC,ED
+3|Medium|Greedy|Interval Merging/Scheduling|Remove Covered Intervals|remove-covered-intervals|AM,NC,ED
+3|Medium|Greedy|Interval Merging/Scheduling|Partition Labels|partition-labels|AM,NC,ED
+3|Hard|Greedy|Jump Game Reachability/Minimization|Minimum Number of Refueling Stops|minimum-number-of-refueling-stops|AM,ED,EDP
+3|Medium|Greedy|Sorting Based|Queue Reconstruction by Height|queue-reconstruction-by-height|TH,AM,AE
+3|Medium|Greedy|Sorting Based|Two City Scheduling|two-city-scheduling|TH,NC,ED
+3|Easy|Greedy|General Greedy|Lemonade Change|lemonade-change|TU,NC,ED
+3|Medium|Greedy|General Greedy|Valid Paranthesis Checker|valid-parenthesis-string|TU,AM,NC
+3|Medium|Greedy|General Greedy|Maximum Swap|maximum-swap|AM,NC,ED
+3|Medium|Greedy|Scheduling / Minimum Cost (Greedy with PQ)|Car Pooling|car-pooling|AM,NC,ED
+3|Medium|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Design Twitter|design-twitter|TU,AM,NC
+3|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Furthest Building You Can Reach|furthest-building-you-can-reach|TH,AM,NC
+3|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Single-Threaded CPU|single-threaded-cpu|TH,AM,NC
+3|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|The Number of the Smallest Unoccupied Chair|the-number-of-the-smallest-unoccupied-chair|TH,NC,ED
+3|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Longest Happy String|longest-happy-string|AM,NC,ED
+3|Hard|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Maximum Performance of a Team|maximum-performance-of-a-team|AM,NC,ED
+3|Hard|Heap / Priority Queue|Two Heaps|IPO|ipo|AM,NC,ED
+3|Medium|Linked List|Addition of Numbers|Plus One Linked List|plus-one-linked-list|TH,TU,NC
+3|Medium|Linked List|Reordering / Partitioning|Partition List|partition-list|TH,AM,NC
+3|Medium|Linked List|General Linked List|Insert into a Sorted Circular Linked List|insert-into-a-sorted-circular-linked-list|AM,NC,ED
+3|Medium|Linked List|Design / Specialized Lists|Design Linked List|design-linked-list|AM,AE,NC
+3|Medium|Math & Geometry|Number Theory / Math|Reverse Integer|reverse-integer|AM,NC,ED
+3|Medium|Math & Geometry|Coordinate Geometry|Minimum Area Rectangle|minimum-area-rectangle|AM,AE,ED
+3|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Maximum Average Subarray I|maximum-average-subarray-i|TH,AM,ED
+3|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Maximum Points You Can Obtain from Cards|maximum-points-you-can-obtain-from-cards|TU,AM,NC
+3|Medium|Sliding Window|Variable Size (Condition-Based)|Subarray Product Less Than K|subarray-product-less-than-k|TH,AM,NC
+3|Medium|Sliding Window|Variable Size (Condition-Based)|Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit|TH,AM,NC
+3|Medium|Sliding Window|Variable Size (Condition-Based)|Maximum Sum of Distinct Subarrays With Length K|maximum-sum-of-distinct-subarrays-with-length-k|TH,AM,NC
+3|Medium|Sliding Window|Variable Size (Condition-Based)|Binary Subarrays With Sum|binary-subarrays-with-sum|TU,NC,ED
+3|Medium|Sliding Window|Variable Size (Condition-Based)|Count number of Nice subarrays|count-number-of-nice-subarrays|TU,AM,NC
+3|Hard|Sliding Window|Variable Size (Condition-Based)|Minimum Window Subsequence|minimum-window-subsequence|TU,AM,ED
+3|Hard|Sliding Window|Monotonic Queue for Max/Min|Shortest Subarray with Sum at Least K|shortest-subarray-with-sum-at-least-k|TH,AM,NC
+3|Medium|Sliding Window|Character Frequency Matching|Longest Substring With At Most K Distinct Characters|longest-substring-with-at-most-k-distinct-characters|TU,AM,NC
+3|Medium|Stack & Queue|Monotonic Stack|Next Greater Element II|next-greater-element-ii|TH,TU,AM
+3|Medium|Stack & Queue|Monotonic Stack|Maximum Width Ramp|maximum-width-ramp|TH,AM,NC
+3|Easy|Stack & Queue|Monotonic Stack|Final Prices With a Special Discount in a Shop|final-prices-with-a-special-discount-in-a-shop|TH,AM,NC
+3|Hard|Stack & Queue|Monotonic Stack|Number of Visible People in a Queue|number-of-visible-people-in-a-queue|AM,NC,ED
+3|Hard|Stack & Queue|Expression Evaluation (RPN/Infix)|Basic Calculator|basic-calculator|TH,AM,ED
+3|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Basic Calculator II|basic-calculator-ii|TH,AM,NC
+3|Easy|Stack & Queue|General Stack/Queue|Implement Stack using Queue|implement-stack-using-queues|TU,AM,NC
+3|Medium|Trees|BFS - Level Order Traversal|Maximum Width of BT|maximum-width-of-binary-tree|TU,AM,NC
+3|Easy|Trees|DFS - Preorder Traversal|Convert Sorted Array to Binary Search Tree|convert-sorted-array-to-binary-search-tree|AM,NC,ED
+3|Medium|Trees|DFS - Preorder Traversal|Boundary Traversal|boundary-of-binary-tree|TU,AM,NC
+3|Medium|Trees|Serialization & Deserialization|Find Duplicate Subtrees|find-duplicate-subtrees|TH,AM,NC
+3|Medium|Trees|Serialization & Deserialization|Construct the Binary Tree from Postorder and Inorder Traversal|construct-binary-tree-from-inorder-and-postorder-traversal|TU,AM,NC
+3|Medium|Trees|Tries|Longest Word in Dictionary|longest-word-in-dictionary|TH,TU,AM
+3|Medium|Trees|Tries|Replace Words|replace-words|TH,AM,ED
+3|Hard|Trees|Tries|Design Search Autocomplete System|design-search-autocomplete-system|TH,AM,NC
+3|Medium|Trees|Tries|Search Suggestions System|search-suggestions-system|AM,NC,ED
+3|Easy|Trees|BST Properties|Closest Binary Search Tree Value|closest-binary-search-tree-value|AM,AE,NC
+3|Medium|Trees|BST Properties|Delete a node in BST|delete-node-in-a-bst|TU,AM,NC
+3|Easy|Trees|BST Properties|Two Sum In BST | Check if there exists a pair with Sum K|two-sum-iv-input-is-a-bst|TU,AM,ED
+3|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Two Sum II - Input Array Is Sorted|two-sum-ii-input-array-is-sorted|TH,AM,NC
+3|Easy|Two Pointers|Converging (Sorted Array Target Sum)|Intersection of Two Arrays|intersection-of-two-arrays|TH,NC,ED
+3|Medium|Two Pointers|Fixed Separation (Nth Node from End)|Delete the Middle Node of a Linked List|delete-the-middle-node-of-a-linked-list|TH,TU,AM
+3|Medium|Two Pointers|In-place Array Modification|Remove Duplicates from Sorted Array II|remove-duplicates-from-sorted-array-ii|TH,AM,NC
+3|Easy|Two Pointers|In-place Array Modification|Valid Word Abbreviation|valid-word-abbreviation|AM,NC,ED
+3|Easy|Two Pointers|String Comparison with Backspaces|Backspace String Compare|backspace-string-compare|TH,AM,NC
+2|Medium|Arrays & Hashing|Matrix Traversal & Math|Spiral Matrix III|spiral-matrix-iii|TH,NC
+2|Medium|Arrays & Hashing|Matrix Traversal & Math|Spiral Matrix IV|spiral-matrix-iv|TH,NC
+2|Medium|Arrays & Hashing|Prefix Sums|Longest Mountain in Array|longest-mountain-in-array|TH,AE
+2|Medium|Arrays & Hashing|Prefix Sums|Number of Zero-Filled Subarrays|number-of-zero-filled-subarrays|AM,NC
+2|Easy|Arrays & Hashing|Simulation / General Array|Add to Array-Form of Integer|add-to-array-form-of-integer|TH,NC
+2|Medium|Arrays & Hashing|Simulation / General Array|Integer to Roman|integer-to-roman|TH,NC
+2|Easy|Arrays & Hashing|Simulation / General Array|Add Strings|add-strings|TH,ED
+2|Easy|Arrays & Hashing|Simulation / General Array|Missing Ranges|missing-ranges|AM,NC
+2|Medium|Arrays & Hashing|Simulation / General Array|Construct Quad Tree|construct-quad-tree|AM,NC
+2|Easy|Arrays & Hashing|Simulation / General Array|Monotonic Array|monotonic-array|AE,NC
+2|Medium|Arrays & Hashing|Simulation / General Array|Append Characters to String to Make Subsequence|append-characters-to-string-to-make-subsequence|NC,ED
+2|Easy|Arrays & Hashing|Simulation / General Array|Can Place Flowers|can-place-flowers|NC,ED
+2|Medium|Arrays & Hashing|Simulation / General Array|Candy Crush|candy-crush|AM,NC
+2|Easy|Arrays & Hashing|Simulation / General Array|Check if the Array is Sorted II|check-if-array-is-sorted-and-rotated|TU,NC
+2|Medium|Arrays & Hashing|Simulation / General Array|Rearrange array elements by sign|rearrange-array-elements-by-sign|TU,NC
+2|Easy|Arrays & Hashing|Simulation / General Array|Length of Last Word|length-of-last-word|AM,NC
+2|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Maximum Number of Balloons|maximum-number-of-balloons|AM,NC
+2|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Number of Good Pairs|number-of-good-pairs|AM,NC
+2|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Encode and Decode TinyURL|encode-and-decode-tinyurl|AM,NC
+2|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Group Shifted Strings|group-shifted-strings|AM,NC
+2|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Palindrome Permutation|palindrome-permutation|NC,ED
+2|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Shortest Word Distance II|shortest-word-distance-ii|NC,ED
+2|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Dot Product of Two Sparse Vectors|dot-product-of-two-sparse-vectors|NC,ED
+2|Medium|Arrays & Hashing|Strings|Zigzag Conversion|zigzag-conversion|AM,NC
+2|Medium|Arrays & Hashing|Strings|Add Bold Tag in String|add-bold-tag-in-string|AM,NC
+2|Easy|Arrays & Hashing|Prefix Sum|Find Pivot Index|find-pivot-index|AM,NC
+2|Medium|Arrays & Hashing|Prefix Sum|Subarray Sums Divisible by K|subarray-sums-divisible-by-k|AM,NC
+2|Medium|Arrays & Hashing|Prefix Sum|Range Sum Query 2D - Immutable|range-sum-query-2d-immutable|AM,NC
+2|Medium|Arrays & Hashing|Sorting & Intervals|Top K Frequent Words|top-k-frequent-words|AM,ED
+2|Medium|Arrays & Hashing|Sorting & Intervals|Custom Sort String|custom-sort-string|NC,ED
+2|Medium|Arrays & Hashing|Sorting & Intervals|Largest Number|largest-number|NC,ED
+2|Medium|Arrays & Hashing|Design / Encodings|Design Tic-Tac-Toe|design-tic-tac-toe|NC,ED
+2|Easy|Arrays & Hashing|Design / Encodings|Design HashSet|design-hashset|NC,ED
+2|Easy|Arrays & Hashing|String Matching (KMP / Z-Function)|Repeated Substring Pattern|repeated-substring-pattern|TH,AM
+2|Easy|Arrays & Hashing|Top K Elements (Selection/Frequency)|Third Maximum Number|third-maximum-number|AM,ED
+2|Easy|Arrays & Hashing|Bitwise XOR - Finding Single/Missing Number|Shuffle the Array|shuffle-the-array|AM,NC
+2|Medium|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Repeated DNA Sequences|repeated-dna-sequences|NC,ED
+2|Medium|Arrays & Hashing|Task Scheduling (Frequency Based)|Minimum Deletions to Make Character Frequencies Unique|minimum-deletions-to-make-character-frequencies-unique|AM,NC
+2|Easy|Backtracking|Subsets (Include/Exclude)|Sum of All Subsets XOR Total|sum-of-all-subset-xor-totals|NC,ED
+2|Medium|Backtracking|Subsets (Include/Exclude)|Matchsticks to Square|matchsticks-to-square|NC,ED
+2|Medium|Backtracking|Permutations|Letter Tile Possibilities|letter-tile-possibilities|NC,ED
+2|Hard|Backtracking|Word Search / Path Finding in Grid|Unique Paths III|unique-paths-iii|AM,ED
+2|Hard|Backtracking|N-Queens / Constraint Satisfaction|N Queens II|n-queens-ii|NC,ED
+2|Medium|Backtracking|Palindrome Partitioning|Pseudo-Palindromic Paths in a Binary Tree|pseudo-palindromic-paths-in-a-binary-tree|TH,NC
+2|Medium|Backtracking|Palindrome Partitioning|Split a String Into the Max Number of Unique Substrings|split-a-string-into-the-max-number-of-unique-substrings|NC,ED
+2|Medium|Backtracking|Get a Strong Hold|Count Good Numbers|count-good-numbers|TU,AM
+2|Medium|Backtracking|Subsequences Pattern|Count all subsequences with sum K|count-subsets-with-sum-k|TU,EDP
+2|Medium|Backtracking|Subsequences Pattern|Combination Sum III|combination-sum-iii|TU,AM
+2|Easy|Binary Search|On Sorted Array/List|Kth Missing Positive Number|kth-missing-positive-number|TH,TU
+2|Hard|Binary Search|On Sorted Array/List|Divide Chocolate|divide-chocolate|NC,ED
+2|Medium|Binary Search|On Answer / Condition Function|Minimum Limit of Balls in a Bag|minimum-limit-of-balls-in-a-bag|TH,NC
+2|Medium|Binary Search|On Answer / Condition Function|Minimized Maximum of Products Distributed to Any Store|minimized-maximum-of-products-distributed-to-any-store|TH,NC
+2|Medium|Binary Search|On Answer / Condition Function|Maximum Candies Allocated to K Children|maximum-candies-allocated-to-k-children|TH,NC
+2|Medium|Binary Search|BS on 2D Arrays|Search in 2D matrix - II|search-a-2d-matrix-ii|TU,AM
+2|Easy|Binary Search|Binary Search|Valid Perfect Square|valid-perfect-square|AM,NC
+2|Medium|Binary Search|Binary Search|Random Pick with Weight|random-pick-with-weight|AM,NC
+2|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Count Triplets That Can Form Two Arrays of Equal XOR|count-triplets-that-can-form-two-arrays-of-equal-xor|NC,ED
+2|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Longest Subarray With Maximum Bitwise AND|longest-subarray-with-maximum-bitwise-and|NC,ED
+2|Easy|Bit Manipulation|Counting Set Bits (Hamming Weight)|Minimum Bit Flips to Convert Number|minimum-bit-flips-to-convert-number|TU,NC
+2|Easy|Bit Manipulation|Power of Two/Four Check|Power of Four|power-of-four|TH,NC
+2|Medium|Bit Manipulation|Bit Manipulation|Bitwise AND of Numbers Range|bitwise-and-of-numbers-range|AM,NC
+2|Easy|Bit Manipulation|Cyclic Sort|Set Mismatch|set-mismatch|AM,NC
+2|Medium|Design|Design / Encodings|Design Hit Counter|design-hit-counter|AM,NC
+2|Medium|Design|Design / Encodings|Design Browser History|design-browser-history|AM,NC
+2|Medium|Design|Design / Encodings|Snapshot Array|snapshot-array|AM,ED
+2|Medium|Design|Design / Encodings|Design a Food Rating System|design-a-food-rating-system|AM,NC
+2|Hard|Design|Design / Encodings|All O`one Data Structure|all-oone-data-structure|AM,ED
+2|Hard|Design|Design / Encodings|Range Module|range-module|AM,ED
+2|Medium|Design|Design / Specialized Lists|Design Circular Queue|design-circular-queue|AM,NC
+2|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Ninja and his Friends|cherry-pickup-ii|TU,NC
+2|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Integer Break|integer-break|AM,NC
+2|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Minimum Cost For Tickets|minimum-cost-for-tickets|AM,NC
+2|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Paint House|paint-house|AM,NC
+2|Medium|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Best Sightseeing Pair|best-sightseeing-pair|AM,NC
+2|Medium|Dynamic Programming|Unbounded Knapsack (Coin Change Style)|Combination Sum IV|combination-sum-iv|TH,NC
+2|Hard|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Partition a set into two subsets with minimum absolute sum difference|partition-array-into-two-arrays-to-minimize-sum-difference|TU,EDP
+2|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Last Stone Weight II|last-stone-weight-ii|AM,NC
+2|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Ones and Zeroes|ones-and-zeroes|AM,NC
+2|Hard|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Profitable Schemes|profitable-schemes|AM,NC
+2|Hard|Dynamic Programming|Longest Common Subsequence (LCS)|Minimum Insertion Steps to Make a String Palindrome|minimum-insertion-steps-to-make-a-string-palindrome|TH,TU
+2|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Maximum Number of Points with Cost|maximum-number-of-points-with-cost|AM,NC
+2|Hard|Dynamic Programming|2D Array (Grid Unique Paths)|Dungeon Game|dungeon-game|AM,ED
+2|Hard|Dynamic Programming|Interval / Partition DP|Remove Boxes|remove-boxes|TH,AM
+2|Medium|Dynamic Programming|Interval / Partition DP|Partition Array for Maximum Sum|partition-array-for-maximum-sum|TU,NC
+2|Hard|Dynamic Programming|Interval / Partition DP|Minimum Difficulty of a Job Schedule|minimum-difficulty-of-a-job-schedule|AM,NC
+2|Medium|Dynamic Programming|Catalan Numbers|Different Ways to Add Parentheses|different-ways-to-add-parentheses|TH,NC
+2|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Minimum Number of Removals to Make Mountain Array|minimum-number-of-removals-to-make-mountain-array|TH,NC
+2|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Largest Divisible Subset|largest-divisible-subset|TU,NC
+2|Medium|Dynamic Programming|Stock Problems (State Machine)|Best time to buy and sell stock with transaction fees|best-time-to-buy-and-sell-stock-with-transaction-fee|TU,AM
+2|Hard|Dynamic Programming|Tree / Graph DP|Binary Tree Cameras|binary-tree-cameras|AM,ED
+2|Medium|Dynamic Programming|Bitmask DP|Partition to K Equal Sum Subsets|partition-to-k-equal-sum-subsets|AM,NC
+2|Hard|Dynamic Programming|Bitmask DP|Shortest Path Visiting All Nodes|shortest-path-visiting-all-nodes|AM,ED
+2|Medium|Dynamic Programming|Probability DP|New 21 Game|new-21-game|AM,NC
+2|Medium|Dynamic Programming|Interval Merging/Scheduling|Maximum Length of Pair Chain|maximum-length-of-pair-chain|AM,NC
+2|Medium|Dynamic Programming|General Greedy|Minimum Deletions to Make String Balanced|minimum-deletions-to-make-string-balanced|AM,NC
+2|Medium|Graphs|DFS - Connected Components / Island Counting|Number of Closed Islands|number-of-closed-islands|TH,NC
+2|Medium|Graphs|DFS - Connected Components / Island Counting|Count Sub Islands|count-sub-islands|TH,NC
+2|Medium|Graphs|DFS - Connected Components / Island Counting|Time Needed to Inform All Employees|time-needed-to-inform-all-employees|AM,NC
+2|Medium|Graphs|DFS - Connected Components / Island Counting|All Paths From Source to Target|all-paths-from-source-to-target|AM,ED
+2|Easy|Graphs|DFS - Connected Components / Island Counting|Island Perimeter|island-perimeter|NC,ED
+2|Medium|Graphs|DFS - Connected Components / Island Counting|Reorder Routes to Make All Paths Lead to The City Zero|reorder-routes-to-make-all-paths-lead-to-the-city-zero|NC,ED
+2|Medium|Graphs|BFS - Connected Components / Island Counting|Snakes and Ladders|snakes-and-ladders|AM,NC
+2|Medium|Graphs|BFS - Connected Components / Island Counting|Walls and Gates|walls-and-gates|AM,NC
+2|Medium|Graphs|BFS - Connected Components / Island Counting|Minimum Knight Moves|minimum-knight-moves|AM,NC
+2|Medium|Graphs|BFS - Connected Components / Island Counting|Shortest Bridge|shortest-bridge|NC,ED
+2|Hard|Graphs|BFS - Connected Components / Island Counting|Find Minimum Diameter After Merging Two Trees|find-minimum-diameter-after-merging-two-trees|NC,ED
+2|Medium|Graphs|Cycle Detection (Directed Graph)|All Paths from Source Lead to Destination|all-paths-from-source-lead-to-destination|TH,NC
+2|Hard|Graphs|Topological Sort (Kahn's Algorithm)|Largest Color Value in a Directed Graph|largest-color-value-in-a-directed-graph|TH,NC
+2|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Course Schedule IV|course-schedule-iv|AM,NC
+2|Hard|Graphs|Topological Sort (Kahn's Algorithm)|Sort Items by Groups Respecting Dependencies|sort-items-by-groups-respecting-dependencies|AM,ED
+2|Easy|Graphs|Topological Sort (Kahn's Algorithm)|Verifying An Alien Dictionary|verifying-an-alien-dictionary|NC,ED
+2|Hard|Graphs|Topological Sort (Kahn's Algorithm)|Longest Path With Different Adjacent Characters|longest-path-with-different-adjacent-characters|AM,ED
+2|Medium|Graphs|Deep Copy / Cloning|Clone N-ary Tree|clone-n-ary-tree|TH,NC
+2|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|Second Minimum Time to Reach Destination|second-minimum-time-to-reach-destination|TH,NC
+2|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|Minimum Weighted Subgraph With the Required Paths|minimum-weighted-subgraph-with-the-required-paths|TH,AM
+2|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|Minimum Time to Visit a Cell In a Grid|minimum-time-to-visit-a-cell-in-a-grid|TH,NC
+2|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Find the Safest Path in a Grid|find-the-safest-path-in-a-grid|TH,NC
+2|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|The Maze II|the-maze-ii|AM,NC
+2|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Minimum Cost to Convert String I|minimum-cost-to-convert-string-i|AM,NC
+2|Medium|Graphs|Shortest Path (Bellman-Ford / BFS+K)|Shortest Path with Alternating Colors|shortest-path-with-alternating-colors|TH,NC
+2|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|The Earliest Moment When Everyone Become Friends|the-earliest-moment-when-everyone-become-friends|TH,NC
+2|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Minimize Malware Spread|minimize-malware-spread|AM,ED
+2|Medium|Graphs|Minimum Spanning Tree (Kruskal / Prim)|Connecting Cities With Minimum Cost|connecting-cities-with-minimum-cost|TH,AM
+2|Hard|Graphs|Line Sweep|The Skyline Problem|the-skyline-problem|AM,ED
+2|Easy|Graphs|General Graph Traversal|Find the Town Judge|find-the-town-judge|NC,ED
+2|Medium|Greedy|Interval Merging/Scheduling|Divide Intervals Into Minimum Number of Groups|divide-intervals-into-minimum-number-of-groups|TH,NC
+2|Medium|Greedy|Interval Merging/Scheduling|Minimum Number of Arrows to Burst Balloons|minimum-number-of-arrows-to-burst-balloons|AM,NC
+2|Medium|Greedy|Interval Merging/Scheduling|Count Days Without Meetings|count-days-without-meetings|NC,ED
+2|Hard|Greedy|Interval Merging/Scheduling|Data Stream as Disjoint Intervals|data-stream-as-disjoint-intervals|NC,ED
+2|Medium|Greedy|Task Scheduling (Frequency Based)|Minimum Number of Pushes to Type Word II|minimum-number-of-pushes-to-type-word-ii|NC,ED
+2|Hard|Greedy|Sorting Based|Put Marbles in Bags|put-marbles-in-bags|NC,ED
+2|Medium|Greedy|Greedy|Jump Game VII|jump-game-vii|AM,NC
+2|Medium|Greedy|General Greedy|Flip Columns For Maximum Number of Equal Rows|flip-columns-for-maximum-number-of-equal-rows|NC,ED
+2|Medium|Greedy|General Greedy|Maximal Score After Applying K Operations|maximal-score-after-applying-k-operations|NC,ED
+2|Hard|Greedy|General Greedy|Minimum Number of K Consecutive Bit Flips|minimum-number-of-k-consecutive-bit-flips|NC,ED
+2|Medium|Greedy|General Greedy|Maximum Score From Removing Substrings|maximum-score-from-removing-substrings|AM,NC
+2|Medium|Greedy|General Greedy|Maximum Matrix Sum|maximum-matrix-sum|AM,NC
+2|Medium|Greedy|Converging (Sorted Array Target Sum)|Meeting Scheduler|meeting-scheduler|AM,NC
+2|Easy|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Take Gifts From the Richest Pile|take-gifts-from-the-richest-pile|TH,NC
+2|Easy|Heap / Priority Queue|Top K Elements (Selection/Frequency)|High Five|high-five|NC,ED
+2|Medium|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Least Number of Unique Integers after K Removal|least-number-of-unique-integers-after-k-removals|NC,ED
+2|Hard|Heap / Priority Queue|Two Heaps for Median Finding|Finding MK Average|finding-mk-average|TH,ED
+2|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Maximum Average Pass Ratio|maximum-average-pass-ratio|TH,ED
+2|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Hand of Straights|hand-of-straights|TU,NC
+2|Hard|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Number of Flowers in Full Bloom|number-of-flowers-in-full-bloom|NC,ED
+2|Medium|Heap / Priority Queue|Heaps|Process Tasks Using Servers|process-tasks-using-servers|AM,NC
+2|Hard|Heap / Priority Queue|Two Heaps|Sliding Window Median|sliding-window-median|AM,ED
+2|Easy|Heap / Priority Queue|General Priority Queue|Final Array State After K Multiplication Operations I|final-array-state-after-k-multiplication-operations-i|NC,ED
+2|Medium|Heap / Priority Queue|General Priority Queue|Range Sum of Sorted Subarray Sums|range-sum-of-sorted-subarray-sums|NC,ED
+2|Medium|Linked List|In-place Reversal|Remove Duplicates from Sorted List II|remove-duplicates-from-sorted-list-ii|TH,AM
+2|Medium|Linked List|In-place Reversal|Maximum Twin Sum Of A Linked List|maximum-twin-sum-of-a-linked-list|NC,ED
+2|Medium|Linked List|Learn 1D LinkedList|Deletion of the head of LL|delete-node-in-a-linked-list|TU,AM
+2|Medium|Linked List|Linked List|Add Two Numbers II|add-two-numbers-ii|AM,NC
+2|Medium|Linked List|Linked List|Merge In Between Linked Lists|merge-in-between-linked-lists|AM,NC
+2|Easy|Linked List|General Linked List|Remove Linked List Elements|remove-linked-list-elements|NC,ED
+2|Easy|Linked List|General Linked List|Delete N Nodes After M Nodes of a Linked List|delete-n-nodes-after-m-nodes-of-a-linked-list|NC,ED
+2|Medium|Linked List|General Linked List|Swapping Nodes in a Linked List|swapping-nodes-in-a-linked-list|NC,ED
+2|Medium|Linked List|General Linked List|Split Linked List in Parts|split-linked-list-in-parts|NC,ED
+2|Easy|Math & Geometry|Maths / Geometry|Ugly Number|ugly-number|AM,NC
+2|Medium|Math & Geometry|Maths / Geometry|Ugly Number II|ugly-number-ii|AM,NC
+2|Easy|Math & Geometry|Number Theory / Math|Excel Sheet Column Title|excel-sheet-column-title|AM,NC
+2|Easy|Math & Geometry|Number Theory / Math|Greatest Common Divisor of Strings|greatest-common-divisor-of-strings|AM,NC
+2|Medium|Math & Geometry|Number Theory / Math|Lexicographical Numbers|lexicographical-numbers|NC,ED
+2|Hard|Math & Geometry|Number Theory / Math|Minimum Number of One Bit Operations to Make Integers Zero|minimum-one-bit-operations-to-make-integers-zero|NC,ED
+2|Hard|Math & Geometry|Number Theory / Math|K-th Smallest in Lexicographical Order|k-th-smallest-in-lexicographical-order|NC,ED
+2|Medium|Math & Geometry|Sorting & Intervals|Valid Triangle Number|valid-triangle-number|AM,ED
+2|Medium|Math & Geometry|Coordinate Geometry|Valid Square|valid-square|AM,ED
+2|Hard|Math & Geometry|Coordinate Geometry|Best Meeting Point|best-meeting-point|NC,ED
+2|Easy|Math & Geometry|Matrix / Simulation|Lucky Numbers in a Matrix|lucky-numbers-in-a-matrix|NC,ED
+2|Easy|Math & Geometry|Matrix / Simulation|Convert 1D Array Into 2D Array|convert-1d-array-into-2d-array|NC,ED
+2|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Find the Power of K-Size Subarrays I|find-the-power-of-k-size-subarrays-i|TH,NC
+2|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Maximum Number of Vowels in a Substring of Given Length|maximum-number-of-vowels-in-a-substring-of-given-length|AM,NC
+2|Hard|Sliding Window|Fixed Size (Subarray Calculation)|Substring with Concatenation of All Words|substring-with-concatenation-of-all-words|AM,ED
+2|Medium|Sliding Window|Variable Size (Condition-Based)|Minimum Operations to Reduce X to Zero|minimum-operations-to-reduce-x-to-zero|TH,NC
+2|Medium|Sliding Window|Variable Size (Condition-Based)|Take K of Each Character From Left and Right|take-k-of-each-character-from-left-and-right|TH,NC
+2|Medium|Sliding Window|Variable Size (Condition-Based)|Continuous Subarrays|continuous-subarrays|TH,AM
+2|Medium|Sliding Window|Variable Size (Condition-Based)|Maximum Beauty of an Array After Applying Operation|maximum-beauty-of-an-array-after-applying-operation|TH,NC
+2|Medium|Sliding Window|Variable Size (Condition-Based)|Longest Substring with At Most Two Distinct Characters|longest-substring-with-at-most-two-distinct-characters|AM,NC
+2|Medium|Sliding Window|Variable Size (Condition-Based)|Number of Substrings Containing All Three Characters|number-of-substrings-containing-all-three-characters|TU,NC
+2|Medium|Sliding Window|Monotonic Queue for Max/Min|Jump Game VI|jump-game-vi|TH,AM
+2|Hard|Sliding Window|General Priority Queue|Constrained Subsequence Sum|constrained-subsequence-sum|AM,NC
+2|Medium|Stack & Queue|Valid Parentheses Matching|Minimum Number of Swaps to Make the String Balanced|minimum-number-of-swaps-to-make-the-string-balanced|TH,NC
+2|Medium|Stack & Queue|Valid Parentheses Matching|Removing Stars From a String|removing-stars-from-a-string|AM,NC
+2|Easy|Stack & Queue|Valid Parentheses Matching|Minimum String Length After Removing Substrings|minimum-string-length-after-removing-substrings|NC,ED
+2|Medium|Stack & Queue|Monotonic Stack|Find the Most Competitive Subsequence|find-the-most-competitive-subsequence|TH,AM
+2|Medium|Stack & Queue|Monotonic Stack|132 Pattern|132-pattern|AM,NC
+2|Medium|Stack & Queue|Monotonic Stack|Shortest Unsorted Continuous Subarray|shortest-unsorted-continuous-subarray|AM,AE
+2|Medium|Stack & Queue|Monotonic Stack|Sum of Subarray Ranges|sum-of-subarray-ranges|TU,AM
+2|Medium|Stack & Queue|Monotonic Stack|Remove Duplicate Letters|remove-duplicate-letters|AM,ED
+2|Hard|Stack & Queue|Expression Evaluation (RPN/Infix)|Basic Calculator III|basic-calculator-iii|TH,NC
+2|Easy|Stack & Queue|General Stack/Queue|Baseball Game|baseball-game|AM,NC
+2|Easy|Stack & Queue|General Stack/Queue|Remove All Adjacent Duplicates In String|remove-all-adjacent-duplicates-in-string|AM,ED
+2|Medium|Stack & Queue|General Stack/Queue|Car Fleet|car-fleet|AM,NC
+2|Medium|Stack & Queue|General Stack/Queue|Validate Stack Sequences|validate-stack-sequences|AM,NC
+2|Medium|Stack & Queue|General Stack/Queue|Exclusive Time of Functions|exclusive-time-of-functions|AM,ED
+2|Easy|Stack & Queue|General Stack/Queue|Time Needed to Buy Tickets|time-needed-to-buy-tickets|AM,NC
+2|Medium|Stack & Queue|General Stack/Queue|Reveal Cards In Increasing Order|reveal-cards-in-increasing-order|AM,NC
+2|Medium|Stack & Queue|General Stack/Queue|Flatten Nested List Iterator|flatten-nested-list-iterator|NC,ED
+2|Medium|Stack & Queue|General Greedy|Buildings With an Ocean View|buildings-with-an-ocean-view|AM,NC
+2|Medium|Stack & Queue|General Greedy|Max Chunks To Make Sorted|max-chunks-to-make-sorted|AM,NC
+2|Hard|Stack & Queue|In-place Array Modification|Create Maximum Number|create-maximum-number|AM,ED
+2|Medium|Stack & Queue|Design / Encodings|First Unique Number|first-unique-number|AM,NC
+2|Medium|Stack & Queue|Number Theory / Math|Find the Winner of the Circular Game|find-the-winner-of-the-circular-game|AM,NC
+2|Medium|Trees|BFS - Level Order Traversal|Find Largest Value in Each Tree Row|find-largest-value-in-each-tree-row|TH,NC
+2|Easy|Trees|BFS - Level Order Traversal|Average of Levels in Binary Tree|average-of-levels-in-binary-tree|AM,ED
+2|Medium|Trees|BFS - Level Order Traversal|Binary Tree Vertical Order Traversal|binary-tree-vertical-order-traversal|AM,NC
+2|Medium|Trees|BFS - Level Order Traversal|Check Completeness of a Binary Tree|check-completeness-of-a-binary-tree|AM,NC
+2|Hard|Trees|BFS - Level Order Traversal|Vertical Order Traversal|vertical-order-traversal-of-a-binary-tree|TU,ED
+2|Medium|Trees|DFS - Preorder Traversal|Smallest String Starting From Leaf|smallest-string-starting-from-leaf|TH,NC
+2|Medium|Trees|DFS - Preorder Traversal|Path Sum II|path-sum-ii|AM,AE
+2|Hard|Trees|DFS - Preorder Traversal|Recover a Tree From Preorder Traversal|recover-a-tree-from-preorder-traversal|NC,ED
+2|Medium|Trees|DFS - Preorder Traversal|Count Good Nodes in Binary Tree|count-good-nodes-in-binary-tree|AM,NC
+2|Easy|Trees|DFS - Preorder Traversal|Merge Two Binary Trees|merge-two-binary-trees|AE,NC
+2|Medium|Trees|DFS - Preorder Traversal|Nested List Weight Sum II|nested-list-weight-sum-ii|NC,ED
+2|Easy|Trees|DFS - Inorder Traversal|Minimum Absolute Difference in BST|minimum-absolute-difference-in-bst|TH,AM
+2|Easy|Trees|DFS - Inorder Traversal|Minimum Distance Between BST Nodes|minimum-distance-between-bst-nodes|AM,NC
+2|Medium|Trees|DFS - Postorder Traversal|Find Leaves of Binary Tree|find-leaves-of-binary-tree|TH,NC
+2|Hard|Trees|DFS - Postorder Traversal|Height of Binary Tree After Subtree Removal Queries|height-of-binary-tree-after-subtree-removal-queries|TH,ED
+2|Medium|Trees|Lowest Common Ancestor (LCA)|Lowest Common Ancestor of a Binary Tree III|lowest-common-ancestor-of-a-binary-tree-iii|NC,ED
+2|Medium|Trees|Lowest Common Ancestor (LCA)|Step-By-Step Directions From a Binary Tree Node to Another|step-by-step-directions-from-a-binary-tree-node-to-another|AM,NC
+2|Hard|Trees|Tries|Word Squares|word-squares|TH,AM
+2|Medium|Trees|Tries|Remove Sub-Folders from the Filesystem|remove-sub-folders-from-the-filesystem|AM,NC
+2|Hard|Trees|Tries|Concatenated Words|concatenated-words|AM,NC
+2|Hard|Trees|Tries|Palindrome Pairs|palindrome-pairs|AM,ED
+2|Medium|Trees|Tries|Design File System|design-file-system|NC,ED
+2|Medium|Trees|Tries|Maximum XOR of two numbers in an array|maximum-xor-of-two-numbers-in-an-array|TU,AM
+2|Easy|Trees|BST Properties|Range Sum of BST|range-sum-of-bst|AM,NC
+2|Medium|Trees|BST Properties|Inorder Successor in BST II|inorder-successor-in-bst-ii|AM,NC
+2|Medium|Trees|BST Properties|Trim a Binary Search Tree|trim-a-binary-search-tree|AM,NC
+2|Medium|Trees|BST Properties|Largest BST Subtree|largest-bst-subtree|AM,NC
+2|Medium|Trees|BST Properties|My Calendar I|my-calendar-i|AM,NC
+2|Medium|Trees|BST Properties|My Calendar II|my-calendar-ii|AM,NC
+2|Easy|Trees|BST Properties|Search in a Binary Search Tree|search-in-a-binary-search-tree|TU,AM
+2|Medium|Trees|BST Properties|Construct a BST from a preorder traversal|construct-binary-search-tree-from-preorder-traversal|TU,AM
+2|Hard|Trees|Binary Indexed Tree / Segment Tree|Range Sum Query 2D - Mutable|range-sum-query-2d-mutable|AM,NC
+2|Medium|Trees|Properties & Structural DP|Tree Diameter|tree-diameter|NC,ED
+2|Easy|Trees|Properties & Structural DP|Count total nodes in a complete BT|count-complete-tree-nodes|TU,AM
+2|Medium|Trees|Properties & Structural DP|Distribute Coins in Binary Tree|distribute-coins-in-binary-tree|AM,NC
+2|Medium|Trees|Path Problems|Sum Root to Leaf Numbers|sum-root-to-leaf-numbers|AM,NC
+2|Medium|Trees|Hash Map: Frequency/Counters|Find the Length of the Longest Common Prefix|find-the-length-of-the-longest-common-prefix|AM,NC
+2|Hard|Trees|Design / Encodings|Stream of Characters|stream-of-characters|AM,ED
+2|Hard|Trees|Segment Tree / BIT|Count of Smaller Numbers After Self|count-of-smaller-numbers-after-self|AM,AE
+2|Easy|Two Pointers|Converging (Sorted Array Target Sum)|Strobogrammatic Number|strobogrammatic-number|NC,ED
+2|Easy|Two Pointers|In-place Array Modification|Sort Array By Parity|sort-array-by-parity|TH,NC
+2|Medium|Two Pointers|In-place Array Modification|Separate Black and White Balls|separate-black-and-white-balls|TH,NC
+2|Easy|Two Pointers|In-place Array Modification|Merge Strings Alternately|merge-strings-alternately|AM,NC
+2|Hard|Two Pointers|In-place Array Modification|Count Subarrays With Fixed Bounds|count-subarrays-with-fixed-bounds|AM,ED
+2|Easy|Two Pointers|String Comparison with Backspaces|Crawler Log Folder|crawler-log-folder|TH,NC
+1|Easy|Arrays & Hashing|Matrix Traversal & Math|Valid Word Square|valid-word-square|NC
+1|Medium|Arrays & Hashing|Matrix Traversal & Math|Lonely Pixel I|lonely-pixel-i|NC
+1|Medium|Arrays & Hashing|Matrix Traversal & Math|Sparse Matrix Multiplication|sparse-matrix-multiplication|NC
+1|Medium|Arrays & Hashing|Matrix Traversal & Math|Count Unguarded Cells in the Grid|count-unguarded-cells-in-the-grid|NC
+1|Medium|Arrays & Hashing|Matrix Traversal & Math|Where Will the Ball Fall|where-will-the-ball-fall|ED
+1|Medium|Arrays & Hashing|Matrix Traversal & Math|Number of Spaces Cleaning Robot Cleaned|number-of-spaces-cleaning-robot-cleaned|ED
+1|Easy|Arrays & Hashing|Matrix Traversal & Math|Count Negative Numbers in a Sorted Matrix|count-negative-numbers-in-a-sorted-matrix|ED
+1|Hard|Arrays & Hashing|Matrix Traversal & Math|Minimum Time Takes to Reach Destination Without Drowning|minimum-time-takes-to-reach-destination-without-drowning|ED
+1|Hard|Arrays & Hashing|Matrix Traversal & Math|Smallest Rectangle Enclosing Black Pixels|smallest-rectangle-enclosing-black-pixels|ED
+1|Hard|Arrays & Hashing|Matrix Traversal & Math|Minimize Maximum Value in a Grid|minimize-maximum-value-in-a-grid|ED
+1|Hard|Arrays & Hashing|Matrix Traversal & Math|Kth Smallest Number in Multiplication Table|kth-smallest-number-in-multiplication-table|ED
+1|Easy|Arrays & Hashing|Prefix Sums|Maximum Score After Splitting a String|maximum-score-after-splitting-a-string|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Count Vowel Strings in Ranges|count-vowel-strings-in-ranges|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Minimum Number of Operations to Move All Balls to Each Box|minimum-number-of-operations-to-move-all-balls-to-each-box|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Make Sum Divisible by P|make-sum-divisible-by-p|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Number of Sub-arrays With Odd Sum|number-of-sub-arrays-with-odd-sum|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Grid Game|grid-game|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Number of Ways to Split Array|number-of-ways-to-split-array|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Shifting Letters II|shifting-letters-ii|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Minimum Penalty for a Shop|minimum-penalty-for-a-shop|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Brightest Position on Street|brightest-position-on-street|NC
+1|Hard|Arrays & Hashing|Prefix Sums|Number of Submatrices that Sum to Target|number-of-submatrices-that-sum-to-target|NC
+1|Medium|Arrays & Hashing|Prefix Sums|Number of Good Ways to Split a String|number-of-good-ways-to-split-a-string|AM
+1|Medium|Arrays & Hashing|Prefix Sums|Longest subarray with given sum K(positives)|longest-subarray-with-sum-k|TU
+1|Medium|Arrays & Hashing|Prefix Sums|Print subarray with maximum subarray sum (extended version of above problem)||TU
+1|Medium|Arrays & Hashing|Prefix Sums|Minimum Operations to Make All Array Elements Equal|minimum-operations-to-make-all-array-elements-equal|ED
+1|Easy|Arrays & Hashing|Prefix Sums|Longest Subsequence With Limited Sum|longest-subsequence-with-limited-sum|ED
+1|Medium|Arrays & Hashing|Prefix Sums|Number of Wonderful Substrings|number-of-wonderful-substrings|ED
+1|Medium|Arrays & Hashing|Prefix Sums|Minimum Flips to Make the Binary String Alternate|minimum-flips-to-make-the-binary-string-alternate|ED
+1|Medium|Arrays & Hashing|Simulation / General Array|Increasing Triplet Subsequence|increasing-triplet-subsequence|AM
+1|Hard|Arrays & Hashing|Simulation / General Array|Special Binary String|special-binary-string|AM
+1|Easy|Arrays & Hashing|Simulation / General Array|Longest Nice Substring|longest-nice-substring|AM
+1|Medium|Arrays & Hashing|Simulation / General Array|Convert Sorted List to Binary Search Tree|convert-sorted-list-to-binary-search-tree|AM
+1|Medium|Arrays & Hashing|Simulation / General Array|Maximum Binary Tree|maximum-binary-tree|AM
+1|Medium|Arrays & Hashing|Simulation / General Array|Number of Distinct Substrings in a String|number-of-distinct-substrings-in-a-string|AM
+1|Hard|Arrays & Hashing|Simulation / General Array|Longest Duplicate Substring|longest-duplicate-substring|AM
+1|Easy|Arrays & Hashing|Simulation / General Array|Find All Numbers Disappeared in Array|find-all-numbers-disappeared-in-array|AE
+1|Easy|Arrays & Hashing|Simulation / General Array|Score of a String|score-of-a-string|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Concatenation of Array|concatenation-of-array|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Replace Elements With Greatest Element On Right Side|replace-elements-with-greatest-element-on-right-side|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Confusing Number|confusing-number|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Single-Row Keyboard|single-row-keyboard|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Perform String Shifts|perform-string-shifts|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Maximum Distance in Arrays|maximum-distance-in-arrays|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Find Smallest Common Element in All Rows|find-smallest-common-element-in-all-rows|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Reverse Words in a String II|reverse-words-in-a-string-ii|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Shortest Way to Form String|shortest-way-to-form-string|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Number of Senior Citizens|number-of-senior-citizens|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Longest Strictly Increasing or Strictly Decreasing Subarray|longest-strictly-increasing-or-strictly-decreasing-subarray|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Maximum Ascending Subarray Sum|maximum-ascending-subarray-sum|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Special Array I|special-array-i|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Pascal's Triangle II|pascals-triangle-ii|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Largest 3-Same-Digit Number in String|largest-3-same-digit-number-in-string|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Circular Sentence|circular-sentence|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Minimum Changes To Make Alternating Binary String|minimum-changes-to-make-alternating-binary-string|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Number of Students Unable to Eat Lunch|number-of-students-unable-to-eat-lunch|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Array Transformation|array-transformation|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Average Waiting Time|average-waiting-time|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Maximum Product of The Length of Two Palindromic Subsequences|maximum-product-of-the-length-of-two-palindromic-subsequences|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Push Dominoes|push-dominoes|NC
+1|Easy|Arrays & Hashing|Simulation / General Array|Sign of An Array|sign-of-the-product-of-an-array|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Champagne Tower|champagne-tower|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Sequential Digits|sequential-digits|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Synonymous Sentences|synonymous-sentences|NC
+1|Hard|Arrays & Hashing|Simulation / General Array|Number of Ships in a Rectangle|number-of-ships-in-a-rectangle|NC
+1|Hard|Arrays & Hashing|Simulation / General Array|Time Taken to Cross the Door|time-taken-to-cross-the-door|NC
+1|Medium|Arrays & Hashing|Simulation / General Array|Split Array into Consecutive Subsequences|split-array-into-consecutive-subsequences|AM
+1|Medium|Arrays & Hashing|Simulation / General Array|Number of Matching Subsequences|number-of-matching-subsequences|AM
+1|Easy|Arrays & Hashing|Simulation / General Array|Largest Element||TU
+1|Easy|Arrays & Hashing|Simulation / General Array|Second Largest Element||TU
+1|Easy|Arrays & Hashing|Simulation / General Array|Linear Search||TU
+1|Easy|Arrays & Hashing|Simulation / General Array|Leaders in an Array|leaders-in-an-array|TU
+1|Easy|Arrays & Hashing|Simulation / General Array|Remove Outermost Parentheses|remove-outermost-parentheses|TU
+1|Easy|Arrays & Hashing|Simulation / General Array|Challenge Yourself: Introduction|challenge-yourself-introduction|ED
+1|Medium|Arrays & Hashing|Simulation / General Array|Loud and Rich|loud-and-rich|ED
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Intersection of Two Arrays II|intersection-of-two-arrays-ii|AM
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Find Anagram Mappings|find-anagram-mappings|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Maximum Difference Between Even and Odd Frequency I|maximum-difference-between-even-and-odd-frequency-i|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Sort Array by Increasing Frequency|sort-array-by-increasing-frequency|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Sentence Similarity|sentence-similarity|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Largest Unique Number|largest-unique-number|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Unique Email Addresses|unique-email-addresses|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Kth Distinct String in an Array|kth-distinct-string-in-an-array|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Find Missing and Repeated Values|find-missing-and-repeated-values|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Find Lucky Integer in an Array|find-lucky-integer-in-an-array|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Divide Array Into Equal Pairs|divide-array-into-equal-pairs|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Find Words That Can Be Formed by Characters|find-words-that-can-be-formed-by-characters|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Count the Number of Consistent Strings|count-the-number-of-consistent-strings|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Destination City|destination-city|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Redistribute Characters to Make All Strings Equal|redistribute-characters-to-make-all-strings-equal|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Largest Substring Between Two Equal Characters|largest-substring-between-two-equal-characters|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Find Common Characters|find-common-characters|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Analyze User Website Visit Pattern|analyze-user-website-visit-pattern|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Brick Wall|brick-wall|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Minimum Index of a Valid Split|minimum-index-of-a-valid-split|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Number of Pairs of Interchangeable Rectangles|number-of-pairs-of-interchangeable-rectangles|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Find the Difference of Two Arrays|find-the-difference-of-two-arrays|NC
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Uncommon Words from Two Sentences|uncommon-words-from-two-sentences|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Word Subsets|word-subsets|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Minimum Numbers of Operations to Make Array Empty|minimum-number-of-operations-to-make-array-empty|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Count Number of Bad Pairs|count-number-of-bad-pairs|NC
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Count Number of Substrings|count-number-of-substrings|TU
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Sum of Beauty of All Substrings|sum-of-beauty-of-all-substrings|TU
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Fraction to Recurring Decimal|fraction-to-recurring-decimal|ED
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Find Duplicate File in System|find-duplicate-file-in-system|ED
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Unique Number of Occurrences|unique-number-of-occurrences|ED
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Bulls and Cows|bulls-and-cows|ED
+1|Hard|Arrays & Hashing|Hash Map: Frequency/Counters|Total Appeal of a String|total-appeal-of-a-string|ED
+1|Hard|Arrays & Hashing|Hash Map: Frequency/Counters|Find Longest Self-Contained Substring|find-longest-self-contained-substring|ED
+1|Easy|Arrays & Hashing|Hash Map: Frequency/Counters|Jewels and Stones|jewels-and-stones|ED
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Longest Palindrome by Concatenating Two-Letter Words|longest-palindrome-by-concatenating-two-letter-words|ED
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Rank Teams by Votes|rank-teams-by-votes|ED
+1|Medium|Arrays & Hashing|Hash Map: Frequency/Counters|Pairs of Songs With Total Durations Divisible by 60|pairs-of-songs-with-total-durations-divisible-by-60|ED
+1|Hard|Arrays & Hashing|Hash Map: Frequency/Counters|Count Anagrams|count-anagrams|ED
+1|Easy|Arrays & Hashing|Sorting-I|Selection Sort||TU
+1|Easy|Arrays & Hashing|Sorting-I|Bubble Sort||TU
+1|Easy|Arrays & Hashing|Sorting-I|Insertion Sorting||TU
+1|Medium|Arrays & Hashing|Sorting-II|Merge Sorting||TU
+1|Easy|Arrays & Hashing|Sorting-II|Recursive Bubble Sort||TU
+1|Easy|Arrays & Hashing|Sorting-II|Recursive Insertion Sort||TU
+1|Medium|Arrays & Hashing|Sorting-II|Quick Sorting||TU
+1|Medium|Arrays & Hashing|Hard|Largest Subarray with Sum 0|largest-subarray-with-0-sum|TU
+1|Medium|Arrays & Hashing|Hard|Count subarrays with given xor K|count-number-of-subarrays-with-given-xor-k|TU
+1|Medium|Arrays & Hashing|Hard|Find the repeating and missing number|find-the-repeating-and-missing-number|TU
+1|Hard|Arrays & Hashing|Hard|Count Inversions|count-inversions|TU
+1|Medium|Arrays & Hashing|Strings|Determine if Two Strings Are Close|determine-if-two-strings-are-close|AM
+1|Hard|Arrays & Hashing|Strings|Guess the Word|guess-the-word|AM
+1|Easy|Arrays & Hashing|Prefix Sum|Running Sum of 1d Array|running-sum-of-1d-array|AM
+1|Easy|Arrays & Hashing|Prefix Sum|Maximum Population Year|maximum-population-year|AM
+1|Medium|Arrays & Hashing|Prefix Sum|Range Addition|range-addition|AM
+1|Medium|Arrays & Hashing|Prefix Sum|Increment Submatrices by One|increment-submatrices-by-one|AM
+1|Medium|Arrays & Hashing|Prefix Sum|Matrix Block Sum|matrix-block-sum|AM
+1|Medium|Arrays & Hashing|Sorting & Intervals|Maximum Gap|maximum-gap|AM
+1|Hard|Arrays & Hashing|Sorting & Intervals|Contains Duplicate III|contains-duplicate-iii|AM
+1|Hard|Arrays & Hashing|Sorting & Intervals|Count of Range Sum|count-of-range-sum|AM
+1|Easy|Arrays & Hashing|Sorting & Intervals|Relative Sort Array|relative-sort-array|NC
+1|Easy|Arrays & Hashing|Sorting & Intervals|Sort the People|sort-the-people|NC
+1|Medium|Arrays & Hashing|Sorting & Intervals|Wiggle Sort|wiggle-sort|NC
+1|Medium|Arrays & Hashing|Sorting & Intervals|Sum of Absolute Differences in a Sorted Array|sum-of-absolute-differences-in-a-sorted-array|NC
+1|Medium|Arrays & Hashing|Sorting & Intervals|Sort the Jumbled Numbers|sort-the-jumbled-numbers|NC
+1|Easy|Arrays & Hashing|Sorting & Intervals|Height Checker|height-checker|NC
+1|Easy|Arrays & Hashing|Sorting & Intervals|Maximum Product Difference Between Two|maximum-product-difference-between-two-pairs|NC
+1|Easy|Arrays & Hashing|Sorting & Intervals|Special Array with X Elements Greater than or Equal X|special-array-with-x-elements-greater-than-or-equal-x|NC
+1|Medium|Arrays & Hashing|Sorting & Intervals|Non Decreasing Array|non-decreasing-array|NC
+1|Medium|Arrays & Hashing|Sorting & Intervals|Convert an Array Into a 2D Array With Conditions|convert-an-array-into-a-2d-array-with-conditions|NC
+1|Medium|Arrays & Hashing|Sorting & Intervals|Divide Array Into Arrays With Max Difference|divide-array-into-arrays-with-max-difference|NC
+1|Medium|Arrays & Hashing|Sorting & Intervals|Find Polygon with the Largest Perimeter|find-polygon-with-the-largest-perimeter|NC
+1|Easy|Arrays & Hashing|Sorting & Intervals|Union of two sorted arrays||TU
+1|Medium|Arrays & Hashing|Sorting & Intervals|Sum of Mutated Array Closest to Target|sum-of-mutated-array-closest-to-target|ED
+1|Easy|Arrays & Hashing|Sorting & Intervals|Find the Distance Value Between Two Arrays|find-the-distance-value-between-two-arrays|ED
+1|Easy|Arrays & Hashing|Sorting & Intervals|Find Target Indices After Sorting Array|find-target-indices-after-sorting-array|ED
+1|Hard|Arrays & Hashing|Sorting & Intervals|Minimum Space Wasted from Packaging|minimum-space-wasted-from-packaging|ED
+1|Easy|Arrays & Hashing|Sorting & Intervals|Two Sum Less Than K|two-sum-less-than-k|ED
+1|Medium|Arrays & Hashing|Sorting & Intervals|Count Pairs in Two Arrays|count-pairs-in-two-arrays|ED
+1|Medium|Arrays & Hashing|Sorting & Intervals|H-Index|h-index|ED
+1|Hard|Arrays & Hashing|Sorting & Intervals|Divide Array Into Increasing Sequences|divide-array-into-increasing-sequences|ED
+1|Easy|Arrays & Hashing|Design / Encodings|Design Compressed String Iterator|design-compressed-string-iterator|NC
+1|Medium|Arrays & Hashing|Design / Encodings|Design Snake Game|design-snake-game|NC
+1|Medium|Arrays & Hashing|Design / Encodings|Design A Leaderboard|design-a-leaderboard|NC
+1|Easy|Arrays & Hashing|Design / Encodings|Design Parking System|design-parking-system|NC
+1|Medium|Arrays & Hashing|Design / Encodings|Design Underground System|design-underground-system|NC
+1|Hard|Arrays & Hashing|Design / Encodings|Design Excel Sum Formula|design-excel-sum-formula|NC
+1|Medium|Arrays & Hashing|Design / Encodings|Zigzag Iterator|zigzag-iterator|NC
+1|Easy|Arrays & Hashing|Design / Encodings|Shortest Word Distance|shortest-word-distance|NC
+1|Medium|Arrays & Hashing|Design / Encodings|Apply Substitutions|apply-substitutions|NC
+1|Medium|Arrays & Hashing|Cyclic Sort|Find the Corrupt Pair|find-the-corrupt-pair|ED
+1|Easy|Arrays & Hashing|Cyclic Sort|Find the First K Missing Positive Numbers|find-the-first-k-missing-positive-numbers|ED
+1|Easy|Arrays & Hashing|Cyclic Sort|Sort Array By Parity II|sort-array-by-parity-ii|ED
+1|Easy|Arrays & Hashing|Cyclic Sort|Cyclic Sort|cyclic-sort|ED
+1|Hard|Arrays & Hashing|String Matching (KMP / Z-Function)|Find Beautiful Indices in the Given Array II|find-beautiful-indices-in-the-given-array-ii|TH
+1|Easy|Arrays & Hashing|String Matching (KMP / Z-Function)|String Matching in an Array|string-matching-in-an-array|NC
+1|Easy|Arrays & Hashing|String Matching (KMP / Z-Function)|Hashing In Strings | Theory||TU
+1|Medium|Arrays & Hashing|String Matching (KMP / Z-Function)|Z function|z-function|TU
+1|Easy|Arrays & Hashing|String Matching (KMP / Z-Function)|KMP Algorithm or LPS array|implement-strstr|TU
+1|Easy|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Counting Elements|counting-elements|NC
+1|Easy|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Path Crossing|path-crossing|NC
+1|Medium|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Unique Length 3 Palindromic Subsequences|unique-length-3-palindromic-subsequences|NC
+1|Medium|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Check if a String Contains all Binary Codes of Size K|check-if-a-string-contains-all-binary-codes-of-size-k|NC
+1|Medium|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Optimal Partition of String|optimal-partition-of-string|NC
+1|Hard|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Naming a Company|naming-a-company|NC
+1|Medium|Arrays & Hashing|Hash Set: Lookups/Uniqueness|Maximum Number of Integers to Choose from a Range I|maximum-number-of-integers-to-choose-from-a-range-i|ED
+1|Medium|Backtracking|Subsets (Include/Exclude)|The Number of Beautiful Subsets|the-number-of-beautiful-subsets|NC
+1|Medium|Backtracking|Subsets (Include/Exclude)|Count Number of Maximum Bitwise-OR Subsets|count-number-of-maximum-bitwise-or-subsets|NC
+1|Easy|Backtracking|Subsets (Include/Exclude)|Learn All Patterns of Subsequences (Theory)||TU
+1|Medium|Backtracking|Subsets (Include/Exclude)|Find Unique Binary String|find-unique-binary-string|NC
+1|Medium|Backtracking|Subsets (Include/Exclude)|Maximum Length of a Concatenated String With Unique Characters|maximum-length-of-a-concatenated-string-with-unique-characters|NC
+1|Hard|Backtracking|Subsets (Include/Exclude)|Maximum Score Words Formed By Letters|maximum-score-words-formed-by-letters|NC
+1|Medium|Backtracking|Subsets (Include/Exclude)|Letter Case Permutation|letter-case-permutation|ED
+1|Easy|Backtracking|Subsets (Include/Exclude)|Binary Watch|binary-watch|ED
+1|Hard|Backtracking|Permutations|Permutation Sequence|permutation-sequence|TH
+1|Medium|Backtracking|Permutations|The k-th Lexicographical String of All Happy Strings of Length n|the-k-th-lexicographical-string-of-all-happy-strings-of-length-n|NC
+1|Medium|Backtracking|Permutations|Construct Smallest Number From DI String|construct-smallest-number-from-di-string|NC
+1|Medium|Backtracking|Permutations|Strobogrammatic Number II|strobogrammatic-number-ii|NC
+1|Medium|Backtracking|Combination Sum|Factor Combinations|factor-combinations|NC
+1|Medium|Backtracking|Combination Sum|Brace Expansion|brace-expansion|NC
+1|Medium|Backtracking|Word Search / Path Finding in Grid|Check if Word Can Be Placed In Crossword|check-if-word-can-be-placed-in-crossword|TH
+1|Hard|Backtracking|Word Search / Path Finding in Grid|Robot Room Cleaner|robot-room-cleaner|NC
+1|Medium|Backtracking|N-Queens / Constraint Satisfaction|Construct the Lexicographically Largest Valid Sequence|construct-the-lexicographically-largest-valid-sequence|NC
+1|Medium|Backtracking|N-Queens / Constraint Satisfaction|Minimum Moves to Spread Stones Over Grid|minimum-moves-to-spread-stones-over-grid|ED
+1|Hard|Backtracking|N-Queens / Constraint Satisfaction|N-Queens|n-queens-B657KNjDpLJ|ED
+1|Medium|Backtracking|Palindrome Partitioning|Splitting a String Into Descending Consecutive Values|splitting-a-string-into-descending-consecutive-values|NC
+1|Easy|Backtracking|Get a Strong Hold|Sort a stack using recursion|sort-a-stack-using-recursion|TU
+1|Medium|Backtracking|Get a Strong Hold|Reverse a Stack|reverse-a-stack|TU
+1|Medium|Backtracking|Subsequences Pattern|Generate Binary Strings Without Consecutive 1s|generate-binary-strings-without-adjacent-zeros|TU
+1|Medium|Backtracking|Subsequences Pattern|Rat in a Maze|rat-in-a-maze|TU
+1|Medium|Backtracking|Subsequences Pattern|M Coloring Problem|m-coloring-problem|TU
+1|Hard|Backtracking|Subsequences Pattern|Expression Add Operators|expression-add-operators|TU
+1|Easy|Binary Search|On Sorted Array/List|Arranging Coins|arranging-coins|NC
+1|Medium|Binary Search|On Sorted Array/List|Missing Number In Arithmetic Progression|missing-number-in-arithmetic-progression|NC
+1|Easy|Binary Search|On Sorted Array/List|Check If a Number Is Majority Element in a Sorted Array|check-if-a-number-is-majority-element-in-a-sorted-array|NC
+1|Medium|Binary Search|On Sorted Array/List|Missing Element in Sorted Array|missing-element-in-sorted-array|NC
+1|Medium|Binary Search|On Sorted Array/List|Find the Index of the Large Integer|find-the-index-of-the-large-integer|NC
+1|Hard|Binary Search|On Sorted Array/List|Maximum Average Subarray II|maximum-average-subarray-ii|NC
+1|Medium|Binary Search|On Sorted Array/List|Successful Pairs of Spells and Potions|successful-pairs-of-spells-and-potions|NC
+1|Medium|Binary Search|On Sorted Array/List|House Robber IV|house-robber-iv|NC
+1|Medium|Binary Search|On Sorted Array/List|Minimize the Maximum Difference of Pairs|minimize-the-maximum-difference-of-pairs|NC
+1|Medium|Binary Search|On Sorted Array/List|Minimum Time to Repair Cars|minimum-time-to-repair-cars|NC
+1|Medium|Binary Search|On Sorted Array/List|Maximum Number of Removable Characters|maximum-number-of-removable-characters|NC
+1|Medium|Binary Search|On Sorted Array/List|Most Beautiful Item for Each Query|most-beautiful-item-for-each-query|NC
+1|Medium|Binary Search|On Sorted Array/List|Count the Number of Fair Pairs|count-the-number-of-fair-pairs|NC
+1|Medium|Binary Search|On Sorted Array/List|Binary Searchable Numbers in an Unsorted Array|binary-searchable-numbers-in-an-unsorted-array|NC
+1|Medium|Binary Search|On Sorted Array/List|Leftmost Column With at Least a One|leftmost-column-with-at-least-a-one|NC
+1|Hard|Binary Search|On Sorted Array/List|Kth Smallest Product of Two Sorted Arrays|kth-smallest-product-of-two-sorted-arrays|NC
+1|Easy|Binary Search|On Sorted Array/List|The K Weakest Rows in a Matrix|the-k-weakest-rows-in-a-matrix|ED
+1|Easy|Binary Search|On Sorted Array/List|Count Pairs Whose Sum is Less than Target|count-pairs-whose-sum-is-less-than-target|ED
+1|Medium|Binary Search|Find Min/Max in Rotated Sorted Array|Peak Index in a Mountain Array|peak-index-in-a-mountain-array|TH
+1|Hard|Binary Search|Find Min/Max in Rotated Sorted Array|Find Minimum in Rotated Sorted Array II|find-minimum-in-rotated-sorted-array-ii|ED
+1|Medium|Binary Search|On Answer / Condition Function|Maximum Value at a Given Index in a Bounded Array|maximum-value-at-a-given-index-in-a-bounded-array|ED
+1|Hard|Binary Search|On Answer / Condition Function|Maximum Running Time of N Computers|maximum-running-time-of-n-computers|ED
+1|Hard|Binary Search|On Answer / Condition Function|Split Array Into Two Arrays to Minimize Sum Difference|split-array-into-two-arrays-to-minimize-sum-difference|ED
+1|Medium|Binary Search|BS on Answers|Find Nth root of a number|nth-root-of-a-number|TU
+1|Medium|Binary Search|BS on Answers|Find the smallest divisor|find-the-smallest-divisor-given-a-threshold|TU
+1|Medium|Binary Search|BS on Answers|Kth element of 2 sorted arrays|kth-element-of-two-sorted-arrays|TU
+1|Easy|Binary Search|BS on 2D Arrays|Find row with maximum 1's|find-the-row-with-maximum-number-of-1s|TU
+1|Hard|Binary Search|BS on 2D Arrays|Find Peak Element - II|find-a-peak-element-ii|TU
+1|Medium|Binary Search|BS on 2D Arrays|Matrix Median|matrix-median|TU
+1|Easy|Binary Search|Binary Search|Find Smallest Letter Greater Than Target|find-smallest-letter-greater-than-target|AM
+1|Medium|Binary Search|Binary Search|Heaters|heaters|AM
+1|Medium|Binary Search|Binary Search|Find First and Last Position of Element|find-first-and-last-position-of-element|AE
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Bitwise XOR of All Pairings|bitwise-xor-of-all-pairings|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|XOR Queries of a Subarray|xor-queries-of-a-subarray|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Maximum XOR for Each Query|maximum-xor-for-each-query|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Neighboring Bitwise XOR|neighboring-bitwise-xor|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Minimize XOR|minimize-xor|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|XOR of numbers in a given range|xor-of-numbers-in-a-given-range|TU
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Shortest Subarray With OR at Least K II|shortest-subarray-with-or-at-least-k-ii|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Find Kth Bit in Nth Binary String|find-kth-bit-in-nth-binary-string|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Minimum Array End|minimum-array-end|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Longest Nice Subarray|longest-nice-subarray|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Find the Longest Substring Containing Vowels in Even Counts|find-the-longest-substring-containing-vowels-in-even-counts|NC
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|IP to CIDR|ip-to-cidr|NC
+1|Easy|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Flipping an Image|flipping-an-image|ED
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Find the Longest Substring Having Vowels in Even Counts|find-the-longest-substring-having-vowels-in-even-counts|ED
+1|Medium|Bit Manipulation|Bitwise XOR - Finding Single/Missing Number|Find The K-th Lucky Number|find-the-k-th-lucky-number|ED
+1|Easy|Bit Manipulation|Counting Set Bits (Hamming Weight)|Introduction to Bits and Tricks||TU
+1|Easy|Bit Manipulation|Counting Set Bits (Hamming Weight)|Divisors of a Number||TU
+1|Easy|Bit Manipulation|Counting Set Bits (Hamming Weight)|Prime factorisation of a Number||TU
+1|Medium|Bit Manipulation|Counting Set Bits (Hamming Weight)|Largest Combination With Bitwise AND Greater Than Zero|largest-combination-with-bitwise-and-greater-than-zero|NC
+1|Medium|Bit Manipulation|Counting Set Bits (Hamming Weight)|Find if Array Can Be Sorted|find-if-array-can-be-sorted|NC
+1|Hard|Bit Manipulation|Counting Set Bits (Hamming Weight)|Triples with Bitwise AND Equal To Zero|triples-with-bitwise-and-equal-to-zero|ED
+1|Easy|Bit Manipulation|Power of Two/Four Check|Complement of Base 10 Integer|complement-of-base-10-integer|ED
+1|Easy|Bit Manipulation|Learn Bit Manipulation|Check if the i-th bit is Set or Not|check-ith-bit|TU
+1|Easy|Bit Manipulation|Learn Bit Manipulation|Check if a Number is Odd or Not|check-number-odd|TU
+1|Easy|Bit Manipulation|Learn Bit Manipulation|Set/Unset the rightmost unset bit|set-rightmost-unset-bit|TU
+1|Easy|Bit Manipulation|Learn Bit Manipulation|Swap Two Numbers|swap-two-numbers|TU
+1|Medium|Bit Manipulation|Learn Bit Manipulation|Divide two numbers without multiplication and division|divide-two-integers|TU
+1|Easy|Bit Manipulation|Advanced Maths|Print Prime Factors of a Number|prime-factors|TU
+1|Easy|Bit Manipulation|Bit Manipulation|Hamming Distance|hamming-distance|AM
+1|Medium|Design|Design / Encodings|Design Circular Deque|design-circular-deque|AM
+1|Hard|Design|Design / Encodings|Design a Text Editor|design-a-text-editor|AM
+1|Easy|Design|Design / Encodings|Two Sum III - Data structure design|two-sum-iii-data-structure-design|ED
+1|Easy|Dynamic Programming|1D Array (Fibonacci Style)|Introduction to DP||TU
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Ninja's training|ninjas-training|TU
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Greatest Sum Divisible by Three|greatest-sum-divisible-by-three|AM
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Number of Ways to Paint N × 3 Grid|number-of-ways-to-paint-n-3-grid|AM
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Length of Longest Fibonacci Subsequence|length-of-longest-fibonacci-subsequence|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Paint Fence|paint-fence|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|4 Keys Keyboard|4-keys-keyboard|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Filling Bookcase Shelves|filling-bookcase-shelves|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Check if There is a Valid Partition For The Array|check-if-there-is-a-valid-partition-for-the-array|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Solving Questions With Brainpower|solving-questions-with-brainpower|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Count Ways to Build Good Strings|count-ways-to-build-good-strings|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Knight Dialer|knight-dialer|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Count Strictly Increasing Subarrays|count-strictly-increasing-subarrays|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Count all Valid Pickup and Delivery Options|count-all-valid-pickup-and-delivery-options|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Number of Ways to Divide a Long Corridor|number-of-ways-to-divide-a-long-corridor|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Student Attendance Record II|student-attendance-record-ii|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|2 Keys Keyboard|2-keys-keyboard|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Count Vowels Permutation|count-vowels-permutation|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Number of Ways to Rearrange Sticks With K Sticks Visible|number-of-ways-to-rearrange-sticks-with-k-sticks-visible|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Flip String to Monotone Increasing|flip-string-to-monotone-increasing|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Number of Ways to Stay in the Same Place After Some Steps|number-of-ways-to-stay-in-the-same-place-after-some-steps|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|K Inverse Pairs Array|k-inverse-pairs-array|NC
+1|Hard|Dynamic Programming|1D Array (Fibonacci Style)|Paint House II|paint-house-ii|NC
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Number Factors||EDP
+1|Medium|Dynamic Programming|1D Array (Fibonacci Style)|Count Ways to Score in a Game||EDP
+1|Medium|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Maximum Subarray Sum with One Deletion|maximum-subarray-sum-with-one-deletion|AM
+1|Medium|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Maximum Subarray Min Product|maximum-subarray-min-product|NC
+1|Hard|Dynamic Programming|Kadane's Algorithm (Max/Min Subarray)|Maximum Sum of 3 Non-Overlapping Subarrays|maximum-sum-of-3-non-overlapping-subarrays|NC
+1|Medium|Dynamic Programming|Unbounded Knapsack (Coin Change Style)|Maximum Ribbon Cut||EDP
+1|Medium|Dynamic Programming|Unbounded Knapsack (Coin Change Style)|Rod Cutting||EDP
+1|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Coin Change 2 (DP - 22)|coin-change-2|TU
+1|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Unbounded knapsack|unbounded-knapsack|TU
+1|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Rod Cutting Problem | (DP - 24)|rod-cutting|TU
+1|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Number of Dice Rolls with Target Sum|number-of-dice-rolls-with-target-sum|NC
+1|Hard|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Painting the Walls|painting-the-walls|NC
+1|Hard|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Split Array With Same Average|split-array-with-same-average|NC
+1|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|0/1 Knapsack|0-1-knapsack|ED
+1|Medium|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|Count the Number of Good Subsequences|count-the-number-of-good-subsequences|ED
+1|Hard|Dynamic Programming|0/1 Knapsack (Subset Sum Style)|The Number of Good Subsets|the-number-of-good-subsets|ED
+1|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Minimum ASCII Delete Sum for Two Strings|minimum-ascii-delete-sum-for-two-strings|TH
+1|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Longest common substring|maximum-length-of-repeated-subarray|TU
+1|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Strange Printer|strange-printer|AM
+1|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Valid Palindrome III|valid-palindrome-iii|NC
+1|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Stickers to Spell Word|stickers-to-spell-word|NC
+1|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Sentence Screen Fitting|sentence-screen-fitting|NC
+1|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Number of Ways to Form a Target String Given a Dictionary|number-of-ways-to-form-a-target-string-given-a-dictionary|NC
+1|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|String Compression II|string-compression-ii|NC
+1|Hard|Dynamic Programming|String DP (Edit Distance / Word Break)|Number of Ways to Form a Target String Given a Dictionary|number-of-ways-to-form-target-string-given-a-dictionary|ED
+1|Medium|Dynamic Programming|String DP (Edit Distance / Word Break)|Minimum Deletions in a String to make it a Palindrome||EDP
+1|Medium|Dynamic Programming|Longest Common Subsequence (LCS)|Uncrossed Lines|uncrossed-lines|NC
+1|Medium|Dynamic Programming|Longest Common Subsequence (LCS)|Longest Repeating Subsequence|longest-repeating-subsequence|EDP
+1|Hard|Dynamic Programming|2D Array (Grid Unique Paths)|Painting a Grid With Three Different Colors|painting-a-grid-with-three-different-colors|AM
+1|Hard|Dynamic Programming|2D Array (Grid Unique Paths)|Minimum Cost Path with Teleportations|minimum-cost-path-with-teleportations|AM
+1|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Knight Probability in Chessboard|knight-probability-in-chessboard|AM
+1|Medium|Dynamic Programming|2D Array (Grid Unique Paths)|Out of Boundary Paths|out-of-boundary-paths|NC
+1|Hard|Dynamic Programming|2D Array (Grid Unique Paths)|Minimum Falling Path Sum II|minimum-falling-path-sum-ii|NC
+1|Hard|Dynamic Programming|Interval / Partition DP|Matrix chain multiplication|matrix-chain-multiplication|TU
+1|Hard|Dynamic Programming|Interval / Partition DP|Stone Game III|stone-game-iii|NC
+1|Hard|Dynamic Programming|Interval / Partition DP|Maximize Score after N Operations|maximize-score-after-n-operations|NC
+1|Hard|Dynamic Programming|Interval / Partition DP|Encode String with Shortest Length|encode-string-with-shortest-length|NC
+1|Medium|Dynamic Programming|Interval / Partition DP|Stone Game|stone-game|NC
+1|Medium|Dynamic Programming|Interval / Partition DP|Stone Game II|stone-game-ii|NC
+1|Hard|Dynamic Programming|Interval / Partition DP|Maximum Value of K Coins from Piles|maximum-value-of-k-coins-from-piles|NC
+1|Hard|Dynamic Programming|Interval / Partition DP|Freedom Trail|freedom-trail|NC
+1|Hard|Dynamic Programming|Interval / Partition DP|Matrix Chain Multiplication||EDP
+1|Hard|Dynamic Programming|Catalan Numbers|Handshakes That Don't Cross|handshakes-that-dont-cross|NC
+1|Medium|Dynamic Programming|Catalan Numbers|The Catalan Numbers||EDP
+1|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Longest Increasing Subsequence II|longest-increasing-subsequence-ii|TH
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Longest Bitonic Subsequence|longest-bitonic-subsequence|TU
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Longest Arithmetic Subsequence|longest-arithmetic-subsequence|AM
+1|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Number of Music Playlists|number-of-music-playlists|NC
+1|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Best Team with no Conflicts|best-team-with-no-conflicts|NC
+1|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Find the Longest Valid Obstacle Course at Each Position|find-the-longest-valid-obstacle-course-at-each-position|NC
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Maximum Alternating Subsequence Sum|maximum-alternating-subsequence-sum|NC
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Longest Ideal Subsequence|longest-ideal-subsequence|NC
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Count Number of Teams|count-number-of-teams|NC
+1|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Arithmetic Slices II|arithmetic-slices-ii-subsequence|NC
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Minimum Deletions to Make a Sequence Sorted||EDP
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Maximum Sum Increasing Subsequence||EDP
+1|Medium|Dynamic Programming|Longest Increasing Subsequence (LIS)|Longest Bitonic Subsequence||EDP
+1|Hard|Dynamic Programming|Longest Increasing Subsequence (LIS)|Building Bridges||EDP
+1|Hard|Dynamic Programming|Tree / Graph DP|Sum of Distances in Tree|sum-of-distances-in-tree|AM
+1|Medium|Dynamic Programming|Bitmask DP|Campus Bikes II|campus-bikes-ii|AM
+1|Medium|Dynamic Programming|Bitmask DP|Minimum Number of Work Sessions to Finish the Tasks|minimum-number-of-work-sessions-to-finish-the-tasks|AM
+1|Medium|Dynamic Programming|Bitmask DP|Fair Distribution of Cookies|fair-distribution-of-cookies|AM
+1|Medium|Dynamic Programming|Digit DP|Count Numbers with Unique Digits|count-numbers-with-unique-digits|AM
+1|Hard|Dynamic Programming|Digit DP|Number of Digit One|number-of-digit-one|AM
+1|Hard|Dynamic Programming|Digit DP|Numbers At Most N Given Digit Set|numbers-at-most-n-given-digit-set|AM
+1|Medium|Dynamic Programming|Probability DP|Soup Servings|soup-servings|AM
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Keys and Rooms|keys-and-rooms|TH
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Employee Importance|employee-importance|AM
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Maximum Number of Fish in a Grid|maximum-number-of-fish-in-a-grid|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Minimum Score of a Path Between Two Cities|minimum-score-of-a-path-between-two-cities|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Path with Maximum Gold|path-with-maximum-gold|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Most Profitable Path in a Tree|most-profitable-path-in-a-tree|NC
+1|Hard|Graphs|DFS - Connected Components / Island Counting|Maximum Number of Points From Grid Queries|maximum-number-of-points-from-grid-queries|NC
+1|Hard|Graphs|DFS - Connected Components / Island Counting|Number of Distinct Islands II|number-of-distinct-islands-ii|NC
+1|Hard|Graphs|DFS - Connected Components / Island Counting|Number of Good Paths|number-of-good-paths|NC
+1|Hard|Graphs|DFS - Connected Components / Island Counting|Minimum Number of Days to Disconnect Island|minimum-number-of-days-to-disconnect-island|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Connected Components||TU
+1|Easy|Graphs|DFS - Connected Components / Island Counting|DFS||TU
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Cycle Detection in Undirected Graph (bfs)|cycle-detection-undirected|TU
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Count Servers that Communicate|count-servers-that-communicate|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Check if Move Is Legal|check-if-move-is-legal|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Minimum Fuel Cost to Report to the Capital|minimum-fuel-cost-to-report-to-the-capital|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Kill Process|kill-process|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Web Crawler|web-crawler|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|The Maze|the-maze|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Nested List Weight Sum|nested-list-weight-sum|NC
+1|Hard|Graphs|DFS - Connected Components / Island Counting|Maximum Number of K-Divisible Components|maximum-number-of-k-divisible-components|NC
+1|Medium|Graphs|DFS - Connected Components / Island Counting|Paths in Maze That Lead to Same Room|paths-in-maze-that-lead-to-same-room|ED
+1|Easy|Graphs|DFS - Connected Components / Island Counting|Find if Path Exists in Graph|find-if-path-exists-in-graph|ED
+1|Medium|Graphs|BFS - Connected Components / Island Counting|Minimum Genetic Mutation|minimum-genetic-mutation|AM
+1|Medium|Graphs|BFS - Connected Components / Island Counting|Path With Maximum Minimum Value|path-with-maximum-minimum-value|AM
+1|Hard|Graphs|BFS - Connected Components / Island Counting|Shortest Path in a Grid with Obstacles Elimination|shortest-path-in-a-grid-with-obstacles-elimination|AM
+1|Medium|Graphs|BFS - Connected Components / Island Counting|As Far from Land as Possible|as-far-from-land-as-possible|NC
+1|Medium|Graphs|BFS - Connected Components / Island Counting|Shortest Distance After Road Addition Queries I|shortest-distance-after-road-addition-queries-i|NC
+1|Hard|Graphs|BFS - Connected Components / Island Counting|Shortest Distance from All Buildings|shortest-distance-from-all-buildings|NC
+1|Hard|Graphs|BFS - Connected Components / Island Counting|Sliding Puzzle|sliding-puzzle|NC
+1|Hard|Graphs|BFS - Connected Components / Island Counting|Minimum Number of Days to Eat N Oranges|minimum-number-of-days-to-eat-n-oranges|NC
+1|Hard|Graphs|BFS - Connected Components / Island Counting|Trapping Rain Water II|trapping-rain-water-ii|NC
+1|Hard|Graphs|BFS - Connected Components / Island Counting|Shortest Cycle in a Graph|shortest-cycle-in-a-graph|ED
+1|Hard|Graphs|Cycle Detection (Directed Graph)|Longest Cycle in a Graph|longest-cycle-in-a-graph|ED
+1|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Sequence Reconstruction|sequence-reconstruction|TH
+1|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Topo Sort|topological-sort|TU
+1|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Find Champion II|find-champion-ii|NC
+1|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Minimum Number of Vertices to Reach all Nodes|minimum-number-of-vertices-to-reach-all-nodes|NC
+1|Hard|Graphs|Topological Sort (Kahn's Algorithm)|Maximum Employees to Be Invited to a Meeting|maximum-employees-to-be-invited-to-a-meeting|NC
+1|Medium|Graphs|Topological Sort (Kahn's Algorithm)|Compilation Order|compilation-order|ED
+1|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|Minimum Cost Path with Edge Reversals|minimum-cost-path-with-edge-reversals|AM
+1|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Find Minimum Time to Reach Last Room I|find-minimum-time-to-reach-last-room-i|AM
+1|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Shortest path in undirected graph with unit weights|shortest-path-undirected|TU
+1|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Shortest path in DAG|shortest-path-in-dag|TU
+1|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Djisktra's Algorithm|dijkstra-algorithm|TU
+1|Easy|Graphs|Shortest Path (Dijkstra's Algorithm)|Why priority Queue is used in Djisktra's Algorithm||TU
+1|Medium|Graphs|Shortest Path (Dijkstra's Algorithm)|Find Closest Node to Given Two Nodes|find-closest-node-to-given-two-nodes|NC
+1|Hard|Graphs|Shortest Path (Dijkstra's Algorithm)|The Maze III|the-maze-iii|NC
+1|Medium|Graphs|Shortest Path (Bellman-Ford / BFS+K)|Minimum multiplications to reach end|minimum-multiplications-to-reach-end|TU
+1|Medium|Graphs|Shortest Path (Bellman-Ford / BFS+K)|Bellman Ford Algorithm|bellman-ford|TU
+1|Medium|Graphs|Shortest Path (Bellman-Ford / BFS+K)|Floyd warshall algorithm|floyd-warshall|TU
+1|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Sentence Similarity II|sentence-similarity-ii|TH
+1|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Largest Component Size by Common Factor|largest-component-size-by-common-factor|TH
+1|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Disjoint Set||TU
+1|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Number of operations to make network connected|number-of-operations-to-make-network-connected|TU
+1|Medium|Graphs|Union-Find (Disjoint Set Union - DSU)|Count the Number of Complete Components|count-the-number-of-complete-components|NC
+1|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Find All People With Secret|find-all-people-with-secret|NC
+1|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Minimum Cost Walk in Weighted Graph|minimum-cost-walk-in-weighted-graph|NC
+1|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Remove Max Number of Edges to Keep Graph Fully Traversable|remove-max-number-of-edges-to-keep-graph-fully-traversable|NC
+1|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Greatest Common Divisor Traversal|greatest-common-divisor-traversal|NC
+1|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Last Day Where You Can Still Cross|last-day-where-you-can-still-cross|ED
+1|Hard|Graphs|Union-Find (Disjoint Set Union - DSU)|Similar String Groups|similar-string-groups|ED
+1|Easy|Graphs|Minimum Spanning Tree (Kruskal / Prim)|MST theory||TU
+1|Medium|Graphs|Minimum Spanning Tree (Kruskal / Prim)|Prim's Algorithm|prims-algorithm|TU
+1|Medium|Graphs|Minimum Spanning Tree (Kruskal / Prim)|Find the MST weight||TU
+1|Hard|Graphs|Other Algorithms|Articulation point in graph|articulation-point|TU
+1|Hard|Graphs|Other Algorithms|Kosaraju's algorithm|maximum-number-of-non-overlapping-substrings|TU
+1|Hard|Graphs|Minimum Spanning Tree|Maximize Spanning Tree Stability with Upgrades|maximize-spanning-tree-stability-with-upgrades|AM
+1|Hard|Graphs|Eulerian Path / Circuit|Cracking the Safe|cracking-the-safe|AM
+1|Hard|Graphs|Eulerian Path / Circuit|Valid Arrangement of Pairs|valid-arrangement-of-pairs|AM
+1|Hard|Graphs|Line Sweep|Rectangle Area II|rectangle-area-ii|AM
+1|Hard|Graphs|Line Sweep|Perfect Rectangle|perfect-rectangle|AM
+1|Medium|Graphs|Famous Algorithms|Number of Connected Components|number-of-connected-components|AE
+1|Medium|Graphs|General Graph Traversal|Find the Celebrity|find-the-celebrity|NC
+1|Easy|Graphs|General Graph Traversal|Introduction to Graph||TU
+1|Easy|Graphs|General Graph Traversal|Graph Representation | C++||TU
+1|Easy|Graphs|General Graph Traversal|Graph Representation | Java||TU
+1|Easy|Graphs|General Graph Traversal|Traversal Techniques||TU
+1|Easy|Graphs|General Graph Traversal|Find Center of Star Graph|find-center-of-star-graph|ED
+1|Hard|Graphs|Bipartite Graph|Divide Nodes Into the Maximum Number of Groups|divide-nodes-into-the-maximum-number-of-groups|NC
+1|Easy|Greedy|Interval Merging/Scheduling|Summary Ranges|summary-ranges|AM
+1|Medium|Greedy|Interval Merging/Scheduling|Maximum Number of Events That Can Be Attended|maximum-number-of-events-that-can-be-attended|AM
+1|Medium|Greedy|Interval Merging/Scheduling|Two Best Non-Overlapping Events|two-best-non-overlapping-events|AM
+1|Medium|Greedy|Interval Merging/Scheduling|Remove Interval|remove-interval|NC
+1|Medium|Greedy|Interval Merging/Scheduling|Check if Grid can be Cut into Sections|check-if-grid-can-be-cut-into-sections|NC
+1|Easy|Greedy|Interval Merging/Scheduling|N meetings in one room|n-meetings-in-one-room|TU
+1|Medium|Greedy|Interval Merging/Scheduling|Minimum number of platforms required for a railway|minimum-platforms|TU
+1|Medium|Greedy|Task Scheduling (Frequency Based)|Distant Barcodes|distant-barcodes|TH
+1|Medium|Greedy|Task Scheduling (Frequency Based)|Job sequencing Problem|job-sequencing-problem|TU
+1|Easy|Greedy|Task Scheduling (Frequency Based)|Shortest Job First|shortest-job-first|TU
+1|Medium|Greedy|Task Scheduling (Frequency Based)|Construct String With Repeat Limit|construct-string-with-repeat-limit|NC
+1|Medium|Greedy|Sorting Based|Fractional Knapsack|fractional-knapsack|TU
+1|Easy|Greedy|Sorting Based|Buy Two Chocolates|buy-two-chocolates|NC
+1|Easy|Greedy|Sorting Based|Minimum Number of Moves to Seat Everyone|minimum-number-of-moves-to-seat-everyone|NC
+1|Medium|Greedy|Sorting Based|Minimum Increment to Make Array Unique|minimum-increment-to-make-array-unique|NC
+1|Medium|Greedy|Sorting Based|Maximize Y-Sum by Picking a Triplet of Distinct X-Values|maximize-ysum-by-picking-a-triplet-of-distinct-xvalues|NC
+1|Medium|Greedy|Sorting Based|Minimum Difference Between Largest and Smallest Value in Three Moves|minimum-difference-between-largest-and-smallest-value-in-three-moves|NC
+1|Medium|Greedy|Sorting Based|Maximum Total Importance of Roads|maximum-total-importance-of-roads|NC
+1|Medium|Greedy|Sorting Based|Eliminate Maximum Number of Monsters|eliminate-maximum-number-of-monsters|NC
+1|Medium|Greedy|Sorting Based|Make Lexicographically Smallest Array by Swapping Elements|make-lexicographically-smallest-array-by-swapping-elements|NC
+1|Medium|Greedy|Sorting Based|Maximum Element After Decreasing and Rearranging|maximum-element-after-decreasing-and-rearranging|NC
+1|Medium|Greedy|Sorting Based|Number of Laser Beams in a Bank|number-of-laser-beams-in-a-bank|NC
+1|Easy|Greedy|Sorting Based|Make Two Arrays Equal by Reversing Subarrays|make-two-arrays-equal-by-reversing-subarrays|NC
+1|Medium|Greedy|Sorting Based|Put Boxes Into the Warehouse I|put-boxes-into-the-warehouse-i|NC
+1|Hard|Greedy|Sorting Based|Apply Operations to Maximize Score|apply-operations-to-maximize-score|NC
+1|Hard|Greedy|Sorting Based|Rearranging Fruits|rearranging-fruits|ED
+1|Easy|Greedy|Greedy|Apple Redistribution into Boxes|apple-redistribution-into-boxes|AM
+1|Medium|Greedy|Greedy|Avoid Flood in The City|avoid-flood-in-the-city|AM
+1|Medium|Greedy|Greedy|Most Profit Assigning Work|most-profit-assigning-work|AM
+1|Hard|Greedy|Greedy|Set Intersection Size At Least Two|set-intersection-size-at-least-two|AM
+1|Easy|Greedy|General Greedy|Maximum Odd Binary Number|maximum-odd-binary-number|NC
+1|Easy|Greedy|General Greedy|Check if One String Swap Can Make Strings Equal|check-if-one-string-swap-can-make-strings-equal|NC
+1|Medium|Greedy|General Greedy|Minimum Operations to Make Binary Array Elements Equal to One I|minimum-operations-to-make-binary-array-elements-equal-to-one-i|NC
+1|Medium|Greedy|General Greedy|Minimum Length of String After Operations|minimum-length-of-string-after-operations|NC
+1|Medium|Greedy|General Greedy|Construct K Palindrome Strings|construct-k-palindrome-strings|NC
+1|Medium|Greedy|General Greedy|Minimum Swaps to Group All 1's Together II|minimum-swaps-to-group-all-1s-together-ii|NC
+1|Medium|Greedy|General Greedy|Minimum Number of Changes to Make Binary String Beautiful|minimum-number-of-changes-to-make-binary-string-beautiful|NC
+1|Medium|Greedy|General Greedy|Minimize Maximum of Array|minimize-maximum-of-array|NC
+1|Medium|Greedy|General Greedy|Dota2 Senate|dota2-senate|NC
+1|Medium|Greedy|General Greedy|Merge Triplets to Form Target Triplet|merge-triplets-to-form-target-triplet|NC
+1|Medium|Greedy|General Greedy|Check if a Parentheses String Can Be Valid|check-if-a-parentheses-string-can-be-valid|NC
+1|Medium|Greedy|General Greedy|Remove Colored Pieces if Both Neighbors are the Same Color|remove-colored-pieces-if-both-neighbors-are-the-same-color|NC
+1|Medium|Greedy|General Greedy|Find Valid Matrix Given Row and Column Sums|find-valid-matrix-given-row-and-column-sums|NC
+1|Medium|Greedy|General Greedy|Score After Flipping Matrix|score-after-flipping-matrix|NC
+1|Medium|Greedy|General Greedy|Shortest Subarray to be Removed to Make Array Sorted|shortest-subarray-to-be-removed-to-make-array-sorted|NC
+1|Medium|Greedy|General Greedy|Maximum Frequency After Subarray Operation|maximum-frequency-after-subarray-operation|NC
+1|Hard|Greedy|General Greedy|Maximum Score of a Good Subarray|maximum-score-of-a-good-subarray|NC
+1|Hard|Greedy|General Greedy|Find the Maximum Sum of Node Values|find-the-maximum-sum-of-node-values|NC
+1|Hard|Greedy|General Greedy|Minimum Number of Increments on Subarrays to Form a Target Array|minimum-number-of-increments-on-subarrays-to-form-a-target-array|NC
+1|Medium|Greedy|General Greedy|Program for Least Recently Used (LRU) Page Replacement Algorithm||TU
+1|Medium|Greedy|General Greedy|Largest Palindromic Number|largest-palindromic-number|ED
+1|Medium|Greedy|General Greedy|Number of Steps to Reduce a Binary Number to One|number-of-steps-to-reduce-a-binary-number-to-one|ED
+1|Hard|Greedy|General Greedy|Minimum Replacements to Sort the Array|minimum-replacements-to-sort-the-array|ED
+1|Easy|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Relative Ranks|relative-ranks|TH
+1|Easy|Heap / Priority Queue|Top K Elements (Selection/Frequency)|Find Subsequence of Length K with the Largest Sum|find-subsequence-of-length-k-with-the-largest-sum|ED
+1|Medium|Heap / Priority Queue|K-way Merge|Sort K sorted array|sort-a-k-sorted-array|TU
+1|Medium|Heap / Priority Queue|K-way Merge|K-th Smallest Prime Fraction|kth-smallest-prime-fraction|ED
+1|Medium|Heap / Priority Queue|K-way Merge|Super Ugly Number|super-ugly-number|ED
+1|Hard|Heap / Priority Queue|K-way Merge|K Maximum Sum Combinations From Two Arrays|k-maximum-sum-combinations-from-two-arrays|ED
+1|Hard|Heap / Priority Queue|K-way Merge|Find the K-Sum of an Array|find-the-k-sum-of-an-array|ED
+1|Easy|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Replace Elements by Their Rank|rank-transform-of-an-array|TU
+1|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Campus Bikes|campus-bikes|NC
+1|Hard|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Rearrange String k Distance Apart|rearrange-string-k-distance-apart|NC
+1|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Maximum Subsequence Score|maximum-subsequence-score|NC
+1|Medium|Heap / Priority Queue|Scheduling / Minimum Cost (Greedy with PQ)|Find Right Interval|find-right-interval|ED
+1|Easy|Heap / Priority Queue|General Priority Queue|Heaps (Theory Video)||TU
+1|Medium|Heap / Priority Queue|General Priority Queue|Implement Min Heap||TU
+1|Easy|Heap / Priority Queue|General Priority Queue|Check if an array represents a min heap||TU
+1|Medium|Heap / Priority Queue|General Priority Queue|Convert Min Heap to Max Heap||TU
+1|Hard|Heap / Priority Queue|General Priority Queue|Minimize Deviation in Array|minimize-deviation-in-array|NC
+1|Medium|Heap / Priority Queue|General Priority Queue|Seat Reservation Manager|seat-reservation-manager|NC
+1|Medium|Heap / Priority Queue|General Priority Queue|Maximum Transactions Without Negative Balance|maximum-transactions-without-negative-balance|NC
+1|Hard|Heap / Priority Queue|General Priority Queue|Find Building Where Alice and Bob Can Meet|find-building-where-alice-and-bob-can-meet|NC
+1|Easy|Heap / Priority Queue|General Priority Queue|Largest Number After Digit Swaps by Parity|largest-number-after-digit-swaps-by-parity|ED
+1|Hard|Heap / Priority Queue|General Priority Queue|Construct Target Array with Multiple Sums|construct-target-array-with-multiple-sums|ED
+1|Hard|Heap / Priority Queue|General Priority Queue|K Empty Slots|k-empty-slots|ED
+1|Medium|Heap / Priority Queue|General Priority Queue|Maximum Product After K Increments|maximum-product-after-k-increments|ED
+1|Medium|Linked List|In-place Reversal|Print Immutable Linked List in Reverse|print-immutable-linked-list-in-reverse|NC
+1|Medium|Linked List|In-place Reversal|Reverse Nodes In Even Length Groups|reverse-nodes-in-even-length-groups|ED
+1|Medium|Linked List|Merging Two Sorted Lists|Merge Nodes in Between Zeros|merge-nodes-in-between-zeros|NC
+1|Medium|Linked List|Merging Two Sorted Lists|Insertion Sort List|insertion-sort-list|NC
+1|Medium|Linked List|Merging Two Sorted Lists|Flattening of LL|flatten-a-linked-list|TU
+1|Easy|Linked List|Intersection Detection|Minimum Index Sum of Two Lists|minimum-index-sum-of-two-lists|TH
+1|Medium|Linked List|Reordering / Partitioning|Sort a Linked List of 0's 1's and 2's|sort-ll-of-0s-1s-and-2s|TU
+1|Easy|Linked List|Learn 1D LinkedList|Introduction to Singly LinkedList||TU
+1|Easy|Linked List|Learn 1D LinkedList|Insertion at the head of Linked List||TU
+1|Easy|Linked List|Learn 1D LinkedList|Find the length of the Linked List||TU
+1|Easy|Linked List|Learn 1D LinkedList|Search in Linked List||TU
+1|Easy|Linked List|Learn Doubly LinkedList|Introduction to Doubly LL||TU
+1|Easy|Linked List|Learn Doubly LinkedList|Insert node before head in Doubly Linked List||TU
+1|Easy|Linked List|Learn Doubly LinkedList|Delete head of Doubly Linked List||TU
+1|Medium|Linked List|Linked List|Flatten a Multilevel Doubly Linked List|flatten-a-multilevel-doubly-linked-list|AM
+1|Medium|Linked List|General Linked List|Find the Minimum and Maximum Number of Nodes Between Critical Points|find-the-minimum-and-maximum-number-of-nodes-between-critical-points|NC
+1|Medium|Linked List|General Linked List|Remove Nodes From Linked List|remove-nodes-from-linked-list|NC
+1|Medium|Linked List|General Linked List|Delete Nodes From Linked List Present in Array|delete-nodes-from-linked-list-present-in-array|NC
+1|Medium|Linked List|General Linked List|Delete all occurrences of a key in DLL||TU
+1|Easy|Linked List|General Linked List|Find Pairs with Given Sum in Doubly Linked List|find-pairs-with-given-sum-in-dll|TU
+1|Easy|Linked List|General Linked List|Remove duplicated from sorted DLL|remove-duplicates-from-sorted-dll|TU
+1|Easy|Linked List|Fast & Slow (Cycle Detection)|Length of loop in LL|length-of-loop|TU
+1|Medium|Math & Geometry|Maths / Geometry|Factorial Trailing Zeroes|factorial-trailing-zeroes|AM
+1|Medium|Math & Geometry|Number Theory / Math|Prime Subtraction Operation|prime-subtraction-operation|NC
+1|Medium|Math & Geometry|Number Theory / Math|Closest Prime Numbers in Range|closest-prime-numbers-in-range|NC
+1|Medium|Math & Geometry|Number Theory / Math|Insert Greatest Common Divisors in Linked List|insert-greatest-common-divisors-in-linked-list|NC
+1|Easy|Math & Geometry|Number Theory / Math|Count Odd Numbers in an Interval Range|count-odd-numbers-in-an-interval-range|NC
+1|Easy|Math & Geometry|Number Theory / Math|Calculate Money in Leetcode Bank|calculate-money-in-leetcode-bank|NC
+1|Easy|Math & Geometry|Number Theory / Math|Count of Matches in Tournament|count-of-matches-in-tournament|NC
+1|Easy|Math & Geometry|Number Theory / Math|Water Bottles|water-bottles|NC
+1|Easy|Math & Geometry|Number Theory / Math|Armstrong Number|armstrong-number|NC
+1|Easy|Math & Geometry|Number Theory / Math|Count Substrings with Only One Distinct Letter|count-substrings-with-only-one-distinct-letter|NC
+1|Medium|Math & Geometry|Number Theory / Math|Guess the Majority in a Hidden Array|guess-the-majority-in-a-hidden-array|NC
+1|Hard|Math & Geometry|Number Theory / Math|Maximum Number of Ones|maximum-number-of-ones|NC
+1|Medium|Math & Geometry|Number Theory / Math|Find the Punishment Number of an Integer|find-the-punishment-number-of-an-integer|NC
+1|Medium|Math & Geometry|Number Theory / Math|Check if Number is a Sum of Powers of Three|check-if-number-is-a-sum-of-powers-of-three|NC
+1|Medium|Math & Geometry|Number Theory / Math|Sum of Square Numbers|sum-of-square-numbers|NC
+1|Medium|Math & Geometry|Number Theory / Math|Find Missing Observations|find-missing-observations|NC
+1|Medium|Math & Geometry|Number Theory / Math|Minimum Time Difference|minimum-time-difference|NC
+1|Medium|Math & Geometry|Number Theory / Math|Minimum Operations to Make a Uni-Value Grid|minimum-operations-to-make-a-uni-value-grid|NC
+1|Medium|Math & Geometry|Number Theory / Math|Tuple with Same Product|tuple-with-same-product|NC
+1|Medium|Math & Geometry|Number Theory / Math|Count Total Number of Colored Cells|count-total-number-of-colored-cells|NC
+1|Medium|Math & Geometry|Number Theory / Math|Distribute Candies Among Children II|distribute-candies-among-children-ii|NC
+1|Easy|Math & Geometry|Number Theory / Math|Minimum Cuts to Divide a Circle|minimum-cuts-to-divide-a-circle|ED
+1|Hard|Math & Geometry|Number Theory / Math|Nth Magical Number|nth-magical-number|ED
+1|Medium|Math & Geometry|Coordinate Geometry|Minimum Area Rectangle II|minimum-area-rectangle-ii|AM
+1|Medium|Math & Geometry|Coordinate Geometry|Detect Squares|detect-squares|NC
+1|Medium|Math & Geometry|Coordinate Geometry|Wildest Vertical Area Between Two Points Containing No Points|widest-vertical-area-between-two-points-containing-no-points|NC
+1|Medium|Math & Geometry|Coordinate Geometry|Line Reflection|line-reflection|NC
+1|Medium|Math & Geometry|Coordinate Geometry|Maximum Area Rectangle With Point Constraints I|maximum-area-rectangle-with-point-constraints-i|ED
+1|Medium|Math & Geometry|Coordinate Geometry|Minimum Number of Lines to Cover Points|minimum-number-of-lines-to-cover-points|ED
+1|Hard|Math & Geometry|Coordinate Geometry|Minimize Manhattan Distances|minimize-manhattan-distances|ED
+1|Medium|Math & Geometry|Coordinate Geometry|Convex Polygon|convex-polygon|ED
+1|Easy|Math & Geometry|Coordinate Geometry|Check If It Is a Straight Line|check-if-it-is-a-straight-line|ED
+1|Easy|Math & Geometry|Coordinate Geometry|Rectangle Overlap|rectangle-overlap|ED
+1|Easy|Math & Geometry|Coordinate Geometry|Minimum Time Visiting All Points|minimum-time-visiting-all-points|ED
+1|Medium|Math & Geometry|Coordinate Geometry|Rectangle Area|rectangle-area|ED
+1|Medium|Math & Geometry|Coordinate Geometry|Queries on Number of Points Inside a Circle|queries-on-number-of-points-inside-a-circle|ED
+1|Hard|Math & Geometry|Coordinate Geometry|Maximum Number of Visible Points|maximum-number-of-visible-points|ED
+1|Hard|Math & Geometry|Coordinate Geometry|Self Crossing|self-crossing|ED
+1|Hard|Math & Geometry|Coordinate Geometry|Erect the Fence|erect-the-fence|ED
+1|Easy|Math & Geometry|Matrix / Simulation|Matrix Diagonal Sum|matrix-diagonal-sum|NC
+1|Easy|Math & Geometry|Matrix / Simulation|Image Smoother|image-smoother|NC
+1|Easy|Math & Geometry|Matrix / Simulation|Largest Local Values in a Matrix|largest-local-values-in-a-matrix|NC
+1|Medium|Math & Geometry|Matrix / Simulation|Magic Squares In Grid|magic-squares-in-grid|NC
+1|Easy|Math & Geometry|Matrix / Simulation|Shift 2D Grid|shift-2d-grid|NC
+1|Medium|Math & Geometry|Matrix / Simulation|Robot Bounded In Circle|robot-bounded-in-circle|NC
+1|Medium|Math & Geometry|Matrix / Simulation|Walking Robot Simulation|walking-robot-simulation|NC
+1|Medium|Math & Geometry|Matrix / Simulation|Rotating the Box|rotating-the-box|NC
+1|Medium|Math & Geometry|Matrix / Simulation|Largest Submatrix With Rearrangements|largest-submatrix-with-rearrangements|NC
+1|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Calculate Compressed Mean|calculate-compressed-mean|TH
+1|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Find X-Sum of All K-Long Subarrays I|find-x-sum-of-all-k-long-subarrays-i|TH
+1|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Minimum Recolors to Get K Consecutive Black Blocks|minimum-recolors-to-get-k-consecutive-black-blocks|NC
+1|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Minimum Difference Between Highest And Lowest of K Scores|minimum-difference-between-highest-and-lowest-of-k-scores|NC
+1|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold|number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|NC
+1|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Grumpy Bookstore Owner|grumpy-bookstore-owner|NC
+1|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Find K-Length Substrings With No Repeated Characters|find-k-length-substrings-with-no-repeated-characters|NC
+1|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Alternating Groups II|alternating-groups-ii|NC
+1|Medium|Sliding Window|Fixed Size (Subarray Calculation)|Minimum Number of Flips to Make The Binary String Alternating|minimum-number-of-flips-to-make-the-binary-string-alternating|NC
+1|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Defuse the Bomb|defuse-the-bomb|NC
+1|Easy|Sliding Window|Fixed Size (Subarray Calculation)|Diet Plan Performance|diet-plan-performance|ED
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Longest Subarray of 1's After Deleting One Element|longest-subarray-of-1s-after-deleting-one-element|TH
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Find Longest Special Substring That Occurs Thrice I|find-longest-special-substring-that-occurs-thrice-i|TH
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Maximum Good Subarray Sum|maximum-good-subarray-sum|TH
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Maximum Frequency of an Element After Performing Operations I|maximum-frequency-of-an-element-after-performing-operations-i|TH
+1|Hard|Sliding Window|Variable Size (Condition-Based)|Maximum Frequency of an Element After Performing Operations II|maximum-frequency-of-an-element-after-performing-operations-ii|TH
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Longest Substring with At Least K Repeating Characters|longest-substring-with-at-least-k-repeating-characters|AM
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Max Consecutive Ones II|max-consecutive-ones-ii|NC
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Get Equal Substrings Within Budget|get-equal-substrings-within-budget|NC
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Length of Longest Subarray With at Most K Frequency|length-of-longest-subarray-with-at-most-k-frequency|NC
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Count Subarrays Where Max Element Appears at Least K Times|count-subarrays-where-max-element-appears-at-least-k-times|NC
+1|Medium|Sliding Window|Variable Size (Condition-Based)|Count of Substrings Containing Every Vowel and K Consonants II|count-of-substrings-containing-every-vowel-and-k-consonants-ii|NC
+1|Hard|Sliding Window|Variable Size (Condition-Based)|Minimum Number of Operations to Make Array Continuous|minimum-number-of-operations-to-make-array-continuous|NC
+1|Hard|Sliding Window|Variable Size (Condition-Based)|Count Subarrays With Score Less Than K|count-subarrays-with-score-less-than-k|ED
+1|Hard|Sliding Window|Variable Size (Condition-Based)|Count Substrings With K-Frequency Characters II|count-substrings-with-k-frequency-characters-ii|ED
+1|Hard|Sliding Window|Monotonic Queue for Max/Min|Count Partitions With Max-Min Difference at Most K|count-partitions-with-max-min-difference-at-most-k|AM
+1|Hard|Sliding Window|Monotonic Queue for Max/Min|Max Value of Equation|max-value-of-equation|AM
+1|Easy|Stack & Queue|Valid Parentheses Matching|Make The String Great|make-the-string-great|NC
+1|Medium|Stack & Queue|Valid Parentheses Matching|Reverse Substrings Between Each Pair of Parentheses|reverse-substrings-between-each-pair-of-parentheses|NC
+1|Easy|Stack & Queue|Valid Parentheses Matching|Clear Digits|clear-digits|NC
+1|Medium|Stack & Queue|Monotonic Stack|Next Greater Node In Linked List|next-greater-node-in-linked-list|AM
+1|Easy|Stack & Queue|Monotonic Stack|Next Smaller Element|next-smaller-element|TU
+1|Medium|Stack & Queue|Monotonic Stack|Find Permutation|find-permutation|NC
+1|Hard|Stack & Queue|Monotonic Stack|Number of Valid Subarrays|number-of-valid-subarrays|ED
+1|Medium|Stack & Queue|Monotonic Stack|Next Greater Element IV|next-greater-element-iv|ED
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Remove All Adjacent Duplicates In String II|remove-all-adjacent-duplicates-in-string-ii|NC
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Infix to Postfix Conversion||TU
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Prefix to Infix Conversion||TU
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Prefix to Postfix Conversion||TU
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Postfix to Prefix Conversion||TU
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Postfix to Infix Conversion||TU
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Infix to Prefix Conversion||TU
+1|Medium|Stack & Queue|Expression Evaluation (RPN/Infix)|Ternary Expression Parser|ternary-expression-parser|NC
+1|Hard|Stack & Queue|Expression Evaluation (RPN/Infix)|Number of Atoms|number-of-atoms|NC
+1|Easy|Stack & Queue|General Stack/Queue|Number of Recent Calls|number-of-recent-calls|AM
+1|Medium|Stack & Queue|General Stack/Queue|Number of People Aware of a Secret|number-of-people-aware-of-a-secret|AM
+1|Hard|Stack & Queue|General Stack/Queue|Robot Collisions|robot-collisions|NC
+1|Easy|Stack & Queue|General Stack/Queue|Implement Stack using Arrays||TU
+1|Easy|Stack & Queue|General Stack/Queue|Implement Queue using Arrays||TU
+1|Easy|Stack & Queue|General Stack/Queue|Implement stack using Linkedlist||TU
+1|Easy|Stack & Queue|General Stack/Queue|Implement queue using Linkedlist||TU
+1|Medium|Stack & Queue|General Stack/Queue|Celebrity Problem|find-the-celebrity|TU
+1|Medium|Trees|BFS - Level Order Traversal|Maximum Level Sum of a Binary Tree|maximum-level-sum-of-a-binary-tree|TH
+1|Medium|Trees|BFS - Level Order Traversal|Populating Next Right Pointers in Each Node II|populating-next-right-pointers-in-each-node-ii|AM
+1|Medium|Trees|BFS - Level Order Traversal|Top View of BT|top-view-of-binary-tree|TU
+1|Medium|Trees|BFS - Level Order Traversal|Bottom view of BT|bottom-view-of-binary-tree|TU
+1|Medium|Trees|BFS - Level Order Traversal|Minimum time taken to burn the BT from a given Node|amount-of-time-for-binary-tree-to-be-infected|TU
+1|Medium|Trees|BFS - Level Order Traversal|Reverse Odd Levels of Binary Tree|reverse-odd-levels-of-binary-tree|NC
+1|Medium|Trees|BFS - Level Order Traversal|Minimum Number of Operations to Sort a Binary Tree by Level|minimum-number-of-operations-to-sort-a-binary-tree-by-level|NC
+1|Medium|Trees|BFS - Level Order Traversal|Kth Largest Sum in a Binary Tree|kth-largest-sum-in-a-binary-tree|NC
+1|Medium|Trees|BFS - Level Order Traversal|Cousins in Binary Tree II|cousins-in-binary-tree-ii|NC
+1|Medium|Trees|BFS - Level Order Traversal|Find Bottom Left Tree Value|find-bottom-left-tree-value|NC
+1|Medium|Trees|BFS - Level Order Traversal|Even Odd Tree|even-odd-tree|NC
+1|Medium|Trees|BFS - Level Order Traversal|Connect All Siblings of a Binary Tree|connect-all-siblings-of-a-binary-tree|ED
+1|Hard|Trees|BFS - Level Order Traversal|Frog Position After T Seconds|frog-position-after-t-seconds|ED
+1|Easy|Trees|DFS - Preorder Traversal|Sum of Left Leaves|sum-of-left-leaves|AM
+1|Medium|Trees|DFS - Preorder Traversal|Longest Univalue Path|longest-univalue-path|AM
+1|Medium|Trees|DFS - Preorder Traversal|Maximum Difference Between Node and Ancestor|maximum-difference-between-node-and-ancestor|AM
+1|Easy|Trees|DFS - Preorder Traversal|N-ary Tree Postorder Traversal|n-ary-tree-postorder-traversal|NC
+1|Medium|Trees|DFS - Preorder Traversal|Construct Binary Tree from Preorder and Postorder Traversal|construct-binary-tree-from-preorder-and-postorder-traversal|NC
+1|Easy|Trees|DFS - Preorder Traversal|Leaf-Similar Trees|leaf-similar-trees|NC
+1|Medium|Trees|DFS - Preorder Traversal|Find Root of N-Ary Tree|find-root-of-n-ary-tree|NC
+1|Medium|Trees|DFS - Preorder Traversal|Create Binary Tree From Descriptions|create-binary-tree-from-descriptions|NC
+1|Medium|Trees|DFS - Preorder Traversal|Linked List in Binary Tree|linked-list-in-binary-tree|NC
+1|Medium|Trees|DFS - Preorder Traversal|Flip Equivalent Binary Trees|flip-equivalent-binary-trees|NC
+1|Medium|Trees|DFS - Preorder Traversal|Operations On Tree|operations-on-tree|NC
+1|Medium|Trees|DFS - Preorder Traversal|Validate Binary Tree Nodes|validate-binary-tree-nodes|NC
+1|Easy|Trees|DFS - Inorder Traversal|Find Mode in Binary Search Tree|find-mode-in-binary-search-tree|TH
+1|Medium|Trees|DFS - Inorder Traversal|Balance a Binary Search Tree|balance-a-binary-search-tree|AM
+1|Easy|Trees|DFS - Postorder Traversal|Evaluate Boolean Binary Tree|evaluate-boolean-binary-tree|NC
+1|Medium|Trees|DFS - Postorder Traversal|Minimum Time to Collect All Apples in a Tree|minimum-time-to-collect-all-apples-in-a-tree|NC
+1|Medium|Trees|DFS - Postorder Traversal|Number of Good Leaf Nodes Pairs|number-of-good-leaf-nodes-pairs|NC
+1|Medium|Trees|DFS - Postorder Traversal|Delete Leaves With a Given Value|delete-leaves-with-a-given-value|NC
+1|Hard|Trees|Lowest Common Ancestor (LCA)|Closest Node to Path in Tree|closest-node-to-path-in-tree|ED
+1|Hard|Trees|Serialization & Deserialization|Serialize and Deserialize N-ary Tree|serialize-and-deserialize-n-ary-tree|NC
+1|Medium|Trees|Serialization & Deserialization|Construct String From Binary Tree|construct-string-from-binary-tree|NC
+1|Medium|Trees|Serialization & Deserialization|Requirements needed to construct a unique BT||TU
+1|Hard|Trees|Serialization & Deserialization|Encode N-ary Tree to Binary Tree|encode-n-ary-tree-to-binary-tree|NC
+1|Medium|Trees|Serialization & Deserialization|Build Binary Tree from Preorder and Inorder Traversal|build-binary-tree-from-preorder-and-inorder-traversal|ED
+1|Hard|Trees|Tries|Prefix and Suffix Search|prefix-and-suffix-search|TH
+1|Medium|Trees|Tries|Words Within Two Edits of Dictionary|words-within-two-edits-of-dictionary|AM
+1|Easy|Trees|Tries|Count Prefix and Suffix Pairs I|count-prefix-and-suffix-pairs-i|NC
+1|Easy|Trees|Tries|Counting Words With a Given Prefix|counting-words-with-a-given-prefix|NC
+1|Medium|Trees|Tries|Extra Characters in a String|extra-characters-in-a-string|NC
+1|Hard|Trees|Tries|Sum of Prefix Scores of Strings|sum-of-prefix-scores-of-strings|NC
+1|Hard|Trees|Tries|Count Prefix and Suffix Pairs II|count-prefix-and-suffix-pairs-ii|NC
+1|Medium|Trees|Tries|Number of distinct substrings in a string|number-of-distinct-substrings|TU
+1|Easy|Trees|Tries|Bit PreRequisites for TRIE Problems||TU
+1|Hard|Trees|Tries|Maximum Xor with an element from an array|maximum-xor-with-an-element-from-array|TU
+1|Easy|Trees|Tries|Index Pairs of a String|index-pairs-of-a-string|ED
+1|Hard|Trees|Tries|Longest Common Suffix Queries|longest-common-suffix-queries|ED
+1|Medium|Trees|Tries|Map Sum Pairs|map-sum-pairs|ED
+1|Easy|Trees|Tries|Check If a Word is a Prefix of Any Word in a Sentence|check-if-a-word-is-a-prefix-of-any-word-in-a-sentence|ED
+1|Medium|Trees|Tries|Longest Word With All Prefixes|longest-word-with-all-prefixes|ED
+1|Easy|Trees|Traversals|Introduction to Trees||TU
+1|Easy|Trees|Traversals|Introduction||TU
+1|Easy|Trees|Traversals|Binary Tree Representation in Java||TU
+1|Medium|Trees|Traversals|Pre, Post, Inorder in one traversal||TU
+1|Medium|Trees|Traversals|Preorder, Inorder, and Postorder Traversal in one Traversal||TU
+1|Medium|Trees|BST Properties|Convert Binary Search Tree to Sorted Doubly Linked List|convert-binary-search-tree-to-sorted-doubly-linked-list|AM
+1|Medium|Trees|BST Properties|Stock Price Fluctuation|stock-price-fluctuation|AM
+1|Medium|Trees|BST Properties|Verify Preorder Sequence in Binary Search Tree|verify-preorder-sequence-in-binary-search-tree|NC
+1|Medium|Trees|BST Properties|Two Sum BSTs|two-sum-bsts|NC
+1|Hard|Trees|BST Properties|Closest Binary Search Tree Value II|closest-binary-search-tree-value-ii|NC
+1|Medium|Trees|BST Properties|Convert Bst to Greater Tree|convert-bst-to-greater-tree|NC
+1|Easy|Trees|BST Properties|Introduction to BST||TU
+1|Easy|Trees|BST Properties|Find Min/Max in BST||TU
+1|Easy|Trees|BST Properties|Floor and Ceil in a BST|floor-in-bst|TU
+1|Hard|Trees|BST Properties|Largest BST in Binary Tree|maximum-sum-bst-in-binary-tree|TU
+1|Medium|Trees|Binary Indexed Tree / Segment Tree|Range Sum Query - Mutable|range-sum-query-mutable|AM
+1|Hard|Trees|Binary Indexed Tree / Segment Tree|Falling Squares|falling-squares|AM
+1|Hard|Trees|Binary Indexed Tree / Segment Tree|Block Placement Queries|block-placement-queries|AM
+1|Medium|Trees|Binary Indexed Tree / Segment Tree|Longest Balanced Subarray II|longest-balanced-subarray-ii|AM
+1|Hard|Trees|Binary Indexed Tree / Segment Tree|Number of Pairs Satisfying Inequality|number-of-pairs-satisfying-inequality|AM
+1|Medium|Trees|Binary Search Trees|Construct BST from Preorder Traversal|construct-bst-from-preorder-traversal|AE
+1|Easy|Trees|Binary Search Trees|Convert Sorted Array to BST|convert-sorted-array-to-bst|AE
+1|Medium|Trees|Properties & Structural DP|Count Univalue Subtrees|count-univalue-subtrees|NC
+1|Medium|Trees|Properties & Structural DP|Maximum Average Subtree|maximum-average-subtree|NC
+1|Medium|Trees|Properties & Structural DP|Diameter of N-Ary Tree|diameter-of-n-ary-tree|NC
+1|Medium|Trees|Properties & Structural DP|Children Sum Property in Binary Tree|children-sum-property|TU
+1|Medium|Trees|Properties & Structural DP|All Possible Full Binary Trees|all-possible-full-binary-trees|NC
+1|Hard|Trees|Properties & Structural DP|Sum of Distances in a Tree|sum-of-distances-in-a-tree|ED
+1|Easy|Trees|Path Problems|Path Sum|path-sum|NC
+1|Medium|Trees|Path Problems|Path Sum III|path-sum-iii|AM
+1|Medium|Trees|Path Problems|Binary Tree Longest Consecutive Sequence|binary-tree-longest-consecutive-sequence|NC
+1|Medium|Trees|Path Problems|Binary Tree Longest Consecutive Sequence II|binary-tree-longest-consecutive-sequence-ii|NC
+1|Medium|Two Pointers|Converging (Sorted Array Target Sum)|3Sum Closest|3sum-closest|TH
+1|Medium|Two Pointers|Converging (Sorted Array Target Sum)|3Sum Smaller|3sum-smaller|TH
+1|Easy|Two Pointers|Converging (Sorted Array Target Sum)|Merge Two 2D Arrays by Summing Values|merge-two-2d-arrays-by-summing-values|NC
+1|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Number of Subsequences That Satisfy The Given Sum Condition|number-of-subsequences-that-satisfy-the-given-sum-condition|NC
+1|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Divide Players Into Teams of Equal Skill|divide-players-into-teams-of-equal-skill|NC
+1|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Bag of Tokens|bag-of-tokens|NC
+1|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Minimum Length of String after Deleting Similar Ends|minimum-length-of-string-after-deleting-similar-ends|NC
+1|Medium|Two Pointers|Converging (Sorted Array Target Sum)|Sort Transformed Array|sort-transformed-array|NC
+1|Hard|Two Pointers|Converging (Sorted Array Target Sum)|Minimum Number of Moves to Make Palindrome|minimum-number-of-moves-to-make-palindrome|ED
+1|Medium|Two Pointers|Fast & Slow (Cycle Detection)|Circular Array Loop|circular-array-loop|ED
+1|Medium|Two Pointers|Fast & Slow (Cycle Detection)|Split a Circular Linked List|split-a-circular-linked-list|ED
+1|Medium|Two Pointers|In-place Array Modification|Move Pieces to Obtain a String|move-pieces-to-obtain-a-string|TH
+1|Easy|Two Pointers|In-place Array Modification|Check If Two String Arrays are Equivalent|check-if-two-string-arrays-are-equivalent|NC
+1|Easy|Two Pointers|In-place Array Modification|Apply Operations to an Array|apply-operations-to-an-array|NC
+1|Medium|Two Pointers|In-place Array Modification|Adding Spaces to a String|adding-spaces-to-a-string|NC
+1|Medium|Two Pointers|In-place Array Modification|Partition Array According to Given Pivot|partition-array-according-to-given-pivot|NC
+1|Medium|Two Pointers|In-place Array Modification|Array With Elements Not Equal to Average of Neighbors|array-with-elements-not-equal-to-average-of-neighbors|NC
+1|Medium|Two Pointers|In-place Array Modification|K-th Symbol in Grammar|k-th-symbol-in-grammar|NC
+1|Medium|Two Pointers|In-place Array Modification|Minimum Time To Make Rope Colorful|minimum-time-to-make-rope-colorful|NC
+1|Medium|Two Pointers|In-place Array Modification|Sentence Similarity III|sentence-similarity-iii|NC
+1|Medium|Two Pointers|In-place Array Modification|Product of Two Run Length Encoded Arrays|product-of-two-run-length-encoded-arrays|NC
+1|Hard|Two Pointers|In-place Array Modification|Find the Lexicographically Largest String From Box II|find-the-lexicographically-largest-string-from-the-box-ii|ED
+1|Hard|Two Pointers|In-place Array Modification|Get the Maximum Score|get-the-maximum-score|ED
+1|Easy|Two Pointers|Expanding From Center (Palindromes)|Find First Palindromic String in the Array|find-first-palindromic-string-in-the-array|NC
+1|Hard|Two Pointers|Expanding From Center (Palindromes)|Next Palindrome Using Same Digits|next-palindrome-using-same-digits|ED
+1|Easy|Two Pointers|String Reversal|Reverse Vowels of a String|reverse-vowels-of-a-string|TH
+1|Easy|Two Pointers|String Reversal|Reverse String II|reverse-string-ii|TH
+1|Easy|Two Pointers|String Reversal|Reverse Words in a String III|reverse-words-in-a-string-iii|NC
+1|Easy|Two Pointers|Two Pointers|Count Binary Substrings|count-binary-substrings|AM
