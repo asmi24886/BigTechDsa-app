@@ -3,9 +3,9 @@
 A comprehensive aggregation of LeetCode, NeetCode, Thita, Striver (TUF), Algomaster, and Educative.io DSA problem sets in one place.
 
 ## Features
-- Over 1,300 unique DSA problems.
+- Over 1,450 plus unique DSA problems.
 - Deduplicated results (LeetCode-based matching).
-- Mapped to 15 canonical categories and 171 sub-categories.
+- Mapped to 15 canonical categories and 171 sub-categories. (was recently updated, can be more)
 - Difficulty tracking (94% coverage).
 - Linked directly to LeetCode and the original curated source.
 - Alternate solving patterns (e.g., Stack vs. Two Pointers).
