@@ -1946,9 +1946,11 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://www.educative.io/courses/grokking-coding-interview"
+          "https://www.educative.io/courses/grokking-coding-interview",
+          "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Easy"
+        "difficulty": "Easy",
+        "isBigTechDsa": true
       },
       {
         "name": "Wiggle Sort",
@@ -2931,9 +2933,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
-          "https://takeuforward.org/strivers-a2z-dsa-course"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Sort Transformed Array",
@@ -5017,7 +5021,8 @@
         "leetcodeUrl": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
         "leetcodeId": "",
         "sources": [
-          "https://takeuforward.org/strivers-a2z-dsa-course"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       }
@@ -5442,7 +5447,8 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://www.educative.io/courses/grokking-coding-interview"
+          "https://www.educative.io/courses/grokking-coding-interview",
+          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard",
         "isBigTechDsa": true
@@ -6365,11 +6371,9 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
-          "https://neetcode.io/practice/practice/allNC",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
       },
       {
         "name": "Maximum Level Sum of a Binary Tree",
@@ -7682,9 +7686,11 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://algomaster.io/practice/dsa-patterns"
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Inorder Successor in BST II",
@@ -8759,8 +8765,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Sliding Window Median",
@@ -9233,9 +9238,11 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://algomaster.io/practice/dsa-patterns"
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Shortest Distance from All Buildings",
@@ -9489,9 +9496,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
-          "https://takeuforward.org/strivers-a2z-dsa-course"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Parallel Courses",
@@ -9526,8 +9535,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Find All Possible Recipes from Given Supplies",
@@ -9551,8 +9559,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Course Schedule IV",
@@ -9791,8 +9798,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Minimum Time to Visit a Cell In a Grid",
@@ -9873,8 +9879,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Shortest path in undirected graph with unit weights",
@@ -10051,9 +10056,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
-          "https://takeuforward.org/strivers-a2z-dsa-course"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Most Stones Removed with Same Row or Column",
@@ -11465,7 +11472,8 @@
         "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-form-target-string-given-a-dictionary/",
         "leetcodeId": "",
         "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
+          "https://www.educative.io/courses/grokking-coding-interview",
+          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard"
       },
@@ -12827,7 +12835,8 @@
         "leetcodeUrl": "https://leetcode.com/problems/n-queens-B657KNjDpLJ/",
         "leetcodeId": "",
         "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
+          "https://www.educative.io/courses/grokking-coding-interview",
+          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard"
       }
@@ -14798,8 +14807,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview",
-          "https://neetcode.io/practice/practice/allNC"
+          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard",
         "isBigTechDsa": true
