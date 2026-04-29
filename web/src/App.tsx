@@ -407,10 +407,10 @@ function App() {
         <button
           className={`filter-btn picks ${showCurated ? 'active' : ''}`}
           onClick={() => setShowCurated(prev => !prev)}
-          title={showCurated ? 'Show all problems' : 'Show only the curated BigTechDsa 456 problems'}
+          title={showCurated ? 'Show all problems' : 'Show only the curated BigTechDsa 500 problems'}
           style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', marginLeft: '0.5rem' }}
         >
-          ★ BigTechDsa 456
+          ★ BigTechDsa 500
         </button>
       </div>
 

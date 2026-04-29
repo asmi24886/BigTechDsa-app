@@ -4,7 +4,7 @@
  * Selects the definitive set of problems to crack any DSA interview.
  * Replaces the old 3-tier system (250/450/600) with a single curated boolean.
  * 
- * Target: EXACTLY 456 problems covering every pattern out of 1407.
+ * Target: EXACTLY 500 problems covering every pattern out of 1407.
  */
 
 const fs = require('fs');
@@ -53,12 +53,17 @@ for (const cat in data) {
         score += 500;
       }
 
-      // Small secondary tie-breakers:
-      if (p.difficulty === 'Medium') score += 10;
-      else if (p.difficulty === 'Easy') score += 5;
-      else if (p.difficulty === 'Hard') score += 2;
+      // De-prioritize least priority categories: Math, Bit Manipulation, Design
+      if (cat === 'Math & Geometry' || cat === 'Bit Manipulation' || cat === 'Design') {
+        score -= 150; // Equivalent to losing 1.5 sources worth of points
+      }
 
-      allProblems.push({ p, slug, score });
+      // Senior/Staff focus: Medium and Hard are prioritized over Easy
+      if (p.difficulty === 'Hard') score += 20;
+      else if (p.difficulty === 'Medium') score += 10;
+      else if (p.difficulty === 'Easy') score += 0;
+
+      allProblems.push({ p, slug, score, cat });
     }
   }
 }
@@ -71,9 +76,29 @@ for (const item of allProblems) {
     }
 }
 
-// ─── Phase 2: Pick top 456 ───
+// ─── Phase 2: Per-category caps ───
+// Caps control how many problems a category can contribute.
+// Uncapped categories are filled by the global score ranking naturally.
+const CATEGORY_CAPS = {
+  'Trees': 40,
+  'Dynamic Programming': 70,
+};
+
 let sortedItems = Array.from(uniqueProblemsMap.values()).sort((a, b) => b.score - a.score);
-const top456Slugs = new Set(sortedItems.slice(0, 456).map(item => item.slug));
+
+// Select top 500 with per-category caps
+const catCounts = {};
+const top500Slugs = new Set();
+for (const item of sortedItems) {
+  if (top500Slugs.size >= 500) break;
+  const cap = CATEGORY_CAPS[item.cat];
+  if (cap !== undefined) {
+    catCounts[item.cat] = (catCounts[item.cat] || 0);
+    if (catCounts[item.cat] >= cap) continue;
+    catCounts[item.cat]++;
+  }
+  top500Slugs.add(item.slug);
+}
 
 let included = 0;
 let excluded = 0;
@@ -85,10 +110,10 @@ for (const cat in data) {
     for (const p of data[cat][sub]) {
       const slug = getSlug(p);
       delete p.recommendedTier; // clean legacy
-      
-      if (slug && top456Slugs.has(slug)) {
+
+      if (slug && top500Slugs.has(slug)) {
         p.isBigTechDsa = true;
-        top456Slugs.delete(slug); // mark used so we don't double count if duplicates exist
+        top500Slugs.delete(slug); // mark used so we don't double count if duplicates exist
         included++;
         byCategory[cat].included++;
       } else {
