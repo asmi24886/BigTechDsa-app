@@ -78,8 +78,7 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
       },
       {
         "name": "Spiral Matrix IV",
@@ -89,8 +88,7 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
       },
       {
         "name": "Set Matrix Zeroes",
@@ -131,6 +129,66 @@
         "isBigTechDsa": true
       },
       {
+        "name": "Lonely Pixel I",
+        "leetcodeUrl": "https://leetcode.com/problems/lonely-pixel-i/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Minimum Time Takes to Reach Destination Without Drowning",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Number of Spaces Cleaning Robot Cleaned",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Smallest Rectangle Enclosing Black Pixels",
+        "leetcodeUrl": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Sparse Matrix Multiplication",
+        "leetcodeUrl": "https://leetcode.com/problems/sparse-matrix-multiplication/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Valid Word Square",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-word-square/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
         "name": "Valid Sudoku",
         "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku",
         "leetcodeId": "",
@@ -141,33 +199,6 @@
         ],
         "difficulty": "Medium",
         "isBigTechDsa": true
-      },
-      {
-        "name": "Valid Word Square",
-        "leetcodeUrl": "https://leetcode.com/problems/valid-word-square/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Lonely Pixel I",
-        "leetcodeUrl": "https://leetcode.com/problems/lonely-pixel-i/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Sparse Matrix Multiplication",
-        "leetcodeUrl": "https://leetcode.com/problems/sparse-matrix-multiplication/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Count Unguarded Cells in the Grid",
@@ -188,15 +219,6 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Number of Spaces Cleaning Robot Cleaned",
-        "leetcodeUrl": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Count Negative Numbers in a Sorted Matrix",
         "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
         "leetcodeId": "",
@@ -204,24 +226,6 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy"
-      },
-      {
-        "name": "Minimum Time Takes to Reach Destination Without Drowning",
-        "leetcodeUrl": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Smallest Rectangle Enclosing Black Pixels",
-        "leetcodeUrl": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
       },
       {
         "name": "Minimize Maximum Value in a Grid",
@@ -265,8 +269,17 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://www.algoexpert.io/questions"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Brightest Position on Street",
+        "leetcodeUrl": "https://leetcode.com/problems/brightest-position-on-street/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Number of Zero-Filled Subarrays",
@@ -276,8 +289,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
       },
       {
         "name": "Maximum Score After Splitting a String",
@@ -354,15 +366,6 @@
       {
         "name": "Minimum Penalty for a Shop",
         "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Brightest Position on Street",
-        "leetcodeUrl": "https://leetcode.com/problems/brightest-position-on-street/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -510,6 +513,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -566,8 +570,7 @@
           "https://thita.ai/dsa-patterns-sheet",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
       },
       {
         "name": "String to Integer (atoi)",
@@ -592,14 +595,129 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Missing Ranges",
-        "leetcodeUrl": "https://leetcode.com/problems/missing-ranges",
+        "name": "Array Transformation",
+        "leetcodeUrl": "https://leetcode.com/problems/array-transformation/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Easy"
+      },
+      {
+        "name": "Confusing Number",
+        "leetcodeUrl": "https://leetcode.com/problems/confusing-number/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Find Smallest Common Element in All Rows",
+        "leetcodeUrl": "https://leetcode.com/problems/find-smallest-common-element-in-all-rows/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Missing Ranges",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-ranges/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "One Edit Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/one-edit-distance/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Pascal's Triangle II",
+        "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Perform String Shifts",
+        "leetcodeUrl": "https://leetcode.com/problems/perform-string-shifts/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Reverse Words in a String II",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Shortest Way to Form String",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-way-to-form-string/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Single-Row Keyboard",
+        "leetcodeUrl": "https://leetcode.com/problems/single-row-keyboard/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Synonymous Sentences",
+        "leetcodeUrl": "https://leetcode.com/problems/synonymous-sentences/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Time Taken to Cross the Door",
+        "leetcodeUrl": "https://leetcode.com/problems/time-taken-to-cross-the-door/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
       },
       {
         "name": "Increasing Triplet Subsequence",
@@ -646,8 +764,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
       },
       {
         "name": "Maximum Binary Tree",
@@ -730,66 +847,11 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Confusing Number",
-        "leetcodeUrl": "https://leetcode.com/problems/confusing-number/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Single-Row Keyboard",
-        "leetcodeUrl": "https://leetcode.com/problems/single-row-keyboard/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Perform String Shifts",
-        "leetcodeUrl": "https://leetcode.com/problems/perform-string-shifts/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
+        "difficulty": "Medium"
       },
       {
         "name": "Maximum Distance in Arrays",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-in-arrays/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Find Smallest Common Element in All Rows",
-        "leetcodeUrl": "https://leetcode.com/problems/find-smallest-common-element-in-all-rows/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Reverse Words in a String II",
-        "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Shortest Way to Form String",
-        "leetcodeUrl": "https://leetcode.com/problems/shortest-way-to-form-string/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -843,15 +905,6 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Pascal's Triangle II",
-        "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
         "name": "Largest 3-Same-Digit Number in String",
         "leetcodeUrl": "https://leetcode.com/problems/largest-3-same-digit-number-in-string/",
         "leetcodeId": "",
@@ -881,15 +934,6 @@
       {
         "name": "Number of Students Unable to Eat Lunch",
         "leetcodeUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Array Transformation",
-        "leetcodeUrl": "https://leetcode.com/problems/array-transformation/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -951,26 +995,8 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Synonymous Sentences",
-        "leetcodeUrl": "https://leetcode.com/problems/synonymous-sentences/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Number of Ships in a Rectangle",
         "leetcodeUrl": "https://leetcode.com/problems/number-of-ships-in-a-rectangle/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Time Taken to Cross the Door",
-        "leetcodeUrl": "https://leetcode.com/problems/time-taken-to-cross-the-door/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -985,8 +1011,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
+        "difficulty": "Medium"
       },
       {
         "name": "Split Array into Consecutive Subsequences",
@@ -1144,18 +1169,6 @@
         "difficulty": "Easy"
       },
       {
-        "name": "One Edit Distance",
-        "leetcodeUrl": "https://leetcode.com/problems/one-edit-distance",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://www.algoexpert.io/questions",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
         "name": "Text Justification",
         "leetcodeUrl": "https://leetcode.com/problems/text-justification",
         "leetcodeId": "",
@@ -1213,6 +1226,104 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Analyze User Website Visit Pattern",
+        "leetcodeUrl": "https://leetcode.com/problems/analyze-user-website-visit-pattern/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Dot Product of Two Sparse Vectors",
+        "leetcodeUrl": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Find Anagram Mappings",
+        "leetcodeUrl": "https://leetcode.com/problems/find-anagram-mappings/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Find Longest Self-Contained Substring",
+        "leetcodeUrl": "https://leetcode.com/problems/find-longest-self-contained-substring/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Group Shifted Strings",
+        "leetcodeUrl": "https://leetcode.com/problems/group-shifted-strings/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Largest Unique Number",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-unique-number/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Palindrome Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/palindrome-permutation/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Sentence Similarity",
+        "leetcodeUrl": "https://leetcode.com/problems/sentence-similarity/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Shortest Word Distance II",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
         "isBigTechDsa": true
       },
       {
@@ -1316,25 +1427,6 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Group Shifted Strings",
-        "leetcodeUrl": "https://leetcode.com/problems/group-shifted-strings",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Find Anagram Mappings",
-        "leetcodeUrl": "https://leetcode.com/problems/find-anagram-mappings/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
         "name": "Maximum Difference Between Even and Odd Frequency I",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/",
         "leetcodeId": "",
@@ -1349,34 +1441,6 @@
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Sentence Similarity",
-        "leetcodeUrl": "https://leetcode.com/problems/sentence-similarity/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Largest Unique Number",
-        "leetcodeUrl": "https://leetcode.com/problems/largest-unique-number/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Palindrome Permutation",
-        "leetcodeUrl": "https://leetcode.com/problems/palindrome-permutation/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy"
       },
@@ -1480,15 +1544,6 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Analyze User Website Visit Pattern",
-        "leetcodeUrl": "https://leetcode.com/problems/analyze-user-website-visit-pattern/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Brick Wall",
         "leetcodeUrl": "https://leetcode.com/problems/brick-wall/",
         "leetcodeId": "",
@@ -1557,26 +1612,6 @@
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Shortest Word Distance II",
-        "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Dot Product of Two Sparse Vectors",
-        "leetcodeUrl": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium"
       },
@@ -1690,15 +1725,6 @@
       {
         "name": "Total Appeal of a String",
         "leetcodeUrl": "https://leetcode.com/problems/total-appeal-of-a-string/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Find Longest Self-Contained Substring",
-        "leetcodeUrl": "https://leetcode.com/problems/find-longest-self-contained-substring/",
         "leetcodeId": "",
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -1893,160 +1919,47 @@
         "isBigTechDsa": true
       }
     ],
-    "Strings": [
+    "Sorting & Intervals": [
       {
-        "name": "Zigzag Conversion",
-        "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion",
+        "name": "Count Pairs in Two Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/count-pairs-in-two-arrays/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium"
       },
       {
-        "name": "Determine if Two Strings Are Close",
-        "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+        "name": "Divide Array Into Increasing Sequences",
+        "leetcodeUrl": "https://leetcode.com/problems/divide-array-into-increasing-sequences/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Add Bold Tag in String",
-        "leetcodeUrl": "https://leetcode.com/problems/add-bold-tag-in-string",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Guess the Word",
-        "leetcodeUrl": "https://leetcode.com/problems/guess-the-word",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard"
-      }
-    ],
-    "Prefix Sum": [
+      },
       {
-        "name": "Running Sum of 1d Array",
-        "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array",
+        "name": "Two Sum Less Than K",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-less-than-k/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy"
       },
       {
-        "name": "Range Sum Query - Immutable",
-        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable",
+        "name": "Wiggle Sort",
+        "leetcodeUrl": "https://leetcode.com/problems/wiggle-sort/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Find Pivot Index",
-        "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Maximum Population Year",
-        "leetcodeUrl": "https://leetcode.com/problems/maximum-population-year",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Range Addition",
-        "leetcodeUrl": "https://leetcode.com/problems/range-addition",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Subarray Sums Divisible by K",
-        "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       },
-      {
-        "name": "Continuous Subarray Sum",
-        "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Contiguous Array",
-        "leetcodeUrl": "https://leetcode.com/problems/contiguous-array",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Range Sum Query 2D - Immutable",
-        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Increment Submatrices by One",
-        "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Matrix Block Sum",
-        "leetcodeUrl": "https://leetcode.com/problems/matrix-block-sum",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      }
-    ],
-    "Sorting & Intervals": [
       {
         "name": "Top K Frequent Words",
         "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words",
@@ -2122,15 +2035,6 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Wiggle Sort",
-        "leetcodeUrl": "https://leetcode.com/problems/wiggle-sort/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       },
@@ -2286,25 +2190,6 @@
         "difficulty": "Hard"
       },
       {
-        "name": "Two Sum Less Than K",
-        "leetcodeUrl": "https://leetcode.com/problems/two-sum-less-than-k/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Count Pairs in Two Arrays",
-        "leetcodeUrl": "https://leetcode.com/problems/count-pairs-in-two-arrays/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "H-Index",
         "leetcodeUrl": "https://leetcode.com/problems/h-index/",
         "leetcodeId": "",
@@ -2312,21 +2197,22 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium"
-      },
-      {
-        "name": "Divide Array Into Increasing Sequences",
-        "leetcodeUrl": "https://leetcode.com/problems/divide-array-into-increasing-sequences/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
       }
     ],
-    "Design / Encodings": [
+    "Hash Set: Lookups/Uniqueness": [
       {
-        "name": "Design Compressed String Iterator",
-        "leetcodeUrl": "https://leetcode.com/problems/design-compressed-string-iterator/",
+        "name": "Counting Elements",
+        "leetcodeUrl": "https://leetcode.com/problems/counting-elements/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Path Crossing",
+        "leetcodeUrl": "https://leetcode.com/problems/path-crossing/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -2334,8 +2220,17 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Design Tic-Tac-Toe",
-        "leetcodeUrl": "https://leetcode.com/problems/design-tic-tac-toe/",
+        "name": "Unique Length 3 Palindromic Subsequences",
+        "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Repeated DNA Sequences",
+        "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC",
@@ -2344,8 +2239,8 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Design Snake Game",
-        "leetcodeUrl": "https://leetcode.com/problems/design-snake-game/",
+        "name": "Check if a String Contains all Binary Codes of Size K",
+        "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -2353,10 +2248,106 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Design A Leaderboard",
+        "name": "Optimal Partition of String",
+        "leetcodeUrl": "https://leetcode.com/problems/optimal-partition-of-string/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Naming a Company",
+        "leetcodeUrl": "https://leetcode.com/problems/naming-a-company/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Longest Consecutive Sequence in an Array",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.algoexpert.io/questions",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Maximum Number of Integers to Choose from a Range I",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/",
+        "leetcodeId": "",
+        "sources": [
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      }
+    ],
+    "Design / Encodings": [
+      {
+        "name": "Design a Leaderboard",
         "leetcodeUrl": "https://leetcode.com/problems/design-a-leaderboard/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Design Compressed String Iterator",
+        "leetcodeUrl": "https://leetcode.com/problems/design-compressed-string-iterator/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Design Snake Game",
+        "leetcodeUrl": "https://leetcode.com/problems/design-snake-game/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Design Tic-Tac-Toe",
+        "leetcodeUrl": "https://leetcode.com/problems/design-tic-tac-toe/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Shortest Word Distance",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Zigzag Iterator",
+        "leetcodeUrl": "https://leetcode.com/problems/zigzag-iterator/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
@@ -2399,24 +2390,6 @@
         "difficulty": "Hard"
       },
       {
-        "name": "Zigzag Iterator",
-        "leetcodeUrl": "https://leetcode.com/problems/zigzag-iterator/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Shortest Word Distance",
-        "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
         "name": "Apply Substitutions",
         "leetcodeUrl": "https://leetcode.com/problems/apply-substitutions/",
         "leetcodeId": "",
@@ -2424,6 +2397,160 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
+      }
+    ],
+    "Prefix Sum": [
+      {
+        "name": "Range Addition",
+        "leetcodeUrl": "https://leetcode.com/problems/range-addition/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Running Sum of 1d Array",
+        "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Range Sum Query - Immutable",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Find Pivot Index",
+        "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Maximum Population Year",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-population-year",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Subarray Sums Divisible by K",
+        "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Continuous Subarray Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Contiguous Array",
+        "leetcodeUrl": "https://leetcode.com/problems/contiguous-array",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Range Sum Query 2D - Immutable",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Increment Submatrices by One",
+        "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Matrix Block Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/matrix-block-sum",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      }
+    ],
+    "Strings": [
+      {
+        "name": "Zigzag Conversion",
+        "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Determine if Two Strings Are Close",
+        "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Add Bold Tag in String",
+        "leetcodeUrl": "https://leetcode.com/problems/add-bold-tag-in-string",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Guess the Word",
+        "leetcodeUrl": "https://leetcode.com/problems/guess-the-word",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Hard"
       }
     ],
     "Cyclic Sort": [
@@ -2670,95 +2797,6 @@
         "isBigTechDsa": true
       }
     ],
-    "Hash Set: Lookups/Uniqueness": [
-      {
-        "name": "Counting Elements",
-        "leetcodeUrl": "https://leetcode.com/problems/counting-elements/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Path Crossing",
-        "leetcodeUrl": "https://leetcode.com/problems/path-crossing/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Unique Length 3 Palindromic Subsequences",
-        "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Repeated DNA Sequences",
-        "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Check if a String Contains all Binary Codes of Size K",
-        "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Optimal Partition of String",
-        "leetcodeUrl": "https://leetcode.com/problems/optimal-partition-of-string/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Naming a Company",
-        "leetcodeUrl": "https://leetcode.com/problems/naming-a-company/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Longest Consecutive Sequence in an Array",
-        "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
-        "leetcodeId": "",
-        "sources": [
-          "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://www.algoexpert.io/questions",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Maximum Number of Integers to Choose from a Range I",
-        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      }
-    ],
     "Task Scheduling (Frequency Based)": [
       {
         "name": "Minimum Deletions to Make Character Frequencies Unique",
@@ -2893,9 +2931,31 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Sort Transformed Array",
+        "leetcodeUrl": "https://leetcode.com/problems/sort-transformed-array/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
+      },
+      {
+        "name": "Strobogrammatic Number",
+        "leetcodeUrl": "https://leetcode.com/problems/strobogrammatic-number/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
       },
       {
         "name": "Merge Two 2D Arrays by Summing Values",
@@ -2914,16 +2974,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
-      },
-      {
-        "name": "Strobogrammatic Number",
-        "leetcodeUrl": "https://leetcode.com/problems/strobogrammatic-number/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy"
       },
       {
         "name": "Divide Players Into Teams of Equal Skill",
@@ -2946,15 +2996,6 @@
       {
         "name": "Minimum Length of String after Deleting Similar Ends",
         "leetcodeUrl": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Sort Transformed Array",
-        "leetcodeUrl": "https://leetcode.com/problems/sort-transformed-array/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -3004,6 +3045,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
@@ -3026,17 +3068,18 @@
         "isBigTechDsa": true
       },
       {
-        "name": "Circular Array Loop",
-        "leetcodeUrl": "https://leetcode.com/problems/circular-array-loop/",
+        "name": "Split a Circular Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/split-a-circular-linked-list/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium"
       },
       {
-        "name": "Split a Circular Linked List",
-        "leetcodeUrl": "https://leetcode.com/problems/split-a-circular-linked-list/",
+        "name": "Circular Array Loop",
+        "leetcodeUrl": "https://leetcode.com/problems/circular-array-loop/",
         "leetcodeId": "",
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -3200,6 +3243,39 @@
         "difficulty": "Medium"
       },
       {
+        "name": "Find the Lexicographically Largest String From the Box II",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Product of Two Run-Length Encoded Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Valid Word Abbreviation",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-word-abbreviation/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
         "name": "Merge Strings Alternately",
         "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately",
         "leetcodeId": "",
@@ -3208,18 +3284,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Easy"
-      },
-      {
-        "name": "Valid Word Abbreviation",
-        "leetcodeUrl": "https://leetcode.com/problems/valid-word-abbreviation",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy",
-        "isBigTechDsa": true
       },
       {
         "name": "Count Subarrays With Fixed Bounds",
@@ -3304,24 +3368,6 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Product of Two Run Length Encoded Arrays",
-        "leetcodeUrl": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Find the Lexicographically Largest String From Box II",
-        "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
         "name": "Get the Maximum Score",
         "leetcodeUrl": "https://leetcode.com/problems/get-the-maximum-score/",
         "leetcodeId": "",
@@ -3387,6 +3433,16 @@
         "isBigTechDsa": true
       },
       {
+        "name": "Next Palindrome Using Same Digits",
+        "leetcodeUrl": "https://leetcode.com/problems/next-palindrome-using-same-digits/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
         "name": "Find First Palindromic String in the Array",
         "leetcodeUrl": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/",
         "leetcodeId": "",
@@ -3394,15 +3450,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Easy"
-      },
-      {
-        "name": "Next Palindrome Using Same Digits",
-        "leetcodeUrl": "https://leetcode.com/problems/next-palindrome-using-same-digits/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
       }
     ],
     "String Reversal": [
@@ -3481,6 +3528,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -3527,6 +3575,26 @@
           "https://thita.ai/dsa-patterns-sheet"
         ],
         "difficulty": "Easy"
+      },
+      {
+        "name": "Diet Plan Performance",
+        "leetcodeUrl": "https://leetcode.com/problems/diet-plan-performance/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Find K-Length Substrings With No Repeated Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Maximum Number of Vowels in a Substring of Given Length",
@@ -3597,15 +3665,6 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Find K-Length Substrings With No Repeated Characters",
-        "leetcodeUrl": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Alternating Groups II",
         "leetcodeUrl": "https://leetcode.com/problems/alternating-groups-ii/",
         "leetcodeId": "",
@@ -3629,15 +3688,6 @@
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Diet Plan Performance",
-        "leetcodeUrl": "https://leetcode.com/problems/diet-plan-performance/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy"
       }
@@ -3875,15 +3925,36 @@
         "difficulty": "Hard"
       },
       {
-        "name": "Longest Substring with At Most Two Distinct Characters",
-        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+        "name": "Count Substrings With K-Frequency Characters II",
+        "leetcodeUrl": "https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Longest Substring with At Most Two Distinct Characters",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium",
         "isBigTechDsa": true
+      },
+      {
+        "name": "Max Consecutive Ones II",
+        "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Longest Substring with At Least K Repeating Characters",
@@ -3955,15 +4026,6 @@
         "isBigTechDsa": true
       },
       {
-        "name": "Max Consecutive Ones II",
-        "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Get Equal Substrings Within Budget",
         "leetcodeUrl": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
         "leetcodeId": "",
@@ -4011,15 +4073,6 @@
       {
         "name": "Count Subarrays With Score Less Than K",
         "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Count Substrings With K-Frequency Characters II",
-        "leetcodeUrl": "https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/",
         "leetcodeId": "",
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -4369,6 +4422,26 @@
         "difficulty": "Medium"
       },
       {
+        "name": "Find Permutation",
+        "leetcodeUrl": "https://leetcode.com/problems/find-permutation/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Number of Valid Subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-valid-subarrays/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
         "name": "132 Pattern",
         "leetcodeUrl": "https://leetcode.com/problems/132-pattern",
         "leetcodeId": "",
@@ -4455,24 +4528,6 @@
         "isBigTechDsa": true
       },
       {
-        "name": "Find Permutation",
-        "leetcodeUrl": "https://leetcode.com/problems/find-permutation/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Number of Valid Subarrays",
-        "leetcodeUrl": "https://leetcode.com/problems/number-of-valid-subarrays/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
         "name": "Next Greater Element IV",
         "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-iv/",
         "leetcodeId": "",
@@ -4527,9 +4582,21 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Ternary Expression Parser",
+        "leetcodeUrl": "https://leetcode.com/problems/ternary-expression-parser/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Remove All Adjacent Duplicates In String II",
@@ -4591,15 +4658,6 @@
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Ternary Expression Parser",
-        "leetcodeUrl": "https://leetcode.com/problems/ternary-expression-parser/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       },
@@ -4740,6 +4798,44 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard",
+        "isBigTechDsa": true
+      }
+    ],
+    "General Greedy": [
+      {
+        "name": "Buildings With an Ocean View",
+        "leetcodeUrl": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Max Chunks To Make Sorted",
+        "leetcodeUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      }
+    ],
+    "Design / Encodings": [
+      {
+        "name": "First Unique Number",
+        "leetcodeUrl": "https://leetcode.com/problems/first-unique-number/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
         "isBigTechDsa": true
       }
     ],
@@ -4921,31 +5017,7 @@
         "leetcodeUrl": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
         "leetcodeId": "",
         "sources": [
-          "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      }
-    ],
-    "General Greedy": [
-      {
-        "name": "Buildings With an Ocean View",
-        "leetcodeUrl": "https://leetcode.com/problems/buildings-with-an-ocean-view",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Max Chunks To Make Sorted",
-        "leetcodeUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
+          "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
         "difficulty": "Medium"
       }
@@ -4960,18 +5032,6 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard"
-      }
-    ],
-    "Design / Encodings": [
-      {
-        "name": "First Unique Number",
-        "leetcodeUrl": "https://leetcode.com/problems/first-unique-number",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
       }
     ],
     "Number Theory / Math": [
@@ -5092,46 +5152,11 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Arranging Coins",
-        "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+        "name": "Binary Searchable Numbers in an Unsorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/",
         "leetcodeId": "",
         "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Missing Number In Arithmetic Progression",
-        "leetcodeUrl": "https://leetcode.com/problems/missing-number-in-arithmetic-progression/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Check If a Number Is Majority Element in a Sorted Array",
-        "leetcodeUrl": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Missing Element in Sorted Array",
-        "leetcodeUrl": "https://leetcode.com/problems/missing-element-in-sorted-array/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Find the Index of the Large Integer",
-        "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-large-integer/",
-        "leetcodeId": "",
-        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
@@ -5141,19 +5166,70 @@
         "leetcodeUrl": "https://leetcode.com/problems/divide-chocolate/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Find the Index of the Large Integer",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-large-integer/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Maximum Average Subarray II",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-ii/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard"
+      },
+      {
+        "name": "Missing Element in Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-element-in-sorted-array/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Missing Number In Arithmetic Progression",
+        "leetcodeUrl": "https://leetcode.com/problems/missing-number-in-arithmetic-progression/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Arranging Coins",
+        "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Check If a Number Is Majority Element in a Sorted Array",
+        "leetcodeUrl": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
       },
       {
         "name": "Successful Pairs of Spells and Potions",
@@ -5212,15 +5288,6 @@
       {
         "name": "Count the Number of Fair Pairs",
         "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-fair-pairs/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Binary Searchable Numbers in an Unsorted Array",
-        "leetcodeUrl": "https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -5375,8 +5442,7 @@
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
           "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://www.educative.io/courses/grokking-coding-interview",
-          "https://neetcode.io/practice/practice/allNC"
+          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard",
         "isBigTechDsa": true
@@ -5765,6 +5831,7 @@
         "leetcodeUrl": "https://leetcode.com/problems/print-immutable-linked-list-in-reverse/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
@@ -5797,6 +5864,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
@@ -6057,52 +6125,35 @@
         "difficulty": "Easy"
       }
     ],
-    "Linked List": [
+    "General Linked List": [
       {
-        "name": "Add Two Numbers II",
-        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii",
+        "name": "Delete N Nodes After M Nodes of a Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Insert into a Sorted Circular Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium",
         "isBigTechDsa": true
       },
       {
-        "name": "Flatten a Multilevel Doubly Linked List",
-        "leetcodeUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Merge In Between Linked Lists",
-        "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      }
-    ],
-    "General Linked List": [
-      {
         "name": "Remove Linked List Elements",
         "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Delete N Nodes After M Nodes of a Linked List",
-        "leetcodeUrl": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC",
@@ -6185,24 +6236,44 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Insert into a Sorted Circular Linked List",
-        "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
         "name": "Remove Duplicates From an Unsorted Linked List",
         "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list",
         "difficulty": "Medium",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ]
+      }
+    ],
+    "Linked List": [
+      {
+        "name": "Add Two Numbers II",
+        "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Flatten a Multilevel Doubly Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Merge In Between Linked Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       }
     ],
     "Fast & Slow (Cycle Detection)": [
@@ -6294,6 +6365,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://neetcode.io/practice/practice/allNC",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium",
@@ -6309,20 +6381,11 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Average of Levels in Binary Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy"
-      },
-      {
         "name": "Binary Tree Vertical Order Traversal",
-        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
@@ -6331,9 +6394,10 @@
       },
       {
         "name": "Populating Next Right Pointers in Each Node",
-        "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+        "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
@@ -6341,6 +6405,16 @@
         ],
         "difficulty": "Medium",
         "isBigTechDsa": true
+      },
+      {
+        "name": "Average of Levels in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy"
       },
       {
         "name": "Populating Next Right Pointers in Each Node II",
@@ -6579,6 +6653,16 @@
         "difficulty": "Medium"
       },
       {
+        "name": "Find Root of N-Ary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/find-root-of-n-ary-tree/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
         "name": "Sum of Left Leaves",
         "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves",
         "leetcodeId": "",
@@ -6696,15 +6780,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Easy"
-      },
-      {
-        "name": "Find Root of N-Ary Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/find-root-of-n-ary-tree/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Nested List Weight Sum II",
@@ -6935,6 +7010,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium",
@@ -7059,10 +7135,21 @@
         "isBigTechDsa": true
       },
       {
+        "name": "Closest Node to Path In Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/closest-node-to-path-in-tree/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
         "name": "Lowest Common Ancestor of a Binary Tree III",
         "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
@@ -7079,15 +7166,6 @@
         ],
         "difficulty": "Medium",
         "isBigTechDsa": true
-      },
-      {
-        "name": "Closest Node to Path in Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/closest-node-to-path-in-tree/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
       }
     ],
     "Serialization & Deserialization": [
@@ -7247,9 +7325,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Hard"
+        "difficulty": "Hard",
+        "isBigTechDsa": true
       },
       {
         "name": "Design Search Autocomplete System",
@@ -7271,6 +7351,16 @@
           "https://thita.ai/dsa-patterns-sheet"
         ],
         "difficulty": "Hard"
+      },
+      {
+        "name": "Index Pairs of a String",
+        "leetcodeUrl": "https://leetcode.com/problems/index-pairs-of-a-string/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy"
       },
       {
         "name": "Search Suggestions System",
@@ -7416,15 +7506,6 @@
         "difficulty": "Hard"
       },
       {
-        "name": "Index Pairs of a String",
-        "leetcodeUrl": "https://leetcode.com/problems/index-pairs-of-a-string/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy"
-      },
-      {
         "name": "Longest Common Suffix Queries",
         "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
         "leetcodeId": "",
@@ -7522,18 +7603,132 @@
         "difficulty": "Medium"
       }
     ],
+    "Path Problems": [
+      {
+        "name": "Binary Tree Longest Consecutive Sequence II",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Path Sum",
+        "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Path Sum III",
+        "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Sum Root to Leaf Numbers",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Binary Tree Longest Consecutive Sequence",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      }
+    ],
     "BST Properties": [
       {
         "name": "Closest Binary Search Tree Value",
-        "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value",
+        "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Easy",
         "isBigTechDsa": true
+      },
+      {
+        "name": "Closest Binary Search Tree Value II",
+        "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "leetcodeUrl": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Inorder Successor in BST II",
+        "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Largest BST Subtree",
+        "leetcodeUrl": "https://leetcode.com/problems/largest-bst-subtree/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Two Sum BSTs",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-bsts/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Verify Preorder Sequence in Binary Search Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Range Sum of BST",
@@ -7546,38 +7741,8 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Inorder Successor in BST II",
-        "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst-ii",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Trim a Binary Search Tree",
         "leetcodeUrl": "https://leetcode.com/problems/trim-a-binary-search-tree",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Largest BST Subtree",
-        "leetcodeUrl": "https://leetcode.com/problems/largest-bst-subtree",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Convert Binary Search Tree to Sorted Doubly Linked List",
-        "leetcodeUrl": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
         "leetcodeId": "",
         "sources": [
           "https://algomaster.io/practice/dsa-patterns",
@@ -7613,33 +7778,6 @@
           "https://algomaster.io/practice/dsa-patterns"
         ],
         "difficulty": "Medium"
-      },
-      {
-        "name": "Verify Preorder Sequence in Binary Search Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Two Sum BSTs",
-        "leetcodeUrl": "https://leetcode.com/problems/two-sum-bsts/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Closest Binary Search Tree Value II",
-        "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
       },
       {
         "name": "Convert Bst to Greater Tree",
@@ -7770,7 +7908,110 @@
         "difficulty": "Hard"
       }
     ],
+    "Properties & Structural DP": [
+      {
+        "name": "Count Univalue Subtrees",
+        "leetcodeUrl": "https://leetcode.com/problems/count-univalue-subtrees/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Diameter of N-ary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/diameter-of-n-ary-tree/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Maximum Average Subtree",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subtree/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Tree Diameter",
+        "leetcodeUrl": "https://leetcode.com/problems/tree-diameter/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Children Sum Property in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/children-sum-property/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Count total nodes in a complete BT",
+        "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Distribute Coins in Binary Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/distribute-coins-in-binary-tree",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "All Possible Full Binary Trees",
+        "leetcodeUrl": "https://leetcode.com/problems/all-possible-full-binary-trees/",
+        "leetcodeId": "",
+        "sources": [
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Sum of Distances in a Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances-in-a-tree/",
+        "leetcodeId": "",
+        "sources": [
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      }
+    ],
     "Binary Indexed Tree / Segment Tree": [
+      {
+        "name": "Range Sum Query 2D - Mutable",
+        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-mutable/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard",
+        "isBigTechDsa": true
+      },
       {
         "name": "Range Sum Query - Mutable",
         "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-mutable",
@@ -7779,16 +8020,6 @@
           "https://algomaster.io/practice/dsa-patterns"
         ],
         "difficulty": "Medium"
-      },
-      {
-        "name": "Range Sum Query 2D - Mutable",
-        "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-mutable",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
       },
       {
         "name": "Falling Squares",
@@ -7845,140 +8076,6 @@
           "https://www.algoexpert.io/questions"
         ],
         "difficulty": "Easy"
-      }
-    ],
-    "Properties & Structural DP": [
-      {
-        "name": "Count Univalue Subtrees",
-        "leetcodeUrl": "https://leetcode.com/problems/count-univalue-subtrees/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Maximum Average Subtree",
-        "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subtree/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Diameter of N-Ary Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/diameter-of-n-ary-tree/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Tree Diameter",
-        "leetcodeUrl": "https://leetcode.com/problems/tree-diameter/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Children Sum Property in Binary Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/children-sum-property/",
-        "leetcodeId": "",
-        "sources": [
-          "https://takeuforward.org/strivers-a2z-dsa-course"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Count total nodes in a complete BT",
-        "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
-        "leetcodeId": "",
-        "sources": [
-          "https://takeuforward.org/strivers-a2z-dsa-course",
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Distribute Coins in Binary Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/distribute-coins-in-binary-tree",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "All Possible Full Binary Trees",
-        "leetcodeUrl": "https://leetcode.com/problems/all-possible-full-binary-trees/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Sum of Distances in a Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances-in-a-tree/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      }
-    ],
-    "Path Problems": [
-      {
-        "name": "Path Sum",
-        "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Path Sum III",
-        "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Sum Root to Leaf Numbers",
-        "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Binary Tree Longest Consecutive Sequence",
-        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Binary Tree Longest Consecutive Sequence II",
-        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
       }
     ],
     "Hash Map: Frequency/Counters": [
@@ -8132,6 +8229,18 @@
         "difficulty": "Easy"
       },
       {
+        "name": "High Five",
+        "leetcodeUrl": "https://leetcode.com/problems/high-five/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
         "name": "Design Twitter",
         "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
         "leetcodeId": "",
@@ -8142,16 +8251,6 @@
         ],
         "difficulty": "Medium",
         "isBigTechDsa": true
-      },
-      {
-        "name": "High Five",
-        "leetcodeUrl": "https://leetcode.com/problems/high-five/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy"
       },
       {
         "name": "Least Number of Unique Integers after K Removal",
@@ -8308,6 +8407,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
@@ -8402,6 +8502,26 @@
         "isBigTechDsa": true
       },
       {
+        "name": "Campus Bikes",
+        "leetcodeUrl": "https://leetcode.com/problems/campus-bikes/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Rearrange String k Distance Apart",
+        "leetcodeUrl": "https://leetcode.com/problems/rearrange-string-k-distance-apart/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
+      },
+      {
         "name": "Replace Elements by Their Rank",
         "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
         "leetcodeId": "",
@@ -8458,24 +8578,6 @@
         "isBigTechDsa": true
       },
       {
-        "name": "Campus Bikes",
-        "leetcodeUrl": "https://leetcode.com/problems/campus-bikes/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Rearrange String k Distance Apart",
-        "leetcodeUrl": "https://leetcode.com/problems/rearrange-string-k-distance-apart/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
-      },
-      {
         "name": "Maximum Subsequence Score",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-subsequence-score/",
         "leetcodeId": "",
@@ -8504,44 +8606,17 @@
         "difficulty": "Medium"
       }
     ],
-    "Heaps": [
-      {
-        "name": "Process Tasks Using Servers",
-        "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      }
-    ],
-    "Two Heaps": [
-      {
-        "name": "IPO",
-        "leetcodeUrl": "https://leetcode.com/problems/ipo",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Sliding Window Median",
-        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-median",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
-      }
-    ],
     "General Priority Queue": [
+      {
+        "name": "K Empty Slots",
+        "leetcodeUrl": "https://leetcode.com/problems/k-empty-slots/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
       {
         "name": "Heaps (Theory Video)",
         "leetcodeUrl": "",
@@ -8653,15 +8728,6 @@
         "difficulty": "Hard"
       },
       {
-        "name": "K Empty Slots",
-        "leetcodeUrl": "https://leetcode.com/problems/k-empty-slots/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
         "name": "Maximum Product After K Increments",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-product-after-k-increments/",
         "leetcodeId": "",
@@ -8669,6 +8735,43 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium"
+      }
+    ],
+    "Heaps": [
+      {
+        "name": "Process Tasks Using Servers",
+        "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      }
+    ],
+    "Two Heaps": [
+      {
+        "name": "IPO",
+        "leetcodeUrl": "https://leetcode.com/problems/ipo",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Sliding Window Median",
+        "leetcodeUrl": "https://leetcode.com/problems/sliding-window-median",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard",
+        "isBigTechDsa": true
       }
     ]
   },
@@ -8814,16 +8917,67 @@
         "isBigTechDsa": true
       },
       {
-        "name": "Number of Distinct Islands",
-        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands",
+        "name": "Number of distinct islands",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium",
         "isBigTechDsa": true
+      },
+      {
+        "name": "Kill Process",
+        "leetcodeUrl": "https://leetcode.com/problems/kill-process/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Number of Distinct Islands II",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Paths in Maze That Lead to Same Room",
+        "leetcodeUrl": "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "The Maze",
+        "leetcodeUrl": "https://leetcode.com/problems/the-maze/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Web Crawler",
+        "leetcodeUrl": "https://leetcode.com/problems/web-crawler/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Time Needed to Inform All Employees",
@@ -8920,15 +9074,6 @@
         "difficulty": "Hard"
       },
       {
-        "name": "Number of Distinct Islands II",
-        "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands-ii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
-      },
-      {
         "name": "Number of Good Paths",
         "leetcodeUrl": "https://leetcode.com/problems/number-of-good-paths/",
         "leetcodeId": "",
@@ -9001,33 +9146,6 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Kill Process",
-        "leetcodeUrl": "https://leetcode.com/problems/kill-process/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Web Crawler",
-        "leetcodeUrl": "https://leetcode.com/problems/web-crawler/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "The Maze",
-        "leetcodeUrl": "https://leetcode.com/problems/the-maze/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Nested List Weight Sum",
         "leetcodeUrl": "https://leetcode.com/problems/nested-list-weight-sum/",
         "leetcodeId": "",
@@ -9044,15 +9162,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard"
-      },
-      {
-        "name": "Paths in Maze That Lead to Same Room",
-        "leetcodeUrl": "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Find if Path Exists in Graph",
@@ -9107,6 +9216,50 @@
         "isBigTechDsa": true
       },
       {
+        "name": "Minimum Knight Moves",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-knight-moves/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Path With Maximum Minimum Value",
+        "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-minimum-value/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Shortest Distance from All Buildings",
+        "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-from-all-buildings/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Walls and Gates",
+        "leetcodeUrl": "https://leetcode.com/problems/walls-and-gates/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
         "name": "Open the Lock",
         "leetcodeUrl": "https://leetcode.com/problems/open-the-lock",
         "leetcodeId": "",
@@ -9135,37 +9288,6 @@
         "leetcodeId": "",
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Walls and Gates",
-        "leetcodeUrl": "https://leetcode.com/problems/walls-and-gates",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Minimum Knight Moves",
-        "leetcodeUrl": "https://leetcode.com/problems/minimum-knight-moves",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Path With Maximum Minimum Value",
-        "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-minimum-value",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       },
@@ -9220,15 +9342,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
-      },
-      {
-        "name": "Shortest Distance from All Buildings",
-        "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-from-all-buildings/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
       },
       {
         "name": "Sliding Puzzle",
@@ -9326,9 +9439,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Longest Cycle in a Graph",
@@ -9374,7 +9489,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
-          "https://neetcode.io/practice/practice/allNC"
+          "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
         "difficulty": "Medium"
       },
@@ -9384,6 +9499,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -9531,6 +9647,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -9569,9 +9686,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       }
     ],
     "Shortest Path (Dijkstra's Algorithm)": [
@@ -9697,13 +9816,25 @@
       },
       {
         "name": "The Maze II",
-        "leetcodeUrl": "https://leetcode.com/problems/the-maze-ii",
+        "leetcodeUrl": "https://leetcode.com/problems/the-maze-ii/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "The Maze III",
+        "leetcodeUrl": "https://leetcode.com/problems/the-maze-iii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
       },
       {
         "name": "Minimum Cost to Convert String I",
@@ -9789,15 +9920,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
-      },
-      {
-        "name": "The Maze III",
-        "leetcodeUrl": "https://leetcode.com/problems/the-maze-iii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
       }
     ],
     "Shortest Path (Bellman-Ford / BFS+K)": [
@@ -9860,6 +9982,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -9887,6 +10010,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -9927,7 +10051,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
-          "https://neetcode.io/practice/practice/allNC"
+          "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
         "difficulty": "Medium"
       },
@@ -9971,9 +10095,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Evaluate Division",
@@ -10024,8 +10150,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Count the Number of Complete Components",
@@ -10101,8 +10226,7 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
@@ -10113,8 +10237,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       }
     ],
     "Minimum Spanning Tree (Kruskal / Prim)": [
@@ -10124,9 +10247,11 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns"
         ],
-        "difficulty": "Medium"
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       },
       {
         "name": "Min Cost to Connect All Points",
@@ -10147,6 +10272,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
@@ -10191,8 +10317,7 @@
           "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Bus Routes",
@@ -10228,103 +10353,17 @@
         "difficulty": "Hard"
       }
     ],
-    "Minimum Spanning Tree": [
+    "General Graph Traversal": [
       {
-        "name": "Maximize Spanning Tree Stability with Upgrades",
-        "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades",
+        "name": "Find the Celebrity",
+        "leetcodeUrl": "https://leetcode.com/problems/find-the-celebrity/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Hard"
-      }
-    ],
-    "Eulerian Path / Circuit": [
-      {
-        "name": "Reconstruct Itinerary",
-        "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Cracking the Safe",
-        "leetcodeUrl": "https://leetcode.com/problems/cracking-the-safe",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Valid Arrangement of Pairs",
-        "leetcodeUrl": "https://leetcode.com/problems/valid-arrangement-of-pairs",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Hard"
-      }
-    ],
-    "Line Sweep": [
-      {
-        "name": "Minimum Interval to Include Each Query",
-        "leetcodeUrl": "https://leetcode.com/problems/minimum-interval-to-include-each-query",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "The Skyline Problem",
-        "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Rectangle Area II",
-        "leetcodeUrl": "https://leetcode.com/problems/rectangle-area-ii",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Perfect Rectangle",
-        "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Hard"
-      }
-    ],
-    "Famous Algorithms": [
-      {
-        "name": "Number of Connected Components",
-        "leetcodeUrl": "https://leetcode.com/problems/number-of-connected-components/",
-        "leetcodeId": "323",
-        "sources": [
-          "https://www.algoexpert.io/questions"
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
-      }
-    ],
-    "General Graph Traversal": [
+      },
       {
         "name": "Find the Town Judge",
         "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
@@ -10334,15 +10373,6 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy"
-      },
-      {
-        "name": "Find the Celebrity",
-        "leetcodeUrl": "https://leetcode.com/problems/find-the-celebrity/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Introduction to Graph",
@@ -10388,6 +10418,100 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy"
+      }
+    ],
+    "Minimum Spanning Tree": [
+      {
+        "name": "Maximize Spanning Tree Stability with Upgrades",
+        "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Hard"
+      }
+    ],
+    "Eulerian Path / Circuit": [
+      {
+        "name": "Reconstruct Itinerary",
+        "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Cracking the Safe",
+        "leetcodeUrl": "https://leetcode.com/problems/cracking-the-safe",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Valid Arrangement of Pairs",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-arrangement-of-pairs",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Hard"
+      }
+    ],
+    "Line Sweep": [
+      {
+        "name": "Minimum Interval to Include Each Query",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-interval-to-include-each-query",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "The Skyline Problem",
+        "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Rectangle Area II",
+        "leetcodeUrl": "https://leetcode.com/problems/rectangle-area-ii",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Perfect Rectangle",
+        "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Hard"
+      }
+    ],
+    "Famous Algorithms": [
+      {
+        "name": "Number of Connected Components",
+        "leetcodeUrl": "https://leetcode.com/problems/number-of-connected-components/",
+        "leetcodeId": "323",
+        "sources": [
+          "https://www.algoexpert.io/questions"
+        ],
+        "difficulty": "Medium"
       }
     ],
     "Bipartite Graph": [
@@ -10482,6 +10606,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://www.educative.io/courses/grokking-coding-interview",
@@ -10534,8 +10659,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Ninja's training",
@@ -10549,6 +10673,58 @@
       {
         "name": "Ninja and his Friends",
         "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "4 Keys Keyboard",
+        "leetcodeUrl": "https://leetcode.com/problems/4-keys-keyboard/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Count Strictly Increasing Subarrays",
+        "leetcodeUrl": "https://leetcode.com/problems/count-strictly-increasing-subarrays/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Paint Fence",
+        "leetcodeUrl": "https://leetcode.com/problems/paint-fence/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Paint House",
+        "leetcodeUrl": "https://leetcode.com/problems/paint-house/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Paint House II",
+        "leetcodeUrl": "https://leetcode.com/problems/paint-house-ii/",
         "leetcodeId": "",
         "sources": [
           "https://takeuforward.org/strivers-a2z-dsa-course",
@@ -10605,17 +10781,6 @@
         "isBigTechDsa": true
       },
       {
-        "name": "Paint House",
-        "leetcodeUrl": "https://leetcode.com/problems/paint-house",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
         "name": "N-th Tribonacci Number",
         "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
         "leetcodeId": "",
@@ -10626,24 +10791,6 @@
         ],
         "difficulty": "Easy",
         "isBigTechDsa": true
-      },
-      {
-        "name": "Paint Fence",
-        "leetcodeUrl": "https://leetcode.com/problems/paint-fence/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "4 Keys Keyboard",
-        "leetcodeUrl": "https://leetcode.com/problems/4-keys-keyboard/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Filling Bookcase Shelves",
@@ -10684,15 +10831,6 @@
       {
         "name": "Knight Dialer",
         "leetcodeUrl": "https://leetcode.com/problems/knight-dialer/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Count Strictly Increasing Subarrays",
-        "leetcodeUrl": "https://leetcode.com/problems/count-strictly-increasing-subarrays/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -10774,15 +10912,6 @@
       {
         "name": "K Inverse Pairs Array",
         "leetcodeUrl": "https://leetcode.com/problems/k-inverse-pairs-array/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Paint House II",
-        "leetcodeUrl": "https://leetcode.com/problems/paint-house-ii/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -10942,6 +11071,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
@@ -11050,6 +11180,16 @@
         "difficulty": "Medium"
       },
       {
+        "name": "Count the Number of Good Subsequences",
+        "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-good-subsequences/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      },
+      {
         "name": "Last Stone Weight II",
         "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight-ii",
         "leetcodeId": "",
@@ -11110,15 +11250,6 @@
       {
         "name": "0/1 Knapsack",
         "leetcodeUrl": "https://leetcode.com/problems/0-1-knapsack/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Count the Number of Good Subsequences",
-        "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-good-subsequences/",
         "leetcodeId": "",
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -11246,8 +11377,27 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Sentence Screen Fitting",
+        "leetcodeUrl": "https://leetcode.com/problems/sentence-screen-fitting/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Valid Palindrome III",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-iii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
       },
       {
         "name": "Interleaving String",
@@ -11272,8 +11422,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Strange Printer",
@@ -11285,15 +11434,6 @@
         "difficulty": "Hard"
       },
       {
-        "name": "Valid Palindrome III",
-        "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-iii/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
-      },
-      {
         "name": "Stickers to Spell Word",
         "leetcodeUrl": "https://leetcode.com/problems/stickers-to-spell-word/",
         "leetcodeId": "",
@@ -11301,15 +11441,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard"
-      },
-      {
-        "name": "Sentence Screen Fitting",
-        "leetcodeUrl": "https://leetcode.com/problems/sentence-screen-fitting/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Number of Ways to Form a Target String Given a Dictionary",
@@ -11527,8 +11658,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Dungeon Game",
@@ -11630,8 +11760,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Different Ways to Evaluate a Boolean Expression",
@@ -11642,8 +11771,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Partition Array for Maximum Sum",
@@ -11654,6 +11782,16 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
+      },
+      {
+        "name": "Encode String With Shortest Length",
+        "leetcodeUrl": "https://leetcode.com/problems/encode-string-with-shortest-length/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
       },
       {
         "name": "Minimum Difficulty of a Job Schedule",
@@ -11677,15 +11815,6 @@
       {
         "name": "Maximize Score after N Operations",
         "leetcodeUrl": "https://leetcode.com/problems/maximize-score-after-n-operations/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Encode String with Shortest Length",
-        "leetcodeUrl": "https://leetcode.com/problems/encode-string-with-shortest-length/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -11778,6 +11907,7 @@
         "leetcodeUrl": "https://leetcode.com/problems/handshakes-that-dont-cross/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard"
@@ -11887,6 +12017,16 @@
         "isBigTechDsa": true
       },
       {
+        "name": "Maximum Sum Increasing Subsequence",
+        "leetcodeUrl": "https://leetcode.com/problems//",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-dynamic-programming-interview"
+        ],
+        "difficulty": "Medium"
+      },
+      {
         "name": "Longest Arithmetic Subsequence",
         "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence",
         "leetcodeId": "",
@@ -11960,15 +12100,6 @@
       },
       {
         "name": "Minimum Deletions to Make a Sequence Sorted",
-        "leetcodeUrl": "",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-dynamic-programming-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Maximum Sum Increasing Subsequence",
         "leetcodeUrl": "",
         "leetcodeId": "",
         "sources": [
@@ -12075,42 +12206,10 @@
       },
       {
         "name": "Maximum Profit in Job Scheduling",
-        "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
-      }
-    ],
-    "Tree / Graph DP": [
-      {
-        "name": "Binary Tree Cameras",
-        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Sum of Distances in Tree",
-        "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances-in-tree",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Hard"
-      },
-      {
-        "name": "Longest Increasing Path in a Matrix",
-        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
-        "leetcodeId": "",
-        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -12122,12 +12221,26 @@
     "Bitmask DP": [
       {
         "name": "Campus Bikes II",
-        "leetcodeUrl": "https://leetcode.com/problems/campus-bikes-ii",
+        "leetcodeUrl": "https://leetcode.com/problems/campus-bikes-ii/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns"
         ],
         "difficulty": "Medium"
+      },
+      {
+        "name": "Optimal Account Balancing",
+        "leetcodeUrl": "https://leetcode.com/problems/optimal-account-balancing/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard",
+        "isBigTechDsa": true
       },
       {
         "name": "Partition to K Equal Sum Subsets",
@@ -12166,18 +12279,38 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard"
+      }
+    ],
+    "Tree / Graph DP": [
+      {
+        "name": "Binary Tree Cameras",
+        "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard"
       },
       {
-        "name": "Optimal Account Balancing",
-        "leetcodeUrl": "https://leetcode.com/problems/optimal-account-balancing",
+        "name": "Sum of Distances in Tree",
+        "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances-in-tree",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Hard"
+      },
+      {
+        "name": "Longest Increasing Path in a Matrix",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
         "leetcodeId": "",
         "sources": [
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       }
     ],
     "Digit DP": [
@@ -12453,9 +12586,20 @@
         "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
         "leetcodeId": "",
         "sources": [
-          "https://thita.ai/dsa-patterns-sheet"
+          "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course"
         ],
         "difficulty": "Hard"
+      },
+      {
+        "name": "Strobogrammatic Number II",
+        "leetcodeUrl": "https://leetcode.com/problems/strobogrammatic-number-ii/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Letter Tile Possibilities",
@@ -12479,15 +12623,6 @@
       {
         "name": "Construct Smallest Number From DI String",
         "leetcodeUrl": "https://leetcode.com/problems/construct-smallest-number-from-di-string/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Strobogrammatic Number II",
-        "leetcodeUrl": "https://leetcode.com/problems/strobogrammatic-number-ii/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -12524,19 +12659,21 @@
         "isBigTechDsa": true
       },
       {
-        "name": "Factor Combinations",
-        "leetcodeUrl": "https://leetcode.com/problems/factor-combinations/",
+        "name": "Brace Expansion",
+        "leetcodeUrl": "https://leetcode.com/problems/brace-expansion/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       },
       {
-        "name": "Brace Expansion",
-        "leetcodeUrl": "https://leetcode.com/problems/brace-expansion/",
+        "name": "Factor Combinations",
+        "leetcodeUrl": "https://leetcode.com/problems/factor-combinations/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
@@ -12567,8 +12704,7 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       }
     ],
     "Word Search / Path Finding in Grid": [
@@ -12968,6 +13104,29 @@
         "difficulty": "Medium"
       },
       {
+        "name": "Meeting Rooms",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Remove Interval",
+        "leetcodeUrl": "https://leetcode.com/problems/remove-interval/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
         "name": "Summary Ranges",
         "leetcodeUrl": "https://leetcode.com/problems/summary-ranges",
         "leetcodeId": "",
@@ -12975,18 +13134,6 @@
           "https://algomaster.io/practice/dsa-patterns"
         ],
         "difficulty": "Easy"
-      },
-      {
-        "name": "Meeting Rooms",
-        "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy",
-        "isBigTechDsa": true
       },
       {
         "name": "Remove Covered Intervals",
@@ -13038,15 +13185,6 @@
         "leetcodeId": "",
         "sources": [
           "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Remove Interval",
-        "leetcodeUrl": "https://leetcode.com/problems/remove-interval/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
       },
@@ -13150,8 +13288,7 @@
           "https://www.educative.io/courses/grokking-coding-interview",
           "https://www.educative.io/courses/grokking-dynamic-programming-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       }
     ],
     "Gas Station Circuit": [
@@ -13286,6 +13423,16 @@
         "isBigTechDsa": true
       },
       {
+        "name": "Put Boxes into the Warehouse I",
+        "leetcodeUrl": "https://leetcode.com/problems/put-boxes-into-the-warehouse-i/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
         "name": "Fractional Knapsack",
         "leetcodeUrl": "https://leetcode.com/problems/fractional-knapsack/",
         "leetcodeId": "",
@@ -13394,15 +13541,6 @@
         "difficulty": "Easy"
       },
       {
-        "name": "Put Boxes Into the Warehouse I",
-        "leetcodeUrl": "https://leetcode.com/problems/put-boxes-into-the-warehouse-i/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
         "name": "Put Marbles in Bags",
         "leetcodeUrl": "https://leetcode.com/problems/put-marbles-in-bags/",
         "leetcodeId": "",
@@ -13437,6 +13575,20 @@
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
         ]
+      }
+    ],
+    "Converging (Sorted Array Target Sum)": [
+      {
+        "name": "Meeting Scheduler",
+        "leetcodeUrl": "https://leetcode.com/problems/meeting-scheduler/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
       }
     ],
     "Greedy": [
@@ -13782,18 +13934,6 @@
         "difficulty": "Hard"
       }
     ],
-    "Converging (Sorted Array Target Sum)": [
-      {
-        "name": "Meeting Scheduler",
-        "leetcodeUrl": "https://leetcode.com/problems/meeting-scheduler",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      }
-    ],
     "Scheduling / Minimum Cost (Greedy with PQ)": [
       {
         "name": "Car Pooling",
@@ -13831,6 +13971,7 @@
         "leetcodeId": "",
         "sources": [
           "https://thita.ai/dsa-patterns-sheet",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
@@ -13862,6 +14003,16 @@
         ],
         "difficulty": "Easy",
         "isBigTechDsa": true
+      },
+      {
+        "name": "IP to CIDR",
+        "leetcodeUrl": "https://leetcode.com/problems/ip-to-cidr/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
       },
       {
         "name": "Bitwise XOR of All Pairings",
@@ -13988,15 +14139,6 @@
       {
         "name": "Find the Longest Substring Containing Vowels in Even Counts",
         "leetcodeUrl": "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "IP to CIDR",
-        "leetcodeUrl": "https://leetcode.com/problems/ip-to-cidr/",
         "leetcodeId": "",
         "sources": [
           "https://neetcode.io/practice/practice/allNC"
@@ -14298,41 +14440,47 @@
     ]
   },
   "Math & Geometry": {
-    "Maths / Geometry": [
-      {
-        "name": "Ugly Number",
-        "leetcodeUrl": "https://leetcode.com/problems/ugly-number",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Ugly Number II",
-        "leetcodeUrl": "https://leetcode.com/problems/ugly-number-ii",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      },
-      {
-        "name": "Factorial Trailing Zeroes",
-        "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
-      }
-    ],
     "Number Theory / Math": [
+      {
+        "name": "Armstrong Number",
+        "leetcodeUrl": "https://leetcode.com/problems/armstrong-number/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Count Substrings with Only One Distinct Letter",
+        "leetcodeUrl": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy"
+      },
+      {
+        "name": "Guess the Majority in a Hidden Array",
+        "leetcodeUrl": "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Maximum Number of Ones",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-ones/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Hard"
+      },
       {
         "name": "Prime Subtraction Operation",
         "leetcodeUrl": "https://leetcode.com/problems/prime-subtraction-operation/",
@@ -14428,42 +14576,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Easy"
-      },
-      {
-        "name": "Armstrong Number",
-        "leetcodeUrl": "https://leetcode.com/problems/armstrong-number/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Count Substrings with Only One Distinct Letter",
-        "leetcodeUrl": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Easy"
-      },
-      {
-        "name": "Guess the Majority in a Hidden Array",
-        "leetcodeUrl": "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Maximum Number of Ones",
-        "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-ones/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Hard"
       },
       {
         "name": "Find the Punishment Number of an Integer",
@@ -14603,19 +14715,49 @@
         ]
       }
     ],
-    "Sorting & Intervals": [
+    "Coordinate Geometry": [
       {
-        "name": "Valid Triangle Number",
-        "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number",
+        "name": "Best Meeting Point",
+        "leetcodeUrl": "https://leetcode.com/problems/best-meeting-point/",
         "leetcodeId": "",
         "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Convex Polygon",
+        "leetcodeUrl": "https://leetcode.com/problems/convex-polygon/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Medium"
-      }
-    ],
-    "Coordinate Geometry": [
+      },
+      {
+        "name": "Line Reflection",
+        "leetcodeUrl": "https://leetcode.com/problems/line-reflection/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium"
+      },
+      {
+        "name": "Minimum Number of Lines to Cover Points",
+        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
+      },
       {
         "name": "Valid Square",
         "leetcodeUrl": "https://leetcode.com/problems/valid-square",
@@ -14656,7 +14798,8 @@
           "https://algomaster.io/practice/dsa-patterns",
           "https://www.algoexpert.io/questions",
           "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
+          "https://www.educative.io/courses/grokking-coding-interview",
+          "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Hard",
         "isBigTechDsa": true
@@ -14680,37 +14823,8 @@
         "difficulty": "Medium"
       },
       {
-        "name": "Line Reflection",
-        "leetcodeUrl": "https://leetcode.com/problems/line-reflection/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Best Meeting Point",
-        "leetcodeUrl": "https://leetcode.com/problems/best-meeting-point/",
-        "leetcodeId": "",
-        "sources": [
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
-      },
-      {
         "name": "Maximum Area Rectangle With Point Constraints I",
         "leetcodeUrl": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
-      },
-      {
-        "name": "Minimum Number of Lines to Cover Points",
-        "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/",
         "leetcodeId": "",
         "sources": [
           "https://www.educative.io/courses/grokking-coding-interview"
@@ -14725,15 +14839,6 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard"
-      },
-      {
-        "name": "Convex Polygon",
-        "leetcodeUrl": "https://leetcode.com/problems/convex-polygon/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Medium"
       },
       {
         "name": "Check If It Is a Straight Line",
@@ -14806,6 +14911,52 @@
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Hard"
+      }
+    ],
+    "Maths / Geometry": [
+      {
+        "name": "Ugly Number",
+        "leetcodeUrl": "https://leetcode.com/problems/ugly-number",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Easy",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Ugly Number II",
+        "leetcodeUrl": "https://leetcode.com/problems/ugly-number-ii",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Factorial Trailing Zeroes",
+        "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      }
+    ],
+    "Sorting & Intervals": [
+      {
+        "name": "Valid Triangle Number",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number",
+        "leetcodeId": "",
+        "sources": [
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Medium"
       }
     ],
     "Matrix / Simulation": [
@@ -14915,16 +15066,39 @@
   "Design": {
     "Design / Encodings": [
       {
-        "name": "Logger Rate Limiter",
-        "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter",
+        "name": "Design Hit Counter",
+        "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter/",
         "leetcodeId": "",
         "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC"
+        ],
+        "difficulty": "Medium",
+        "isBigTechDsa": true
+      },
+      {
+        "name": "Logger Rate Limiter",
+        "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
           "https://algomaster.io/practice/dsa-patterns",
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
         "difficulty": "Easy",
         "isBigTechDsa": true
+      },
+      {
+        "name": "Two Sum III – Data Structure Design",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum-iii-data-structure-design/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Easy"
       },
       {
         "name": "Design Circular Deque",
@@ -14934,17 +15108,6 @@
           "https://algomaster.io/practice/dsa-patterns"
         ],
         "difficulty": "Medium"
-      },
-      {
-        "name": "Design Hit Counter",
-        "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC"
-        ],
-        "difficulty": "Medium",
-        "isBigTechDsa": true
       },
       {
         "name": "Design Browser History",
@@ -15043,8 +15206,7 @@
           "https://neetcode.io/practice/practice/allNC",
           "https://www.educative.io/courses/grokking-coding-interview"
         ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
+        "difficulty": "Hard"
       },
       {
         "name": "Design a Text Editor",
@@ -15054,15 +15216,6 @@
           "https://algomaster.io/practice/dsa-patterns"
         ],
         "difficulty": "Hard"
-      },
-      {
-        "name": "Two Sum III - Data structure design",
-        "leetcodeUrl": "https://leetcode.com/problems/two-sum-iii-data-structure-design/",
-        "leetcodeId": "",
-        "sources": [
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Easy"
       },
       {
         "name": "Design Phone Directory",
@@ -15081,6 +15234,21 @@
         ]
       }
     ],
+    "Min Stack Design": [
+      {
+        "name": "Max Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/max-stack/",
+        "leetcodeId": "",
+        "sources": [
+          "https://takeuforward.org/strivers-a2z-dsa-course",
+          "https://algomaster.io/practice/dsa-patterns",
+          "https://neetcode.io/practice/practice/allNC",
+          "https://www.educative.io/courses/grokking-coding-interview"
+        ],
+        "difficulty": "Hard",
+        "isBigTechDsa": true
+      }
+    ],
     "Design / Specialized Lists": [
       {
         "name": "Design Circular Queue",
@@ -15091,20 +15259,6 @@
           "https://neetcode.io/practice/practice/allNC"
         ],
         "difficulty": "Medium"
-      }
-    ],
-    "Min Stack Design": [
-      {
-        "name": "Max Stack",
-        "leetcodeUrl": "https://leetcode.com/problems/max-stack",
-        "leetcodeId": "",
-        "sources": [
-          "https://algomaster.io/practice/dsa-patterns",
-          "https://neetcode.io/practice/practice/allNC",
-          "https://www.educative.io/courses/grokking-coding-interview"
-        ],
-        "difficulty": "Hard",
-        "isBigTechDsa": true
       }
     ]
   }

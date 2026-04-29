@@ -1,0 +1,3857 @@
+-
+takeUforward
+Bitwise OR of Adjacent Elements
+-	Easy	
+-
+takeUforward
+The Number of Ways to Make the Sum
+-	Medium	
+-
+Expression Add Operators
+-	Hard	
+-
+Word Break
+-	Medium	
+-
+takeUforward
+3Sum Smaller
+-	Medium	
+-
+takeUforward
+4 Keys Keyboard
+-	Medium	
+-
+Add Two Fractions
+-	Easy	
+-
+takeUforward
+Add Two Polynomials Represented as Linked Lists
+-	Easy	
+-
+takeUforward
+All Paths from Source Lead to Destination
+-	Medium	
+-
+takeUforward
+Alt and Tab Simulation
+-	Medium	
+-
+takeUforward
+Amount of New Area Painted Each Day
+-	Hard	
+-
+takeUforward
+Analyze User Website Visit Pattern
+-	Medium	
+-
+takeUforward
+Android Unlock Patterns
+-	Medium	
+-
+takeUforward
+Armstrong Number
+-	Easy	
+-
+takeUforward
+Array Transformation
+-	Easy	
+-
+Array Upper Bound
+-	Easy	
+-
+Maximum Consecutive Good Numbers
+-	Easy	
+-
+Number of Jumps
+-	Hard	
+-
+Set difference of two arrays
+-	Medium	
+-
+Count Inversions\
+-
+Find the repeating and missing number
+-	Hard	
+-
+Majority Element-I
+-	Easy	
+-
+Majority Element-II
+-	Hard	
+-
+Maximum Product Subarray in an Array
+-	Hard	
+-
+Merge two sorted arrays without extra space
+-	Medium	
+-
+Reverse Pairs
+-	Hard	
+-
+3 Sum
+-	Medium	
+-
+4 Sum
+-	Medium	
+-
+Kadane's Algorithm
+-	Medium	
+-
+Leaders in an Array
+-	Medium	
+-
+Next Permutation
+-	Medium	
+-
+Pascal's Triangle III
+-	Medium	
+-
+Print the matrix in spiral manner
+-	Medium	
+-
+Rearrange array elements by sign
+-	Medium	
+-
+Rotate matrix by 90 degrees
+-	Medium	
+-
+Sort an array of 0's 1's and 2's
+-	Medium	
+-
+Two Sum
+-	Easy	
+-
+Largest Element
+-	Easy	
+-
+Left Rotate Array by K Places
+-	Easy	
+-
+Left Rotate Array by One
+-
+Linear Search
+-	Easy	
+-
+Maximum Consecutive Ones
+-	Easy	
+-
+Second Largest Element
+-	Easy	
+-
+Find missing number
+-	Easy	
+-
+Intersection of two sorted arrays
+-	Easy	
+-
+Move Zeros to End
+-	Easy	
+-
+Remove duplicates from sorted array
+-	Easy	
+-
+Union of two sorted arrays
+-	Easy	
+-
+Automorphic Number
+-	Easy	
+-
+takeUforward
+Average Height of Buildings in Each Segment
+-	Medium	
+-
+Average of All Elements in an Array
+-	Easy	
+-
+takeUforward
+Basic Calculator III
+-	Hard	
+-
+takeUforward
+Beautiful Pairs
+-	Hard	
+-
+takeUforward
+Before and After Puzzle
+-	Medium	
+-
+takeUforward
+Best Meeting Point
+-	Hard	
+-
+Best Time to Buy and Sell Stock with Cooldown
+-	Medium	
+-
+takeUforward
+Better Compression of String
+-	Medium	
+-
+takeUforward
+Binary Search Tree Iterator II
+-	Medium	
+-
+takeUforward
+Binary Searchable Numbers in an Unsorted Array
+-	Medium	
+-
+takeUforward
+Binary Tree Longest Consecutive Sequence
+	
+takeUforward
+Binary Tree Longest Consecutive Sequence II
+-	Hard	
+-
+Binary Tree to Doubly Linked List
+-	Medium	
+-
+takeUforward
+Binary Tree Upside Down
+-	Medium	
+-
+takeUforward
+Binary Tree Vertical Order Traversal
+-	Medium	
+-
+Find Peak Element - II
+-	Medium	
+-
+Find row with maximum 1's
+-	Easy	
+-
+Matrix Median
+-	Hard	
+-
+Search in 2D matrix - II
+-	Hard	
+-
+Search in a 2D matrix
+-	Hard	
+-
+Cleaning Windows
+-	Medium	
+-
+Neighbours within k distance
+-	Hard	
+-
+Z-Score
+-	Easy	
+-
+Aggressive Cows
+-	Hard	
+-
+Book Allocation Problem
+-	Hard	
+-
+Find peak element
+-	Medium	
+-
+Kth element of 2 sorted arrays
+-	Medium	
+-
+Median of 2 sorted arrays
+-	Hard	
+-
+takeUforward
+Minimize Max Distance to Gas Station
+-	Hard	
+-
+Split array - largest sum
+-	Hard	
+-
+Lower Bound
+-
+Search X in sorted array
+-	Easy	
+-
+Upper Bound
+-	Easy	
+-
+Find minimum in Rotated Sorted Array
+-	Easy	
+-
+Find out how many times the array is rotated
+-	Easy	
+-
+First and last occurrence
+-	Easy	
+-
+Floor and Ceil in Sorted Array
+-	Easy	
+-
+Search in rotated sorted array-I
+-	Medium	
+-
+Search in rotated sorted array-II
+-	medium	
+-
+Search insert position
+-	Easy	
+-
+Single element in sorted array
+-	Medium	
+-
+Find Nth root of a number
+-	Medium	
+-
+Find square root of a number
+-	Medium	
+-
+Find the smallest divisor
+-	Medium	
+-
+Koko eating bananas
+-	Medium	
+-
+Minimum days to make M bouquets
+-	Medium	
+-
+BST iterator
+-	Hard	
+-
+Correct BST with two nodes swapped
+-	Hard	
+-
+Largest BST in Binary Tree
+-	Hard	
+-
+Two sum in BST
+-	Hard	
+-
+Check if a tree is a BST or not
+-
+Construct a BST from a preorder traversal
+-	Medium	
+-
+Delete a node in BST
+-	Medium	
+-
+Inorder successor and predecessor in BST
+-	Medium	
+-
+Insert a given node in BST
+-	Medium	
+-
+Kth Smallest and Largest element in BST
+-	Medium	
+-
+LCA in BST
+-	Medium	
+-
+Floor and Ceil in a BST
+-	Easy	
+-
+Search in BST
+-	Easy	
+-
+Construct a BT from Postorder and Inorder
+-	Hard	
+-
+Construct a BT from Preorder and Inorder
+-	Hard	
+-
+Requirements needed to construct a unique BT
+-	Medium	
+-
+Serialize and De-serialize BT
+-	Hard	
+-
+Minimum Travel Cost
+-	Hard	
+-
+Maximum subtree sum
+-	Easy	
+-
+Bottom view of BT
+-	Medium	
+-
+Boundary Traversal
+-	Medium	
+-
+Count total nodes in a complete BT
+-	Easy	
+-
+LCA in BT
+-	Hard	
+-
+Maximum Width of BT
+-	Medium	
+-
+Minimum time taken to burn the BT from a 
+-
+Print all nodes at a distance of K in BT
+-	Hard	
+-
+Print root to leaf path in BT
+-	Medium	
+-
+Right/Left View of BT
+-	Medium	
+-
+Top View of BT
+-	Medium	
+-
+Vertical Order Traversal
+-	Medium	
+-
+Zig Zag or Spiral Traversal
+-	Medium	
+-
+Check for balanced binary tree
+-	Medium	
+-
+Check for symmetrical BTs
+-	Medium	
+-
+Check if two trees are identical or not
+-	Medium	
+-
+Diameter of Binary Tree
+-	Easy	
+-
+Maximum Depth in BT
+-	Medium	
+-
+Maximum path sum
+-	Medium	
+-
+Inorder Traversal
+-	Easy	
+-
+Level Order Traversal
+-	Easy	
+-
+Postorder Traversal
+-	Easy	
+-
+Pre, Post, Inorder in one traversal
+-	Easy	
+-
+Preorder Traversal
+-	Easy	
+-
+Morris Preorder Traversal
+-	Hard	
+-
+Morris Inorder Traversal
+-	Hard	
+-
+Divide two numbers without multiplication an
+-
+Minimum Bit Flips to Convert Number
+-	Medium	
+-
+Power Set Bit Manipulation
+-	Medium	
+-
+Single Number - I
+-	Medium	
+-
+Single Number - II
+-	Medium	
+-
+Single Number - III
+-	Medium	
+-
+XOR of numbers in a given range
+-	Medium	
+-
+takeUforward
+Bitwise OR of All Subsequence Sums
+-	Medium	
+-
+takeUforward
+Bold Words in String
+-	Medium	
+-
+takeUforward
+Bomb Enemy
+-	Medium	
+-
+takeUforward
+Boundary of Binary Tree
+-	Medium	
+-
+takeUforward
+Brace Expansion
+-	Medium	
+-
+takeUforward
+Brightest Position on Street
+-	Medium	
+-
+takeUforward
+Build Binary Expression Tree From Infix Expression
+-	Hard	
+-
+takeUforward
+Buildings With an Ocean View
+-	Medium	
+-
+Calculate Frequency of Characters in a String
+-	Easy	
+-
+Calculate the Area of a Circle
+-	Easy	
+-
+Calculate the Power of a Number using Binary Exponentiation
+-	Easy	
+-
+takeUforward
+Campus Bikes
+-	Medium	
+-
+takeUforward
+Campus Bikes II
+-	Hard	
+-
+takeUforward
+Candy Crush
+Status	
+Problem
+Topic	Difficulty	List
+-
+Capacity to Ship Packages Within D Days
+-	Medium	
+-
+Capitalize First and Last Character of Each Word
+-	Easy	
+-
+Change Case of Each Character in a String
+-	Easy	
+-
+Change Every Letter with the Next Lexicographic
+-	Easy	
+-
+takeUforward
+Change the Root of a Binary Tree
+-	Medium	
+-
+Check if a Large Number is Divisible by 9
+-	Easy	
+-
+Check if a Number is a Harshad (Niven) Number
+-	Easy	
+-
+takeUforward
+Check If a Number Is a Majority Element in a Sorted Array
+-	Easy	
+-
+Check if a Number is a Strong Number
+-	Easy	
+-
+Check if a Number is an Abundant Number
+-	Easy	
+-
+Check if a Number is Odd or Not
+-	Easy	
+-
+Check if a Number is Power of 2 or Not
+-	Easy	
+-
+takeUforward
+Check if an Array Is Consecutive
+-	Easy	
+-
+Check if Array is Subset of Another
+-	Easy	
+-
+Check if Given Year is a Leap Year
+-	Easy	
+-
+takeUforward
+Check if String Is Decomposable Into Value-Equal Substrings
+-	Easy	
+-
+Check if the i-th bit is Set or Not
+-	Easy	
+-
+takeUforward
+Check if There is a Path With Equal Number of 0's And 1's
+-	Medium	
+-
+Check for Contradictions in Equations
+-	Hard	
+-
+Check Whether a Floating-Point Number is 
+-
+Check whether a Given Number is Even or Odd
+-	Easy	
+-
+Check Whether a Number is Positive or Negative
+-	Easy	
+-
+takeUforward
+Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+-	Medium	
+-
+takeUforward
+Check If Two Expression Trees are Equivalent
+-	Easy	
+-
+Children Sum Property in Binary Tree
+-	Medium	
+-
+takeUforward
+Choose Edges to Maximize Score in a Tree
+-	Medium	
+-
+takeUforward
+Choose Numbers From Two Arrays in Range
+-	Hard	
+-
+Clone Graph
+-	Medium	
+-
+takeUforward
+Clone Binary Tree with Random Pointer
+-	Hard	
+-
+takeUforward
+Clone N-ary Tree
+-	Hard	
+-
+takeUforward
+Closest Binary Search Tree Value
+-	Easy	
+-
+takeUforward
+Closest Binary Search Tree Value II
+-	Hard	
+-
+takeUforward
+Closest Fair Integer
+-	Medium	
+-
+takeUforward
+Closest Leaf in a Binary Tree
+-	Medium	
+-
+takeUforward
+Closest Node to Path In Tree
+-	Hard	
+-
+takeUforward
+Coin Path
+-	Hard	
+-
+Combination XOR
+-	Medium	
+-
+Compare version numbers
+-	Medium	
+-
+Concatenate One String to Another
+-	Easy	
+-
+takeUforward
+Confusing Number
+-	Easy	
+
+
+-
+takeUforward
+Confusing Number II
+-	Hard	
+-
+takeUforward
+Connecting Cities With Minimum Cost
+-	Medium	
+-
+takeUforward
+Construct Binary Tree from String
+-	Medium	
+-
+takeUforward
+Construct String with Minimum Cost (Easy)
+-	Medium	
+-
+takeUforward
+Constructing Two Increasing Arrays
+-	Hard	
+-
+Convert a Number to Hexadecimal
+-	Easy	
+-
+takeUforward
+Array of Objects to Matrix
+-	Hard	
+-
+takeUforward
+Convert Binary Search Tree to Sorted Doubly Linked List
+-	Hard	
+-
+Convert Binary to Decimal
+-	Easy	
+-
+Convert Binary to Octal
+-	Easy	
+-
+Convert Decimal to Binary Number
+-	Easy	
+-
+Convert Decimal to Octal Number
+-	Easy	
+-
+Convert Digits/Numbers to Words
+-	Easy	
+-
+takeUforward
+Convert Doubly Linked List to Array I
+-	Easy	
+-
+takeUforward
+Convert Doubly Linked List to Array II
+-	Medium	
+-
+takeUforward
+Convert JSON String to Object
+-	Hard	
+-
+takeUforward
+Convert Objects to JSON String
+-	Medium	
+-
+Convert Octal to Binary
+-	Easy	
+-
+Convert Octal to Decimal
+-	Easy	
+-
+takeUforward
+Convex Polygon
+-	Medium	
+
+-
+takeUforward
+Correct a Binary Tree
+-	Medium	
+-
+Count Good Numbers
+-	Medium	
+-
+takeUforward
+Count Houses in a Circular Street
+-	Easy	
+-
+takeUforward
+Count Houses in a Circular Street II
+-	Hard	
+-
+takeUforward
+Count Nodes Equal to Sum of Descendants
+-	Medium	
+-
+Count Nodes in Linked List
+-	Easy	
+-
+takeUforward
+Count Nodes That Are Great Enough
+-	Hard	
+-
+takeUforward
+Count Numbers with Unique Digits II
+-	Easy	
+-
+Count Occurrences in a Sorted Array
+-	Easy	
+-
+takeUforward
+Count Pairs in Two Arrays
+-	Medium	
+-
+Count Palindromic Subsequences
+-	Medium	
+-
+takeUforward
+Count Positions on Street With Required Brightness
+-	Medium	
+-
+Count Prefix Appearances
+-	Medium	
+-
+Count Set Cost
+-	Easy	
+-
+takeUforward
+Count Strictly Increasing Subarrays
+-	Medium	
+-
+takeUforward
+Count Subarrays With More Ones Than Zeros
+-	Medium	
+-
+takeUforward
+Count Substrings With K-Frequency Characters II
+-	Hard	
+-
+takeUforward
+Count Substrings with Only One Distinct Letter
+-	Easy	
+-
+takeUforward
+Count Substrings Without Repeating Characters
+-	Easy	
+-
+takeUforward
+Count the Number of Good Subsequences
+-	Medium	
+
+-
+takeUforward
+Count the Number of K Big Indices
+-	Medium	
+-
+takeUforward
+Count the Number of K-free subsets
+-	Hard	
+-
+Count the Number of Set Bits
+-	Easy	
+-
+Count the Number of Words in a Given String
+-	Easy	
+-
+takeUforward
+Count Triplets with Even XOR Set Bits I
+-	Medium	
+-
+takeUforward
+Count Triplets with Even XOR Set Bits II
+-	Medium	
+-
+takeUforward
+Count Univalue Subtrees
+-	Medium	
+-
+Count Vowels, Consonants, and Spaces in a String
+-	Easy	
+-
+takeUforward
+Count Ways to Distribute Candies
+-	Hard	
+-
+takeUforward
+Count Pairs of Equal Substrings with Minimum Difference
+-	Medium	
+-
+takeUforward
+Counting Elements
+-	Easy	
+-
+Counting Frequencies of Array Elements
+-	Easy	
+-
+takeUforward
+Curry
+-	Medium	
+-
+takeUforward
+Cutting Ribbons
+-	Medium	
+-
+takeUforward
+Date Range Generator
+-	Medium	
+-
+takeUforward
+Deep Merge of Two Objects
+-	Medium	
+-
+takeUforward
+Delete N Nodes After M Nodes of a Linked List
+-	Medium	
+-
+Delete Node in a Linked List O(1)
+-	Medium	
+-
+takeUforward
+Delete Tree Nodes
+-	Medium	
+-
+takeUforward
+Depth of BST Given Insertion Order
+-	Medium	
+
+-
+takeUforward
+Design a 3D Binary Matrix with Efficient Layer Tracking
+-	Medium	
+-
+takeUforward
+Design a Leaderboard
+-	Medium	
+-
+Design Array Modifier
+-	Easy	
+-
+takeUforward
+Design Compressed String Iterator
+-	Easy	
+-
+takeUforward
+Design Hit Counter
+-	Medium	
+-
+takeUforward
+Design Log Storage System
+-	Medium	
+-
+takeUforward
+Design Phone Directory
+-	Medium	
+-
+takeUforward
+Design Snake Game
+-	Medium	
+-
+takeUforward
+Design Tic-Tac-Toe
+-	Medium	
+-
+takeUforward
+Design An Expression Tree With Evaluate Function
+-	Easy	
+-
+takeUforward
+Design Most Recently Used Queue
+-	Medium	
+-
+takeUforward
+Diameter of N-ary Tree
+-	Medium	
+-
+takeUforward
+Diet Plan Performance
+-	Easy	
+-
+takeUforward
+Differences Between Two Objects
+-	Medium	
+-
+Different Series
+-	Easy	
+-
+Different Ways to Evaluate a Boolean Expression
+-	Medium	
+-
+takeUforward
+Digit Count in Range
+-	Hard	
+-
+takeUforward
+Distance to a Cycle in Undirected Graph
+-	Hard	
+-
+takeUforward
+Distinct Numbers in Each Subarray
+-	Medium	
+-
+Distinct Substrings
+-	Medium	
+
+-
+takeUforward
+Distribute Candies Among Children III
+-	Hard	
+-
+takeUforward
+Divide Array Into Increasing Sequences
+-	Hard	
+-
+takeUforward
+Divide Chocolate
+-	Hard	
+-
+takeUforward
+Dot Product of Two Sparse Vectors
+-	Medium	
+-
+Number of Greater Elements to the Right
+-	Easy	
+-
+Merge Two Binary Search Trees
+-	Medium	
+-
+Climbing stairs
+-	Medium	
+-
+Frog Jump
+-	Medium	
+-
+Frog jump with K distances
+-	Medium	
+-
+House robber
+-	Medium	
+-
+Maximum sum of non adjacent elements
+-	Medium	
+-
+Ninja's training
+-	Medium	
+-
+Buy Flowers
+-	Hard	
+-
+Lovely Permutation
+-	Easy	
+-
+MEXX
+-	Medium	
+-
+Cherry pickup II
+-	Hard	
+-
+Grid unique paths
+-	Medium	
+-
+Minimum Falling Path Sum
+-	Medium	
+-
+Triangle
+-	Medium	
+-
+Unique paths II
+-	Medium	
+
+-
+Best time to buy and sell stock
+-	Medium	
+-
+Best time to buy and sell stock II
+-	Medium	
+-
+Best time to buy and sell stock III
+-	Medium	
+-
+Best time to buy and sell stock IV
+-	Medium	
+-
+Best time to buy and sell stock with transaction fees
+-	Medium	
+-
+Distinct subsequences
+-	Hard	
+-
+Edit distance
+-	Hard	
+-
+Longest common subsequence
+-	Hard	
+-
+Longest common substring
+-	Hard	
+-
+Longest palindromic subsequence
+-	Hard	
+-
+Minimum insertions or deletions to convert string A to B
+-	Hard	
+-
+Minimum insertions to make string palindrome
+-	Hard	
+-
+Shortest common supersequence
+-	Hard	
+-
+Wildcard matching
+-	Hard	
+-
+0 and 1 Knapsack
+-	Hard	
+-
+Coin change II
+-	Hard	
+-
+Count partitions with given difference
+-	Hard	
+-
+Count subsets with sum K
+-	Hard	
+-
+Minimum coins
+-	Hard	
+-
+Partition a set into two subsets with minimum absolute sum difference
+-	Hard	
+
+-
+Partition equal subset sum
+-	Hard	
+-
+Rod cutting problem
+-	Hard	
+-
+Subset sum equals to target
+-	Hard	
+-
+Target sum
+-	Hard	
+-
+Unbounded knapsack
+-	Hard	
+-
+Burst balloons
+-	Hard	
+-
+Matrix chain multiplication
+-	Hard	
+-
+Minimum cost to cut the stick
+-	Hard	
+-
+Palindrome partitioning II
+-	Hard	
+-
+takeUforward
+Elements in Array After Removing and Replacing Elements
+-	Medium	
+-
+takeUforward
+Encode String With Shortest Length
+-	Hard	
+-
+takeUforward
+Encode Number
+-	Medium	
+-
+takeUforward
+Equal Tree Partition
+-	Medium	
+-
+takeUforward
+Equalize Strings by Adding or Removing Characters at Ends
+-	Medium	
+-
+takeUforward
+Erect the Fence II
+-	Hard	
+-
+Express Number as Sum of Two Primes
+-	Easy	
+-
+takeUforward
+Extract Kth Character From The Rope Tree
+-	Medium	
+-
+Check if the Array is Sorted I
+-	Easy	
+-
+Count of odd numbers in array
+-	Easy	
+-
+Reverse an array
+-	Easy	
+
+
+-
+Sum of Array Elements
+-	Easy	
+-
+Highest Occurring Element in an Array
+-	Easy	
+-
+Second Highest Occurring Element
+-	Easy	
+-
+Sum of Highest and Lowest Frequency
+-	Easy	
+-
+Convert Array to Doubly Linked List
+-	Easy	
+-
+Delete head of Doubly Linked List
+-	Easy	
+-
+Delete Kth Element of Doubly Linked List
+-	Easy	
+-
+Delete Tail of Doubly Linked List
+-	Easy	
+-
+Delete the element with value X
+-	Easy	
+-
+Deletion of the head of LL
+-	Easy	
+-
+Deletion of the Kth element of Linked List
+-	Easy	
+-
+Deletion of the tail of Linked List
+-	Easy	
+-
+Insert before given node in Doubly Linked List
+-	Easy	
+-
+Insertion at the head of Linked List
+-	Easy	
+-
+Insertion at the Kth position of Linked List
+-	Easy	
+-
+Insertion at the tail of Linked List
+-	Easy	
+-
+Insertion before the value X in Linked List
+-	Easy	
+-
+Insert node before (kth node) in Doubly Linked List
+-	Easy	
+-
+Insert node before head in Doubly Linked List
+-	Easy	
+-
+Insert node before tail in Doubly Linked List
+-	Easy	
+
+-
+Removing given node in Doubly Linked List
+-	Easy	
+-
+Check for Perfect Number
+-	Easy	
+-
+Check for Prime Number
+-	Easy	
+-
+Check if the Number is Armstrong
+-	Easy	
+-
+Count all Digits of a Number
+-	Easy	
+-
+Count number of odd digits in a number
+-	Easy	
+-
+Count of Prime Numbers till N
+-	Easy	
+-
+Divisors of a Number
+-	Easy	
+-
+Factorial of a given number
+-	Easy	
+-
+GCD of Two Numbers
+-	Easy	
+-
+LCM of two numbers
+-	Easy	
+-
+Palindrome Number
+-	Easy	
+-
+Return the Largest Digit in a Number
+-	Easy	
+-
+Reverse a number
+-	Easy	
+-
+Check if a Number is Prime or Not
+-	Easy	
+-
+Check if String is Palindrome or Not
+-	Easy	
+-
+Check if the Array is Sorted II
+-	Easy	
+-
+Factorial of a Given Number
+-	Easy	
+-
+Fibonacci Number
+-	Easy	
+-
+Reverse an array
+-	Easy	
+
+-
+Reverse a String I
+-	Easy	
+-
+Sum of Array Elements II
+-	easy	
+-
+Sum of Digits in a Given Number
+-	Easy	
+-
+Sum of First N Numbers
+-	Easy	
+-
+Implement Queue using Arrays
+-	Easy	
+-
+Implement queue using Linkedlist
+-	Easy	
+-
+Implement Queue using Stack
+-	Easy	
+-
+Implement Stack using Arrays
+-	Easy	
+-
+Implement stack using Linkedlist
+-	Easy	
+-
+Implement Stack using Queue
+-	Easy	
+-
+Isomorphic String
+-	Easy	
+-
+Largest Odd Number in a String
+-	Easy	
+-
+Longest Common Prefix
+-	Easy	
+-
+Palindrome Check
+-	Easy	
+-
+Reverse a String II
+-	Easy	
+-
+Rotate String
+-	Easy	
+-
+Sort Characters by Frequency
+-	Easy	
+-
+Valid Anagram
+-	Easy	
+-
+Pattern 1
+-	Easy	
+-
+Pattern 10
+-	Easy	
+
+-
+If Else Adult Teen Problem
+-	Easy	
+-
+If ElseIf
+-	Easy	
+-
+Input Output
+-	Easy	
+-
+Print last character of string
+-	Easy	
+-
+Print X N numbers of times
+-	Easy	
+-
+Sum of first last element in array
+-	Easy	
+-
+Switch Case
+-	Easy	
+-
+takeUforward
+Factor Combinations
+-	Medium	
+-
+Factorial Generator
+-	Easy	
+-
+Factors of a Given Number
+-	Easy	
+-
+Furthest Empty Plot From Buildings
+-	Medium	
+-
+takeUforward
+Faulty Sensor
+-	Medium	
+-
+Find All Non-Repeating Elements in Array
+-	Easy	
+-
+Find All Palindrome Numbers in a Given Range
+-	Easy	
+-
+Find All Possible Tasks
+-	Hard	
+-
+Find All Repeating Elements in an Array
+-	Easy	
+-
+Find All Symmetric Pairs
+-	Easy	
+-
+takeUforward
+Find All The Lonely Nodes
+-	Easy	
+-
+takeUforward
+Find Anagram Mappings
+-	Easy	
+-
+Find Distinct Expressions
+-	Hard	
+
+-
+takeUforward
+Find Leaves of Binary Tree
+-	Medium	
+-
+takeUforward
+Find Longest Self-Contained Substring
+-	Hard	
+-
+takeUforward
+Find Maximal Uncovered Ranges
+-	Medium	
+-
+Find Median in a Stream
+-	Medium	
+-
+Find Median of an Unsorted Array
+-	Easy	
+-
+Find Middle of Linked List
+-	Easy	
+-
+takeUforward
+Find Minimum Time to Finish All Jobs II
+-	Medium	
+-
+takeUforward
+Find Nearest Right Node in Binary Tree
+-	Medium	
+-
+Find Non-Repeating Characters in a String
+-	Easy	
+-
+Find Pairs with Given Sum in Doubly Linked List
+-	Medium	
+-
+takeUforward
+Find Pattern in Infinite Stream I
+-	Medium	
+-
+takeUforward
+Find Pattern in Infinite Stream II
+-	Hard	
+-
+takeUforward
+Find Permutation
+-	Medium	
+-
+takeUforward
+Find Root of N-Ary Tree
+-	Medium	
+-
+Find Roots of a Quadratic Equation
+-	Easy	
+-
+takeUforward
+Find Shortest Path with K Hops
+-	Hard	
+-
+takeUforward
+Find Sorted Submatrices With Maximum Element at Most K
+-	Hard	
+-
+Find Sum of AP Series
+-	Easy	
+-
+Find the ASCII Value of a Character
+-	Easy	
+-
+takeUforward
+Find the Celebrity
+-	Medium	
+
+-
+takeUforward
+Find The Closest Marked Node
+-	Medium	
+-
+takeUforward
+Find the Derangement of An Array
+-	Hard	
+-
+Find the Duplicate Number
+-	Medium	
+-
+takeUforward
+Find the Index of Permutation
+-	Medium	
+-
+takeUforward
+Find the Kth Lucky Number
+-	Easy	
+-
+Find the Largest Word in a String
+-	Easy	
+-
+takeUforward
+Find the Last Marked Nodes in Tree
+-	Hard	
+-
+Find the length of the Linked List
+-	Easy	
+-
+takeUforward
+Find the Level of Tree with Minimum Sum
+-	Medium	
+-
+takeUforward
+Find the Lexicographically Largest String From the Box II
+-	Hard	
+-
+takeUforward
+Find the Number of K-Even Arrays
+-	Medium	
+-
+Find the Position of a Substring within a String
+-	Easy	
+-
+Find the Smallest Element in an Array
+-	Easy	
+-
+Find the Word with Highest Number of Repeated Letters in a String
+-	Easy	
+-
+takeUforward
+Find Distance In a Binary Tree
+-	Medium	
+-
+takeUforward
+Find K-Length Substrings With No Repeated Characters
+-	Medium	
+-
+takeUforward
+Find Smallest Common Element in All Rows
+-	Medium	
+-
+takeUforward
+Find the Index of the Large Integer
+-	Medium	
+-
+Finding Equilibrium Index in an Array
+-	Easy	
+-
+takeUforward
+Finding the Number of Visible Mountains
+-	Medium	
+
+-
+takeUforward
+First Unique Number
+-	Medium	
+-
+takeUforward
+Fixed Point
+-	Easy	
+-
+takeUforward
+Flatten 2D Vector
+-	Medium	
+-
+Flatten Binary Tree to Linked List
+-	Medium	
+-
+takeUforward
+Flip Game
+-	Easy	
+-
+takeUforward
+Flip Game II
+-	Medium	
+-
+Fractional Knapsack
+-	Medium	
+-
+Furthest Reachable Mountain
+-	Hard	
+-
+takeUforward
+Game of Nim
+-	Medium	
+-
+takeUforward
+Generalized Abbreviation
+-	Hard	
+-
+Generate Binary Strings Without Consecutive 1s
+-	Medium	
+-
+takeUforward
+Generate Circular Array values
+-	Medium	
+-
+takeUforward
+Graph Valid Tree
+-	Medium	
+-
+Articulation point in graph
+-	Hard	
+-
+Bridges in graph
+-	Hard	
+-
+Kosaraju's algorithm
+-	Hard	
+-
+Bipartite graph
+-	Hard	
+-
+Detect a cycle in a directed graph
+-	Hard	
+-
+Detect a cycle in an undirected graph
+-	Hard	
+-
+Topological sort or Kahn's algorithm
+-	Hard	
+
+-
+takeUforward
+Alien Dictionary
+-	Hard	
+-
+Course Schedule I
+-	Hard	
+-
+Course Schedule II
+-	Medium	
+-
+Find eventual safe states
+-	Hard	
+-
+Shortest path in DAG
+-	Hard	
+-
+Shortest path in undirected graph with unit weights
+-	Hard	
+-
+Word ladder I
+-	Hard	
+-
+Word ladder II
+-	Hard	
+-
+Accounts merge
+-	Hard	
+-
+Making a large island
+-	Hard	
+-
+Most stones removed with same row or column
+-	Medium	
+-
+takeUforward
+Number of islands II
+-	Hard	
+-
+Number of operations to make network connected
+-	Hard	
+-
+Disjoint Set
+-	Hard	
+-
+Find the MST weight
+-	Hard	
+-
+Bellman ford algorithm
+-	Hard	
+-
+Cheapest flight within K stops
+-	Hard	
+-
+Dijkstra's algorithm
+-	Hard	
+-
+Find the city with the smallest number of neighbors
+-	Hard	
+-
+Floyd warshall algorithm
+-	Hard	
+
+-
+Minimum multiplications to reach end
+-	Hard	
+-
+Number of ways to arrive at destination
+-	Hard	
+-
+Path with minimum effort
+-	Hard	
+-
+Print Shortest Path
+-	Hard	
+-
+Shortest Distance in a Binary Maze
+-	Hard	
+-
+Connected Components
+-	Medium	
+-
+Traversal Techniques
+-	Medium	
+-
+Distance of nearest cell having one
+-	Medium	
+-
+Flood fill algorithm
+-	Medium	
+-
+takeUforward
+Number of distinct islands
+-	Medium	
+-
+Number of enclaves
+-	Medium	
+-
+Number of islands
+-	Medium	
+-
+Number of provinces
+-	Medium	
+-
+Rotten Oranges
+-	Medium	
+-
+Surrounded Regions
+-	Medium	
+-
+Great Tree
+-	Medium	
+-
+Greatest of Three Numbers
+-	Easy	
+-
+Greatest of Two Numbers
+-	Easy	
+-
+Assign Cookies
+-	Easy	
+-
+Jump Game - I
+-	Easy	
+
+-
+Lemonade Change
+-	Easy	
+-
+Candy
+-	Hard	
+-
+Valid Paranthesis Checker
+-	Hard	
+-
+Insert Interval
+-	Medium	
+-
+Job sequencing Problem
+-	Medium	
+-
+Minimum number of platforms required for a railway
+-	Medium	
+-
+N meetings in one room
+-	Medium	
+-
+Non-overlapping Intervals
+-	Medium	
+-
+Shortest Job First
+-	Medium	
+-
+takeUforward
+Group Shifted Strings
+-	Medium	
+-
+takeUforward
+Guess the Number Using Bitwise Questions I
+-	Medium	
+-
+takeUforward
+Guess the Number Using Bitwise Questions II
+-	Medium	
+-
+takeUforward
+Guess the Majority in a Hidden Array
+-	Medium	
+-
+Hand of Straights
+-	Medium	
+-
+takeUforward
+Handshakes That Don't Cross
+-	Hard	
+-
+Count of Subarrays with Sum Divisible by K
+-	Easy	
+-
+Group Words by Anagrams
+-	Medium	
+-
+Maximum Points on a Line
+-	Hard	
+-
+Count subarrays with given sum
+-	Medium	
+-
+Count subarrays with given xor K
+-	Hard	
+
+-
+Longest Consecutive Sequence in an Array
+-	Medium	
+-
+Longest subarray with sum K
+-	Medium	
+-
+Design Twitter
+-	Medium	
+-
+Find Median from Data Stream
+-	Hard	
+-
+Kth largest element in a stream of running integers
+-	Hard	
+-
+Maximum Sum Combination
+-	Hard	
+-
+Merge K sorted Lists
+-	Hard	
+-
+Build heap from a given Array
+-	Medium	
+-
+Check if an array represents a min heap
+-	Medium	
+-
+Convert Min Heap to Max Heap
+-	Medium	
+-
+Heapify Algorithm
+-	Medium	
+-
+Heap Sort
+-	Medium	
+-
+Implement Max Heap
+-	Medium	
+-
+Implement Min Heap
+-	Medium	
+-
+Implement PQ using Heaps
+-	Medium	
+-
+K-th Largest element in an array
+-	Medium	
+-
+takeUforward
+Height of Special Binary Tree
+-	Medium	
+-
+takeUforward
+Hexspeak
+-	Easy	
+-
+takeUforward
+High Five
+-	Easy	
+-
+takeUforward
+How Many Apples Can You Put into the Basket
+-	Easy	
+
+-
+takeUforward
+Implement Trie II (Prefix Tree)
+-	Medium	
+-
+takeUforward
+Index Pairs of a String
+-	Easy	
+-
+Infinite Method Object
+-	Medium	
+-
+Infix to Postfix Conversion
+-	Medium	
+-
+Infix to Prefix Conversion
+-	Medium	
+-
+takeUforward
+Inorder Successor in BST
+-	Medium	
+-
+takeUforward
+Inorder Successor in BST II
+-	Medium	
+-
+takeUforward
+Insert into a Sorted Circular Linked List
+-	Medium	
+-
+takeUforward
+Intersection of Three Sorted Arrays
+-	Medium	
+-
+takeUforward
+IP to CIDR
+-	Medium	
+-
+takeUforward
+Is Array a Preorder of Some Binary Tree
+-	Medium	
+-
+takeUforward
+JSON Deep Equal
+-	Medium	
+-
+Jump Game II
+-	Medium	
+-
+takeUforward
+Jump Game VIII
+-	Hard	
+-
+takeUforward
+K Empty Slots
+-	Hard	
+-
+K Nearest Integers
+-	Easy	
+-
+takeUforward
+Kill Process
+-	Medium	
+-
+Kth Missing Positive Number
+-	Medium	
+-
+takeUforward
+Kth Smallest Subarray Sum
+-	Medium	
+-
+takeUforward
+Largest BST Subtree
+-	Medium	
+
+-
+Largest Divisible Subset
+-	Medium	
+-
+takeUforward
+Largest Subarray Length K
+-	Easy	
+-
+Largest Subarray with Sum 0
+-	Medium	
+-
+takeUforward
+Largest Unique Number
+-	Easy	
+-
+takeUforward
+Line Reflection
+-	Medium	
+-
+takeUforward
+Linked List Frequency
+-	Easy	
+-
+Delete all occurrences of a key in DLL
+-	Hard	
+-
+Remove duplicates from sorted DLL
+-	hard	
+-
+Clone a LL with random and next pointer
+-	Hard	
+-
+Flattening of LL
+-	Hard	
+-
+Merge two Sorted Lists
+-	Hard	
+-
+Reverse LL in group of given size K
+-	Hard	
+-
+Rotate a LL
+-	Hard	
+-
+Sort LL
+-	Hard	
+-
+Add one to a number represented by LL
+-	Medium	
+-
+Check if LL is palindrome or not
+-	Medium	
+-
+Delete the middle node in LL
+-	Medium	
+-
+Detect a loop in LL
+-	Medium	
+-
+Find the intersection point of Y LL
+-	Medium	
+-
+Find the starting point in LL
+-	Medium	
+
+-
+Length of loop in LL
+-	Medium	
+-
+Traversal in Linked List
+-	Easy	
+-
+Add two numbers in Linked List
+-	Medium	
+-
+Remove Nth node from the back of the LL
+-	Medium	
+-
+Reverse a LL
+-	Medium	
+-
+Segregate odd and even nodes in Linked List
+-	Medium	
+-
+Sort a Linked List of 0's 1's and 2's
+-	Medium	
+-
+takeUforward
+Logger Rate Limiter
+-	Easy	
+-
+takeUforward
+Lonely Pixel I
+-	Medium	
+-
+takeUforward
+Lonely Pixel II
+-	Medium	
+-
+Longest Bitonic Subsequence
+-	Medium	
+-
+takeUforward
+Longest Common Subsequence Between Sorted Arrays
+-	Medium	
+-
+Longest Factor Chain
+-	Hard	
+-
+Longest Increasing Subsequence
+-	Medium	
+-
+takeUforward
+Longest Line of Consecutive One in Matrix
+-	Medium	
+-
+Longest Palindromic Substring
+-	Medium	
+-
+takeUforward
+Longest Repeating Substring
+-	Medium	
+-
+Longest String Chain
+-	Medium	
+-
+takeUforward
+Longest Substring with At Most Two Distinct Characters
+-	Medium	
+-
+takeUforward
+Longest Palindromic Subsequence II
+-	Easy	
+
+-
+takeUforward
+Lowest Common Ancestor of a Binary Tree II
+-	Medium	
+-
+takeUforward
+Lowest Common Ancestor of a Binary Tree III
+-	Medium	
+-
+takeUforward
+Lowest Common Ancestor of a Binary Tree IV
+-	Medium	
+-
+takeUforward
+Make Array Non decreasing or Non increasing
+-	Easy	
+-
+takeUforward
+Make Objects Immutable
+-	Easy	
+-
+takeUforward
+Make String Anti-palindrome
+-	Hard	
+-
+takeUforward
+Make the Prefix Sum Non-negative
+-	Medium	
+-
+takeUforward
+Match Alphanumerical Pattern in Matrix I
+-	Medium	
+-
+Count primes in range L to R
+-	Hard	
+-
+Prime factorisation of a Number
+-	Hard	
+-
+Print all primes till N
+-	Hard	
+-
+takeUforward
+Max Consecutive Ones II
+-	Medium	
+-
+Max Odd Numbers in K Window
+-	Medium	
+-
+takeUforward
+Max Stack
+-	Hard	
+-
+takeUforward
+Maximal Range That Each Element is Maximal in It
+-	Easy	
+-
+takeUforward
+Maximize the Beauty of the Garden
+-	Medium	
+-
+takeUforward
+Maximize Total Tastiness of Purchased Fruits
+-	Medium	
+-
+takeUforward
+Maximum Alternating Subarray Sum
+-	Medium	
+-
+Maximum and Minimum Digit in a Number
+-	Easy	
+-
+takeUforward
+Maximum Array Hopping Score I
+-	Medium	
+
+-
+takeUforward
+Maximum Array Hopping Score II
+-	Medium	
+-
+takeUforward
+Maximum Average Subarray II
+-	Hard	
+-
+takeUforward
+Maximum Coins Heroes Can Collect
+-	Medium	
+-
+takeUforward
+Maximum Cost of Trip With K Highways
+-	Hard	
+-
+takeUforward
+Maximum Frequency Score of a Subarray
+-	Hard	
+-
+takeUforward
+Maximum GCD-Sum of a Subarray
+-	Hard	
+-
+takeUforward
+Maximum Hamming Distances
+-	Hard	
+-
+takeUforward
+Maximum Increasing Triplet Value
+-	Medium	
+-
+Maximum Good Subarray Length
+-	Medium	
+-
+takeUforward
+Maximum Length of Semi Decreasing Subarrays
+-	Easy	
+-
+takeUforward
+Maximum Linear Stock Score
+-	Medium	
+-
+Maximum Nesting Depth of the Parentheses
+-	Medium	
+-
+takeUforward
+Maximum Number of Books You Can Take
+-	Hard	
+-
+takeUforward
+Maximum Number of Integers to Choose From a Range II
+-	Medium	
+-
+takeUforward
+Maximum Number of Intersections on the Chart
+-	Hard	
+-
+takeUforward
+Maximum Number of Matching Indices After Right Shifts
+-	Medium	
+-
+takeUforward
+Maximum Number of Ones
+-	Medium	
+-
+takeUforward
+Maximum Number of People That Can Be Caught in Tag
+-	Medium	
+-
+takeUforward
+Maximum Number of Potholes That Can Be Fixed
+-	Medium	
+-
+takeUforward
+Maximum Number of Removal Queries That Can Be Processed I
+-	Hard	
+
+-
+takeUforward
+Maximum Number of Upgradable Servers
+-	Medium	
+-
+takeUforward
+Maximum Number That Makes Result of Bitwise AND Zero
+-	Medium	
+-
+Maximum Occurring Character in a String
+-	Easy	
+-
+takeUforward
+Maximum of Minimum Values in All Subarrays
+-	Medium	
+-
+Maximum of Minimums for Every Window Size
+-	Medium	
+-
+takeUforward
+Maximum Price to Fill a Bag
+-	Medium	
+-
+Maximum Product of Three Numbers
+-	Easy	
+-
+takeUforward
+Maximum Profit From Trading Stocks
+-	Medium	
+-
+Maximum Profit in Job Scheduling
+-	Medium	
+-
+takeUforward
+Maximum Profitable Triplets With Increasing Prices I
+-	Medium	
+-
+takeUforward
+Maximum Profitable Triplets With Increasing Prices II
+-	Hard	
+-
+takeUforward
+Maximum Size Subarray Sum Equals k
+-	Medium	
+-
+takeUforward
+Maximum Sized Array
+-	Medium	
+-
+takeUforward
+Maximum Subtree of the Same Color
+-	Medium	
+-
+Maximum sum
+-	Hard	
+-
+Maximum Sum Increasing Subsequence
+-	Medium	
+-
+takeUforward
+Maximum Sum Score of Array
+-	Easy	
+-
+takeUforward
+Maximum Total Area Occupied by Pistons
+-	Hard	
+-
+takeUforward
+Maximum Vacation Days
+-	Hard	
+-
+Maximum XOR Length
+-	Easy	
+
+-
+takeUforward
+Maximum XOR of Two Non Overlapping Subtrees
+-	Easy	
+-
+takeUforward
+Maximum Average Subtree
+-	Medium	
+-
+takeUforward
+Maximum Font To Fit A Sentence In A Screen
+-	Easy	
+-
+takeUforward
+Maximum Number of Accepted Invitations
+-	Medium	
+-
+takeUforward
+Maximum Subarray Sum After One Operation
+-	Medium	
+-
+takeUforward
+Median of a Row Wise Sorted Matrix
+-	Medium	
+-
+takeUforward
+Meeting Rooms
+-	Easy	
+-
+takeUforward
+Meeting Rooms II
+-	Medium	
+-
+takeUforward
+Meeting Scheduler
+-	Medium	
+-
+Merge Intervals
+-	Medium	
+-
+Merge K Sorted Arrays
+-	Medium	
+-
+takeUforward
+Merge Operations to Turn Array Into a Palindrome
+-	Medium	
+-
+Merge Overlapping Subintervals
+-	Medium	
+-
+takeUforward
+Minimize Connected Groups by Inserting Interval
+-	Hard	
+-
+takeUforward
+Minimize Maximum Value in Grid
+-	Easy	
+-
+takeUforward
+Minimize Product Sum of Two Arrays
+-	Medium	
+-
+takeUforward
+Minimize Rounding Error to Meet Target
+-	Medium	
+-
+takeUforward
+Minimizing Array After Replacing Pairs With Their Product
+-	Medium	
+-
+takeUforward
+Minimum Runes to Add to Cast Spell
+-	Hard	
+-
+takeUforward
+Minimum Adjacent Swaps to Make a Valid Array
+-	Medium	
+
+-
+takeUforward
+Minimum Cost to Buy Apples
+-	Hard	
+-
+takeUforward
+Minimum Cost to Reach City With Discounts
+-	Hard	
+-
+takeUforward
+Minimum Cost to Separate Sentence Into Rows
+-	Medium	
+-
+takeUforward
+Minimum Costs Using the Train Line
+-	Hard	
+-
+takeUforward
+Minimum Factorization
+-	Medium	
+-
+takeUforward
+Minimum Flips In Binary Tree to Get Result
+-	Easy	
+-
+takeUforward
+Minimum Health to Beat Game
+-	Medium	
+-
+takeUforward
+Minimum Initial Red Triangles
+-	Hard	
+-
+takeUforward
+Minimum Moves to Get a Peaceful Board
+-	Medium	
+-
+takeUforward
+Minimum Number of Coins for Fruits II
+-	Hard	
+-
+takeUforward
+Minimum Number of Increasing Subsequence to Be Removed
+-	Hard	
+-
+takeUforward
+Minimum Number of Keypresses
+-	Medium	
+-
+takeUforward
+Minimum Number of Lines to Cover Points
+-	Hard	
+-
+Minimum Operations To Exceed Target
+-	Medium	
+-
+takeUforward
+Minimum Operations to Make Numbers Non-positive
+-	Hard	
+-
+takeUforward
+Minimum Operations to Make Subarray Elements Equal
+-	Hard	
+-
+takeUforward
+Minimum Operations to Remove Adjacent Ones in Matrix
+-	Hard	
+-
+takeUforward
+Minimum Relative Loss After Buying Chocolates
+-	Hard	
+-
+Minimum Repetations
+-	Medium	
+-
+takeUforward
+Minimum Split Into Subarrays With GCD Greater Than One
+-	Medium	
+
+-
+takeUforward
+Minimum Subarrays in a Valid Split
+-	Medium	
+-
+takeUforward
+Minimum Swaps to Group All 1’s Together
+-	Easy	
+-
+takeUforward
+Minimum Time For K Virus Variants to Spread
+-	Hard	
+-
+takeUforward
+Minimum Time Takes to Reach Destination Without Drowning
+-	Hard	
+-
+takeUforward
+Minimum Time to Break Locks II
+-	Hard	
+-
+takeUforward
+Minimum Time to Build Blocks
+-	Hard	
+-
+takeUforward
+Minimum Time To Eat All Grains
+-	Hard	
+-
+takeUforward
+Minimum Time to Kill All Monsters
+-	Hard	
+-
+takeUforward
+Minimum Total Operations
+-	Easy	
+-
+takeUforward
+Minimum Unique Word Abbreviation
+-	Hard	
+-
+takeUforward
+Minimum Unlocked Indices to Sort Nums
+-	Medium	
+-
+takeUforward
+Minimum Window Subsequence
+-	Hard	
+-
+takeUforward
+Minimum Cost to Connect Sticks
+-	Medium	
+-
+takeUforward
+Minimum Knight Moves
+-	Medium	
+-
+takeUforward
+Minimum Path Cost In a Hidden Grid
+-	Easy	
+-
+takeUforward
+Missing Element in Sorted Array
+-	Medium	
+-
+takeUforward
+Missing Number In Arithmetic Progression
+-	Easy	
+-
+takeUforward
+Missing Ranges
+-	Easy	
+-
+takeUforward
+Most Expensive Item That Can Not Be Bought
+-	Hard	
+-
+takeUforward
+Move Sub-Tree of N-Ary Tree
+-	Hard	
+
+-
+takeUforward
+Moving Average from Data Stream
+-	Easy	
+-
+Network Delay Time
+-	Medium	
+-
+takeUforward
+Next Closest Time
+-	Medium	
+-
+Next Day
+-	Easy	
+-
+takeUforward
+Next Palindrome Using Same Digits
+-	Hard	
+-
+Next Smaller Element
+-	Medium	
+-
+Ninja and his Friends
+-	Medium	
+-
+takeUforward
+Number of Connected Components in an Undirected Graph
+-	Easy	
+-
+takeUforward
+Number Of Corner Rectangles
+-	Medium	
+-
+takeUforward
+Number of Days in a Month
+-	Easy	
+-
+takeUforward
+Number of Distinct Binary Strings After Applying Operations
+-	Medium	
+-
+takeUforward
+Number of Distinct Islands II
+-	Hard	
+-
+takeUforward
+Number of Divisible Substrings
+-	Medium	
+-
+takeUforward
+Number of Divisible Triplet Sums
+-	Medium	
+-
+takeUforward
+Number of Equal Count Substrings
+-	Medium	
+-
+takeUforward
+Number Of Equal Numbers Block
+-	Easy	
+-
+takeUforward
+Number of Good Binary Strings
+-	Medium	
+-
+Number of Longest Increasing Subsequences
+-	Medium	
+-
+takeUforward
+Number of Nodes With Value One
+-	Medium	
+-
+takeUforward
+Number of People That Can Be Seen in a Grid
+-	Hard	
+
+-
+takeUforward
+Number of Same-End Substrings
+-	Medium	
+-
+takeUforward
+Number of Self-Divisible Permutations
+-	Medium	
+-
+takeUforward
+Number of Single Divisor Triplets
+-	Medium	
+-
+takeUforward
+Number of Spaces Cleaning Robot Cleaned
+-	Medium	
+-
+Number of Subarrays with Or less than K
+-	Hard	
+-
+takeUforward
+Number of Subarrays Having Even Product
+-	Medium	
+-
+takeUforward
+Number of Subsequences with Odd Sum
+-	Medium	
+-
+takeUforward
+Number of Substrings With Fixed Ratio
+-	Medium	
+-
+takeUforward
+Number Of Unique Categories
+-	Medium	
+-
+takeUforward
+Number of Unique Flavors After Sharing K Candies
+-	Medium	
+-
+takeUforward
+Number of Valid Subarrays
+-	Easy	
+-
+takeUforward
+Number of Ways to Build House of Cards
+-	Medium	
+-
+takeUforward
+Number of Ways to Build Sturdy Brick Wall
+-	Hard	
+-
+takeUforward
+Number of Ways to Reach Destination in the Grid
+-	Hard	
+-
+Odd Subsets
+-	Hard	
+-
+takeUforward
+One Edit Distance
+-	Medium	
+-
+takeUforward
+Optimal Account Balancing
+-	Hard	
+-
+takeUforward
+Optimize Water Distribution in a Village
+-	Hard	
+-
+takeUforward
+Output Contest Matches
+-	Medium	
+-
+takeUforward
+Paint Fence
+-	Medium	
+
+-
+takeUforward
+Paint House
+-	Medium	
+-
+takeUforward
+Paint House II
+-	Medium	
+-
+Painter's Partition
+-	Medium	
+-
+takeUforward
+Palindrome Permutation
+-	Easy	
+-
+takeUforward
+Palindrome Permutation II
+-	Medium	
+-
+takeUforward
+Palindrome Removal
+-	Hard	
+-
+takeUforward
+Parallel Courses
+-	Medium	
+-
+Partition Array for Maximum Sum
+-	Medium	
+-
+Special Linked List
+-	Medium	
+-
+Pascal's Triangle II
+-	Easy	
+-
+Pascal's Triangle I
+-	Easy	
+-
+takeUforward
+Path Sum IV
+-	Medium	
+-
+takeUforward
+Path With Maximum Minimum Value
+-	Medium	
+-
+takeUforward
+Paths in Maze That Lead to Same Room
+-	Hard	
+-
+takeUforward
+Perform String Shifts
+-	Easy	
+-
+Permutation Sequence
+-	Medium	
+-
+takeUforward
+Permutations III
+-	Medium	
+-
+Permutations in which N people can occupy R seats
+-	Easy	
+-
+Permutations of a String
+-	Medium	
+-
+takeUforward
+Plus One Linked List
+-	Medium	
+
+-
+Populating Next Right Pointers in Each Node
+-	Medium	
+-
+Postfix to Infix Conversion
+-	Easy	
+-
+Postfix to Prefix Conversion
+-	Medium	
+-
+takeUforward
+Pour Water
+-	Medium	
+-
+takeUforward
+Pour Water Between Buckets to Make Water Levels Equal
+-	Medium	
+-
+Practice (Design Principles)
+-	Medium	
+-
+Practice (Exception Handling)
+-	Medium	
+-
+Practice (File Handling)
+-	Medium	
+-
+Practice (Generics)
+-	Medium	
+-
+Practice (Memory Allocation)
+-	Medium	
+-
+Practice (Object Lifecycle)
+-	Medium	
+-
+Practice (Run Time Polymorphism)
+-	Medium	
+-
+Prefix to Infix Conversion
+-	Medium	
+-
+Prefix to Postfix Conversion
+-	Medium	
+-
+Print 1 to N using Recursion
+-	Easy	
+-
+Print Longest Increasing Subsequence
+-	Medium	
+-
+Print N to 1 using Recursion
+-	Easy	
+-
+takeUforward
+Print Immutable Linked List in Reverse
+-	Medium	
+-
+takeUforward
+Product of Two Run-Length Encoded Arrays
+-	Medium	
+-
+takeUforward
+Put Boxes into the Warehouse I
+-	Medium	
+
+-
+takeUforward
+Put Boxes into the Warehouse II
+-	Hard	
+-
+takeUforward
+Range Addition
+-	Medium	
+-
+Range Sum in BST
+-	Easy	
+-
+takeUforward
+Range Sum Query 2D - Mutable
+-	Medium	
+-
+Reachable Nodes Before Destruction
+-	Easy	
+-
+takeUforward
+Read N Characters Given Read4
+-	Easy	
+-
+Rearrange Array in Increasing-Decreasing Order
+-	Easy	
+-
+takeUforward
+Rearrange String k Distance Apart
+-	Hard	
+-
+Combination Sum
+-	Medium	
+-
+Combination Sum II
+-	Medium	
+-
+Combination Sum III
+-	Medium	
+-
+Subsets I
+-	Medium	
+-
+Subsets II
+-	Medium	
+-
+M Coloring Problem
+-	Hard	
+-
+N Queen
+-	Hard	
+-
+Palindrome partitioning
+-	Hard	
+-
+Rat in a Maze
+-	Hard	
+-
+Sudoku Solver
+-	Hard	
+-
+Word Search
+-	Hard	
+-
+Letter Combinations of a Phone Number
+-	Hard	
+
+-
+Generate Parentheses
+-	Medium	
+-
+Pow(x,n)
+-	Easy	
+-
+Power Set
+-	Medium	
+-
+Check if there exists a subsequence with sum K
+-	Easy	
+-
+Count all subsequences with sum K
+-	Easy	
+-
+Recursive Bubble Sort
+-	Easy	
+-
+Recursive Insertion Sort
+-	Easy	
+-
+Remove All Duplicates from a String
+-	Easy	
+-
+takeUforward
+Remove All Ones With Row and Column Flips
+-	Medium	
+-
+takeUforward
+Remove All Ones With Row and Column Flips II
+-	Medium	
+-
+Remove bad elements in Linked List
+-	Easy	
+-
+Remove Brackets from an Algebraic Expression
+-	Easy	
+-
+Remove Characters Except Alphabets
+-	Easy	
+-
+Remove Characters from First String Present in the Second String
+-	Easy	
+-
+takeUforward
+Remove Duplicates From an Unsorted Linked List
+-	Medium	
+-
+Remove Duplicates from Unsorted Array
+-	Medium	
+-
+Remove Outermost Parentheses
+-	Medium	
+-
+Remove Spaces from a String
+-	Easy	
+-
+takeUforward
+Remove Vowels from a String
+-	Easy	
+-
+takeUforward
+Remove-9
+-	Easy	
+
+-
+takeUforward
+Remove Interval
+-	Medium	
+-
+Replace All Zeros With Ones
+-	Easy	
+-
+Replace Elements by Their Rank
+-	Easy	
+-
+Return All Duplicate Characters in a String
+-	Easy	
+-
+Reverse a Doubly Linked List
+-	Medium	
+-
+Reverse a Stack
+-	Medium	
+-
+takeUforward
+Reverse Words in a String II
+-	Medium	
+-
+Roman to Integer
+-	Medium	
+-
+Search an Element in an Array
+-	Easy	
+-
+Search in Linked List
+-	Medium	
+-
+Segregate Nodes into 3 parts in LL
+-	Hard	
+-
+takeUforward
+Sentence Screen Fitting
+-	Medium	
+-
+takeUforward
+Sentence Similarity
+-	Easy	
+-
+takeUforward
+Sentence Similarity II
+-	Medium	
+-
+takeUforward
+Sequence Reconstruction
+-	Medium	
+-
+Set Matrix Zeroes
+-	Medium	
+-
+takeUforward
+Shortest Distance from All Buildings
+-	Hard	
+-
+takeUforward
+Shortest Way to Form String
+-	Medium	
+-
+takeUforward
+Shortest Word Distance
+-	Easy	
+-
+takeUforward
+Shortest Word Distance II
+-	Medium	
+
+-
+takeUforward
+Shortest Word Distance III
+-	Easy	
+-
+takeUforward
+Shortest Distance to Target Color
+-	Medium	
+-
+takeUforward
+shortest-path-in-a-hidden-grid
+-	Easy	
+-
+takeUforward
+Shortest Path to Get Food
+-	Medium	
+-
+takeUforward
+Similar RGB Color
+-	Medium	
+-
+takeUforward
+Single-Row Keyboard
+-	Easy	
+-
+Maximum Points You Can Obtain from Cards
+-	Medium	
+-
+Binary Subarrays With Sum
+-	Hard	
+-
+Count number of Nice subarrays
+-	Hard	
+-
+Number of Substrings Containing All Three Characters
+-	Hard	
+-
+Fruit Into Baskets
+-	Medium	
+-
+Longest Repeating Character Replacement
+-	Hard	
+-
+takeUforward
+Longest Substring With At Most K Distinct Characters
+-	Hard	
+-
+Longest Substring Without Repeating Characters
+-	Medium	
+-
+takeUforward
+Max Consecutive Ones III
+-	Medium	
+-
+Minimum Window Substring
+-	Hard	
+-
+takeUforward
+Smallest Greater Multiple Made of Two Digits
+-	Medium	
+-
+takeUforward
+Smallest Number With Given Digit Product
+-	Medium	
+-
+Smallest Rectangle Enclosing Black Pixels
+-	Hard	
+-
+takeUforward
+Smallest Common Region
+-	Medium	
+
+-
+Sort a Stack
+-	Medium	
+-
+takeUforward
+Sort Array By Moving Items to Empty Space
+-	Hard	
+-
+Sort Characters in a String
+-	Easy	
+-
+Sort Elements of an Array by Frequency
+-	Easy	
+-
+takeUforward
+Sort Linked List Already Sorted Using Absolute Values
+-	Medium	
+-
+takeUforward
+Sort Transformed Array
+-	Medium	
+-
+takeUforward
+Sort Features by Popularity
+-	Easy	
+-
+Bubble Sort
+-	Easy	
+-
+Insertion Sorting
+-	Easy	
+-
+Merge Sorting
+-	Medium	
+-
+Quick Sorting
+-	Easy	
+-
+Selection Sort
+-	Easy	
+-
+takeUforward
+Sparse Matrix Multiplication
+-	Medium	
+-
+takeUforward
+Split a Circular Linked List
+-	Medium	
+-
+takeUforward
+Split Array with Equal Sum
+-	Hard	
+-
+takeUforward
+Split BST
+-	Medium	
+-
+takeUforward
+Split Concatenated Strings
+-	Medium	
+-
+takeUforward
+Squirrel Simulation
+-	Medium	
+-
+Count Collisons
+-	Easy	
+-
+Lexicographically Smallest String
+-	Easy	
+
+-
+Maximum Value Of A Subarray
+-	Hard	
+-
+Celebrity Problem
+-	Hard	
+-
+Implement Min Stack
+-	Hard	
+-
+Largest rectangle in a histogram
+-	Hard	
+-
+LFU Cache
+-	Hard	
+-
+LRU Cache
+-	Medium	
+-
+Maximum Rectangles
+-	Hard	
+-
+Sliding Window Maximum
+-	Hard	
+-
+Stock span problem
+-	Hard	
+-
+Trapping Rainwater
+-	Hard	
+-
+Balanced Paranthesis
+-	Easy	
+-
+Asteroid Collision
+-	Medium	
+-
+Next Greater Element
+-	Medium	
+-
+Next Greater Element - 2
+-	Medium	
+-
+Remove K Digits
+-	Medium	
+-
+Sum of Subarray Minimums
+-	Medium	
+-
+Sum of Subarray Ranges
+-	Medium	
+-
+takeUforward
+Stepping Numbers
+-	Medium	
+-
+String to Integer (atoi)
+-	Medium	
+-
+takeUforward
+String Transforms Into Another String
+-	Hard	
+
+-
+takeUforward
+Strings Differ by One Character
+-	Medium	
+-
+KMP Algorithm or LPS array
+-	Hard	
+-
+Longest happy prefix
+-	Hard	
+-
+Rabin Karp Algorithm
+-	Hard	
+-
+Shortest Palindrome
+-	Hard	
+-
+Z function
+-	Hard	
+-
+Count and say
+-	Hard	
+-
+Minimum number of bracket reversals to make an expression balanced
+-	Hard	
+-
+Reverse every word in a string
+-	Medium	
+-
+takeUforward
+Strobogrammatic Number
+-	Easy	
+-
+takeUforward
+Strobogrammatic Number II
+-	Medium	
+-
+takeUforward
+Strobogrammatic Number III
+-	Hard	
+-
+Subarrays with K Different Integers
+-	Medium	
+-
+takeUforward
+Subsequence of Size K With the Largest Even Sum
+-	Medium	
+-
+takeUforward
+Subsequences with a Unique Middle Mode II
+-	Hard	
+-
+takeUforward
+Substrings That Begin and End With the Same Letter
+-	Medium	
+-
+takeUforward
+Subtree Removal Game with Fibonacci Tree
+-	Hard	
+-
+Sum of Beauty of All Substrings
+-	Medium	
+-
+takeUforward
+Sum of Consecutive Subarrays
+-	Medium	
+-
+takeUforward
+Sum of Consecutive Subsequences
+-	Hard	
+
+-
+takeUforward
+Sum of Digits in the Minimum Number
+-	Easy	
+-
+Sum of Fibonacci Numbers
+-	Easy	
+-
+Sum of First N Natural Numbers
+-	Easy	
+-
+Sum of GP Series
+-	Easy	
+-
+Sum of Numbers in a Given Range
+-	Easy	
+-
+takeUforward
+Sum of Remoteness of All Cells
+-	Medium	
+-
+takeUforward
+Sum Of Special Evenly-Spaced Elements In Array
+-	Hard	
+-
+Sum of the Numbers in a String
+-	Easy	
+-
+Super Egg Drop
+-	Medium	
+-
+Swap Two Numbers
+-	Easy	
+-
+Swim in Rising Water
+-	Medium	
+-
+takeUforward
+Synonymous Sentences
+-	Medium	
+-
+Task Scheduler
+-	Medium	
+-
+takeUforward
+Ternary Expression Parser
+-	Medium	
+-
+takeUforward
+The Knight's Tour
+-	Easy	
+-
+takeUforward
+The Maze
+-	Medium	
+-
+takeUforward
+The Maze II
+-	Medium	
+-
+takeUforward
+The Maze III
+-	Hard	
+-
+takeUforward
+The Most Similar Path in a Graph
+-	Hard	
+-
+takeUforward
+The Wording Game
+-	Hard	
+
+-
+takeUforward
+The Earliest Moment When Everyone Become Friends
+-	Medium	
+-
+takeUforward
+Time Taken to Cross the Door
+-	Hard	
+-
+Top K Frequent Elements
+-	Medium	
+-
+takeUforward
+Toss Strange Coins
+-	Medium	
+-
+takeUforward
+Traffic Light Controlled Intersection
+-	Medium	
+-
+Tree Greatness
+-	Medium	
+-
+takeUforward
+Tree Diameter
+-	Medium	
+-
+takeUforward
+Longest Word with All Prefixes
+-	Medium	
+-
+Maximum XOR of two numbers in an array
+-	Hard	
+-
+Maximum Xor with an element from an array
+-	Hard	
+-
+takeUforward
+Number of distinct substrings in a string
+-	Medium	
+-
+Trie Implementation and Advanced Operations
+-	Hard	
+-
+Trie Implementation and Operations
+-	Hard	
+-
+Twin Numbers
+-	Medium	
+-
+takeUforward
+Two Sum III – Data Structure Design
+-	Easy	
+-
+takeUforward
+Two Sum Less Than K
+-	Easy	
+-
+takeUforward
+Two Sum BSTs
+-	Medium	
+-
+Un Palindromic Strings
+-	Medium	
+-
+takeUforward
+Undefined to Null
+-	Medium	
+-
+Understand Recursion by Printing
+-	Medium	
+
+-
+takeUforward
+Unique Substrings With Equal Digit Frequency
+-	Medium	
+-
+takeUforward
+Unique Word Abbreviation
+-	Medium	
+-
+takeUforward
+Valid Palindrome III
+-	Hard	
+-
+takeUforward
+Valid Palindrome IV
+-	Medium	
+-
+takeUforward
+Valid Word Abbreviation
+-	Easy	
+-
+takeUforward
+Valid Word Square
+-	Easy	
+-
+takeUforward
+Verify Preorder Sequence in Binary Search Tree
+-	Hard	
+-
+takeUforward
+Walls and Gates
+-	Medium	
+-
+takeUforward
+Web Crawler
+-	Easy	
+-
+takeUforward
+Widest Pair of Indices With Equal Range Sum
+-	Medium	
+-
+takeUforward
+Wiggle Sort
+-	Medium	
+-
+Win or Lose
+-	Easy	
+-
+takeUforward
+Winner of the Linked List Game
+-	Easy	
+-
+Word Abbreviation
+-	hard	
+-
+takeUforward
+Word Pattern II
+-	Hard	
+-
+Word Squares
+-	Hard	
+-
+takeUforward
+Zigzag Iterator
+-	Medium	
+-
+Word Break (print all ways)
+-	Medium	
+-
+Inversion of Array (Pre-req: Merge Sort)
+-	Hard	
+-
+Max Product Subarray
+-	Hard	
+
+-
+Kadane's Algorithm, maximum subarray sum
+-	Medium	
+-
+Print subarray with maximum subarray sum (extended version of above problem)
+-	Medium	
+-
+Sort an array of 0's 1's and 2's
+-	Medium	
+-
+Find the Missing Number
+-	Medium	
+-
+Remove duplicates from Sorted array
+-	Easy	
+-
+Search an element in a 2D matrix
+-	Hard	
+-
+Allocate Minimum Number of Pages
+-	Hard	
+-
+Kth element of 2 sorted arrays
+-	Medium	
+-
+Median of two sorted arrays
+-	Hard	
+-
+Search element in a sorted and rotated array/ find pivot where it is rotated
+-	Medium	
+-
+Single element in a Sorted Array
+-	Medium	
+-
+The N-th root of an integer
+-	Medium	
+-
+Merge 2 BST's
+-	Hard	
+-
+Size of the largest BST in a Binary Tree
+-	Hard	
+-
+Two Sum In BST | Check if there exists a pair with Sum K
+-	Hard	
+-
+Inorder Successor/Predecessor in BST
+-	Medium	
+-
+Find K-th smallest element in BST
+-	Medium	
+-
+Ceil in a BST
+-	Easy	
+-
+Floor in a Binary Search Tree
+-	Easy	
+-
+Floor in a BST
+-	Easy	
+
+-
+Search in a Binary Search Tree
+-	Easy	
+-
+Construct the Binary Tree from Postorder and Inorder Traversal
+-	Hard	
+-
+Right/Left View of Binary Tree
+-	Medium	
+-
+Invert/Flip Binary Tree (Create)
+-	Medium	
+-
+Symmetric Binary Tree
+-	Medium	
+-
+Inorder Traversal of Binary Tree
+-	Easy	
+-
+Iterative Inorder Traversal of Binary Tree
+-	Easy	
+-
+Post-order Traversal of Binary Tree using 1 stack
+-	Easy	
+-
+Post-order Traversal of Binary Tree using 2 stack
+-	Easy	
+-
+Preorder, Inorder, and Postorder Traversal in one Traversal
+-	Easy	
+-
+Preorder Traversal
+-	Easy	
+-
+Morris Preorder Traversal of a Binary Tree
+-	Hard	
+-
+Morris Inorder Traversal of a Binary Tree
+-	Hard	
+-
+Find the number that appears once, and other numbers twice.
+-	Medium	
+-
+Palindromic Substrings
+-	Medium	
+-
+Grid Unique Paths : DP on Grids (DP8)
+-	Medium	
+-
+Minimum path sum in Grid (DP 10)
+-	Medium	
+-
+Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)
+-	Medium	
+-
+Stock Buy and Sell
+-	Medium	
+-
+Print Longest Common Subsequence | (DP - 26)
+-	Hard	
+
+-
+Minimum insertions to make string palindrome | DP-29
+-	Hard	
+-
+Coin Change 2 (DP - 22)
+-	Hard	
+-
+Minimum Coins (DP - 20)
+-	Hard	
+-
+Rod Cutting Problem | (DP - 24)
+-	Hard	
+-
+Subset sum equal to target (DP- 14)
+-	Hard	
+-
+Subset Sums
+-	Hard	
+-
+Matrix Chain Multiplication | Bottom-Up|(DP-49)
+-	Hard	
+-
+Print all Divisors
+-	Easy	
+-
+Implement Stack using Queue (using single queue)
+-	Easy	
+-
+Check if two strings are anagram of each other
+-	Easy	
+-
+Middle of a LinkedList [TortoiseHare Method]
+-	Easy	
+-
+Strongly Connected Component(using KosaRajuΓÇÖs algo)
+-	Hard	
+-
+Bipartite Check using DFS
+-	Hard	
+-
+Bipartite Graph (DFS)
+-	Hard	
+-
+Cycle Detection in Directed Graph (DFS)
+-	Hard	
+-
+Detect A cycle in a Directed Graph using BFS
+-	Hard	
+-
+Detect A cycle in a Directed Graph using DFS
+-	Hard	
+-
+Cycle Detection in Undirected Graph (bfs)
+-	Hard	
+-
+Detect A cycle in Undirected Graph using BFS
+-	Hard	
+-
+Detect A cycle in Undirected Graph using DFS
+-	Hard	
+
+-
+Topological Sort BFS
+-	Hard	
+-
+Topological Sort DFS
+-	Hard	
+-
+Topo Sort
+-	Hard	
+-
+MST using KruskalΓÇÖs Algo
+-	Hard	
+-
+MST using Prim's Algo
+-	Hard	
+-
+Prim's Algorithm
+-	Hard	
+-
+Bellman Ford Algorithm
+-	Hard	
+-
+Djisktra's Algorithm
+-	Hard	
+-
+Why priority Queue is used in Djisktra's Algorithm
+-	Hard	
+-
+Floyd Warshall Algorithm
+-	Hard	
+-
+Connected Components Problem in Matrix
+-	Medium	
+-
+DFS
+-	Medium	
+-
+Flood-fill Algorithm
+-	Medium	
+-
+Number of islands(Do in Grid and Graph Both)
+-	Medium	
+-
+Assign Cookies
+-	Easy	
+-
+Longest Consecutive Sequence in an Array
+-	Medium	
+-
+Longest subarray with given sum K(positives)
+-	Medium	
+-
+Largest Subarray with K sum
+-	Medium	
+-
+Kth largest element in a stream of running integers
+-	Hard	
+-
+K-th largest element in an unsorted array.
+-	Medium	
+
+-
+Kth smallest element in an array [use priority queue]
+-	Medium	
+-
+Flattening of LL
+-	Hard	
+-
+Reverse LL in group of given size K
+-	Hard	
+-
+Rotate a LL
+-	Hard	
+-
+Check if LL is palindrome or not
+-	Medium	
+-
+Detect a loop in LL
+-	Medium	
+-
+Find the intersection point of Y LL
+-	Medium	
+-
+Find the starting point in LL
+-	Medium	
+-
+Add two numbers as LinkedList
+-	Medium	
+-
+Remove Nth node from the back of the LL
+-	Medium	
+-
+Reverse a LinkedList [Iterative]
+-	Medium	
+-
+Longest Increasing Subsequence |(DP-43)
+-	Medium	
+-
+Longest Palindrome in a string
+-	Medium	
+-
+Print Prime Factors of a Number
+-	Hard	
+-
+Palindrome Partitioning (MCM Variation)
+-	Hard	
+-
+Pow(x, n)
+-	Easy	
+-
+Power Set (this is very important)
+-	Medium	
+-
+Longest Substring Without Repeating Characters
+-	Medium	
+-
+Sort a stack using recursion
+-	Medium	
+-
+Program for Least Recently Used (LRU) Page Replacement Algorithm
+-	Medium	
+
+-
+Maximum Rectangle Area with all 1's|(DP-55)
+-	Hard	
+-
+Implement ATOI/STRSTR
+-	Medium	
+-
+Recursive Implementation of atoi()
+-	Medium	
+-
+Reverse words in a given string / Palindrome Check
+-	Medium	
+-
+Iterative Preorder Traversal of Binary Tree
+-	Easy	
+
