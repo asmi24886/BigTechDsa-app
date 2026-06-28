@@ -9,11 +9,13 @@ interface Problem {
   difficulty: string
   alternatePatterns?: string[]
   isBigTechDsa?: boolean
+  bigTechDsaTier?: 'Iron' | 'Gold' | 'Platinum'
 }
 
 type MergedData = Record<string, Record<string, Problem[]>>
 
 type DifficultyFilter = 'All' | 'Easy' | 'Medium' | 'Hard' | 'Unknown'
+type CuratedFilter = 'All' | 'Curated' | 'Iron' | 'Gold' | 'Platinum'
 
 const DIFF_ORDER: Record<string, number> = {
   Easy: 0,
@@ -57,7 +59,7 @@ function App() {
   const [catFilter, setCatFilter] = useState<string>('All')
   const [search, setSearch] = useState('')
   const [sourceFilter, setSourceFilter] = useState<Set<string>>(new Set())
-  const [showCurated, setShowCurated] = useState(false)
+  const [curatedFilter, setCuratedFilter] = useState<CuratedFilter>('All')
 
   useEffect(() => {
     // Adding a timestamp parameter to bust aggressive browser HTTP caching 
@@ -78,6 +80,7 @@ function App() {
   const globalStats = useMemo(() => {
     if (!data) return null
     let total = 0
+    let multiSourceCount = 0
     const srcCounts: Record<string, number> = {}
     SOURCE_DEFS.forEach(s => srcCounts[s.key] = 0)
 
@@ -85,16 +88,27 @@ function App() {
       for (const sub in data[cat]) {
         for (const p of data[cat][sub]) {
           total++
+          if (p.sources && p.sources.length >= 2) {
+            multiSourceCount++
+          }
           SOURCE_DEFS.forEach(sd => {
             if (p.sources.some(sd.matcher)) srcCounts[sd.key]++
           })
         }
       }
     }
-    return { total, srcCounts }
+    return { total, srcCounts, multiSourceCount }
   }, [data])
 
-  /* ── Base-filtered data: category + difficulty + search, but NO source filter ── */
+  /* ── Helper: does problem match the curated filter? ── */
+  const problemMatchesCurated = (p: Problem): boolean => {
+    if (curatedFilter === 'All') return true
+    if (!p.isBigTechDsa) return false
+    if (curatedFilter === 'Curated') return true
+    return p.bigTechDsaTier === curatedFilter
+  }
+
+  /* ── Base-filtered data: category + difficulty + search + curated, but NO source filter ── */
   /* This is used to calculate how many problems each source would contribute */
   const baseFilteredProblems = useMemo(() => {
     if (!data) return [] as Problem[]
@@ -107,15 +121,13 @@ function App() {
         for (const p of data[cat][sub]) {
           if (diffFilter !== 'All' && p.difficulty !== diffFilter) continue
           if (q && !p.name.toLowerCase().includes(q)) continue
-          
-          if (showCurated && !p.isBigTechDsa) continue
-          
+          if (!problemMatchesCurated(p)) continue
           result.push(p)
         }
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search, showCurated])
+  }, [data, diffFilter, catFilter, search, curatedFilter])
 
   /* ── Stats from base-filtered (for source chip counts) ── */
   const baseStats = useMemo(() => {
@@ -181,9 +193,7 @@ function App() {
         }
 
         // Curated filter
-        if (showCurated) {
-          problems = problems.filter(p => p.isBigTechDsa)
-        }
+        problems = problems.filter(p => problemMatchesCurated(p))
 
         // Search filter
         if (q) {
@@ -204,7 +214,7 @@ function App() {
       }
     }
     return result
-  }, [data, diffFilter, catFilter, search, sourceFilter, showCurated])
+  }, [data, diffFilter, catFilter, search, sourceFilter, curatedFilter])
 
   /* ── Filtered count ── */
   const filteredCount = useMemo(() => {
@@ -241,6 +251,38 @@ function App() {
     return { total, easy, medium, hard, unknown, srcCounts }
   }, [filteredData])
 
+  /* ── Tier counts (computed from all data, respecting category + difficulty + search + source filters) ── */
+  const tierCounts = useMemo(() => {
+    if (!data) return { all: 0, curated: 0, iron: 0, gold: 0, platinum: 0 }
+    const q = search.toLowerCase().trim()
+    let all = 0, curated = 0, iron = 0, gold = 0, platinum = 0
+
+    for (const cat in data) {
+      if (catFilter !== 'All' && cat !== catFilter) continue
+      for (const sub in data[cat]) {
+        for (const p of data[cat][sub]) {
+          if (diffFilter !== 'All' && p.difficulty !== diffFilter) continue
+          if (q && !p.name.toLowerCase().includes(q)) continue
+          if (sourceFilter.size > 0) {
+            let matchesAll = true
+            for (const srcKey of sourceFilter) {
+              if (!problemMatchesSource(p, srcKey)) { matchesAll = false; break }
+            }
+            if (!matchesAll) continue
+          }
+          all++
+          if (p.isBigTechDsa) {
+            curated++
+            if (p.bigTechDsaTier === 'Iron') iron++
+            else if (p.bigTechDsaTier === 'Gold') gold++
+            else if (p.bigTechDsaTier === 'Platinum') platinum++
+          }
+        }
+      }
+    }
+    return { all, curated, iron, gold, platinum }
+  }, [data, diffFilter, catFilter, search, sourceFilter])
+
   /* ── Category counts for the dropdown (respecting current filters except category) ── */
   const categoryCounts = useMemo(() => {
     if (!data) return {} as Record<string, number>
@@ -260,14 +302,14 @@ function App() {
             }
             if (!matchesAll) continue
           }
-          if (showCurated && !p.isBigTechDsa) continue
+          if (!problemMatchesCurated(p)) continue
           catTotal++
         }
       }
       counts[cat] = catTotal
     }
     return counts
-  }, [data, diffFilter, search, sourceFilter, showCurated])
+  }, [data, diffFilter, search, sourceFilter, curatedFilter])
 
   /* ── Categories List ── */
   const categoriesList = useMemo(() => {
@@ -313,7 +355,7 @@ function App() {
     setOpenSubs(new Set())
   }
 
-  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All' || showCurated
+  const hasActiveFilters = diffFilter !== 'All' || search || sourceFilter.size > 0 || catFilter !== 'All' || curatedFilter !== 'All'
 
   if (!data || !globalStats || !filteredData || !filteredStats || !baseStats) {
     return (
@@ -330,6 +372,10 @@ function App() {
         <h1>Big Tech DSA</h1>
         <p>
           {hasActiveFilters ? `${filteredCount} of ${globalStats.total}` : globalStats.total} problems from 6 curated sources <br />
+          <span style={{ fontSize: '0.85rem', color: '#60a5fa', fontWeight: '500' }}>
+            ({globalStats.multiSourceCount} problems appear in 2 or more sources)
+          </span>
+          <br />
           <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>(Problems updated every 6 months)</span>
         </p>
       </header>
@@ -403,15 +449,30 @@ function App() {
           })}
         </div>
 
-        {/* BigTechDsa Curated Toggle */}
-        <button
-          className={`filter-btn picks ${showCurated ? 'active' : ''}`}
-          onClick={() => setShowCurated(prev => !prev)}
-          title={showCurated ? 'Show all problems' : 'Show only the curated BigTechDsa 500 problems'}
-          style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', marginLeft: '0.5rem' }}
-        >
-          ★ BigTechDsa 500
-        </button>
+        {/* BigTechDsa Tier Filters */}
+        <div className="tier-buttons">
+          <button
+            className={`filter-btn iron ${curatedFilter === 'Iron' ? 'active' : ''}`}
+            onClick={() => setCuratedFilter(prev => prev === 'Iron' ? 'All' : 'Iron')}
+            title="Iron 300 — Must-do core problems"
+          >
+            🥉 Iron ({tierCounts.iron})
+          </button>
+          <button
+            className={`filter-btn gold ${curatedFilter === 'Gold' ? 'active' : ''}`}
+            onClick={() => setCuratedFilter(prev => prev === 'Gold' ? 'All' : 'Gold')}
+            title="Gold 250 — Level-up problems"
+          >
+            🥇 Gold ({tierCounts.gold})
+          </button>
+          <button
+            className={`filter-btn platinum ${curatedFilter === 'Platinum' ? 'active' : ''}`}
+            onClick={() => setCuratedFilter(prev => prev === 'Platinum' ? 'All' : 'Platinum')}
+            title="Platinum 100 — Senior/Staff bar-raiser problems"
+          >
+            💎 Platinum ({tierCounts.platinum})
+          </button>
+        </div>
       </div>
 
       {/* Search */}
@@ -495,12 +556,12 @@ function App() {
                                         rel="noopener noreferrer"
                                         title={p.name}
                                       >
-                                        {p.isBigTechDsa && <span className="pick-star" title="BigTechDsa Curated">★ </span>}
+                                        {p.isBigTechDsa && <span className={`pick-star ${p.bigTechDsaTier?.toLowerCase() || ''}-star`} title={`BigTechDsa ${p.bigTechDsaTier || ''}`}>★ </span>}
                                         {p.name}
                                       </a>
                                     ) : (
                                       <span className="problem-name no-link" title={p.name}>
-                                        {p.isBigTechDsa && <span className="pick-star" title="BigTechDsa Curated">★ </span>}
+                                        {p.isBigTechDsa && <span className={`pick-star ${p.bigTechDsaTier?.toLowerCase() || ''}-star`} title={`BigTechDsa ${p.bigTechDsaTier || ''}`}>★ </span>}
                                         {p.name}
                                       </span>
                                     )}

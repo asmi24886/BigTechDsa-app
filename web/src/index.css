@@ -292,28 +292,106 @@ body {
   color: var(--unknown);
 }
 
-.filter-btn.picks {
+/* ── Tier Filter Buttons Container ── */
+.tier-buttons {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+/* ── All Curated Button ── */
+.filter-btn.tier-all {
   border-color: rgba(234, 179, 8, 0.3);
   color: #eab308;
 }
 
-.filter-btn.picks:hover {
+.filter-btn.tier-all:hover {
   border-color: #eab308;
   background: rgba(234, 179, 8, 0.08);
 }
 
-.filter-btn.picks.active {
+.filter-btn.tier-all.active {
   background: rgba(234, 179, 8, 0.15);
   border-color: #eab308;
   color: #facc15;
   box-shadow: 0 0 12px rgba(234, 179, 8, 0.2);
 }
 
+/* ── Iron Tier Button ── */
+.filter-btn.iron {
+  border-color: rgba(148, 163, 184, 0.3);
+  color: #94a3b8;
+}
+
+.filter-btn.iron:hover {
+  border-color: #94a3b8;
+  background: rgba(148, 163, 184, 0.08);
+}
+
+.filter-btn.iron.active {
+  background: rgba(148, 163, 184, 0.15);
+  border-color: #94a3b8;
+  color: #cbd5e1;
+  box-shadow: 0 0 12px rgba(148, 163, 184, 0.2);
+}
+
+/* ── Gold Tier Button (overrides difficulty .gold with higher specificity) ── */
+.tier-buttons .filter-btn.gold {
+  border-color: rgba(245, 158, 11, 0.3);
+  color: #f59e0b;
+}
+
+.tier-buttons .filter-btn.gold:hover {
+  border-color: #f59e0b;
+  background: rgba(245, 158, 11, 0.08);
+}
+
+.tier-buttons .filter-btn.gold.active {
+  background: rgba(245, 158, 11, 0.15);
+  border-color: #f59e0b;
+  color: #fbbf24;
+  box-shadow: 0 0 12px rgba(245, 158, 11, 0.25);
+}
+
+/* ── Platinum Tier Button ── */
+.filter-btn.platinum {
+  border-color: rgba(34, 211, 238, 0.3);
+  color: #22d3ee;
+}
+
+.filter-btn.platinum:hover {
+  border-color: #22d3ee;
+  background: rgba(34, 211, 238, 0.08);
+}
+
+.filter-btn.platinum.active {
+  background: rgba(34, 211, 238, 0.15);
+  border-color: #22d3ee;
+  color: #67e8f9;
+  box-shadow: 0 0 14px rgba(34, 211, 238, 0.3);
+}
+
+/* ── Tier-Colored Stars ── */
 .pick-star {
-  color: #facc15;
-  margin-right: 0.3rem; 
+  margin-right: 0.3rem;
   font-size: 1.1rem;
-  text-shadow: 0 0 6px rgba(250, 204, 21, 0.4);
+}
+
+.pick-star.iron-star {
+  color: #94a3b8;
+  text-shadow: 0 0 4px rgba(148, 163, 184, 0.3);
+}
+
+.pick-star.gold-star {
+  color: #fbbf24;
+  text-shadow: 0 0 6px rgba(251, 191, 36, 0.4);
+}
+
+.pick-star.platinum-star {
+  color: #22d3ee;
+  text-shadow: 0 0 8px rgba(34, 211, 238, 0.5);
 }
 
 /* ── Search ── */
