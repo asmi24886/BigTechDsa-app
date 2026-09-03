@@ -761,6 +761,12 @@ a.problem-name:hover {
   color: #cbd5e1;
 }
 
+.source-badge.l {
+  background: rgba(234, 179, 8, 0.15); /* eab308 with opacity */
+  border-color: #eab308;
+  color: #fde047;
+}
+
 
 /* ── Empty State ── */
 .empty-state {

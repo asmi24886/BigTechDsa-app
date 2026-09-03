@@ -1,0 +1,7855 @@
+Skip to content
+Layrs
+
+New session
+Home
+Plans
+My courses
+Progress
+Library
+Interviews
+NEW
+Sessions
+My courses
+No courses yet
+Upgrade to Pro
+
+G
+Guest
+Anonymous · sign in to save
+home/library/DSA Practice
+
+DSA Practice
+All problems · 1082
+Search problems…
+⌘K
+Random
+CURATED PATTERNS
+Master the patterns behind every interview problem.
+Practice with a tutor who watches your screen and coaches you when you’re stuck.
+
+PROGRESS & ANALYTICS
+Progress & analytics
+See your solve history, streaks, and pattern coverage.
+View analytics →
+All problems
+Blind 75
+75
+NeetCode 150
+150
+NeetCode 250
+250
+Custom sheet
+SOLVED
+0 / 1082
+STREAK
+—
+days
+No activity yet
+AVG. TIME
+—
+min / problem
+Solve a few to see this
+ACCEPTANCE
+—
+%
+No submissions yet
+All
+0 / 1082
+
+Easy
+0 / 186
+
+Medium
+0 / 591
+
+Hard
+0 / 305
+Solved
+Order: Recommended
+
+Arrays & Hashing
+87 problems
+0 / 87
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Buddy Strings
+#hashing
+Easy
+—
+—
+Practice
+#2
+Check if All Characters Have Equal Number of Occurrences
+#hashing
+Easy
+—
+—
+Practice
+#3
+Check if the Sentence Is Pangram
+#hashing
+Easy
+—
+—
+Practice
+#4
+Contains Duplicate
+#hashing
+Easy
+—
+—
+Practice
+#5
+Decode the Message
+#hashing
+Easy
+—
+—
+Practice
+#6
+Design HashMap
+#hash-table
+Easy
+—
+—
+Practice
+#7
+Distribute Candies
+#hashing
+Easy
+—
+—
+Practice
+#8
+Find Common Characters
+#hashing
+Easy
+—
+—
+Practice
+#9
+Find Common Elements Between Two Arrays
+#hashing
+Easy
+—
+—
+Practice
+#10
+Find Resultant Array After Removing Anagrams
+#hashing
+Easy
+—
+—
+Practice
+#11
+Find the XOR of Numbers Which Appear Twice
+#hashing
+Easy
+—
+—
+Practice
+#12
+Find Words That Can Be Formed by Characters
+#hashing
+Easy
+—
+—
+Practice
+#13
+Form Smallest Number From Two Digit Arrays
+#hashing
+Easy
+—
+—
+Practice
+#14
+Increasing Decreasing String
+#hashing
+Easy
+—
+—
+Practice
+#15
+Isomorphic Strings
+#hashing
+Easy
+—
+—
+Practice
+#16
+Largest Substring Between Two Equal Characters
+#hashing
+Easy
+—
+—
+Practice
+#17
+Majority Element
+#hashing
+Easy
+—
+—
+Practice
+#18
+Merge Similar Items
+#hashing
+Easy
+—
+—
+Practice
+#19
+Number of Good Pairs
+#hashing
+Easy
+—
+—
+Practice
+#20
+Path Crossing
+#hash-table
+Easy
+—
+—
+Practice
+#21
+Permutation Difference between Two Strings
+#hashing
+Easy
+—
+—
+Practice
+#22
+Redistribute Characters to Make All Strings Equal
+#hashing
+Easy
+—
+—
+Practice
+#23
+Remove Letter To Equalize Frequency
+#hashing
+Easy
+—
+—
+Practice
+#24
+Smallest Missing Integer Greater Than Sequential Prefix Sum
+#hashing
+Easy
+—
+—
+Practice
+#25
+Sort Array by Increasing Frequency
+#hashing
+Easy
+—
+—
+Practice
+#26
+Sum of Unique Elements
+#hashing
+Easy
+—
+—
+Practice
+#27
+The K Weakest Rows in a Matrix
+#array
+Easy
+—
+—
+Practice
+#28
+Two Sum
+#hash-table
+Easy
+—
+—
+Practice
+#29
+Two Sum IV - Input is a BST
+#hash-table
+Easy
+—
+—
+Practice
+#30
+Unique Number of Occurrences
+#hashing
+Easy
+—
+—
+Practice
+#31
+Valid Anagram
+#hashing
+Easy
+—
+—
+Practice
+#32
+Word Pattern
+#hashing
+Easy
+—
+—
+Practice
+#33
+4Sum II
+#hashing
+Medium
+—
+—
+Practice
+#34
+Alphabet Board Path
+#hashing
+Medium
+—
+—
+Practice
+#35
+Brick Wall
+#hashing
+Medium
+—
+—
+Practice
+#36
+Bulls and Cows
+#hashing
+Medium
+—
+—
+Practice
+#37
+Can Convert String in K Moves
+#hashing
+Medium
+—
+—
+Practice
+#38
+Card Flipping Game
+#hashing
+Medium
+—
+—
+Practice
+#39
+Check If Array Pairs Are Divisible by k
+#hash-table
+Medium
+—
+—
+Practice
+#40
+Convert an Array Into a 2D Array With Conditions
+#hashing
+Medium
+—
+—
+Practice
+#41
+Count Artifacts That Can Be Extracted
+#hashing
+Medium
+—
+—
+Practice
+#42
+Count Number of Bad Pairs
+#hashing
+Medium
+—
+—
+Practice
+#43
+Count Pairs That Form a Complete Day II
+#hashing
+Medium
+—
+—
+Practice
+#44
+Count the Number of Houses at a Certain Distance I
+#brute-force
+Medium
+—
+—
+Practice
+#45
+Count the Number of Special Characters II
+#hashing
+Medium
+—
+—
+Practice
+#46
+Equal Row and Column Pairs
+#hash-table
+Medium
+—
+—
+Practice
+#47
+Evaluate the Bracket Pairs of a String
+#hashing
+Medium
+—
+—
+Practice
+#48
+Find All Duplicates in an Array
+#hashing
+Medium
+—
+—
+Practice
+#49
+Find All Lonely Numbers in the Array
+#hashing
+Medium
+—
+—
+Practice
+#50
+Find Occurrences of an Element in an Array
+#hashing
+Medium
+—
+—
+Practice
+#51
+Find the Length of the Longest Common Prefix
+#hash-table
+Medium
+—
+—
+Practice
+#52
+Find the Maximum Number of Elements in Subset
+#hash-table
+Medium
+—
+—
+Practice
+#53
+Finding the Users Active Minutes
+#hashing
+Medium
+—
+—
+Practice
+#54
+Group Anagrams
+#hashing
+Medium
+—
+—
+Practice
+#55
+Groups of Special-Equivalent Strings
+#hashing
+Medium
+—
+—
+Practice
+#56
+Hand of Straights
+#hash-table
+Medium
+—
+—
+Practice
+#57
+HTML Entity Parser
+#hashing
+Medium
+—
+—
+Practice
+#58
+Implement Magic Dictionary
+#hash-table
+Medium
+—
+—
+Practice
+#59
+Insert Interval
+#array
+Medium
+—
+—
+Practice
+#60
+Integer to Roman
+#hashing
+Medium
+—
+—
+Practice
+#61
+LRU Cache
+#hash-table
+Medium
+—
+—
+Practice
+#62
+Majority Element II
+#hashing
+Medium
+—
+—
+Practice
+#63
+Minimum Number of Operations to Make Word K-Periodic
+#hash-table
+Medium
+—
+—
+Practice
+#64
+Minimum Seconds to Equalize a Circular Array
+#hashing
+Medium
+—
+—
+Practice
+#65
+Most Popular Video Creator
+#hash-table
+Medium
+—
+—
+Practice
+#66
+Pairs of Songs With Total Durations Divisible by 60
+#hashing
+Medium
+—
+—
+Practice
+#67
+People Whose List of Favorite Companies Is Not a Subset of Another List
+#hashing
+Medium
+—
+—
+Practice
+#68
+Reconstruct Original Digits from English
+#hashing
+Medium
+—
+—
+Practice
+#69
+Replace Elements in an Array
+#hash-table
+Medium
+—
+—
+Practice
+#70
+Restore the Array From Adjacent Pairs
+#hash-table
+Medium
+—
+—
+Practice
+#71
+Reward Top K Students
+#hash-table
+Medium
+—
+—
+Practice
+#72
+Sum of Digit Differences of All Pairs
+#counting
+Medium
+—
+—
+Practice
+#73
+Tuple with Same Product
+#hashing
+Medium
+—
+—
+Practice
+#74
+Vowel Spellchecker
+#hashing
+Medium
+—
+—
+Practice
+#75
+Word Subsets
+#hashing
+Medium
+—
+—
+Practice
+#76
+Alternating Groups III
+#array
+Hard
+—
+—
+Practice
+#77
+Count Subarrays With Median K
+#hashing
+Hard
+—
+—
+Practice
+#78
+Count the Number of Good Partitions
+#hashing
+Hard
+—
+—
+Practice
+#79
+Falling Squares
+#array
+Hard
+—
+—
+Practice
+#80
+First Missing Positive
+#hashing
+Hard
+—
+—
+Practice
+#81
+Grid Illumination
+#hashing
+Hard
+—
+—
+Practice
+#82
+Maximum Equal Frequency
+#hashing
+Hard
+—
+—
+Practice
+#83
+Maximum Frequency Stack
+#hash-table
+Hard
+—
+—
+Practice
+#84
+Palindrome Pairs
+#hash-table
+Hard
+—
+—
+Practice
+#85
+Range Module
+#ordered-set
+Hard
+—
+—
+Practice
+#86
+Split the Array to Make Coprime Products
+#hashing
+Hard
+—
+—
+Practice
+#87
+Sum of Imbalance Numbers of All Subarrays
+#hashing
+Hard
+—
+—
+Practice
+
+Two Pointers
+53 problems
+0 / 53
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Apply Operations to an Array
+#two-pointers
+Easy
+—
+—
+Practice
+#2
+DI String Match
+#two-pointers
+Easy
+—
+—
+Practice
+#3
+Find All K-Distant Indices in an Array
+#two-pointers
+Easy
+—
+—
+Practice
+#4
+Intersection of Two Linked Lists
+#two-pointers
+Easy
+—
+—
+Practice
+#5
+Lexicographically Smallest Palindrome
+#two-pointers
+Easy
+—
+—
+Practice
+#6
+Linked List Cycle
+#two-pointers
+Easy
+—
+—
+Practice
+#7
+Merge Sorted Array
+#two-pointers
+Easy
+—
+—
+Practice
+#8
+Merge Strings Alternately
+#two-pointers
+Easy
+—
+—
+Practice
+#9
+Merge Two 2D Arrays by Summing Values
+#two-pointers
+Easy
+—
+—
+Practice
+#10
+Middle of the Linked List
+#two-pointers
+Easy
+—
+—
+Practice
+#11
+Minimum Common Value
+#two-pointers
+Easy
+—
+—
+Practice
+#12
+Palindrome Linked List
+#two-pointers
+Easy
+—
+—
+Practice
+#13
+Remove Duplicates from Sorted Array
+#two-pointers
+Easy
+—
+—
+Practice
+#14
+Remove Element
+#two-pointers
+Easy
+—
+—
+Practice
+#15
+Reverse Prefix of Word
+#two-pointers
+Easy
+—
+—
+Practice
+#16
+Reverse String
+#two-pointers
+Easy
+—
+—
+Practice
+#17
+Reverse Vowels of a String
+#two-pointers
+Easy
+—
+—
+Practice
+#18
+Reverse Words in a String III
+#two-pointers
+Easy
+—
+—
+Practice
+#19
+Shortest Distance to a Character
+#two-pointers
+Easy
+—
+—
+Practice
+#20
+Sort Array By Parity
+#two-pointers
+Easy
+—
+—
+Practice
+#21
+Sort Array By Parity II
+#two-pointers
+Easy
+—
+—
+Practice
+#22
+Valid Palindrome
+#two-pointers
+Easy
+—
+—
+Practice
+#23
+Valid Palindrome II
+#two-pointers
+Easy
+—
+—
+Practice
+#24
+3Sum
+#two-pointers
+Medium
+—
+—
+Practice
+#25
+3Sum Closest
+#two-pointers
+Medium
+—
+—
+Practice
+#26
+4Sum
+#two-pointers
+Medium
+—
+—
+Practice
+#27
+Boats to Save People
+#two-pointers
+Medium
+—
+—
+Practice
+#28
+Camelcase Matching
+#two-pointers
+Medium
+—
+—
+Practice
+#29
+Container With Most Water
+#two-pointers
+Medium
+—
+—
+Practice
+#30
+Count the Number of Fair Pairs
+#two-pointers
+Medium
+—
+—
+Practice
+#31
+Largest Merge Of Two Strings
+#two-pointers
+Medium
+—
+—
+Practice
+#32
+Linked List Cycle II
+#two-pointers
+Medium
+—
+—
+Practice
+#33
+Longest Palindromic Substring
+#two-pointers
+Medium
+—
+—
+Practice
+#34
+Make String a Subsequence Using Cyclic Increments
+#two-pointers
+Medium
+—
+—
+Practice
+#35
+Minimum Length of String After Deleting Similar Ends
+#two-pointers
+Medium
+—
+—
+Practice
+#36
+Move Pieces to Obtain a String
+#two-pointers
+Medium
+—
+—
+Practice
+#37
+Next Greater Element III
+#two-pointers
+Medium
+—
+—
+Practice
+#38
+Next Permutation
+#two-pointers
+Medium
+—
+—
+Practice
+#39
+Partition Array According to Given Pivot
+#two-pointers
+Medium
+—
+—
+Practice
+#40
+Rearrange Array Elements by Sign
+#two-pointers
+Medium
+—
+—
+Practice
+#41
+Remove Nth Node From End of List
+#two-pointers
+Medium
+—
+—
+Practice
+#42
+Reverse Words in a String
+#two-pointers
+Medium
+—
+—
+Practice
+#43
+Rotate Array
+#two-pointers
+Medium
+—
+—
+Practice
+#44
+Sentence Similarity III
+#two-pointers
+Medium
+—
+—
+Practice
+#45
+Separate Black and White Balls
+#two-pointers
+Medium
+—
+—
+Practice
+#46
+Shortest Unsorted Continuous Subarray
+#two-pointers
+Medium
+—
+—
+Practice
+#47
+Sort Colors
+#two-pointers
+Medium
+—
+—
+Practice
+#48
+String Compression
+#two-pointers
+Medium
+—
+—
+Practice
+#49
+Two Sum II Input Array Is Sorted
+#two-pointers
+Medium
+—
+—
+Practice
+#50
+Watering Plants II
+#two-pointers
+Medium
+—
+—
+Practice
+#51
+Get the Maximum Score
+#two-pointers
+Hard
+—
+—
+Practice
+#52
+Maximum Score of a Good Subarray
+#two-pointers
+Hard
+—
+—
+Practice
+#53
+Trapping Rain Water
+#two-pointers
+Hard
+—
+—
+Practice
+
+Sliding Window
+45 problems
+0 / 45
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Contains Duplicate II
+#sliding-window
+Easy
+—
+—
+Practice
+#2
+Maximum Average Subarray I
+#sliding-window
+Easy
+—
+—
+Practice
+#3
+Substrings of Size Three with Distinct Characters
+#sliding-window
+Easy
+—
+—
+Practice
+#4
+Check If a String Contains All Binary Codes of Size K
+#sliding-window
+Medium
+—
+—
+Practice
+#5
+Continuous Subarrays
+#sliding-window
+Medium
+—
+—
+Practice
+#6
+Count Number of Nice Subarrays
+#sliding-window
+Medium
+—
+—
+Practice
+#7
+Count the Number of Good Subarrays
+#sliding-window
+Medium
+—
+—
+Practice
+#8
+Count the Number of Substrings With Dominant Ones
+#sliding-window
+Medium
+—
+—
+Practice
+#9
+Find All Anagrams in a String
+#sliding-window
+Medium
+—
+—
+Practice
+#10
+Frequency of the Most Frequent Element
+#sliding-window
+Medium
+—
+—
+Practice
+#11
+Fruit Into Baskets
+#sliding-window
+Medium
+—
+—
+Practice
+#12
+Grumpy Bookstore Owner
+#sliding-window
+Medium
+—
+—
+Practice
+#13
+K Radius Subarray Averages
+#sliding-window
+Medium
+—
+—
+Practice
+#14
+Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+#sliding-window
+Medium
+—
+—
+Practice
+#15
+Longest Nice Subarray
+#sliding-window
+Medium
+—
+—
+Practice
+#16
+Longest Repeating Character Replacement
+#sliding-window
+Medium
+—
+—
+Practice
+#17
+Longest Subarray of 1's After Deleting One Element
+#sliding-window
+Medium
+—
+—
+Practice
+#18
+Longest Substring Without Repeating Characters
+#sliding-window
+Medium
+—
+—
+Practice
+#19
+Longest Turbulent Subarray
+#sliding-window
+Medium
+—
+—
+Practice
+#20
+Max Consecutive Ones III
+#sliding-window
+Medium
+—
+—
+Practice
+#21
+Maximum Erasure Value
+#sliding-window
+Medium
+—
+—
+Practice
+#22
+Maximum Number of Occurrences of a Substring
+#sliding-window
+Medium
+—
+—
+Practice
+#23
+Maximum Number of Vowels in a Substring of Given Length
+#sliding-window
+Medium
+—
+—
+Practice
+#24
+Maximum Points You Can Obtain from Cards
+#sliding-window
+Medium
+—
+—
+Practice
+#25
+Maximum Sum of Distinct Subarrays With Length K
+#sliding-window
+Medium
+—
+—
+Practice
+#26
+Maximum White Tiles Covered by a Carpet
+#sliding-window
+Medium
+—
+—
+Practice
+#27
+Minimum Consecutive Cards to Pick Up
+#sliding-window
+Medium
+—
+—
+Practice
+#28
+Minimum Operations to Reduce X to Zero
+#sliding-window
+Medium
+—
+—
+Practice
+#29
+Minimum Size Subarray Sum
+#sliding-window
+Medium
+—
+—
+Practice
+#30
+Moving Stones Until Consecutive II
+#sliding-window
+Medium
+—
+—
+Practice
+#31
+Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+#sliding-window
+Medium
+—
+—
+Practice
+#32
+Number of Subarrays with Bounded Maximum
+#sliding-window
+Medium
+—
+—
+Practice
+#33
+Permutation in String
+#sliding-window
+Medium
+—
+—
+Practice
+#34
+Shortest Subarray With OR at Least K II
+#sliding-window
+Medium
+—
+—
+Practice
+#35
+Sliding Subarray Beauty
+#sliding-window
+Medium
+—
+—
+Practice
+#36
+Subarray Product Less Than K
+#sliding-window
+Medium
+—
+—
+Practice
+#37
+Contains Duplicate III
+#sliding-window
+Hard
+—
+—
+Practice
+#38
+Max Value of Equation
+#sliding-window
+Hard
+—
+—
+Practice
+#39
+Minimum Number of K Consecutive Bit Flips
+#sliding-window
+Hard
+—
+—
+Practice
+#40
+Minimum Window Substring
+#sliding-window
+Hard
+—
+—
+Practice
+#41
+Shortest Subarray with Sum at Least K
+#monotonic-queue
+Hard
+—
+—
+Practice
+#42
+Sliding Window Maximum
+#sliding-window
+Hard
+—
+—
+Practice
+#43
+Sliding Window Median
+#sliding-window
+Hard
+—
+—
+Practice
+#44
+Subarrays with K Different Integers
+#sliding-window
+Hard
+—
+—
+Practice
+#45
+Substring with Concatenation of All Words
+#sliding-window
+Hard
+—
+—
+Practice
+
+Stack
+46 problems
+0 / 46
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Baseball Game
+#stack
+Easy
+—
+—
+Practice
+#2
+Clear Digits
+#stack
+Easy
+—
+—
+Practice
+#3
+Final Prices With a Special Discount in a Shop
+#monotonic-stack
+Easy
+—
+—
+Practice
+#4
+Maximum Nesting Depth of the Parentheses
+#stack
+Easy
+—
+—
+Practice
+#5
+Next Greater Element I
+#stack
+Easy
+—
+—
+Practice
+#6
+Valid Parentheses
+#stack
+Easy
+—
+—
+Practice
+#7
+132 Pattern
+#stack
+Medium
+—
+—
+Practice
+#8
+Asteroid Collision
+#stack
+Medium
+—
+—
+Practice
+#9
+Basic Calculator II
+#stack
+Medium
+—
+—
+Practice
+#10
+Beautiful Towers I
+#stack
+Medium
+—
+—
+Practice
+#11
+Beautiful Towers II
+#monotonic-stack
+Medium
+—
+—
+Practice
+#12
+Car Fleet
+#stack
+Medium
+—
+—
+Practice
+#13
+Construct Smallest Number From DI String
+#stack
+Medium
+—
+—
+Practice
+#14
+Daily Temperatures
+#monotonic-stack
+Medium
+—
+—
+Practice
+#15
+Decode String
+#stack
+Medium
+—
+—
+Practice
+#16
+Evaluate Reverse Polish Notation
+#stack
+Medium
+—
+—
+Practice
+#17
+Maximum Nesting Depth of Two Valid Parentheses Strings
+#stack
+Medium
+—
+—
+Practice
+#18
+Maximum Subarray Min-Product
+#monotonic-stack
+Medium
+—
+—
+Practice
+#19
+Min Stack
+#stack
+Medium
+—
+—
+Practice
+#20
+Minimum Add to Make Parentheses Valid
+#stack
+Medium
+—
+—
+Practice
+#21
+Minimum Insertions to Balance a Parentheses String
+#stack
+Medium
+—
+—
+Practice
+#22
+Minimum Remove to Make Valid Parentheses
+#stack
+Medium
+—
+—
+Practice
+#23
+Next Greater Element II
+#monotonic-stack
+Medium
+—
+—
+Practice
+#24
+Online Stock Span
+#monotonic-stack
+Medium
+—
+—
+Practice
+#25
+Remove K Digits
+#monotonic-stack
+Medium
+—
+—
+Practice
+#26
+Reverse Substrings Between Each Pair of Parentheses
+#stack
+Medium
+—
+—
+Practice
+#27
+Score of Parentheses
+#stack
+Medium
+—
+—
+Practice
+#28
+Simplify Path
+#stack
+Medium
+—
+—
+Practice
+#29
+Smallest Subsequence of Distinct Characters
+#monotonic-stack
+Medium
+—
+—
+Practice
+#30
+Sum of Subarray Minimums
+#monotonic-stack
+Medium
+—
+—
+Practice
+#31
+Basic Calculator
+#stack
+Hard
+—
+—
+Practice
+#32
+Basic Calculator IV
+#stack
+Hard
+—
+—
+Practice
+#33
+Car Fleet II
+#monotonic-stack
+Hard
+—
+—
+Practice
+#34
+Create Maximum Number
+#monotonic-stack
+Hard
+—
+—
+Practice
+#35
+Dinner Plate Stacks
+#stack
+Hard
+—
+—
+Practice
+#36
+Find Building Where Alice and Bob Can Meet
+#monotonic-stack
+Hard
+—
+—
+Practice
+#37
+Find the Number of Subarrays Where Boundary Elements Are Maximum
+#monotonic-stack
+Hard
+—
+—
+Practice
+#38
+Largest Rectangle in Histogram
+#monotonic-stack
+Hard
+—
+—
+Practice
+#39
+Longest Valid Parentheses
+#stack
+Hard
+—
+—
+Practice
+#40
+Maximal Rectangle
+#stack
+Hard
+—
+—
+Practice
+#41
+Next Greater Element IV
+#monotonic-stack
+Hard
+—
+—
+Practice
+#42
+Number of Atoms
+#stack
+Hard
+—
+—
+Practice
+#43
+Number of Visible People in a Queue
+#monotonic-stack
+Hard
+—
+—
+Practice
+#44
+Replace Non-Coprime Numbers in Array
+#stack
+Hard
+—
+—
+Practice
+#45
+Robot Collisions
+#stack
+Hard
+—
+—
+Practice
+#46
+Sum of Total Strength of Wizards
+#monotonic-stack
+Hard
+—
+—
+Practice
+
+Queue
+4 problems
+0 / 4
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Implement Queue using Stacks
+#queue
+Easy
+—
+—
+Practice
+#2
+Design Circular Deque
+#queue
+Medium
+—
+—
+Practice
+#3
+Design Circular Queue
+#queue
+Medium
+—
+—
+Practice
+#4
+Reveal Cards In Increasing Order
+#queue
+Medium
+—
+—
+Practice
+
+Binary Search
+83 problems
+0 / 83
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Arranging Coins
+#binary-search
+Easy
+—
+—
+Practice
+#2
+Binary Search
+#binary-search
+Easy
+—
+—
+Practice
+#3
+Count Negative Numbers in a Sorted Matrix
+#binary-search
+Easy
+—
+—
+Practice
+#4
+Find Smallest Letter Greater Than Target
+#binary-search
+Easy
+—
+—
+Practice
+#5
+Find Target Indices After Sorting Array
+#binary-search
+Easy
+—
+—
+Practice
+#6
+Find the Distance Value Between Two Arrays
+#binary-search
+Easy
+—
+—
+Practice
+#7
+First Bad Version
+#binary-search
+Easy
+—
+—
+Practice
+#8
+Guess Number Higher or Lower
+#binary-search
+Easy
+—
+—
+Practice
+#9
+Kth Missing Positive Number
+#binary-search
+Easy
+—
+—
+Practice
+#10
+Longest Subsequence With Limited Sum
+#binary-search
+Easy
+—
+—
+Practice
+#11
+Search Insert Position
+#binary-search
+Easy
+—
+—
+Practice
+#12
+Special Array With X Elements Greater Than or Equal X
+#binary-search
+Easy
+—
+—
+Practice
+#13
+Sqrt(x)
+#binary-search
+Easy
+—
+—
+Practice
+#14
+Capacity To Ship Packages Within D Days
+#binary-search
+Medium
+—
+—
+Practice
+#15
+Count Number of Rectangles Containing Each Point
+#binary-search
+Medium
+—
+—
+Practice
+#16
+Earliest Second to Mark Indices I
+#binary-search
+Medium
+—
+—
+Practice
+#17
+Find a Peak Element II
+#binary-search
+Medium
+—
+—
+Practice
+#18
+Find First and Last Position of Element in Sorted Array
+#binary-search
+Medium
+—
+—
+Practice
+#19
+Find K Closest Elements
+#binary-search
+Medium
+—
+—
+Practice
+#20
+Find Minimum in Rotated Sorted Array
+#binary-search
+Medium
+—
+—
+Practice
+#21
+Find Peak Element
+#binary-search
+Medium
+—
+—
+Practice
+#22
+Find Right Interval
+#binary-search
+Medium
+—
+—
+Practice
+#23
+Find the Duplicate Number
+#binary-search
+Medium
+—
+—
+Practice
+#24
+Find the Smallest Divisor Given a Threshold
+#binary-search
+Medium
+—
+—
+Practice
+#25
+H-Index II
+#binary-search
+Medium
+—
+—
+Practice
+#26
+Heaters
+#binary-search
+Medium
+—
+—
+Practice
+#27
+K-th Smallest Prime Fraction
+#binary-search
+Medium
+—
+—
+Practice
+#28
+Koko Eating Bananas
+#binary-search
+Medium
+—
+—
+Practice
+#29
+Kth Smallest Element in a Sorted Matrix
+#binary-search
+Medium
+—
+—
+Practice
+#30
+Magnetic Force Between Two Balls
+#binary-search
+Medium
+—
+—
+Practice
+#31
+Maximum Candies Allocated to K Children
+#binary-search
+Medium
+—
+—
+Practice
+#32
+Maximum Number of Removable Characters
+#binary-search
+Medium
+—
+—
+Practice
+#33
+Maximum Running Time of N Computers
+#binary-search
+Medium
+—
+—
+Practice
+#34
+Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+#binary-search
+Medium
+—
+—
+Practice
+#35
+Maximum Tastiness of Candy Basket
+#binary-search
+Medium
+—
+—
+Practice
+#36
+Maximum Value at a Given Index in a Bounded Array
+#binary-search
+Medium
+—
+—
+Practice
+#37
+Minimize the Maximum Difference of Pairs
+#binary-search
+Medium
+—
+—
+Practice
+#38
+Minimize the Maximum of Two Arrays
+#binary-search
+Medium
+—
+—
+Practice
+#39
+Minimized Maximum of Products Distributed to Any Store
+#binary-search
+Medium
+—
+—
+Practice
+#40
+Minimum Absolute Difference Between Elements With Constraint
+#binary-search
+Medium
+—
+—
+Practice
+#41
+Minimum Absolute Sum Difference
+#binary-search
+Medium
+—
+—
+Practice
+#42
+Minimum Limit of Balls in a Bag
+#binary-search
+Medium
+—
+—
+Practice
+#43
+Minimum Number of Days to Make m Bouquets
+#binary-search
+Medium
+—
+—
+Practice
+#44
+Minimum Operations to Make All Array Elements Equal
+#binary-search
+Medium
+—
+—
+Practice
+#45
+Minimum Speed to Arrive on Time
+#binary-search
+Medium
+—
+—
+Practice
+#46
+Minimum Time to Repair Cars
+#binary-search
+Medium
+—
+—
+Practice
+#47
+Most Beautiful Item for Each Query
+#binary-search
+Medium
+—
+—
+Practice
+#48
+Most Profit Assigning Work
+#binary-search
+Medium
+—
+—
+Practice
+#49
+Number of Matching Subsequences
+#binary-search
+Medium
+—
+—
+Practice
+#50
+Online Election
+#binary-search
+Medium
+—
+—
+Practice
+#51
+Path With Minimum Effort
+#binary-search
+#bfs
+Medium
+—
+—
+Practice
+#52
+Peak Index in a Mountain Array
+#binary-search
+Medium
+—
+—
+Practice
+#53
+Random Pick with Weight
+#binary-search
+Medium
+—
+—
+Practice
+#54
+Range Frequency Queries
+#binary-search
+Medium
+—
+—
+Practice
+#55
+Search a 2D Matrix
+#binary-search
+Medium
+—
+—
+Practice
+#56
+Search a 2D Matrix II
+#binary-search
+Medium
+—
+—
+Practice
+#57
+Search in Rotated Sorted Array
+#binary-search
+Medium
+—
+—
+Practice
+#58
+Search in Rotated Sorted Array II
+#binary-search
+Medium
+—
+—
+Practice
+#59
+Sell Diminishing-Valued Colored Balls
+#binary-search
+Medium
+—
+—
+Practice
+#60
+Single Element in a Sorted Array
+#binary-search
+Medium
+—
+—
+Practice
+#61
+Split Array Largest Sum
+#binary-search
+Medium
+—
+—
+Practice
+#62
+Successful Pairs of Spells and Potions
+#binary-search
+Medium
+—
+—
+Practice
+#63
+Time Based Key-Value Store
+#binary-search
+Medium
+—
+—
+Practice
+#64
+Ugly Number III
+#binary-search
+Medium
+—
+—
+Practice
+#65
+Escape the Spreading Fire
+#binary-search
+Hard
+—
+—
+Practice
+#66
+Find in Mountain Array
+#binary-search
+Hard
+—
+—
+Practice
+#67
+Find K-th Smallest Pair Distance
+#binary-search
+Hard
+—
+—
+Practice
+#68
+Find Minimum in Rotated Sorted Array II
+#binary-search
+Hard
+—
+—
+Practice
+#69
+Find the Kth Smallest Sum of a Matrix With Sorted Rows
+#binary-search
+Hard
+—
+—
+Practice
+#70
+Find the Longest Valid Obstacle Course at Each Position
+#binary-search
+Hard
+—
+—
+Practice
+#71
+Find the Median of the Uniqueness Array
+#binary-search
+Hard
+—
+—
+Practice
+#72
+Kth Smallest Amount With Single Denomination Combination
+#binary-search
+Hard
+—
+—
+Practice
+#73
+Kth Smallest Number in Multiplication Table
+#binary-search
+Hard
+—
+—
+Practice
+#74
+Kth Smallest Product of Two Sorted Arrays
+#binary-search
+Hard
+—
+—
+Practice
+#75
+Last Day Where You Can Still Cross
+#binary-search
+Hard
+—
+—
+Practice
+#76
+Longest Duplicate Substring
+#binary-search
+Hard
+—
+—
+Practice
+#77
+Max Sum of Rectangle No Larger Than K
+#binary-search
+Hard
+—
+—
+Practice
+#78
+Maximize the Minimum Powered City
+#binary-search
+Hard
+—
+—
+Practice
+#79
+Maximum Number of Groups With Increasing Length
+#binary-search
+Hard
+—
+—
+Practice
+#80
+Maximum Number of Robots Within Budget
+#binary-search
+Hard
+—
+—
+Practice
+#81
+Maximum Number of Tasks You Can Assign
+#binary-search
+Hard
+—
+—
+Practice
+#82
+Median of Two Sorted Arrays
+#binary-search
+Hard
+—
+—
+Practice
+#83
+Number of Subarrays With AND Value of K
+#binary-search
+Hard
+—
+—
+Practice
+
+Linked List
+13 problems
+0 / 13
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Convert Binary Number in a Linked List to Integer
+#linked-list
+Easy
+—
+—
+Practice
+#2
+Merge Two Sorted Lists
+#linked-list
+Easy
+—
+—
+Practice
+#3
+Remove Duplicates from Sorted List
+#linked-list
+Easy
+—
+—
+Practice
+#4
+Reverse Linked List
+#linked-list
+Easy
+—
+—
+Practice
+#5
+Add Two Numbers
+#linked-list
+Medium
+—
+—
+Practice
+#6
+Copy List with Random Pointer
+#linked-list
+Medium
+—
+—
+Practice
+#7
+Delete the Middle Node of a Linked List
+#linked-list
+Medium
+—
+—
+Practice
+#8
+Design Browser History
+#linked-list
+Medium
+—
+—
+Practice
+#9
+Insert Greatest Common Divisors in Linked List
+#linked-list
+Medium
+—
+—
+Practice
+#10
+Odd Even Linked List
+#linked-list
+Medium
+—
+—
+Practice
+#11
+Reorder List
+#linked-list
+Medium
+—
+—
+Practice
+#12
+Reverse Linked List II
+#linked-list
+Medium
+—
+—
+Practice
+#13
+Reverse Nodes in k-Group
+#linked-list
+Hard
+—
+—
+Practice
+
+Trees
+57 problems
+0 / 57
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Average of Levels in Binary Tree
+#tree
+Easy
+—
+—
+Practice
+#2
+Balanced Binary Tree
+#tree
+Easy
+—
+—
+Practice
+#3
+Binary Tree Inorder Traversal
+#tree
+Easy
+—
+—
+Practice
+#4
+Binary Tree Paths
+#tree
+Easy
+—
+—
+Practice
+#5
+Binary Tree Postorder Traversal
+#tree
+Easy
+—
+—
+Practice
+#6
+Binary Tree Preorder Traversal
+#tree
+Easy
+—
+—
+Practice
+#7
+Count Complete Tree Nodes
+#tree
+Easy
+—
+—
+Practice
+#8
+Cousins in Binary Tree
+#tree
+Easy
+—
+—
+Practice
+#9
+Diameter of Binary Tree
+#tree
+Easy
+—
+—
+Practice
+#10
+Find Mode in Binary Search Tree
+#tree
+Easy
+—
+—
+Practice
+#11
+Increasing Order Search Tree
+#tree
+Easy
+—
+—
+Practice
+#12
+Leaf-Similar Trees
+#tree
+Easy
+—
+—
+Practice
+#13
+Maximum Depth of Binary Tree
+#tree
+Easy
+—
+—
+Practice
+#14
+Maximum Depth of N-ary Tree
+#tree
+Easy
+—
+—
+Practice
+#15
+Merge Two Binary Trees
+#tree
+Easy
+—
+—
+Practice
+#16
+Minimum Depth of Binary Tree
+#tree
+Easy
+—
+—
+Practice
+#17
+Minimum Distance Between BST Nodes
+#tree
+Easy
+—
+—
+Practice
+#18
+N-ary Tree Postorder Traversal
+#tree
+Easy
+—
+—
+Practice
+#19
+N-ary Tree Preorder Traversal
+#tree
+Easy
+—
+—
+Practice
+#20
+Path Sum
+#tree
+Easy
+—
+—
+Practice
+#21
+Range Sum of BST
+#binary-search-tree
+Easy
+—
+—
+Practice
+#22
+Same Tree
+#tree
+Easy
+—
+—
+Practice
+#23
+Search in a Binary Search Tree
+#binary-search-tree
+Easy
+—
+—
+Practice
+#24
+Subtree of Another Tree
+#tree
+Easy
+—
+—
+Practice
+#25
+All Elements in Two Binary Search Trees
+#tree
+Medium
+—
+—
+Practice
+#26
+All Nodes Distance K in Binary Tree
+#tree
+Medium
+—
+—
+Practice
+#27
+Binary Search Tree Iterator
+#tree-traversal
+Medium
+—
+—
+Practice
+#28
+Binary Search Tree to Greater Sum Tree
+#tree
+Medium
+—
+—
+Practice
+#29
+Binary Tree Level Order Traversal
+#tree
+Medium
+—
+—
+Practice
+#30
+Binary Tree Level Order Traversal II
+#tree
+Medium
+—
+—
+Practice
+#31
+Binary Tree Right Side View
+#tree
+Medium
+—
+—
+Practice
+#32
+Closest Nodes Queries in a Binary Search Tree
+#tree
+Medium
+—
+—
+Practice
+#33
+Construct Binary Search Tree from Preorder Traversal
+#binary-search-tree
+Medium
+—
+—
+Practice
+#34
+Construct Binary Tree from Inorder and Postorder Traversal
+#tree
+Medium
+—
+—
+Practice
+#35
+Convert BST to Greater Tree
+#binary-search-tree
+Medium
+—
+—
+Practice
+#36
+Convert Sorted List to Binary Search Tree
+#tree
+Medium
+—
+—
+Practice
+#37
+Delete Leaves With a Given Value
+#binary-tree
+Medium
+—
+—
+Practice
+#38
+Delete Node in a BST
+#tree
+Medium
+—
+—
+Practice
+#39
+Insert into a Binary Search Tree
+#tree
+Medium
+—
+—
+Practice
+#40
+Kth Smallest Element in a BST
+#tree
+Medium
+—
+—
+Practice
+#41
+Longest ZigZag Path in a Binary Tree
+#tree-dfs
+Medium
+—
+—
+Practice
+#42
+Lowest Common Ancestor of a Binary Search Tree
+#binary-search-tree
+Medium
+—
+—
+Practice
+#43
+Lowest Common Ancestor of a Binary Tree
+#binary-tree
+Medium
+—
+—
+Practice
+#44
+Minimum Number of Operations to Sort a Binary Tree by Level
+#tree
+Medium
+—
+—
+Practice
+#45
+Path Sum II
+#tree
+Medium
+—
+—
+Practice
+#46
+Populating Next Right Pointers in Each Node
+#binary-tree
+Medium
+—
+—
+Practice
+#47
+Recover Binary Search Tree
+#tree
+Medium
+—
+—
+Practice
+#48
+Serialize and Deserialize BST
+#tree
+Medium
+—
+—
+Practice
+#49
+Sum Root to Leaf Numbers
+#binary-tree
+Medium
+—
+—
+Practice
+#50
+Trim a Binary Search Tree
+#binary-search-tree
+Medium
+—
+—
+Practice
+#51
+Validate Binary Search Tree
+#tree
+Medium
+—
+—
+Practice
+#52
+Binary Tree Maximum Path Sum
+#binary-tree
+Hard
+—
+—
+Practice
+#53
+Maximum Points After Collecting Coins From All Nodes
+#tree-dp
+Hard
+—
+—
+Practice
+#54
+Maximum Sum BST in Binary Tree
+#tree-dp
+Hard
+—
+—
+Practice
+#55
+Serialize and Deserialize Binary Tree
+#binary-tree
+Hard
+—
+—
+Practice
+#56
+Sum of Distances in Tree
+#tree
+Hard
+—
+—
+Practice
+#57
+Vertical Order Traversal of a Binary Tree
+#binary-tree
+Hard
+—
+—
+Practice
+
+Tries
+16 problems
+0 / 16
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Delete Duplicate Folders in System
+#tries
+Medium
+—
+—
+Practice
+#2
+Design Add and Search Words Data Structure
+#trie
+Medium
+—
+—
+Practice
+#3
+Implement Trie (Prefix Tree)
+#trie
+Medium
+—
+—
+Practice
+#4
+Longest Word in Dictionary
+#trie
+Medium
+—
+—
+Practice
+#5
+Map Sum Pairs
+#trie
+Medium
+—
+—
+Practice
+#6
+Search Suggestions System
+#trie
+Medium
+—
+—
+Practice
+#7
+Short Encoding of Words
+#trie
+Medium
+—
+—
+Practice
+#8
+Count Pairs With XOR in a Range
+#trie
+Hard
+—
+—
+Practice
+#9
+Encrypt and Decrypt Strings
+#trie
+Hard
+—
+—
+Practice
+#10
+Longest Common Suffix Queries
+#trie
+Hard
+—
+—
+Practice
+#11
+Maximum Strong Pair XOR II
+#trie
+Hard
+—
+—
+Practice
+#12
+Maximum XOR With an Element From Array
+#trie
+Hard
+—
+—
+Practice
+#13
+Prefix and Suffix Search
+#trie
+Hard
+—
+—
+Practice
+#14
+Stream of Characters
+#trie
+Hard
+—
+—
+Practice
+#15
+Sum of Prefix Scores of Strings
+#trie
+Hard
+—
+—
+Practice
+#16
+Word Search II
+#trie
+Hard
+—
+—
+Practice
+
+Heap / Priority Queue
+44 problems
+0 / 44
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Kth Largest Element in a Stream
+#heap-and-priority-queue
+Easy
+—
+—
+Practice
+#2
+Last Stone Weight
+#heap-priority-queue
+Easy
+—
+—
+Practice
+#3
+Relative Ranks
+#heap-priority-queue
+Easy
+—
+—
+Practice
+#4
+Take Gifts From the Richest Pile
+#heap-priority-queue
+Easy
+—
+—
+Practice
+#5
+Design Twitter
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#6
+Distant Barcodes
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#7
+Find K Pairs with Smallest Sums
+#heap
+#pq
+Medium
+—
+—
+Practice
+#8
+Find Kth Largest XOR Coordinate Value
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#9
+Find Score of an Array After Marking All Elements
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#10
+Find the Kth Largest Integer in the Array
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#11
+Furthest Building You Can Reach
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#12
+K Closest Points to Origin
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#13
+K Highest Ranked Items Within a Price Range
+#bfs-and-heap
+Medium
+—
+—
+Practice
+#14
+Kth Largest Element in an Array
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#15
+Lexicographically Minimum String After Removing Stars
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#16
+Longest Happy String
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#17
+Maximal Score After Applying K Operations
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#18
+Maximum Number of Eaten Apples
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#19
+Maximum Subsequence Score
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#20
+Minimum Operations to Exceed Threshold Value II
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#21
+Minimum Operations to Halve Array Sum
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#22
+Minimum Sum of Squared Difference
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#23
+Most Frequent IDs
+#heap
+Medium
+—
+—
+Practice
+#24
+Number of Orders in the Backlog
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#25
+Process Tasks Using Servers
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#26
+Remove Stones to Minimize the Total
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#27
+Replace Question Marks in String to Minimize Its Value
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#28
+Seat Reservation Manager
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#29
+Single-Threaded CPU
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#30
+The Number of the Smallest Unoccupied Chair
+#heap
+Medium
+—
+—
+Practice
+#31
+Top K Frequent Elements
+#heap-priority-queue
+Medium
+—
+—
+Practice
+#32
+Top K Frequent Words
+#heap-pq
+Medium
+—
+—
+Practice
+#33
+Total Cost to Hire K Workers
+#heap
+Medium
+—
+—
+Practice
+#34
+Find Median from Data Stream
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#35
+Find the K-Sum of an Array
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#36
+IPO
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#37
+Maximum Performance of a Team
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#38
+Maximum Spending After Buying Items
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#39
+Meeting Rooms III
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#40
+Merge k Sorted Lists
+#heap
+Hard
+—
+—
+Practice
+#41
+Minimize Deviation in Array
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#42
+Minimum Cost to Hire K Workers
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#43
+Time to Cross a Bridge
+#heap-priority-queue
+Hard
+—
+—
+Practice
+#44
+Trapping Rain Water II
+#heap-priority-queue
+Hard
+—
+—
+Practice
+
+Backtracking
+30 problems
+0 / 30
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Fibonacci Number
+#recursion
+Easy
+—
+—
+Practice
+#2
+Sum of All Subsets XOR Total
+#backtracking
+Easy
+—
+—
+Practice
+#3
+Beautiful Arrangement
+#backtracking
+Medium
+—
+—
+Practice
+#4
+Combination Sum
+#backtracking
+Medium
+—
+—
+Practice
+#5
+Combination Sum II
+#backtracking
+Medium
+—
+—
+Practice
+#6
+Combination Sum III
+#backtracking
+Medium
+—
+—
+Practice
+#7
+Combinations
+#backtracking
+Medium
+—
+—
+Practice
+#8
+Generate Parentheses
+#backtracking
+Medium
+—
+—
+Practice
+#9
+Letter Case Permutation
+#backtracking
+Medium
+—
+—
+Practice
+#10
+Letter Combinations of a Phone Number
+#backtracking
+Medium
+—
+—
+Practice
+#11
+Matchsticks to Square
+#backtracking
+Medium
+—
+—
+Practice
+#12
+Non-decreasing Subsequences
+#backtracking
+Medium
+—
+—
+Practice
+#13
+Numbers With Same Consecutive Differences
+#backtracking
+Medium
+—
+—
+Practice
+#14
+Palindrome Partitioning
+#backtracking
+Medium
+—
+—
+Practice
+#15
+Partition to K Equal Sum Subsets
+#backtracking
+Medium
+—
+—
+Practice
+#16
+Permutations
+#backtracking
+Medium
+—
+—
+Practice
+#17
+Permutations II
+#backtracking
+Medium
+—
+—
+Practice
+#18
+Subsets
+#backtracking
+Medium
+—
+—
+Practice
+#19
+Subsets II
+#backtracking
+Medium
+—
+—
+Practice
+#20
+The k-th Lexicographical String of All Happy Strings of Length n
+#backtracking
+Medium
+—
+—
+Practice
+#21
+The Number of Beautiful Subsets
+#backtracking
+Medium
+—
+—
+Practice
+#22
+Word Search
+#backtracking
+Medium
+—
+—
+Practice
+#23
+Integer to English Words
+#recursion
+Hard
+—
+—
+Practice
+#24
+N Queens II
+#backtracking
+Hard
+—
+—
+Practice
+#25
+N-Queens
+#backtracking
+Hard
+—
+—
+Practice
+#26
+Permutation Sequence
+#math
+#recursion
+Hard
+—
+—
+Practice
+#27
+Special Binary String
+#recursion
+Hard
+—
+—
+Practice
+#28
+Sudoku Solver
+#backtracking
+Hard
+—
+—
+Practice
+#29
+Tiling a Rectangle with the Fewest Squares
+#backtracking
+Hard
+—
+—
+Practice
+#30
+Word Ladder II
+#bfs-backtracking
+Hard
+—
+—
+Practice
+
+Graphs
+92 problems
+0 / 92
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Find if Path Exists in Graph
+#graph
+Easy
+—
+—
+Practice
+#2
+Find the Town Judge
+#graphs
+Easy
+—
+—
+Practice
+#3
+Flood Fill
+#graph
+Easy
+—
+—
+Practice
+#4
+Verifying An Alien Dictionary
+#graphs
+Easy
+—
+—
+Practice
+#5
+01 Matrix
+#graph-bfs
+Medium
+—
+—
+Practice
+#6
+Accounts Merge
+#union-find
+Medium
+—
+—
+Practice
+#7
+All Ancestors of a Node in a Directed Acyclic Graph
+#graph-traversal
+Medium
+—
+—
+Practice
+#8
+As Far from Land as Possible
+#graphs
+Medium
+—
+—
+Practice
+#9
+Cheapest Flights Within K Stops
+#graph
+Medium
+—
+—
+Practice
+#10
+Check Completeness of a Binary Tree
+#breadth-first-search
+Medium
+—
+—
+Practice
+#11
+Clone Graph
+#graph
+Medium
+—
+—
+Practice
+#12
+Count Sub Islands
+#graph
+Medium
+—
+—
+Practice
+#13
+Count the Number of Complete Components
+#union-find
+Medium
+—
+—
+Practice
+#14
+Course Schedule
+#topological-sort
+Medium
+—
+—
+Practice
+#15
+Course Schedule II
+#topological-sort
+Medium
+—
+—
+Practice
+#16
+Course Schedule IV
+#graph
+Medium
+—
+—
+Practice
+#17
+Detect Cycles in 2D Grid
+#graph
+Medium
+—
+—
+Practice
+#18
+Evaluate Division
+#graphs
+Medium
+—
+—
+Practice
+#19
+Find All Groups of Farmland
+#depth-first-search
+Medium
+—
+—
+Practice
+#20
+Find Eventual Safe States
+#graph
+Medium
+—
+—
+Practice
+#21
+Find the City With the Smallest Number of Neighbors at a Threshold Distance
+#shortest-path
+Medium
+—
+—
+Practice
+#22
+Flower Planting With No Adjacent
+#graph
+Medium
+—
+—
+Practice
+#23
+Graph Valid Tree
+#graph
+Medium
+—
+—
+Practice
+#24
+Is Graph Bipartite?
+#graph-coloring
+Medium
+—
+—
+Practice
+#25
+Jump Game III
+#bfs
+Medium
+—
+—
+Practice
+#26
+Keys and Rooms
+#graphs
+Medium
+—
+—
+Practice
+#27
+Loud and Rich
+#topological-sort
+Medium
+—
+—
+Practice
+#28
+Map of Highest Peak
+#breadth-first-search
+Medium
+—
+—
+Practice
+#29
+Max Area of Island
+#depth-first-search
+Medium
+—
+—
+Practice
+#30
+Minimum Cost to Convert String I
+#shortest-path
+Medium
+—
+—
+Practice
+#31
+Minimum Cost to Make at Least One Valid Path in a Grid
+#graph
+Medium
+—
+—
+Practice
+#32
+Minimum Height Trees
+#graph
+Medium
+—
+—
+Practice
+#33
+Minimum Jumps to Reach Home
+#breadth-first-search
+Medium
+—
+—
+Practice
+#34
+Minimum Number of Operations to Make X and Y Equal
+#bfs
+Medium
+—
+—
+Practice
+#35
+Minimum Operations to Convert Number
+#bfs
+Medium
+—
+—
+Practice
+#36
+Minimum Score of a Path Between Two Cities
+#graph
+Medium
+—
+—
+Practice
+#37
+Most Stones Removed with Same Row or Column
+#graph
+Medium
+—
+—
+Practice
+#38
+Nearest Exit from Entrance in Maze
+#bfs
+Medium
+—
+—
+Practice
+#39
+Network Delay Time
+#shortest-path
+Medium
+—
+—
+Practice
+#40
+Number of Closed Islands
+#graph-dfs
+Medium
+—
+—
+Practice
+#41
+Number of Connected Components In An Undirected Graph
+#graph
+Medium
+—
+—
+Practice
+#42
+Number of Enclaves
+#matrix-bfs
+Medium
+—
+—
+Practice
+#43
+Number of Islands
+#graphs
+Medium
+—
+—
+Practice
+#44
+Number of Provinces
+#graphs
+Medium
+—
+—
+Practice
+#45
+Number of Restricted Paths From First to Last Node
+#graph
+Medium
+—
+—
+Practice
+#46
+Number of Ways to Arrive at Destination
+#graphs
+Medium
+—
+—
+Practice
+#47
+Open the Lock
+#bfs
+Medium
+—
+—
+Practice
+#48
+Pacific Atlantic Water Flow
+#graphs
+Medium
+—
+—
+Practice
+#49
+Path with Maximum Probability
+#graph
+Medium
+—
+—
+Practice
+#50
+Possible Bipartition
+#graph
+Medium
+—
+—
+Practice
+#51
+Redundant Connection
+#union-find
+Medium
+—
+—
+Practice
+#52
+Reorder Routes to Make All Paths Lead to the City Zero
+#graph
+Medium
+—
+—
+Practice
+#53
+Rotting Oranges
+#bfs
+Medium
+—
+—
+Practice
+#54
+Satisfiability of Equality Equations
+#union-find
+Medium
+—
+—
+Practice
+#55
+Shortest Bridge
+#bfs
+Medium
+—
+—
+Practice
+#56
+Shortest Path in Binary Matrix
+#graph-bfs
+Medium
+—
+—
+Practice
+#57
+Shortest Path with Alternating Colors
+#bfs
+Medium
+—
+—
+Practice
+#58
+Smallest String With Swaps
+#union-find
+Medium
+—
+—
+Practice
+#59
+Snakes and Ladders
+#graphs
+Medium
+—
+—
+Practice
+#60
+Surrounded Regions
+#dfs-bfs
+Medium
+—
+—
+Practice
+#61
+Walls And Gates
+#breadth-first-search
+Medium
+—
+—
+Practice
+#62
+Bricks Falling When Hit
+#union-find
+Hard
+—
+—
+Practice
+#63
+Build a Matrix With Conditions
+#graph
+Hard
+—
+—
+Practice
+#64
+Bus Routes
+#graph
+Hard
+—
+—
+Practice
+#65
+Cat and Mouse
+#graph
+Hard
+—
+—
+Practice
+#66
+Checking Existence of Edge Length Limited Paths
+#union-find
+Hard
+—
+—
+Practice
+#67
+Critical Connections in a Network
+#graph
+Hard
+—
+—
+Practice
+#68
+Design Graph With Shortest Path Calculator
+#graph
+Hard
+—
+—
+Practice
+#69
+Divide Nodes Into the Maximum Number of Groups
+#graph
+Hard
+—
+—
+Practice
+#70
+Find All Possible Recipes from Given Supplies
+#topological-sort
+Hard
+—
+—
+Practice
+#71
+Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+#graph
+Hard
+—
+—
+Practice
+#72
+Find Number of Coins to Place in Tree Nodes
+#depth-first-search
+Hard
+—
+—
+Practice
+#73
+GCD Sort of an Array
+#union-find
+Hard
+—
+—
+Practice
+#74
+Jump Game IV
+#breadth-first-search
+Hard
+—
+—
+Practice
+#75
+Largest Color Value in a Directed Graph
+#graph-dp
+Hard
+—
+—
+Practice
+#76
+Longest Cycle in a Graph
+#graph
+Hard
+—
+—
+Practice
+#77
+Making A Large Island
+#graph
+Hard
+—
+—
+Practice
+#78
+Maximum Candies You Can Get from Boxes
+#graph
+Hard
+—
+—
+Practice
+#79
+Min Cost to Connect All Points
+#minimum-spanning-tree
+Hard
+—
+—
+Practice
+#80
+Minimum Moves to Move a Box to Their Target Location
+#bfs
+Hard
+—
+—
+Practice
+#81
+Parallel Courses III
+#topological-sort
+Hard
+—
+—
+Practice
+#82
+Rank Transform of a Matrix
+#union-find
+Hard
+—
+—
+Practice
+#83
+Reachable Nodes In Subdivided Graph
+#dijkstra
+Hard
+—
+—
+Practice
+#84
+Redundant Connection II
+#union-find
+Hard
+—
+—
+Practice
+#85
+Remove Max Number of Edges to Keep Graph Fully Traversable
+#union-find
+Hard
+—
+—
+Practice
+#86
+Second Minimum Time to Reach Destination
+#graph
+Hard
+—
+—
+Practice
+#87
+Shortest Cycle in a Graph
+#bfs
+Hard
+—
+—
+Practice
+#88
+Shortest Path to Get All Keys
+#bfs
+Hard
+—
+—
+Practice
+#89
+Shortest Path Visiting All Nodes
+#graphs
+Hard
+—
+—
+Practice
+#90
+Sliding Puzzle
+#breadth-first-search
+Hard
+—
+—
+Practice
+#91
+Sort Items by Groups Respecting Dependencies
+#topological-sort
+Hard
+—
+—
+Practice
+#92
+Word Ladder
+#graphs
+Hard
+—
+—
+Practice
+
+Dynamic Programming
+190 problems
+0 / 190
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Best Time to Buy and Sell Stock
+#dynamic-programming
+Easy
+—
+—
+Practice
+#2
+Climbing Stairs
+#dynamic-programming
+Easy
+—
+—
+Practice
+#3
+Counting Bits
+#dynamic-programming
+Easy
+—
+—
+Practice
+#4
+Divisor Game
+#game-theory
+Easy
+—
+—
+Practice
+#5
+Min Cost Climbing Stairs
+#dynamic-programming
+Easy
+—
+—
+Practice
+#6
+2 Keys Keyboard
+#dynamic-programming
+Medium
+—
+—
+Practice
+#7
+Apply Operations to Make Two Strings Equal
+#dynamic-programming
+Medium
+—
+—
+Practice
+#8
+Arithmetic Slices
+#dynamic-programming
+Medium
+—
+—
+Practice
+#9
+Best Team With No Conflicts
+#dynamic-programming
+Medium
+—
+—
+Practice
+#10
+Best Time to Buy and Sell Stock with Cooldown
+#dynamic-programming
+Medium
+—
+—
+Practice
+#11
+Best Time to Buy and Sell Stock with Transaction Fee
+#dynamic-programming
+Medium
+—
+—
+Practice
+#12
+Bitwise ORs of Subarrays
+#dynamic-programming
+Medium
+—
+—
+Practice
+#13
+Can I Win
+#dynamic-programming
+Medium
+—
+—
+Practice
+#14
+Champagne Tower
+#dynamic-programming
+Medium
+—
+—
+Practice
+#15
+Coin Change
+#dynamic-programming
+Medium
+—
+—
+Practice
+#16
+Coin Change II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#17
+Combination Sum IV
+#dynamic-programming
+Medium
+—
+—
+Practice
+#18
+Count Numbers with Unique Digits
+#dynamic-programming
+Medium
+—
+—
+Practice
+#19
+Count Sorted Vowel Strings
+#dynamic-programming
+Medium
+—
+—
+Practice
+#20
+Count Square Submatrices with All Ones
+#dynamic-programming
+Medium
+—
+—
+Practice
+#21
+Count Submatrices With All Ones
+#dynamic-programming
+Medium
+—
+—
+Practice
+#22
+Decode Ways
+#dynamic-programming
+Medium
+—
+—
+Practice
+#23
+Delete and Earn
+#dynamic-programming
+Medium
+—
+—
+Practice
+#24
+Delete Operation for Two Strings
+#dynamic-programming
+Medium
+—
+—
+Practice
+#25
+Dice Roll Simulation
+#dynamic-programming
+Medium
+—
+—
+Practice
+#26
+Domino and Tromino Tiling
+#dynamic-programming
+Medium
+—
+—
+Practice
+#27
+Edit Distance
+#dynamic-programming
+Medium
+—
+—
+Practice
+#28
+Extra Characters in a String
+#dynamic-programming
+Medium
+—
+—
+Practice
+#29
+Filling Bookcase Shelves
+#dynamic-programming
+Medium
+—
+—
+Practice
+#30
+Find the Maximum Length of Valid Subsequence II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#31
+Guess Number Higher or Lower II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#32
+House Robber
+#dynamic-programming
+Medium
+—
+—
+Practice
+#33
+House Robber II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#34
+House Robber III
+#dynamic-programming
+Medium
+—
+—
+Practice
+#35
+Integer Break
+#dynamic-programming
+Medium
+—
+—
+Practice
+#36
+Interleaving String
+#dynamic-programming
+Medium
+—
+—
+Practice
+#37
+Jump Game VI
+#dynamic-programming
+Medium
+—
+—
+Practice
+#38
+Jump Game VII
+#dynamic-programming
+Medium
+—
+—
+Practice
+#39
+K-Concatenation Maximum Sum
+#dynamic-programming
+Medium
+—
+—
+Practice
+#40
+Knight Dialer
+#dynamic-programming
+Medium
+—
+—
+Practice
+#41
+Knight Probability in Chessboard
+#dynamic-programming
+Medium
+—
+—
+Practice
+#42
+Largest 1-Bordered Square
+#dynamic-programming
+Medium
+—
+—
+Practice
+#43
+Largest Divisible Subset
+#dynamic-programming
+Medium
+—
+—
+Practice
+#44
+Largest Plus Sign
+#dynamic-programming
+Medium
+—
+—
+Practice
+#45
+Largest Sum of Averages
+#dynamic-programming
+Medium
+—
+—
+Practice
+#46
+Last Stone Weight II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#47
+Length of Longest Fibonacci Subsequence
+#dynamic-programming
+Medium
+—
+—
+Practice
+#48
+Longest Arithmetic Subsequence
+#dynamic-programming
+Medium
+—
+—
+Practice
+#49
+Longest Arithmetic Subsequence of Given Difference
+#dynamic-programming
+Medium
+—
+—
+Practice
+#50
+Longest Common Subsequence
+#dynamic-programming
+Medium
+—
+—
+Practice
+#51
+Longest Increasing Subsequence
+#dynamic-programming
+Medium
+—
+—
+Practice
+#52
+Longest Palindromic Subsequence
+#dynamic-programming
+Medium
+—
+—
+Practice
+#53
+Longest String Chain
+#dynamic-programming
+Medium
+—
+—
+Practice
+#54
+Longest Unequal Adjacent Groups Subsequence II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#55
+Maximal Square
+#dynamic-programming
+Medium
+—
+—
+Practice
+#56
+Maximize Total Cost of Alternating Subarrays
+#dynamic-programming
+Medium
+—
+—
+Practice
+#57
+Maximum Difference Score in a Grid
+#dynamic-programming
+Medium
+—
+—
+Practice
+#58
+Maximum Length of Repeated Subarray
+#dynamic-programming
+Medium
+—
+—
+Practice
+#59
+Maximum Non Negative Product in a Matrix
+#dynamic-programming
+Medium
+—
+—
+Practice
+#60
+Maximum Number of Moves in a Grid
+#dynamic-programming
+Medium
+—
+—
+Practice
+#61
+Maximum Product Subarray
+#dynamic-programming
+Medium
+—
+—
+Practice
+#62
+Maximum Score After Applying Operations on a Tree
+#dynamic-programming
+Medium
+—
+—
+Practice
+#63
+Maximum Subarray
+#dynamic-programming
+Medium
+—
+—
+Practice
+#64
+Maximum Subarray Sum with One Deletion
+#dynamic-programming
+Medium
+—
+—
+Practice
+#65
+Maximum Total Damage With Spell Casting
+#dynamic-programming
+Medium
+—
+—
+Practice
+#66
+Minimum ASCII Delete Sum for Two Strings
+#dynamic-programming
+Medium
+—
+—
+Practice
+#67
+Minimum Cost For Tickets
+#dynamic-programming
+Medium
+—
+—
+Practice
+#68
+Minimum Cost Tree From Leaf Values
+#dynamic-programming
+Medium
+—
+—
+Practice
+#69
+Minimum Falling Path Sum
+#dynamic-programming
+Medium
+—
+—
+Practice
+#70
+Minimum Number of Coins for Fruits
+#dynamic-programming
+Medium
+—
+—
+Practice
+#71
+Minimum Number of Operations to Satisfy Conditions
+#dynamic-programming
+Medium
+—
+—
+Practice
+#72
+Minimum Path Sum
+#dynamic-programming
+Medium
+—
+—
+Practice
+#73
+Minimum Score Triangulation of Polygon
+#dynamic-programming
+Medium
+—
+—
+Practice
+#74
+Minimum Substring Partition of Equal Character Frequency
+#dynamic-programming
+Medium
+—
+—
+Practice
+#75
+New 21 Game
+#dynamic-programming
+Medium
+—
+—
+Practice
+#76
+Number of Dice Rolls With Target Sum
+#dynamic-programming
+Medium
+—
+—
+Practice
+#77
+Number of Longest Increasing Subsequence
+#dynamic-programming
+Medium
+—
+—
+Practice
+#78
+Number of Sets of K Non-Overlapping Line Segments
+#dynamic-programming
+Medium
+—
+—
+Practice
+#79
+Ones and Zeroes
+#dynamic-programming
+Medium
+—
+—
+Practice
+#80
+Out of Boundary Paths
+#dynamic-programming
+Medium
+—
+—
+Practice
+#81
+Partition Array for Maximum Sum
+#dynamic-programming
+Medium
+—
+—
+Practice
+#82
+Partition Equal Subset Sum
+#dynamic-programming
+Medium
+—
+—
+Practice
+#83
+Perfect Squares
+#dynamic-programming
+Medium
+—
+—
+Practice
+#84
+Predict the Winner
+#dynamic-programming
+Medium
+—
+—
+Practice
+#85
+Remove Colored Pieces if Both Neighbors are the Same Color
+#game-theory
+Medium
+—
+—
+Practice
+#86
+Shopping Offers
+#dynamic-programming
+Medium
+—
+—
+Practice
+#87
+Soup Servings
+#dynamic-programming
+Medium
+—
+—
+Practice
+#88
+Stone Game
+#dynamic-programming
+Medium
+—
+—
+Practice
+#89
+Stone Game II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#90
+Stone Game VII
+#dynamic-programming
+Medium
+—
+—
+Practice
+#91
+Target Sum
+#dynamic-programming
+Medium
+—
+—
+Practice
+#92
+Triangle
+#dynamic-programming
+Medium
+—
+—
+Practice
+#93
+Ugly Number II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#94
+Unique Binary Search Trees
+#dynamic-programming
+Medium
+—
+—
+Practice
+#95
+Unique Paths
+#dynamic-programming
+Medium
+—
+—
+Practice
+#96
+Unique Paths II
+#dynamic-programming
+Medium
+—
+—
+Practice
+#97
+Unique Substrings in Wraparound String
+#dynamic-programming
+Medium
+—
+—
+Practice
+#98
+Video Stitching
+#dynamic-programming
+Medium
+—
+—
+Practice
+#99
+Word Break
+#dynamic-programming
+Medium
+—
+—
+Practice
+#100
+Allocate Mailboxes
+#dynamic-programming
+Hard
+—
+—
+Practice
+#101
+Best Time to Buy and Sell Stock III
+#dynamic-programming
+Hard
+—
+—
+Practice
+#102
+Best Time to Buy and Sell Stock IV
+#dynamic-programming
+Hard
+—
+—
+Practice
+#103
+Build Array Where You Can Find The Maximum Exactly K Comparisons
+#dynamic-programming
+Hard
+—
+—
+Practice
+#104
+Burst Balloons
+#dynamic-programming
+Hard
+—
+—
+Practice
+#105
+Cat and Mouse II
+#game-theory
+Hard
+—
+—
+Practice
+#106
+Cherry Pickup
+#dynamic-programming
+Hard
+—
+—
+Practice
+#107
+Cherry Pickup II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#108
+Concatenated Words
+#dynamic-programming
+Hard
+—
+—
+Practice
+#109
+Constrained Subsequence Sum
+#dynamic-programming
+Hard
+—
+—
+Practice
+#110
+Construct String with Minimum Cost
+#dynamic-programming
+Hard
+—
+—
+Practice
+#111
+Count All Possible Routes
+#dynamic-programming
+Hard
+—
+—
+Practice
+#112
+Count Different Palindromic Subsequences
+#dynamic-programming
+Hard
+—
+—
+Practice
+#113
+Count of Sub-Multisets With Bounded Sum
+#dynamic-programming
+Hard
+—
+—
+Practice
+#114
+Count the Number of Powerful Integers
+#dynamic-programming
+Hard
+—
+—
+Practice
+#115
+Count The Repetitions
+#dynamic-programming
+Hard
+—
+—
+Practice
+#116
+Count Vowels Permutation
+#dynamic-programming
+Hard
+—
+—
+Practice
+#117
+Delete Columns to Make Sorted III
+#dynamic-programming
+Hard
+—
+—
+Practice
+#118
+Distinct Subsequences
+#dynamic-programming
+Hard
+—
+—
+Practice
+#119
+Distinct Subsequences II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#120
+Distribute Repeating Integers
+#dynamic-programming
+Hard
+—
+—
+Practice
+#121
+Dungeon Game
+#dynamic-programming
+Hard
+—
+—
+Practice
+#122
+Find All Good Strings
+#dynamic-programming
+Hard
+—
+—
+Practice
+#123
+Find All Possible Stable Binary Arrays II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#124
+Find Minimum Time to Finish All Jobs
+#dynamic-programming
+Hard
+—
+—
+Practice
+#125
+Find the Count of Monotonic Pairs I
+#dynamic-programming
+Hard
+—
+—
+Practice
+#126
+Find the Count of Monotonic Pairs II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#127
+Find the Maximum Length of a Good Subsequence II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#128
+Find the Shortest Superstring
+#dynamic-programming
+Hard
+—
+—
+Practice
+#129
+Find the Sum of Subsequence Powers
+#dynamic-programming
+Hard
+—
+—
+Practice
+#130
+Freedom Trail
+#dynamic-programming
+Hard
+—
+—
+Practice
+#131
+Frog Jump
+#dynamic-programming
+Hard
+—
+—
+Practice
+#132
+Guess the Word
+#minimax
+Hard
+—
+—
+Practice
+#133
+Jump Game V
+#dynamic-programming
+Hard
+—
+—
+Practice
+#134
+K Inverse Pairs Array
+#dynamic-programming
+Hard
+—
+—
+Practice
+#135
+Longest Increasing Path in a Matrix
+#dynamic-programming
+Hard
+—
+—
+Practice
+#136
+Make Array Strictly Increasing
+#dynamic-programming
+Hard
+—
+—
+Practice
+#137
+Max Dot Product of Two Subsequences
+#dynamic-programming
+Hard
+—
+—
+Practice
+#138
+Maximize Grid Happiness
+#dynamic-programming
+Hard
+—
+—
+Practice
+#139
+Maximum Height by Stacking Cuboids
+#dynamic-programming
+Hard
+—
+—
+Practice
+#140
+Maximum Students Taking Exam
+#dynamic-programming
+Hard
+—
+—
+Practice
+#141
+Maximum Sum of 3 Non-Overlapping Subarrays
+#dynamic-programming
+Hard
+—
+—
+Practice
+#142
+Minimize the Total Price of the Trips
+#dynamic-programming
+Hard
+—
+—
+Practice
+#143
+Minimum Changes to Make K Semi-palindromes
+#dynamic-programming
+Hard
+—
+—
+Practice
+#144
+Minimum Cost to Connect Two Groups of Points
+#dynamic-programming
+Hard
+—
+—
+Practice
+#145
+Minimum Cost to Cut a Stick
+#dynamic-programming
+Hard
+—
+—
+Practice
+#146
+Minimum Cost to Merge Stones
+#dynamic-programming
+Hard
+—
+—
+Practice
+#147
+Minimum Difficulty of a Job Schedule
+#dynamic-programming
+Hard
+—
+—
+Practice
+#148
+Minimum Distance to Type a Word Using Two Fingers
+#dynamic-programming
+Hard
+—
+—
+Practice
+#149
+Minimum Falling Path Sum II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#150
+Minimum Insertion Steps to Make a String Palindrome
+#dynamic-programming
+Hard
+—
+—
+Practice
+#151
+Minimum Number of Days to Eat N Oranges
+#dynamic-programming
+Hard
+—
+—
+Practice
+#152
+Minimum Number of Removals to Make Mountain Array
+#dynamic-programming
+Hard
+—
+—
+Practice
+#153
+Minimum Sum of Values by Dividing Array
+#dynamic-programming
+Hard
+—
+—
+Practice
+#154
+Minimum Swaps To Make Sequences Increasing
+#dynamic-programming
+Hard
+—
+—
+Practice
+#155
+Minimum XOR Sum of Two Arrays
+#dynamic-programming
+Hard
+—
+—
+Practice
+#156
+Non-negative Integers without Consecutive Ones
+#dynamic-programming
+Hard
+—
+—
+Practice
+#157
+Number of Beautiful Integers in the Range
+#dynamic-programming
+Hard
+—
+—
+Practice
+#158
+Number of Increasing Paths in a Grid
+#dynamic-programming
+Hard
+—
+—
+Practice
+#159
+Number of Music Playlists
+#dynamic-programming
+Hard
+—
+—
+Practice
+#160
+Number of Paths with Max Score
+#dynamic-programming
+Hard
+—
+—
+Practice
+#161
+Number of Ways of Cutting a Pizza
+#dynamic-programming
+Hard
+—
+—
+Practice
+#162
+Number of Ways to Form a Target String Given a Dictionary
+#dynamic-programming
+Hard
+—
+—
+Practice
+#163
+Number of Ways to Paint N × 3 Grid
+#dynamic-programming
+Hard
+—
+—
+Practice
+#164
+Number of Ways to Stay in the Same Place After Some Steps
+#dynamic-programming
+Hard
+—
+—
+Practice
+#165
+Number of Ways to Wear Different Hats to Each Other
+#bitmask-dp
+Hard
+—
+—
+Practice
+#166
+Numbers At Most N Given Digit Set
+#dynamic-programming
+Hard
+—
+—
+Practice
+#167
+Numbers With Repeated Digits
+#dynamic-programming
+Hard
+—
+—
+Practice
+#168
+Paint House III
+#dynamic-programming
+Hard
+—
+—
+Practice
+#169
+Palindrome Partitioning III
+#dynamic-programming
+Hard
+—
+—
+Practice
+#170
+Parallel Courses II
+#bitmask-dp
+Hard
+—
+—
+Practice
+#171
+Pizza With 3n Slices
+#dynamic-programming
+Hard
+—
+—
+Practice
+#172
+Probability of a Two Boxes Having The Same Number of Distinct Balls
+#dynamic-programming
+Hard
+—
+—
+Practice
+#173
+Profitable Schemes
+#dynamic-programming
+Hard
+—
+—
+Practice
+#174
+Race Car
+#dynamic-programming
+Hard
+—
+—
+Practice
+#175
+Regular Expression Matching
+#dynamic-programming
+Hard
+—
+—
+Practice
+#176
+Remove Boxes
+#dynamic-programming
+Hard
+—
+—
+Practice
+#177
+Russian Doll Envelopes
+#dynamic-programming
+Hard
+—
+—
+Practice
+#178
+Scramble String
+#dynamic-programming
+Hard
+—
+—
+Practice
+#179
+Shortest Common Supersequence
+#dynamic-programming
+Hard
+—
+—
+Practice
+#180
+Smallest Sufficient Team
+#dynamic-programming
+Hard
+—
+—
+Practice
+#181
+Stickers to Spell Word
+#dynamic-programming
+Hard
+—
+—
+Practice
+#182
+Stone Game V
+#dynamic-programming
+Hard
+—
+—
+Practice
+#183
+Strange Printer
+#dynamic-programming
+Hard
+—
+—
+Practice
+#184
+String Compression II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#185
+Student Attendance Record II
+#dynamic-programming
+Hard
+—
+—
+Practice
+#186
+Super Egg Drop
+#dynamic-programming
+Hard
+—
+—
+Practice
+#187
+Time Taken to Mark All Nodes
+#dynamic-programming
+Hard
+—
+—
+Practice
+#188
+Valid Permutations for DI Sequence
+#dynamic-programming
+Hard
+—
+—
+Practice
+#189
+Wildcard Matching
+#dynamic-programming
+Hard
+—
+—
+Practice
+#190
+Word Break II
+#dynamic-programming
+Hard
+—
+—
+Practice
+
+Greedy
+73 problems
+0 / 73
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Assign Cookies
+#greedy
+Easy
+—
+—
+Practice
+#2
+Lemonade Change
+#greedy
+Easy
+—
+—
+Practice
+#3
+Maximum 69 Number
+#greedy
+Easy
+—
+—
+Practice
+#4
+Maximum Sum With Exactly K Elements
+#greedy
+Easy
+—
+—
+Practice
+#5
+Minimum Amount of Time to Fill Cups
+#greedy
+Easy
+—
+—
+Practice
+#6
+Minimum Number of Operations to Convert Time
+#greedy
+Easy
+—
+—
+Practice
+#7
+Minimum Operations to Make the Array Increasing
+#greedy
+Easy
+—
+—
+Practice
+#8
+Minimum Time to Type Word Using Special Typewriter
+#greedy
+Easy
+—
+—
+Practice
+#9
+Play with Chips
+#greedy
+Easy
+—
+—
+Practice
+#10
+Advantage Shuffle
+#greedy
+Medium
+—
+—
+Practice
+#11
+Bag of Tokens
+#greedy
+Medium
+—
+—
+Practice
+#12
+Best Time to Buy and Sell Stock II
+#greedy
+Medium
+—
+—
+Practice
+#13
+Check if a Parentheses String Can Be Valid
+#greedy
+Medium
+—
+—
+Practice
+#14
+Check If a String Can Break Another String
+#greedy
+Medium
+—
+—
+Practice
+#15
+Cinema Seat Allocation
+#greedy
+Medium
+—
+—
+Practice
+#16
+Construct K Palindrome Strings
+#greedy
+Medium
+—
+—
+Practice
+#17
+Divide Array in Sets of K Consecutive Numbers
+#greedy
+Medium
+—
+—
+Practice
+#18
+Divide Intervals Into Minimum Number of Groups
+#greedy
+Medium
+—
+—
+Practice
+#19
+Dota2 Senate
+#greedy
+Medium
+—
+—
+Practice
+#20
+Find Valid Matrix Given Row and Column Sums
+#greedy
+Medium
+—
+—
+Practice
+#21
+Gas Station
+#greedy
+Medium
+—
+—
+Practice
+#22
+Group the People Given the Group Size They Belong To
+#greedy
+Medium
+—
+—
+Practice
+#23
+Jump Game
+#greedy
+Medium
+—
+—
+Practice
+#24
+Jump Game II
+#greedy
+Medium
+—
+—
+Practice
+#25
+Lexicographically Smallest String After Substring Operation
+#greedy
+Medium
+—
+—
+Practice
+#26
+Maximum Average Pass Ratio
+#greedy
+Medium
+—
+—
+Practice
+#27
+Maximum Bags With Full Capacity of Rocks
+#greedy
+Medium
+—
+—
+Practice
+#28
+Maximum Matching of Players With Trainers
+#greedy
+Medium
+—
+—
+Practice
+#29
+Maximum Matrix Sum
+#greedy
+Medium
+—
+—
+Practice
+#30
+Maximum Number of Coins You Can Get
+#greedy
+Medium
+—
+—
+Practice
+#31
+Maximum Number of Events That Can Be Attended
+#greedy
+Medium
+—
+—
+Practice
+#32
+Maximum Size of a Set After Removals
+#greedy
+Medium
+—
+—
+Practice
+#33
+Maximum Sum Circular Subarray
+#greedy
+Medium
+—
+—
+Practice
+#34
+Merge Triplets to Form Target Triplet
+#greedy
+Medium
+—
+—
+Practice
+#35
+Mice and Cheese
+#greedy
+Medium
+—
+—
+Practice
+#36
+Minimize Maximum of Array
+#greedy
+Medium
+—
+—
+Practice
+#37
+Minimum Operations to Make Array Equal II
+#greedy
+Medium
+—
+—
+Practice
+#38
+Minimum Rectangles to Cover Points
+#greedy
+Medium
+—
+—
+Practice
+#39
+Minimum Rounds to Complete All Tasks
+#greedy
+Medium
+—
+—
+Practice
+#40
+Minimum Score by Changing Two Elements
+#greedy
+Medium
+—
+—
+Practice
+#41
+Minimum Swaps to Make Strings Equal
+#greedy
+Medium
+—
+—
+Practice
+#42
+Non-overlapping Intervals
+#greedy
+Medium
+—
+—
+Practice
+#43
+Optimal Partition of String
+#greedy
+Medium
+—
+—
+Practice
+#44
+Partition Labels
+#greedy
+Medium
+—
+—
+Practice
+#45
+Previous Permutation With One Swap
+#greedy
+Medium
+—
+—
+Practice
+#46
+Queue Reconstruction by Height
+#greedy
+Medium
+—
+—
+Practice
+#47
+Reduce Array Size to The Half
+#greedy
+Medium
+—
+—
+Practice
+#48
+Remove Duplicate Letters
+#greedy
+Medium
+—
+—
+Practice
+#49
+Reorganize String
+#greedy
+Medium
+—
+—
+Practice
+#50
+Shortest String That Contains Three Strings
+#greedy
+Medium
+—
+—
+Practice
+#51
+String Without AAA or BBB
+#greedy
+Medium
+—
+—
+Practice
+#52
+Task Scheduler
+#greedy
+Medium
+—
+—
+Practice
+#53
+Valid Parenthesis String
+#greedy
+Medium
+—
+—
+Practice
+#54
+Wiggle Subsequence
+#greedy
+Medium
+—
+—
+Practice
+#55
+Candy
+#greedy
+Hard
+—
+—
+Practice
+#56
+Count K-Subsequences of a String With Maximum Beauty
+#greedy
+Hard
+—
+—
+Practice
+#57
+Largest Multiple of Three
+#greedy
+Hard
+—
+—
+Practice
+#58
+Lexicographically Smallest Beautiful String
+#greedy
+Hard
+—
+—
+Practice
+#59
+Longest Chunked Palindrome Decomposition
+#greedy
+Hard
+—
+—
+Practice
+#60
+Maximum Elegance of a K-Length Subsequence
+#greedy
+Hard
+—
+—
+Practice
+#61
+Maximum Length of Pair Chain
+#greedy
+Hard
+—
+—
+Practice
+#62
+Maximum Number of Non-Overlapping Substrings
+#greedy
+Hard
+—
+—
+Practice
+#63
+Minimum Cost for Cutting Cake II
+#greedy
+Hard
+—
+—
+Practice
+#64
+Minimum Cost to Equalize Array
+#greedy
+Hard
+—
+—
+Practice
+#65
+Minimum Number of Increments on Subarrays to Form a Target Array
+#greedy
+Hard
+—
+—
+Practice
+#66
+Minimum Number of Operations to Make Arrays Similar
+#greedy
+Hard
+—
+—
+Practice
+#67
+Patching Array
+#greedy
+Hard
+—
+—
+Practice
+#68
+Rearranging Fruits
+#greedy
+Hard
+—
+—
+Practice
+#69
+Reducing Dishes
+#greedy
+Hard
+—
+—
+Practice
+#70
+Reverse Subarray To Maximize Array Value
+#greedy
+Hard
+—
+—
+Practice
+#71
+Shortest Impossible Sequence of Rolls
+#greedy
+Hard
+—
+—
+Practice
+#72
+Stamping The Sequence
+#greedy
+Hard
+—
+—
+Practice
+#73
+Super Washing Machines
+#greedy
+Hard
+—
+—
+Practice
+
+Bit Manipulation
+41 problems
+0 / 41
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Decode XORed Array
+#bit-manipulation
+Easy
+—
+—
+Practice
+#2
+Hamming Distance
+#bit-manipulation
+Easy
+—
+—
+Practice
+#3
+Missing Number
+#bit-manipulation
+Easy
+—
+—
+Practice
+#4
+Number Complement
+#bit-manipulation
+Easy
+—
+—
+Practice
+#5
+Number of 1 Bits
+#bit-manipulation
+Easy
+—
+—
+Practice
+#6
+Power of Two
+#bit-manipulation
+Easy
+—
+—
+Practice
+#7
+Reverse Bits
+#bit-manipulation
+Easy
+—
+—
+Practice
+#8
+Single Number
+#bit-manipulation
+Easy
+—
+—
+Practice
+#9
+UTF-8 Validation
+#bit-manipulation
+Easy
+—
+—
+Practice
+#10
+Bitwise AND of Numbers Range
+#bit-manipulation
+Medium
+—
+—
+Practice
+#11
+Decode XORed Permutation
+#bit-manipulation
+Medium
+—
+—
+Practice
+#12
+Divide Two Integers
+#bit-manipulation
+Medium
+—
+—
+Practice
+#13
+Find The Original Array of Prefix Xor
+#bit-manipulation
+Medium
+—
+—
+Practice
+#14
+Gray Code
+#bit-manipulation
+Medium
+—
+—
+Practice
+#15
+Longest Subarray With Maximum Bitwise AND
+#bit-manipulation
+Medium
+—
+—
+Practice
+#16
+Maximum Compatibility Score Sum
+#bitmask
+Medium
+—
+—
+Practice
+#17
+Maximum OR
+#bit-manipulation
+Medium
+—
+—
+Practice
+#18
+Maximum XOR of Two Numbers in an Array
+#bit-manipulation
+Medium
+—
+—
+Practice
+#19
+Maximum Xor Product
+#bit-manipulation
+Medium
+—
+—
+Practice
+#20
+Minimum Array End
+#bit-manipulation
+Medium
+—
+—
+Practice
+#21
+Minimum Flips to Make a OR b Equal to c
+#bit-manipulation
+Medium
+—
+—
+Practice
+#22
+Minimum Number of Operations to Make Array XOR Equal to K
+#bit-manipulation
+Medium
+—
+—
+Practice
+#23
+Neighboring Bitwise XOR
+#bit-manipulation
+Medium
+—
+—
+Practice
+#24
+Reverse Integer
+#bit-manipulation
+Medium
+—
+—
+Practice
+#25
+Single Number II
+#bit-manipulation
+Medium
+—
+—
+Practice
+#26
+Single Number III
+#bit-manipulation
+Medium
+—
+—
+Practice
+#27
+Sum of Two Integers
+#bit-manipulation
+Medium
+—
+—
+Practice
+#28
+Total Hamming Distance
+#bit-manipulation
+Medium
+—
+—
+Practice
+#29
+XOR Queries of a Subarray
+#bit-manipulation
+Medium
+—
+—
+Practice
+#30
+Count Paths That Can Form a Palindrome in a Tree
+#bit-manipulation
+Hard
+—
+—
+Practice
+#31
+Find a Value of a Mysterious Function Closest to Target
+#bit-manipulation
+Hard
+—
+—
+Practice
+#32
+Find Longest Awesome Substring
+#bit-manipulation
+Hard
+—
+—
+Practice
+#33
+Find Subarray With Bitwise OR Closest to K
+#bit-manipulation
+Hard
+—
+—
+Practice
+#34
+Find XOR Sum of All Pairs Bitwise AND
+#bit-manipulation
+Hard
+—
+—
+Practice
+#35
+Maximum Number of Achievable Transfer Requests
+#bit-manipulation
+Hard
+—
+—
+Practice
+#36
+Minimize OR of Remaining Elements Using Operations
+#bit-manipulation
+Hard
+—
+—
+Practice
+#37
+Minimum One Bit Operations to Make Integers Zero
+#bit-manipulation
+Hard
+—
+—
+Practice
+#38
+Minimum Operations to Form Subsequence With Target Sum
+#bit-manipulation
+Hard
+—
+—
+Practice
+#39
+Number of Possible Sets of Closing Branches
+#bit-manipulation
+Hard
+—
+—
+Practice
+#40
+Shortest Subarray with OR at Least K
+#bit-manipulation
+Hard
+—
+—
+Practice
+#41
+Triples with Bitwise AND Equal To Zero
+#bit-manipulation
+Hard
+—
+—
+Practice
+
+Math & Geometry
+48 problems
+0 / 48
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Check If It Is a Straight Line
+#geometry
+Easy
+—
+—
+Practice
+#2
+Convert Sorted Array to Binary Search Tree
+#divide-and-conquer
+Easy
+—
+—
+Practice
+#3
+Count Good Numbers
+#math
+Easy
+—
+—
+Practice
+#4
+Find the Winning Player in Coin Game
+#math
+Easy
+—
+—
+Practice
+#5
+Largest Triangle Area
+#combinatorics-geometry
+Easy
+—
+—
+Practice
+#6
+Minimum Cuts to Divide a Circle
+#math
+Easy
+—
+—
+Practice
+#7
+Nim Game
+#math
+Easy
+—
+—
+Practice
+#8
+Power of Four
+#math
+Easy
+—
+—
+Practice
+#9
+Power of Three
+#math
+Easy
+—
+—
+Practice
+#10
+Rectangle Overlap
+#math
+Easy
+—
+—
+Practice
+#11
+Airplane Seat Assignment Probability
+#math
+Medium
+—
+—
+Practice
+#12
+Balance a Binary Search Tree
+#divide-and-conquer
+Medium
+—
+—
+Practice
+#13
+Circle and Rectangle Overlapping
+#geometry
+Medium
+—
+—
+Practice
+#14
+Construct Binary Tree from Preorder and Inorder Traversal
+#divide-and-conquer
+Medium
+—
+—
+Practice
+#15
+Construct Binary Tree from Preorder and Postorder Traversal
+#divide-and-conquer
+Medium
+—
+—
+Practice
+#16
+Count Lattice Points Inside a Circle
+#geometry
+Medium
+—
+—
+Practice
+#17
+Different Ways to Add Parentheses
+#divide-and-conquer
+Medium
+—
+—
+Practice
+#18
+Distribute Candies Among Children II
+#combinatorics
+Medium
+—
+—
+Practice
+#19
+Find the Largest Area of Square Inside Two Rectangles
+#geometry
+Medium
+—
+—
+Practice
+#20
+Generate Random Point in a Circle
+#math
+Medium
+—
+—
+Practice
+#21
+Linked List Random Node
+#reservoir-sampling
+Medium
+—
+—
+Practice
+#22
+Minimum Area Rectangle
+#combinatorics-geometry
+Medium
+—
+—
+Practice
+#23
+Minimum Area Rectangle II
+#combinatorics-and-geometry
+Medium
+—
+—
+Practice
+#24
+Minimum Lines to Represent a Line Chart
+#combinatorics
+#geometry
+Medium
+—
+—
+Practice
+#25
+Minimum Non-Zero Product of the Array Elements
+#math
+Medium
+—
+—
+Practice
+#26
+Mirror Reflection
+#math
+Medium
+—
+—
+Practice
+#27
+Number of Burgers with No Waste of Ingredients
+#math
+Medium
+—
+—
+Practice
+#28
+Number of Laser Beams in a Bank
+#math
+Medium
+—
+—
+Practice
+#29
+Number of Strings Which Can Be Rearranged to Contain Substring
+#math
+Medium
+—
+—
+Practice
+#30
+Pow(x, n)
+#math
+Medium
+—
+—
+Practice
+#31
+Queries on Number of Points Inside a Circle
+#geometry
+Medium
+—
+—
+Practice
+#32
+Rectangle Area
+#math
+Medium
+—
+—
+Practice
+#33
+Count All Valid Pickup and Delivery Options
+#combinatorics
+Hard
+—
+—
+Practice
+#34
+Count Anagrams
+#combinatorics
+Hard
+—
+—
+Practice
+#35
+Count of Range Sum
+#divide-and-conquer
+Hard
+—
+—
+Practice
+#36
+Count the Number of Ideal Arrays
+#combinatorics
+Hard
+—
+—
+Practice
+#37
+Count the Number of Infection Sequences
+#combinatorics
+Hard
+—
+—
+Practice
+#38
+Find Number of Ways to Reach the K-th Stair
+#combinatorics
+Hard
+—
+—
+Practice
+#39
+Kth Smallest Instructions
+#combinatorics
+Hard
+—
+—
+Practice
+#40
+Least Operators to Express Number
+#math
+Hard
+—
+—
+Practice
+#41
+Max Points on a Line
+#combinatorics-geometry
+Hard
+—
+—
+Practice
+#42
+Maximum Binary Tree
+#divide-and-conquer
+Hard
+—
+—
+Practice
+#43
+Maximum Number of Darts Inside of a Circular Dartboard
+#geometry
+Hard
+—
+—
+Practice
+#44
+Minimize Manhattan Distances
+#combinatorics-and-geometry
+Hard
+—
+—
+Practice
+#45
+Number of Digit One
+#math
+Hard
+—
+—
+Practice
+#46
+Number of Ways to Reorder Array to Get Same BST
+#combinatorics
+Hard
+—
+—
+Practice
+#47
+Reverse Pairs
+#divide-and-conquer
+Hard
+—
+—
+Practice
+#48
+Self Crossing
+#geometry
+Hard
+—
+—
+Practice
+
+Prefix Sum
+36 problems
+0 / 36
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Left and Right Sum Differences
+#prefix-sum
+Easy
+—
+—
+Practice
+#2
+Maximum Population Year
+#prefix-sum
+Easy
+—
+—
+Practice
+#3
+Points That Intersect With Cars
+#prefix-sum
+Easy
+—
+—
+Practice
+#4
+Range Sum Query - Immutable
+#prefix-sum
+Easy
+—
+—
+Practice
+#5
+Binary Subarrays With Sum
+#prefix-sum
+Medium
+—
+—
+Practice
+#6
+Car Pooling
+#prefix-sum
+Medium
+—
+—
+Practice
+#7
+Continuous Subarray Sum
+#prefix-sum
+Medium
+—
+—
+Practice
+#8
+Count of Interesting Subarrays
+#prefix-sum
+Medium
+—
+—
+Practice
+#9
+Count Submatrices with Top-Left Element and Sum Less Than k
+#prefix-sum
+Medium
+—
+—
+Practice
+#10
+Count the Number of Beautiful Subarrays
+#prefix-sum
+Medium
+—
+—
+Practice
+#11
+Count Vowel Strings in Ranges
+#prefix-sum
+Medium
+—
+—
+Practice
+#12
+Find All Good Indices
+#prefix-sum
+Medium
+—
+—
+Practice
+#13
+Find Good Days to Rob the Bank
+#prefix-sum
+Medium
+—
+—
+Practice
+#14
+Increment Submatrices by One
+#prefix-sum
+Medium
+—
+—
+Practice
+#15
+Make Sum Divisible by P
+#prefix-sum
+Medium
+—
+—
+Practice
+#16
+Matrix Block Sum
+#prefix-sum
+Medium
+—
+—
+Practice
+#17
+Minimum Absolute Difference Queries
+#prefix-sum
+Medium
+—
+—
+Practice
+#18
+Minimum Penalty for a Shop
+#prefix-sum
+Medium
+—
+—
+Practice
+#19
+Movement of Robots
+#prefix-sum
+Medium
+—
+—
+Practice
+#20
+Number of Wonderful Substrings
+#prefix-sum
+Medium
+—
+—
+Practice
+#21
+Path Sum III
+#prefix-sum
+Medium
+—
+—
+Practice
+#22
+Plates Between Candles
+#prefix-sum
+Medium
+—
+—
+Practice
+#23
+Product of Array Except Self
+#prefix-sum
+Medium
+—
+—
+Practice
+#24
+Product of the Last K Numbers
+#prefix-sum
+Medium
+—
+—
+Practice
+#25
+Range Sum Query 2D - Immutable
+#prefix-sum
+Medium
+—
+—
+Practice
+#26
+Removing Minimum Number of Magic Beans
+#prefix-sum
+Medium
+—
+—
+Practice
+#27
+Shifting Letters II
+#prefix-sum
+Medium
+—
+—
+Practice
+#28
+Subarray Sum Equals K
+#prefix-sum
+Medium
+—
+—
+Practice
+#29
+Subarray Sums Divisible by K
+#prefix-sum
+Medium
+—
+—
+Practice
+#30
+Sum of Absolute Differences in a Sorted Array
+#prefix-sum
+Medium
+—
+—
+Practice
+#31
+Ways to Make a Fair Array
+#prefix-sum
+Medium
+—
+—
+Practice
+#32
+Count Beautiful Substrings II
+#prefix-sum
+Hard
+—
+—
+Practice
+#33
+Minimum Cost to Make Array Equal
+#prefix-sum
+Hard
+—
+—
+Practice
+#34
+Number of Flowers in Full Bloom
+#prefix-sum
+Hard
+—
+—
+Practice
+#35
+Number of Submatrices That Sum to Target
+#prefix-sum
+Hard
+—
+—
+Practice
+#36
+Power of Heroes
+#prefix-sum
+Hard
+—
+—
+Practice
+
+Matrix
+31 problems
+0 / 31
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Check if Matrix Is X-Matrix
+#matrix
+Easy
+—
+—
+Practice
+#2
+Convert 1D Array Into 2D Array
+#matrix
+Easy
+—
+—
+Practice
+#3
+Island Perimeter
+#matrix
+Easy
+—
+—
+Practice
+#4
+Largest Local Values in a Matrix
+#matrix
+Easy
+—
+—
+Practice
+#5
+Lucky Numbers in a Matrix
+#matrix
+Easy
+—
+—
+Practice
+#6
+Make a Square with the Same Color
+#matrix
+Easy
+—
+—
+Practice
+#7
+Matrix Cells in Distance Order
+#matrix
+Easy
+—
+—
+Practice
+#8
+Matrix Diagonal Sum
+#matrix
+Easy
+—
+—
+Practice
+#9
+Modify the Matrix
+#matrix
+Easy
+—
+—
+Practice
+#10
+Prime In Diagonal
+#matrix
+Easy
+—
+—
+Practice
+#11
+Richest Customer Wealth
+#matrix
+Easy
+—
+—
+Practice
+#12
+Row With Maximum Ones
+#matrix
+Easy
+—
+—
+Practice
+#13
+Shift 2D Grid
+#matrix
+Easy
+—
+—
+Practice
+#14
+Transpose Matrix
+#matrix
+Easy
+—
+—
+Practice
+#15
+Battleships in a Board
+#matrix
+Medium
+—
+—
+Practice
+#16
+Check if Move is Legal
+#matrix
+Medium
+—
+—
+Practice
+#17
+Difference Between Ones and Zeros in Row and Column
+#matrix
+Medium
+—
+—
+Practice
+#18
+Find the Grid of Region Average
+#matrix
+Medium
+—
+—
+Practice
+#19
+Find the Minimum Area to Cover All Ones I
+#matrix
+Medium
+—
+—
+Practice
+#20
+Image Overlap
+#matrix
+Medium
+—
+—
+Practice
+#21
+Max Increase to Keep City Skyline
+#matrix
+Medium
+—
+—
+Practice
+#22
+Maximum Sum of an Hourglass
+#matrix
+Medium
+—
+—
+Practice
+#23
+Minimum Operations to Write the Letter Y on a Grid
+#matrix
+Medium
+—
+—
+Practice
+#24
+Queens That Can Attack the King
+#matrix
+Medium
+—
+—
+Practice
+#25
+Rotate Image
+#matrix
+Medium
+—
+—
+Practice
+#26
+Rotating the Box
+#matrix
+Medium
+—
+—
+Practice
+#27
+Set Matrix Zeroes
+#matrix
+Medium
+—
+—
+Practice
+#28
+Sort the Matrix Diagonally
+#matrix
+Medium
+—
+—
+Practice
+#29
+Subrectangle Queries
+#matrix
+Medium
+—
+—
+Practice
+#30
+Valid Sudoku
+#matrix
+Medium
+—
+—
+Practice
+#31
+Find the Minimum Area to Cover All Ones II
+#matrix
+Hard
+—
+—
+Practice
+
+Intervals & Advanced Trees
+13 problems
+0 / 13
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Range Sum Query - Mutable
+#binary-indexed-tree
+Medium
+—
+—
+Practice
+#2
+Block Placement Queries
+#segment-tree
+Hard
+—
+—
+Practice
+#3
+Count Good Triplets in an Array
+#binary-indexed-tree
+Hard
+—
+—
+Practice
+#4
+Create Sorted Array through Instructions
+#binary-indexed-tree
+Hard
+—
+—
+Practice
+#5
+Handling Sum Queries After Update
+#segment-tree
+Hard
+—
+—
+Practice
+#6
+Longest Substring of One Repeating Character
+#segment-tree
+Hard
+—
+—
+Practice
+#7
+Maximum Sum of Subsequence With Non-adjacent Elements
+#segment-tree
+Hard
+—
+—
+Practice
+#8
+Minimum Interval to Include Each Query
+#line-sweep
+Hard
+—
+—
+Practice
+#9
+Number of Pairs Satisfying Inequality
+#binary-indexed-tree
+Hard
+—
+—
+Practice
+#10
+Peaks in Array
+#binary-indexed-tree
+Hard
+—
+—
+Practice
+#11
+Perfect Rectangle
+#line-sweep
+Hard
+—
+—
+Practice
+#12
+Rectangle Area II
+#sweep-line
+Hard
+—
+—
+Practice
+#13
+The Skyline Problem
+#line-sweep
+Hard
+—
+—
+Practice
+
+Sorting
+22 problems
+0 / 22
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Find Subsequence of Length K With the Largest Sum
+#sorting
+Easy
+—
+—
+Practice
+#2
+Largest Number After Digit Swaps by Parity
+#sorting
+Easy
+—
+—
+Practice
+#3
+Sort the People
+#sorting
+Easy
+—
+—
+Practice
+#4
+Custom Sort String
+#sorting
+Medium
+—
+—
+Practice
+#5
+Insertion Sort List
+#sorting
+Medium
+—
+—
+Practice
+#6
+Largest Number
+#sorting
+Medium
+—
+—
+Practice
+#7
+Maximum Gap
+#sorting
+Medium
+—
+—
+Practice
+#8
+Maximum Ice Cream Bars
+#sorting
+Medium
+—
+—
+Practice
+#9
+Merge Intervals
+#sorting
+Medium
+—
+—
+Practice
+#10
+Minimum Operations to Make a Uni-Value Grid
+#sorting
+Medium
+—
+—
+Practice
+#11
+Query Kth Smallest Trimmed Number
+#sorting
+Medium
+—
+—
+Practice
+#12
+Rank Teams by Votes
+#sorting
+Medium
+—
+—
+Practice
+#13
+Relative Sort Array
+#sorting
+Medium
+—
+—
+Practice
+#14
+Remove Sub-Folders from the Filesystem
+#sorting
+Medium
+—
+—
+Practice
+#15
+Sort an Array
+#sorting
+Medium
+—
+—
+Practice
+#16
+Sort Characters By Frequency
+#sorting
+Medium
+—
+—
+Practice
+#17
+Sort List
+#sorting
+Medium
+—
+—
+Practice
+#18
+Sort the Jumbled Numbers
+#sorting
+Medium
+—
+—
+Practice
+#19
+The Number of Weak Characters in the Game
+#sorting
+Medium
+—
+—
+Practice
+#20
+Count of Smaller Numbers After Self
+#sorting
+Hard
+—
+—
+Practice
+#21
+Maximum Sum Queries
+#sorting
+Hard
+—
+—
+Practice
+#22
+Put Marbles in Bags
+#sorting
+Hard
+—
+—
+Practice
+
+Strings
+16 problems
+0 / 16
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Longest Common Prefix
+#string
+Easy
+—
+—
+Practice
+#2
+Remove Outermost Parentheses
+#string
+Easy
+—
+—
+Practice
+#3
+Shortest Uncommon Substring in an Array
+#string
+Medium
+—
+—
+Practice
+#4
+Count Prefix and Suffix Pairs II
+#string-matching
+Hard
+—
+—
+Practice
+#5
+Distinct Echo Substrings
+#string-matching
+Hard
+—
+—
+Practice
+#6
+Find Beautiful Indices in the Given Array II
+#string-matching
+Hard
+—
+—
+Practice
+#7
+Find Substring With Given Hash Value
+#rolling-hash
+Hard
+—
+—
+Practice
+#8
+Longest Happy Prefix
+#string-matching
+Hard
+—
+—
+Practice
+#9
+Match Substring After Replacement
+#string-matching
+Hard
+—
+—
+Practice
+#10
+Maximum Deletions on a String
+#string-matching
+Hard
+—
+—
+Practice
+#11
+Maximum Product of the Length of Two Palindromic Substrings
+#string
+Hard
+—
+—
+Practice
+#12
+Minimum Time to Revert Word to Initial State II
+#string-matching
+Hard
+—
+—
+Practice
+#13
+Number of Subarrays That Match a Pattern II
+#string-matching
+Hard
+—
+—
+Practice
+#14
+Shortest Palindrome
+#string-matching
+Hard
+—
+—
+Practice
+#15
+String Transformation
+#string-matching
+Hard
+—
+—
+Practice
+#16
+Sum of Scores of Built Strings
+#string-matching
+Hard
+—
+—
+Practice
+
+Design & Simulation
+21 problems
+0 / 21
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Add Binary
+#simulation
+Easy
+—
+—
+Practice
+#2
+Design HashSet
+#design
+Easy
+—
+—
+Practice
+#3
+Implement Stack using Queues
+#design
+Easy
+—
+—
+Practice
+#4
+Matrix Similarity After Cyclic Shifts
+#simulation
+Easy
+—
+—
+Practice
+#5
+Cyclically Rotating a Grid
+#simulation
+Medium
+—
+—
+Practice
+#6
+Design a Stack With Increment Operation
+#design
+Medium
+—
+—
+Practice
+#7
+Design Front Middle Back Queue
+#design
+Medium
+—
+—
+Practice
+#8
+Diagonal Traverse
+#simulation
+Medium
+—
+—
+Practice
+#9
+Find Latest Group of Size M
+#simulation
+Medium
+—
+—
+Practice
+#10
+Find the Winner of the Circular Game
+#simulation
+Medium
+—
+—
+Practice
+#11
+Game of Life
+#simulation
+Medium
+—
+—
+Practice
+#12
+Longest Uploaded Prefix
+#design
+Medium
+—
+—
+Practice
+#13
+My Calendar II
+#design
+Medium
+—
+—
+Practice
+#14
+Spiral Matrix
+#simulation
+Medium
+—
+—
+Practice
+#15
+Spiral Matrix II
+#simulation
+Medium
+—
+—
+Practice
+#16
+Valid Tic-Tac-Toe State
+#simulation
+Medium
+—
+—
+Practice
+#17
+Where Will the Ball Fall
+#simulation
+Medium
+—
+—
+Practice
+#18
+All O`one Data Structure
+#design
+Hard
+—
+—
+Practice
+#19
+Booking Concert Tickets in Groups
+#design
+Hard
+—
+—
+Practice
+#20
+Design a Text Editor
+#simulation
+Hard
+—
+—
+Practice
+#21
+LFU Cache
+#design
+Hard
+—
+—
+Practice
+
+Other
+21 problems
+0 / 21
+Tutor tour
+PROBLEM
+DIFFICULTY
+YOUR BEST
+NOTES
+#1
+Concatenation of Array
+#arrays-and-hashing
+Easy
+—
+—
+Practice
+#2
+Count Binary Substrings
+#two-pointers
+Easy
+—
+—
+Practice
+#3
+Excel Sheet Column Title
+#math-geometry
+Easy
+—
+—
+Practice
+#4
+Greatest Common Divisor of Strings
+#math-and-geometry
+Easy
+—
+—
+Practice
+#5
+Happy Number
+#math-geometry
+Easy
+—
+—
+Practice
+#6
+Invert Binary Tree
+#trees
+Easy
+—
+—
+Practice
+#7
+Meeting Rooms
+#intervals
+Easy
+—
+—
+Practice
+#8
+N-th Tribonacci Number
+#1-d-dynamic-programming
+Easy
+—
+—
+Practice
+#9
+Plus One
+#math-geometry
+Easy
+—
+—
+Practice
+#10
+Roman to Integer
+#math-geometry
+Easy
+—
+—
+Practice
+#11
+Count Good Nodes In Binary Tree
+#trees
+Medium
+—
+—
+Practice
+#12
+Detect Squares
+#math-geometry
+Medium
+—
+—
+Practice
+#13
+Encode and Decode Strings
+#arrays-and-hashing
+Medium
+—
+—
+Practice
+#14
+Longest Consecutive Sequence
+#arrays-and-hashing
+Medium
+—
+—
+Practice
+#15
+Meeting Rooms II
+#intervals
+Medium
+—
+—
+Practice
+#16
+Multiply Strings
+#math-string
+Medium
+—
+—
+Practice
+#17
+Palindromic Substrings
+#1-d-dynamic-programming
+Medium
+—
+—
+Practice
+#18
+Greatest Common Divisor Traversal
+#advanced-graphs
+Hard
+—
+—
+Practice
+#19
+Reconstruct Itinerary
+#advanced-graphs
+Hard
+—
+—
+Practice
+#20
+Stone Game III
+#1-d-dynamic-programming
+Hard
+—
+—
+Practice
+#21
+Swim In Rising Water
+#graph-dijkstra
+Hard
+—
+—
+Practice
+Layrs — voice-first AI tutor for engineers

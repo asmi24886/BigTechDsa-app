@@ -32,6 +32,7 @@ const SOURCE_NAME: Record<string, string> = {
   'https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z': 'Striver',
   'https://www.educative.io/courses/grokking-coding-interview': 'Educative',
   'https://www.educative.io/courses/grokking-dynamic-programming-interview': 'Educative DP',
+  'https://layrs.ai': 'Layrs',
 }
 
 /* Source definitions for filtering */
@@ -49,6 +50,7 @@ const SOURCE_DEFS: SourceDef[] = [
   { key: 'algoexpert', label: 'AlgoExpert', matcher: s => s.includes('algoexpert'), color: '#ef4444' },
   { key: 'educative', label: 'Educative', matcher: s => s.includes('educative') || s.includes('grokking'), color: '#ec4899' },
   { key: 'striver', label: 'TUF (Striver)', matcher: s => s.includes('takeuforward'), color: '#8b5cf6' },
+  { key: 'layrs', label: 'Layrs', matcher: s => s.includes('layrs.ai'), color: '#eab308' },
 ]
 
 function App() {
@@ -577,7 +579,8 @@ function App() {
                                 </div>
                                 <div className="source-badges">
                                   {p.sources.map((s, j) => {
-                                    const shortName = s.includes('neetcode') ? 'NC' :
+                                    const shortName = s.includes('layrs') ? 'L' :
+                                      s.includes('neetcode') ? 'NC' :
                                       s.includes('thita') ? 'TH' :
                                         s.includes('algomaster') ? 'AM' :
                                           s.includes('algoexpert') ? 'AE' :
